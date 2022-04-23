@@ -25,13 +25,22 @@
 % and will typically save some space.
 \usepackage{microtype}
 
+% Nicer enumerations:
+\usepackage{enumitem}
+
+% provides the \ex command to make linguistics-style numbered examples
+\usepackage{gb4e}
+% recommended by https://tex.stackexchange.com/questions/325621/gb4e-package-causing-capacity-errors
+\noautomath
+
+
 % If the title and author information does not fit in the area allocated, uncomment the following
 %
 %\setlength\titlebox{<dim>}
 %
 % and set <dim> to something 5cm or larger.
 
-\title{Project proposal: some really nice title}
+\title{Project proposal: Predicting Verb Alternation Classes with word and sentence embeddings}
 
 % Author information can be set in various styles:
 % For several authors from the same institution:
@@ -49,23 +58,68 @@
 %         Author 2 \\ Address line \\ ... \\ Address line \And
 %         Author 3 \\ Address line \\ ... \\ Address line}
 
-\author{First Author \\
-  Affiliation / Address line 1   \\
-  Affiliation / Address line 2 \\
-  Affiliation / Address line 3 \\
-  \texttt{email@domain} \\\And
-  Second Author \\
-  Affiliation / Address line 1 \\
-  Affiliation / Address line 2 \\
-  Affiliation / Address line 3 \\
-  \texttt{email@domain} \\}
+\author{James Bruno, Jiayu Han, David K. Yi, Peter Zukerman \thanks{The authors' names appear in alphabetical order.}\\
+The University of Washington\\
+  \texttt{\{jbruno, jhan, dyi, pzuk\}@uw.edu}}
 
 \begin{document}
 \maketitle
 
 \section{Introduction}
 
-This is a really nice introduction.  We look at \cite{levin1993} and do a lot of stuff with it.  This is how I add a line to see if the github integration works.
+We aim to investigate the extent to which alternation class membership is represented in the word and sentence embeddings produced from BERT. \textbf{add citation}.  As first comprehensively cataloged by \citet{levin1993}, verbs pattern together into classes according to the syntactic alternations in which they can and cannot participate.  For example, (\ref{ex:good-caus-inch}) illustrates the \emph{causative-inchoative} alternation.  \emph{Break} can be a transitive verb in which the subject of the sentence is the agent and the direct object is the patient, as in example (1a).  It can also alternate with the form in (1b), in which the subject of the sentence is the patient and the agent is unexpressed. % TODO: figure out how to make those references work properly.
+However, (\ref{ex:bad-caus-inch}) demonstrates that \emph{cut} cannot participate in the same alternation, despite its semantic similarity.
+
+\begin{exe}
+    \ex
+        \label{ex:good-caus-inch}
+        \begin{xlist}
+            \ex[] {Janet broke the cup.}
+            \ex[] {The cup broke.}
+        \end{xlist}
+
+    \ex
+        \label{ex:bad-caus-inch}
+        \begin{xlist}
+            \ex[]{Margaret cut the bread.}
+            \ex[*]{The bread cut.}
+        \end{xlist}
+\end{exe}
+
+(\ref{ex:good-spray-load}) demonstrates an alternation of a different class -- namely, the \emph{spray-load} class, in which the theme and locative arguments can be syntactically realized as either direct objects or objects of the preposition.  \emph{Spray} can participate in the alternation, but as shown in (\ref{ex:bad-spray-load}), \emph{pour} cannot.
+
+\begin{exe}
+    \ex 
+        \label{ex:good-spray-load}
+        \begin{xlist}
+            \ex[] {Jack sprayed paint on the wall.}
+            \ex[] {Jack sprayed the wall with paint.}
+        \end{xlist}
+
+    \ex 
+        \label{ex:bad-spray-load}
+        \begin{xlist}
+            \ex[] {Tamara poured water into the bowl.}
+            \ex[*] {Tamara poured the bowl with water.}
+        \end{xlist}
+\end{exe}
+
+The alternations in which a verb may participate is taken to be a lexical property of the verb \textbf{CITE: by whom?}.  Furthermore, the alternations should be observable in large corpora of texts, and are therefore available as training data during the Masked-Language-Modeling task used to train neural language models such as BERT.  Negative examples such as (2b) and (4b) should be virtually absent from the training data.  This leads us to hypothesize that BERT representations may encode whether particular verbs are allowed to participate in syntactic alternations, of various classes.  Our research questions are as follows:
+
+\begin{enumerate}
+    \item Is it possible to predict the alternation class from BERT's word-embedding layer?
+    \item Is it possible to predict the alternation class from the contextual word embeddings available from BERT's \texttt{[CLS]} token?
+\end{enumerate}
+
+Assuming that the answer to either of the above questions is in the affirmative, we ask a research question for follow-up:
+
+\begin{enumerate}[resume]
+    \item Can we construct adversarial data to assess what heuristics (if any) BERT may be using to predict the alternation class?
+\end{enumerate}
+
+\subsection{Previous work}
+We follow \citet{kann2018verb}, who do this and that.
+
 
 \section{Methods}
 
