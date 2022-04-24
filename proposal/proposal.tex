@@ -58,7 +58,7 @@
 %         Author 2 \\ Address line \\ ... \\ Address line \And
 %         Author 3 \\ Address line \\ ... \\ Address line}
 
-\author{James Bruno, Jiayu Han, David K. Yi, Peter Zukerman \thanks{ The authors' names appear in alphabetical order.}\\
+\author{James V.~Bruno, Jiayu Han, David K.~Yi, Peter Zukerman \thanks{ The authors' names appear in alphabetical order.}\\
 The University of Washington\\
   \texttt{\{jbruno, jhan, dyi, pzuk\}@uw.edu}}
 
@@ -67,7 +67,7 @@ The University of Washington\\
 
 \section{Introduction}
 
-We aim to investigate the extent to which alternation class membership is represented in the word and sentence embeddings produced from BERT. \textbf{add citation}.  As first comprehensively cataloged by \citet{levin1993}, verbs pattern together into classes according to the syntactic alternations in which they can and cannot participate.  For example, (\ref{ex:good-caus-inch}) illustrates the \emph{causative-inchoative} alternation.  \emph{Break} can be a transitive verb in which the subject of the sentence is the agent and the direct object is the theme, as in example (1a).  It can also alternate with the form in (1b), in which the subject of the sentence is the theme and the agent is unexpressed. % TODO: figure out how to make those references work properly.
+We aim to investigate the extent to which alternation class membership is represented in the word and sentence embeddings produced from BERT \citep{bertpaper}.  As first comprehensively cataloged by \citet{levin1993}, verbs pattern together into classes according to the syntactic alternations in which they can and cannot participate.  For example, (\ref{ex:good-caus-inch}) illustrates the \emph{causative-inchoative} alternation.  \emph{Break} can be a transitive verb in which the subject of the sentence is the agent and the direct object is the theme, as in example (1a).  It can also alternate with the form in (1b), in which the subject of the sentence is the theme and the agent is unexpressed. % TODO: figure out how to make those references work properly.
 However, (\ref{ex:bad-caus-inch}) demonstrates that \emph{cut} cannot participate in the same alternation, despite its semantic similarity.
 
 \begin{exe}
@@ -104,7 +104,7 @@ However, (\ref{ex:bad-caus-inch}) demonstrates that \emph{cut} cannot participat
         \end{xlist}
 \end{exe}
 
-The alternations in which a verb may participate is taken to be a lexical property of the verb \textbf{CITE: by whom?}.  Moreover, the alternations should be observable in large corpora of texts, and are therefore available as training data during the Masked-Language-Modeling task used to train neural language models such as BERT.  Negative examples such as (2b) and (4b) should be virtually absent from the training data.  This leads us to hypothesize that BERT representations may encode whether particular verbs are allowed to participate in syntactic alternations of various classes.  Our research questions are as follows:
+The alternations in which a verb may participate is taken to be a lexical property of the verb \citep[e.g.][]{pinker1989,levin1993,levin1995unaccusativity,shafer2009causative}.  Moreover, the alternations should be observable in large corpora of texts, and are therefore available as training data during the Masked-Language-Modeling task used to train neural language models such as BERT.  Negative examples such as (2b) and (4b) should be virtually absent from the training data.  This leads us to hypothesize that BERT representations may encode whether particular verbs are allowed to participate in syntactic alternations of various classes.  Our research questions are as follows:
 
 \begin{enumerate}
     \item Is it possible to predict the alternation class from BERT's word-embedding layer?
@@ -118,10 +118,13 @@ Assuming that the answer to either of the above questions is in the affirmative,
 \end{enumerate}
 
 \subsection{Previous work}
-Our work follows \citet{kann2018verb}, who attempt to predict verb-classes on the basis of GloVe embeddings \citep{glove} and embeddings derived from the 100M token British National Corpus with an single-directional LSTM. \citep{warstadt2019neural}.  They also attempt to predict sentence grammaticality using the same, intentionally simple, LSTM of \citet{warstadt2019neural}.  Because their primary research focus has to do with how neural language models can inform learnability, they use language models derived from ``an amount of data similar to what humans are exposed to during language acquisition'' and intentionally avoid models trained on ``several orders of magnitude more data than humans see in a lifetime'' (p. 291).  They also use a multi-layer perceptron with a hidden layer to predict alternation classes.  
+Our work follows \citet{kann2018verb}, who attempt to predict verb-classes on the basis of GloVe embeddings \citep{glove} and embeddings derived from the 100M token British National Corpus with the intentionally simple single-directional LSTM of \citealt{warstadt2019neural}.  They also attempt to use the same LSTM to predict sentence grammaticality.  Because their primary research focus has to do with how neural language models can inform learnability (in the sense of human language acquisition), they use language models derived from ``an amount of data similar to what humans are exposed to during language acquisition'' and intentionally avoid models trained on ``several orders of magnitude more data than humans see in a lifetime'' (p. 291).  They also use a multi-layer perceptron with a hidden layer to predict alternation classes.  
 
 As described in Section \ref{sec:methods}, we depart from \citealt{kann2018verb} and build on it by examining the representations of BERT, which are derived from a corpus of $3,300$M words, and by using a simple linear diagnostic classifier to probe the representations, as our research questions have to do with the BERT representations themselves.  We also seek to more directly predict class membership, as opposed to sentence grammaticality.
 
+Finally, we note that \citet{kann2018verb} achieved only modest performance in raw prediction accuracy, and only for a limited number of verb classes.  While this was a valuable result for their research goals, our hypothesis is that we may achieve higher prediction accuracy due to BERT's more complex architecture and the larger size of its training data.
+
+To our knowledge, attempting to predict a variety of verb classes along the lines of \citealt{levin1993} from BERT representations is novel.  Apart from \citealt{kann2018verb}, the closest related work is \citealt{causativity-neurons}, which uses diagnostic classifiers to probe representations of causativity, and \citealt{thrush2020investigating}, which examines BERT's few-shot learning capabilities in an alternation-class prediction task in which the verbs are nonce words.
 
 \section{Methods}
 \label{sec:methods}
@@ -131,10 +134,25 @@ Here we list our methods, which are really really great!
 We will use (and possibly expand) the two datasets of \citet{kann2018verb}.  One is the \textbf{L}exic\textbf{a}l \textbf{V}erb-frame \textbf{A}lternations dataset (LaVa), which is based on \citet{levin1993}.  It contains a mapping of $516$ verbs to $5$ alternation classes, which are further subdivided in ways the team needs to study.  The broad categories of the alternation classes are: \emph{Spray-Load}, \emph{Causative-Inchoative}, \emph{Dative}, \emph{There-insertion}, and \emph{Understood-object}.  The other is the \textbf{F}rames and \textbf{A}lternations of \textbf{V}erbs \textbf{A}cceptability (FAVA) dataset, a corpus of $9,413$ semi-automatically generated sentences formed of verbs from the same $5$ classes, along with human grammaticality judgments.
 
 \section{Possible results}
+We can acheive this that and the other.  We find good stuff, or we crash and burn and write up what we did and a get a grade.
 
 \section{Division of labor + timeline}
 
-% Entries for the entire Anthology, followed by custom entries
+\begin{enumerate}
+    \item Data stuff, partitioning etc.
+    \item BERT stuff
+    \item classifier stuff
+    \item analysis stuff
+    \item linguistics literature review
+    \item adversarial data stuff
+    \item error analysis?
+    \item control task?
+    \item write the paper stuff, graphs and charts etc.
+    \item all kinds of stuff
+    
+\end{enumerate}
+
+
 \bibliography{alternations}
 
 
