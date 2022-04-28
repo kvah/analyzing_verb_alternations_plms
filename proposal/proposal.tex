@@ -30,10 +30,12 @@
 
 % provides the \ex command to make linguistics-style numbered examples
 \usepackage{gb4e}
+
+
 % recommended by https://tex.stackexchange.com/questions/325621/gb4e-package-causing-capacity-errors
 \noautomath
 
-
+\newcommand{\lookout}[1]{\textcolor{blue}{\textbf{#1}}}
 % If the title and author information does not fit in the area allocated, uncomment the following
 %
 %\setlength\titlebox{<dim>}
@@ -67,7 +69,7 @@ The University of Washington\\
 
 \section{Introduction}
 
-We aim to investigate the extent to which alternation class membership is represented in the word and sentence embeddings produced from BERT \citep{bertpaper}.  As first comprehensively cataloged by \citet{levin1993}, verbs pattern together into classes according to the syntactic alternations in which they can and cannot participate.  For example, (\ref{ex:good-caus-inch}) illustrates the \emph{causative-inchoative} alternation.  \emph{Break} can be a transitive verb in which the subject of the sentence is the agent and the direct object is the theme, as in example (1a).  It can also alternate with the form in (1b), in which the subject of the sentence is the theme and the agent is unexpressed. % TODO: figure out how to make those references work properly.
+We aim to investigate the extent to which alternation class membership is represented in the word and sentence embeddings produced by BERT \citep{bertpaper}.  As first comprehensively cataloged by \citet{levin1993}, verbs pattern together into classes according to the syntactic alternations in which they can and cannot participate.  For example, (\ref{ex:good-caus-inch}) illustrates the \emph{causative-inchoative} alternation.  \emph{Break} can be a transitive verb in which the subject of the sentence is the agent and the direct object is the theme, as in example (1a).  It can also alternate with the form in (1b), in which the subject of the sentence is the theme and the agent is unexpressed. % TODO: figure out how to make those references work properly.
 However, (\ref{ex:bad-caus-inch}) demonstrates that \emph{cut} cannot participate in the same alternation, despite its semantic similarity.
 
 \begin{exe}
@@ -111,24 +113,67 @@ The alternations in which a verb may participate is taken to be a lexical proper
     \item At the sentence level, do BERT's embedding layers contain the frame and alternation properties of their main verb?
 \end{enumerate}
 
-Assuming that the answer to either of the above questions is in the affirmative, we ask a research question for follow-up:
+Assuming that the answer to either of the above questions is in the affirmative, we ask an additional research question for follow-up:
 
 \begin{enumerate}[resume]
     \item Can we construct adversarial data to assess what heuristics (if any) BERT may be using to predict the alternation class?
 \end{enumerate}
 
 \subsection{Previous work}
-Our work follows \citet{kann2018verb}, who attempt to predict verb-classes on the basis of GloVe embeddings \citep{glove} and embeddings derived from the 100M-token British National Corpus with the intentionally simple single-directional LSTM of \citealt{warstadt2019neural}.  They also attempt to use the same LSTM to predict sentence grammaticality.  Because their primary research focus has to do with how neural language models can inform learnability (in the sense of human language acquisition), they use language models derived from ``an amount of data similar to what humans are exposed to during language acquisition'' and intentionally avoid models trained on ``several orders of magnitude more data than humans see in a lifetime'' (p. 291).  They also use a multi-layer perceptron with a hidden layer to predict alternation classes.  
+Our work follows \citet{kann-etal-2019-verb}, who attempt to predict verb-classes on the basis of GloVe embeddings \citep{glove} and embeddings derived from the 100M-token British National Corpus with the intentionally simple single-directional LSTM of \citealt{warstadt2019neural}.  They also attempt to use the same LSTM to predict sentence grammaticality.  Because their primary research focus has to do with how neural language models can inform learnability (in the sense of human language acquisition), they use language models derived from ``an amount of data similar to what humans are exposed to during language acquisition'' and intentionally avoid models trained on ``several orders of magnitude more data than humans see in a lifetime'' (p. 291).  They also use a multi-layer perceptron with a hidden layer to predict alternation classes.  
 
-As described in Section \ref{sec:methods}, we depart from \citealt{kann2018verb} and build on it by examining the representations of BERT, which are derived from a corpus of $3,300$M words, and by using a simple linear diagnostic classifier to probe the representations, as our research questions have to do with the BERT representations themselves.  We also seek to more directly predict class membership, as opposed to sentence grammaticality.
+As described in Section \ref{sec:methods}, we depart from \citealt{kann-etal-2019-verb} and build on it by examining the embedding representations of BERT which are derived from a training corpus of $3.3$ billion words. We then use a simple linear diagnostic classifier to probe the representations, as our research questions focuses on the BERT embeddings themselves.
 
-Finally, we note that \citet{kann2018verb} achieved only modest performance in raw prediction accuracy, and only for a limited number of verb classes.  While this was a valuable result for their research goals, our hypothesis is that we may achieve higher prediction accuracy due to BERT's more complex architecture and the larger size of its training data.
+Finally, we note that \citet{kann-etal-2019-verb} achieved only modest performance in raw prediction accuracy, and only for a limited number of verb classes.  While this was a valuable result for their research goals, our hypothesis is that we may achieve higher prediction accuracy due to BERT's more complex architecture and the larger size of its training data.
 
-To our knowledge, attempting to predict a variety of verb classes along the lines of \citealt{levin1993} from BERT representations is novel.  Apart from \citealt{kann2018verb}, the closest related work is \citealt{causativity-neurons}, which uses diagnostic classifiers to probe representations of causativity, and \citealt{thrush2020investigating}, which examines BERT's few-shot learning capabilities in an alternation-class prediction task in which the verbs are nonce words.
+To our knowledge, attempting to predict a variety of verb classes along the lines of \citealt{levin1993} from BERT representations is novel.  Apart from \citealt{kann-etal-2019-verb}, the closest related work is \citealt{causativity-neurons}, which uses diagnostic classifiers to probe representations of causativity, and \citealt{thrush2020investigating}, which examines BERT's few-shot learning capabilities in an alternation-class prediction task in which the verbs are nonce words.
+
+
+
+
+\section{Methods}
+\label{sec:methods}
+
+\subsection{Data}
+We will use (and possibly expand) the two datasets of \citet{kann-etal-2019-verb}.  One is the \textbf{L}exic\textbf{a}l \textbf{V}erb-frame \textbf{A}lternations dataset (LaVa), which is based on \citet{levin1993}.  It contains a mapping of $516$ verbs to $5$ alternation classes, which are further subdivided based on specific properties of each alternation.  The broad categories of the alternation classes are: \emph{Spray-Load}, \emph{Causative-Inchoative}, \emph{Dative}, \emph{There-insertion}, and \emph{Understood-object}.  The other dataset is the \textbf{F}rames and \textbf{A}lternations of \textbf{V}erbs \textbf{A}cceptability (FAVA) dataset, a corpus of $9,413$ semi-automatically generated sentences formed from the verbs in LaVa, along with human grammaticality judgments.
+
+We plan to further expand the dataset using semi-automatically generated adversarial data, focusing on specific exceptions and niche grammaticality judgements for certain verbs in the LaVa dataset. There is much study to be done in determining linguistic exceptions to rules in order to carefully and correctly create the expanded and augmented dataset. One of the approaches we plan to use is similar to dative hypothesis inference from \citet{diversifying2019}. Furthermore, future work might include generating data for other alternation classes.
+
+
+\subsection{Models}
+In the context of our probing task, ``BERT'' refers not only to the base BERT model, but any model that is part of the BERT "family". In this proposal, we will explore the linguistic information of verb alternations in five BERT related language models: base BERT \cite{bertpaper}, BERT Large \cite{bertpaper}, ALBERT \cite{lan2019albert}, RoBERTa \cite{liu2019roberta} and DistilBERT \cite{sanh2019distilbert}.
+
+Here, we will show a brief comparison among these five models. Compared to base BERT, the BERT large has more hidden layers and ALBERT additionally shares parameters across transformer blocks. Compared to BERT Large, RoBERTa takes the same structure but uses a different pre-training procedure. In contrast to the other four BERT models, the size of the DistilBERT is fairly small and only has half the parameters of base BERT. Through exploring the linguistic properties on five different but related language models, we hope to explore whether different language model architectures and different numbers of parameters will affect the classification of these linguistic properties.
+
+\subsection{Methods}
+In order to answer the first question: "Do BERT’s embedding layers encode information about which syntactic frames an individual verb can participate in", we will build a multilabel classifier for each alternation class which will take as input a contextualized word embedding for the verb and predict which frames a verb can participate in. Because all BERT models have multiple hidden layers, we will separately probe the verb's embedding across all layers. The whole process can be represented by the following equation:
+$$\vec{c_{ij}} = f_{i}(\textbf{W}_i\textbf{e}_{j_k} +\textbf{b}_i)$$
+
+ To better understand the above notation, we use (3a) \textit{Jack sprayed paint on the wall} as an example, where $i$ refers to the alternation class: \textit{spray-load}, $j$ refers to the main verb:\textit{ sprayed}, $k$ refers to the hidden layer $k$ in a ``BERT'' model. $\textbf{W}_i$ and $\textbf{b}_i$ represent the parameters of the probing model, $f_{i}$ represents the probing model, and $\vec{c_{ij}} \in R^2$ is a binary vector with each index corresponding to whether the verb can participate in the applicable frames for a given alternation. In this example, $\vec{c_{ij}}$ will be $\lbrack 1,  1 \rbrack$ because \textit{sprayed} can participate in both the \textit{sprayload\_locative} frame and the \textit{sprayload\_with} frame.
+
+Similarly, in order to answer the second question: "At the sentence level, do BERT's embedding layers contain the frame and alternation properties of their main verb?", we are going to build a diagnostic classifier for each alternation class which will take in a sentence-level embedding extracted from a BERT model. Here, we plan to average word embeddings across an entire layer for a sentence to create the sentence embedding. For this question, we will experiment with both averaging sentence embeddings across all hidden layers and just using the sentence embedding from the final layer. The whole process can be described by the following equation:
+$$c_{{s}_{i}} = f(\textbf{W}\textbf{s}_{i} +\textbf{b})$$
+
+Here, we use (1a) \textit{Janet broke the cup} as an example to explain. $c_{{s}_{i}}$ is a binary value corresponding to whether sentence $s_i$ is grammatical, $\textbf{s}_{i}$ refers to the embedding of the whole sentence \textit{Janet broke the cup}, $f$ refers to the probe classifier, and $\textbf{W}$ and $\textbf{b}$ are the parameters of $f$. In this example, $c_{{s}_{i}}$ will be 1, as this sentence is grammatical.
+
+In order to make sure the probing results would be meaningful, that is, that the representations can truly encode linguistic structure and not that our supervised probe models memorize the tasks, we will follow the method that \citealt{hewitt2019designing} introduced to choose our probe models.
+
+In addition, if results show that BERT models can learn the linguistic information about the verb alternation, we are going to construct an adversarial dataset to additionally verify whether the BERT models encode related linguistic properties and try to take a close look at what heuristics BERT models may be using to predict the alternation class.
+
+\subsection{Control Task}
+For our second research question, we aim to identify whether BERT sentence embeddings contain frame and alternation properties of their main verb by validating whether the probe classifier can predict the grammaticality of a sentence for a given alternation class. To ensure that the probe is \textit{selective} for the specified linguistic task and not just memorizing verb-frame pairs, we design the following control task \citep{hewitt2019designing} for the \textit{Spray-Load} alternation. 
+
+In the FAVA task, the set $\mathcal{Y}$ is a binary value where 0 indicates that a sentence is ungrammatical and 1 indicates that a sentence is grammatical. For the control task, we independently sample a control behavior $C(v)$ for each verb, $v \in V$ by initializing a zero vector $\vec{a} \in R^2$ and randomly assigning each index of $\vec{a}$ to 1 based on the empirical distribution of verbs in the LaVa dataset with the \textit{Spray-Load} property. Here, $\vec{a}$ is a multilabel vector corresponding to the two \textit{Spray-Load} sub-frames $\{\text{sprayload\_loc}, \text{sprayload\_with} \}$ as defined in LaVa. 
+
+We then use the new $(v, \vec{a})$ pairs to create a new dataset $D$ using the semi-automatic method that \citet{hewitt2019designing} used to generate FAVA. The control task, then, is to predict the grammaticality of each sentence in the new dataset $D$. Following the experiment design of \citet{hewitt2019designing}, we will compare the \textit{selectivity} of a linear probe, an MLP with 1-hidden layer (MLP-1), and an MLP with 2-hidden layers (MLP-2).
+
+\subsection{Evaluation}
+
+For evaluation, we will report Matthew's Correlation Coefficient (MCC) \citep{MATTHEWS1975442} as the primary metric of interest but also include accuracy to properly benchmark against the experiments done by \citet{warstadt2019neural} and \citet{kann-etal-2019-verb}. MCC is a special case of the Pearson correlation coefficient for boolean variables and was used by \citet{warstadt2019neural} because commonly used metrics such as accuracy and F1-score tend to "favor models with a majority-class bias" (p. 627). MCC Scores range between -1 and 1, where -1 implies complete disagreement between predictions and observations, 0 is the average score of two unrelated distributions (no better than random), and 1 implies perfect correlation. Although MCC is designed for binary classification, there are natural extensions for multilabel classification which we will use to evaluate our results.
 
 % Division of Labor and Timeline
-% Note: Had to put this here in the source code to keep it from appearing after the References, which just looked really weird.
-\begin{table*}[hbt!]
+% Note: Had to put this here in the source code to keep it from appearing after the References, which just looked really weird.  We might need to move this once there's more text in Possible Results.
+\begin{table*}[t!]
 \begin{tabular}{|lll|}
 \hline
 \textbf{Task}                          & \textbf{Owner(s)}          & \textbf{Expected Completion} \\
@@ -151,31 +196,15 @@ Code - Github Repo                     & Peter                      & 6/5    \\
 \label{tab:labor}
 \end{table*}
 
-\section{Methods}
-\label{sec:methods}
-In the context of our probing task, ``BERT'' is not only referring to the base BERT model, but part of the BERT family. In this proposal, we will explore the linguistic information of main verbs in four BERT related language models: the base BERT, the large BERT, ALBERT, RoBERTa and DistilBERT. Compared to the base BERT, the large BERT has more hidden layers and ALBERT will share parameters across transformer blocks. Compared to the large BERT, RoBERTa takes takes another  Through this process, we can explore whether different language model architectures and different numbers of parameters will affect the acquisition of linguistic properties.
-
-In order to answer the first question: Do BERT’s embedding layers encode information about which syntactic frames an individual verb can participate in, we are going to build some diagnostic classifiers. Specifically, for each kind of alternation class, we will build a binary classifier which will take a contextualized verb word embedding as an input and predict whether the verb belongs to this specific alternation class. We know that BERT models have not only one hidden layer states, so during this process, we will also probe the effects of main verbs' word embeddings from different hidden layers in the BERTs. The whole process can be denoted as following:
-$$c_{ij} = f_{i}(\textbf{W}_i\textbf{e}_{j_k} +\textbf{b}_i)$$
-
- To better understand the above notation, we use (1a) \textit{Janet broke the cup} as an example, where $i$ refers to alternation class label:\textit{ causative-inchoative alternation}, $j$ refers to the main verb:\textit{ break}, $k$ refers to the hidden layer $k$ in a ``BERT'' model. $\textbf{W}_i$ and $\textbf{b}_i$ represent the parameters of the probing model, $f_{i}$ represents the probing model and $c_{ij}\subseteq {0,1}$. In this example, because \textit{break} belongs to this causative-inchoative alternation class, $c_{ij}$ will be 1.
-
-Similarly, in order to answer the second question: At the sentence level, do BERT's embedding layers contain the frame and alternation properties of their main verb?, we are going to build another diagnostic classifier, which will take in a sentence-level embedding extracted from a ``BERT'' model. Here, we plan to average words' embeddings in a sentence to represent the embedding for this sentence. To deal with the scenario that BERT models have many hidden layers, we will average all hidden layers or take the hidden states only in the final layer. The whole process can be denoted as flollowing:
-$$c_{{s}_{i}} = f(\textbf{W}\textbf{s}_{i} +\textbf{b})$$
-
-Here, we also use (1a) \textit{Janet broke the cup} as an example to explain. $\textbf{s}_{i}$ refers to the embedding of the whole sentence \textit{Janet broke the cup}, $f$ refers to the probe classifier, and $\textbf{W}$ and $\textbf{b}$ are the parameters of the $f$. In this example, $c_{{s}_{i}}$ will be 1 as this sentence is grammatical.
-
-In order to make sure the probing results would be meaningful, namely, the representations can truly encode linguistic structure and not our supervised probe models learn the tasks, we will follow the method that \citealt{hewitt2019designing} introduced to choose our probe models.
-
-Besides that, if results show that BERT models can learn the linguistic information about the verb alternation, we are going to construct an adversarial data to double verify whether the BERT models encode related linguistic properties and try to take a close look at what heuristics BERT models may be using to predict the alternation class.
-\subsection{Data}
-We will use (and possibly expand) the two datasets of \citet{kann2018verb}.  One is the \textbf{L}exic\textbf{a}l \textbf{V}erb-frame \textbf{A}lternations dataset (LaVa), which is based on \citet{levin1993}.  It contains a mapping of $516$ verbs to $5$ alternation classes, which are further subdivided in ways the team needs to study.  The broad categories of the alternation classes are: \emph{Spray-Load}, \emph{Causative-Inchoative}, \emph{Dative}, \emph{There-insertion}, and \emph{Understood-object}.  The other is the \textbf{F}rames and \textbf{A}lternations of \textbf{V}erbs \textbf{A}cceptability (FAVA) dataset, a corpus of $9,413$ semi-automatically generated sentences formed of verbs from the same $5$ classes, along with human grammaticality judgments.
-
-
-
 \section{Possible results}
-We can acheive this that and the other.  We find good stuff, or we crash and burn and write up what we did and a get a grade.
+We expect to be able to reliably predict verb alternation classes from the BERT family of neural language models.  The cleanest and most interpretable result will be that that we can accurately make classifications for both word and sentence embeddings, which would lead us to conclude that BERT embeddings contain information related to alternation classes, even at the sentence-level.  Another possible result would be that sentence-embeddings do not contain information about frame-selectional properties, but individual verb embeddings do.  That would indicate that, to the extent that BERT can encode a ``lexical entry'' for a verb, the frame-selectional properties of that verb cannot be recovered from the sentence embedding. In this case, BERT may be using more simple heuristics such as whether the sentence has a direct object. The adversarial data and control task will help us determine whether this is the case.
 
+Finally, we may simply reproduce the original result of \citealt{kann-etal-2019-verb}, in which it was only possible to predict a small subset of alternations, and even then with only modest performance.  That would lead us to conclude that BERT's richer neural architecture encodes no additional information with respect to alternation classes at all.  This is a logically possible, albeit unlikely outcome.
+
+% JB: It is a difficult task indeed to write this part.  My own take on what Shane was expecting here was more of a discussion of what the space of possible outcomes was, and what those outcomes would mean.  I took what you have below as inspiration for that and attempted to try to outline a little more of the possibility space more clearly.  I think I've failed to nail it, but I hope that I've managed to get us closer.
+%
+% original:
+%We expect to find meaningful conclusions from the BERT family, specifically in reference to which of the related language models has the most specific fine-tuning for our task. We also hope to find encoded information in specific BERT layers for \textbf{word} embeddings, and likewise the performance of each individual layer in the \textbf{sentence} level embedding. On the classifiers, we expect to compare the results of the MLP and the linear classifier to find the linear approach better suited for our task. This result is expected in the case that we do not lose accuracy for using the linear probe, but if we do, we expect the parameterized MLP to perform better. Finally, we expect a meaningful comparison of individual layer performance as well as overall model MCC and accuracy improvements on the adversarial dataset as compared to the original FaVa dataset. We hope to be able to show the specific enhancements to the model that adversarial data creates. 
 
 
 \section{Division of labor + timeline}
