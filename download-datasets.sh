@@ -5,7 +5,7 @@ set -eu
 
 # make some data directories if they're not already there
 mkdir -p ./data/lava
-mkdir -p .data/fava
+mkdir -p ./data/fava
 
 # download and unzip the lava dataset:
 wget https://nyu-mll.github.io/CoLA/lava.zip
