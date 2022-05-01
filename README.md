@@ -10,11 +10,13 @@ in Spring of 2022.
 
 1. Clone the repository: `git clone git@github.com:kvah/ling-575-analyzing-nn-group.git`
 
-2. Create the conda environment: `conda env create -n 575nn --from_file ./conda_environment.yaml`
+2. `cd` into the clone directory: `cd ling-575-analyzing-nn-group/`
 
-3. Activate the conda environment: `conda activate 575nn`
+3. Create the conda environment: `conda env create -n 575nn --file ./conda_environment.yaml`
 
-4. Install `alternation_prober` as an editable package with pip: `pip install -e .`
+5. Activate the conda environment: `conda activate 575nn`
+
+6. Install `alternation_prober` as an editable package with pip: `pip install -e .`
 
 ## Development and Tests
 To Run tests: `pytests ./tests`
