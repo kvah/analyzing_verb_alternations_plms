@@ -40,16 +40,19 @@ class TestGetWordEmbeddings(TestCase):
             expected_output_as_np_array = array(json.load(f))
 
         verb = "fed"
-        word_embedding = get_word_emebeddings(verb, self.embedding_layer, self.tokenizer)
+        word_embedding = get_word_emebeddings(
+            verb, self.embedding_layer, self.tokenizer
+        )
 
         if len(word_embedding) != 768:
-            self.fail(f"embedding layer has {len(get_word_embeddings)} dimensions. "
-                      "Expected 768.")
+            self.fail(
+                f"embedding layer has {len(get_word_embeddings)} dimensions. "
+                "Expected 768."
+            )
 
         word_embedding_as_np_array = word_embedding.detach().numpy()
 
         assert_allclose(expected_output_as_np_array, word_embedding_as_np_array)
-
 
     def test_sub_word_tokenization(self):
         """Test a case in which the verb is tokenized into sub-word pieces.
@@ -62,11 +65,15 @@ class TestGetWordEmbeddings(TestCase):
             expected_output_as_np_array = array(json.load(f))
 
         verb = "peddled"
-        word_embedding = get_word_emebeddings(verb, self.embedding_layer, self.tokenizer)
+        word_embedding = get_word_emebeddings(
+            verb, self.embedding_layer, self.tokenizer
+        )
 
         if len(word_embedding) != 768:
-            self.fail(f"embedding layer has {len(get_word_embeddings)} dimensions. "
-                      "Expected 768.")
+            self.fail(
+                f"embedding layer has {len(get_word_embeddings)} dimensions. "
+                "Expected 768."
+            )
 
         word_embedding_as_np_array = word_embedding.detach().numpy()
 

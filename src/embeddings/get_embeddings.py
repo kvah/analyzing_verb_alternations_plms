@@ -1,8 +1,9 @@
 """
-Scratch-script to get word-embeddings out of Bert-family Models.
+Script to get word-embeddings out of Bert-family Models.
 
 
 :author: James V. Bruno
+:date: 4/30/2022
 """
 import pandas as pd
 from pathlib import Path
@@ -14,6 +15,9 @@ from torch import Tensor
 THIS_DIR = Path(__file__).resolve().parent
 DATA_DIR = THIS_DIR.parents[1] / "data"
 LAVA_FILE = DATA_DIR / "lava" / "all_verbs.csv"
+
+OUTPUT_DIR = DATA_DIR / "embeddings"
+OUTPUT_FILE = OUTPUT_DIR / "bert-embeddings-lava.csv"
 
 
 def get_word_emebeddings(
@@ -58,20 +62,28 @@ def main():
 
     data_df = pd.read_csv(LAVA_FILE)
 
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
     model = BertModel.from_pretrained("bert-base-uncased")
     embedding_layer = model.get_input_embeddings()
     tokenizer = tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 
     # not sure what the best data structure is to work with, so for now
     # we'll build up a csv:
-    dict_for_df = {}
+    dict_for_output_df = {}
+
+    print("getting word embeddings...")
 
     for verb in data_df["verb"]:
         word_embedding = get_word_emebeddings(verb, embedding_layer, tokenizer)
 
-        dict_for_df[verb] = word_embedding.tolist()
+        dict_for_output_df[verb] = word_embedding.tolist()
 
-    output_df = pd.DataFrame.from_dict(dict_for_df, orient="index")
+    output_df = pd.DataFrame.from_dict(dict_for_output_df, orient="index")
+
+    output_df.to_csv(OUTPUT_FILE)
+
+    print("--Done!")
 
 
 if __name__ == "__main__":
