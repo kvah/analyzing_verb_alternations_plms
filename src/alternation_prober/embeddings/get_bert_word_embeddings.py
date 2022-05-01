@@ -2,19 +2,34 @@
 Script to get word-embeddings out of Bert-family Models.
 
 Word-embeddings from bert-base-uncasedfor the Lava datset
-will be written to ``PATH_TO_BERT_WORD_EMBEDDINGS_FILE``
+will be written to ``PATH_TO_BERT_WORD_EMBEDDINGS_FILE`` as a numpy array.
+
+Mapping of vocabulary to index will be stored as JSON at ``PATH_TO_LAVA_VOCAB``
+
+
+Load the file with:
+
+```
+import numpy as np
+from alternation_prober.constants import PATH_TO_BERT_WORD_EMBEDDINGS_FILE
+
+embeddings = np.fromfile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+```
 
 :author: James V. Bruno
 :date: 4/30/2022
 """
+import json
+import numpy as np
 import pandas as pd
 from transformers import BertTokenizer, BertModel
 from torch.nn.modules import Embedding
 from torch import Tensor
 
 from alternation_prober.constants import (
-    PATH_TO_LAVA_FILE,
     PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
+    PATH_TO_LAVA_FILE,
+    PATH_TO_LAVA_VOCAB
 )
 
 
@@ -57,6 +72,9 @@ def get_word_emebeddings(
 
 
 def main():
+    """
+    Extract word-level embeddings from the lava dataset using ``bert-base-uncased``.
+    """
     try:
         data_df = pd.read_csv(PATH_TO_LAVA_FILE)
     except FileNotFoundError as e:
@@ -69,22 +87,31 @@ def main():
     embedding_layer = model.get_input_embeddings()
     tokenizer = tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 
-    # not sure what the best data structure is to work with, so for now
-    # we'll build up a csv:
-    dict_for_output_df = {}
+    # We will output an 2d np.array with the same indices as the lava dataset.
+    list_of_output_arrays = []
+
+    # Help keep track of the vocabulary
+    lava_vocabulary_to_index = {}
 
     print("getting word embeddings...")
 
-    for verb in data_df["verb"]:
+    for index, row in data_df.iterrows():
+        verb = row["verbs"]
         word_embedding = get_word_emebeddings(verb, embedding_layer, tokenizer)
 
-        dict_for_output_df[verb] = word_embedding.tolist()
+        lava_vocabulary_to_index[verb] = index
 
-    output_df = pd.DataFrame.from_dict(dict_for_output_df, orient="index")
+        # convert the word_embedding tensor to a numpy array and add it to the output list.
+        list_of_output_arrays.append(word_embedding.detach().numpy())
 
-    output_df.to_csv(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+    np_output_array = np.array(list_of_output_arrays)
+    np_output_array.tofile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 
-    print("--Done!")
+    with PATH_TO_LAVA_VOCAB.open("w") as f:
+        json.dump(lava_vocabulary_to_index, f, indent=4, sort_keys=True)
+
+    print(f"Word embeddings file created at {PATH_TO_BERT_WORD_EMBEDDINGS_FILE}.")
+    print(f"Vocabulary mapping file crated at {PATH_TO_LAVA_VOCAB}.")
 
 
 if __name__ == "__main__":

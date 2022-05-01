@@ -16,5 +16,7 @@ _DATA_DIR = _THIS_DIR.parents[1] / "data"
 
 PATH_TO_LAVA_FILE = _DATA_DIR / "lava" / "all_verbs.csv"
 PATH_TO_BERT_WORD_EMBEDDINGS_FILE = (
-    _DATA_DIR / "embeddings" / "bert-word-embeddings-lava.csv"
+    _DATA_DIR / "embeddings" / "bert-word-embeddings-lava.npy"
 )
+
+PATH_TO_LAVA_VOCAB = _DATA_DIR / "embeddings" / "bert-word-embeddings-lava-vocab.json"

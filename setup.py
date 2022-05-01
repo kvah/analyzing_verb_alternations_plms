@@ -17,6 +17,6 @@ setup(
     install_requires=["transformers"],
     entry_points={
         "console_scripts": [
-            "get_embeddings=alternation_prober.embeddings.get_embeddings:main",
+            "get_bert_word_embeddings=alternation_prober.embeddings.get_bert_word_embeddings:main",
         ]
     })
