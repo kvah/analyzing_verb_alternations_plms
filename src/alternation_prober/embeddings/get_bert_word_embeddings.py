@@ -1,23 +1,21 @@
 """
 Script to get word-embeddings out of Bert-family Models.
 
+Word-embeddings from bert-base-uncasedfor the Lava datset
+will be written to ``PATH_TO_BERT_WORD_EMBEDDINGS_FILE``
 
 :author: James V. Bruno
 :date: 4/30/2022
 """
 import pandas as pd
-from pathlib import Path
 from transformers import BertTokenizer, BertModel
 from torch.nn.modules import Embedding
 from torch import Tensor
 
-
-THIS_DIR = Path(__file__).resolve().parent
-DATA_DIR = THIS_DIR.parents[1] / "data"
-LAVA_FILE = DATA_DIR / "lava" / "all_verbs.csv"
-
-OUTPUT_DIR = DATA_DIR / "embeddings"
-OUTPUT_FILE = OUTPUT_DIR / "bert-embeddings-lava.csv"
+from alternation_prober.constants import (
+    PATH_TO_LAVA_FILE,
+    PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
+)
 
 
 def get_word_emebeddings(
@@ -59,10 +57,13 @@ def get_word_emebeddings(
 
 
 def main():
+    try:
+        data_df = pd.read_csv(PATH_TO_LAVA_FILE)
+    except FileNotFoundError as e:
+        message = f"{PATH_TO_LAVA_FILE} not found.  Execute 'sh ./download-datasets.sh' before continuing."
+        raise FileNotFoundError(message) from e
 
-    data_df = pd.read_csv(LAVA_FILE)
-
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    PATH_TO_BERT_WORD_EMBEDDINGS_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     model = BertModel.from_pretrained("bert-base-uncased")
     embedding_layer = model.get_input_embeddings()
@@ -81,7 +82,7 @@ def main():
 
     output_df = pd.DataFrame.from_dict(dict_for_output_df, orient="index")
 
-    output_df.to_csv(OUTPUT_FILE)
+    output_df.to_csv(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 
     print("--Done!")
 
