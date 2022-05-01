@@ -10,7 +10,7 @@ from torch.testing import assert_close
 from transformers import BertTokenizer, BertModel
 from unittest import TestCase, mock
 
-from alternationprober.embeddings.get_bert_word_embeddings import (get_word_emebeddings,
+from alternationprober.embeddings.get_bert_word_embeddings import (get_word_embeddings,
                                                                    main)
 
 THIS_DIR = Path(__file__).resolve().parent
@@ -45,7 +45,7 @@ class TestGetWordEmbeddings(TestCase):
         expected_output = load(expected_output_file)
 
         verb = "fed"
-        word_embedding = get_word_emebeddings(
+        word_embedding = get_word_embeddings(
             verb, self.embedding_layer, self.tokenizer
         )
 
@@ -62,7 +62,7 @@ class TestGetWordEmbeddings(TestCase):
         expected_output = load(expected_output_file)
 
         verb = "peddled"
-        word_embedding = get_word_emebeddings(
+        word_embedding = get_word_embeddings(
             verb, self.embedding_layer, self.tokenizer
         )
 

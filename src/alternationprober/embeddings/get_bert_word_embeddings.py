@@ -33,7 +33,7 @@ from alternationprober.constants import (
 )
 
 
-def get_word_emebeddings(
+def get_word_embeddings(
     verb: str, embeddings: Embedding, tokenizer: BertTokenizer
 ) -> Tensor:
     """Return the embedding vector for ``verb``.
@@ -93,7 +93,7 @@ def main():
 
     for index, row in data_df.iterrows():
         verb = row["verb"]
-        word_embedding = get_word_emebeddings(verb, embedding_layer, tokenizer)
+        word_embedding = get_word_embeddings(verb, embedding_layer, tokenizer)
 
         lava_vocabulary_to_index[verb] = index
 
