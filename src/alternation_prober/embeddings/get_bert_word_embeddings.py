@@ -96,7 +96,7 @@ def main():
     print("getting word embeddings...")
 
     for index, row in data_df.iterrows():
-        verb = row["verbs"]
+        verb = row["verb"]
         word_embedding = get_word_emebeddings(verb, embedding_layer, tokenizer)
 
         lava_vocabulary_to_index[verb] = index
