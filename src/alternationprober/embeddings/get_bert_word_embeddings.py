@@ -58,15 +58,11 @@ def get_word_emebeddings(
     inputs = tokenizer(verb, add_special_tokens=False)
     input_ids = inputs["input_ids"]
 
-    if len(input_ids) > 1:
-        # e.g [21877, 28090], for "peddled" -> ['pe', '##ddled']
-        # we have sub-word tokenization, so take the mean
-        word_embedding = embeddings.weight[input_ids].mean(axis=0)
-
-    else:
-        # Just one token here, so take the first (and only) embedding so the
-        # shape is the same as what we have above.
-        word_embedding = embeddings.weight[input_ids][0]
+    # Sometimes we'll have sub-word tokenization, in which case we need
+    # to take the mean of the embeddings.  But even if we don't have sub-word
+    # tokenization, there's only one embedding in that case, so it's still
+    # save to take the mean:
+    word_embedding = embeddings.weight[input_ids].mean(axis=0)
 
     return word_embedding
 
