@@ -11,7 +11,7 @@ Load the file with:
 
 ```
 import numpy as np
-from alternation_prober.constants import PATH_TO_BERT_WORD_EMBEDDINGS_FILE
+from alternationprober.constants import PATH_TO_BERT_WORD_EMBEDDINGS_FILE
 
 embeddings = np.fromfile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 ```
@@ -26,7 +26,7 @@ from transformers import BertTokenizer, BertModel
 from torch.nn.modules import Embedding
 from torch import Tensor
 
-from alternation_prober.constants import (
+from alternationprober.constants import (
     PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
     PATH_TO_LAVA_FILE,
     PATH_TO_LAVA_VOCAB

@@ -10,8 +10,8 @@ from torch.testing import assert_close
 from transformers import BertTokenizer, BertModel
 from unittest import TestCase, mock
 
-from alternation_prober.embeddings.get_bert_word_embeddings import (get_word_emebeddings,
-                                                                    main)
+from alternationprober.embeddings.get_bert_word_embeddings import (get_word_emebeddings,
+                                                                   main)
 
 THIS_DIR = Path(__file__).resolve().parent
 EXPECTED_OUTPUT_DIR = THIS_DIR / "expected_outputs"
@@ -75,7 +75,7 @@ class TestMain(TestCase):
     """Test the ``main()`` function in ``get_bert_word_embeddings.py``."""
 
     # Use this to mock the path constants:
-    module_address = "alternation_prober.embeddings.get_bert_word_embeddings"
+    module_address = "alternationprober.embeddings.get_bert_word_embeddings"
 
     def test_main_success(self):
         """Test that main() works as expected when the lava dataset is present.

@@ -7,6 +7,8 @@ Constants:
         Path to word-embeddings from lava dataset as produced from ``get_embeddings.py``.
     LAVA_FILE : Path
         Path to original Lava file as downloaded from ``https://nyu-mll.github.io/CoLA/``
+    PATH_TO_LAVA_VOCAB : Path
+        Path to mapping file of Lava Vocabulary to index
 """
 from pathlib import Path
 
