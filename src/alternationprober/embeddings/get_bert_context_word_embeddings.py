@@ -14,7 +14,7 @@ import numpy as np
 from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_DIR
 
 # TODO 
-embeddings = np.fromfile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 ```
 
 :author: David Yi
@@ -114,8 +114,15 @@ def get_verb_embedding(verb:str) -> Tensor:
 
 if __name__ == "__main__":
 
+    # Load LaVa
     try:
         lava_df = pd.read_csv(PATH_TO_LAVA_FILE)
+    except FileNotFoundError as e:
+        message = f"{PATH_TO_LAVA_FILE} not found.  Execute 'sh ./download-datasets.sh' before continuing."
+        raise FileNotFoundError(message) from e
+    
+    # Load FAVA
+    try:
         fava_train_path = PATH_TO_FAVA_DIR / "combined" / "train.tsv"
         # We only care about the sentences in dev/test, not the labels
         fava_dev_path = PATH_TO_FAVA_DIR / "combined" / "dev.tsv"
@@ -125,8 +132,9 @@ if __name__ == "__main__":
         fava_test_df = pd.read_csv(fava_test_path, sep ='\t+', names=['alternation', 'label', 'sentence'])
         fava_df = pd.concat((fava_train_df, fava_dev_df, fava_test_df))
     except FileNotFoundError as e:
-        message = f"{PATH_TO_LAVA_FILE} not found.  Execute 'sh ./download-datasets.sh' before continuing."
+        message = f"{PATH_TO_FAVA_DIR} not found.  Execute 'sh ./download-datasets.sh' before continuing."
         raise FileNotFoundError(message) from e
+
 
     verbs = lava_df['verb']
     verb_to_sentences = {verb: get_sentences(verb) for verb in verbs}
@@ -142,4 +150,4 @@ if __name__ == "__main__":
         verb_embeddings = torch.cat((verb_embeddings, verb_embedding))
 
     verb_embeddings = verb_embeddings.detach().numpy()
-    verb_embeddings.tofile(PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE)
+    np.save(PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE, verb_embeddings)

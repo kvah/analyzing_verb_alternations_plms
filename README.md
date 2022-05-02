@@ -72,7 +72,7 @@ import numpy as np
 
 from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE
 
-context_embeddings = np.fromfile(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
+context_embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
 ```
 
 
