@@ -18,5 +18,8 @@ PATH_TO_LAVA_FILE = _DATA_DIR / "lava" / "all_verbs.csv"
 PATH_TO_BERT_WORD_EMBEDDINGS_FILE = (
     _DATA_DIR / "embeddings" / "bert-word-embeddings-lava.npy"
 )
+PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE = (
+    _DATA_DIR / "embeddings" / "bert-word-context-embeddings.npy"
+)
 
 PATH_TO_LAVA_VOCAB = _DATA_DIR / "embeddings" / "bert-word-embeddings-lava-vocab.json"
