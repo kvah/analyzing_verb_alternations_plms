@@ -18,6 +18,6 @@ setup(
     entry_points={
         "console_scripts": [
             "get_bert_word_embeddings=alternationprober.embeddings.get_bert_word_embeddings:main",
-            "get_bert_word_embeddings=alternationprober.embeddings.get_bert_context_word_embeddings:main"
+            "get_bert_context_word_embeddings=alternationprober.embeddings.get_bert_context_word_embeddings:main"
         ]
     })

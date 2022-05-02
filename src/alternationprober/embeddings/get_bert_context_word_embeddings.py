@@ -32,19 +32,30 @@ import torch
 from tqdm import tqdm
 
 from alternationprober.constants import (
-    PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_DIR,
+    PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE,
     PATH_TO_LAVA_FILE,
     PATH_TO_FAVA_DIR
 )
 
-PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_DIR.mkdir(parents=True, exist_ok=True)
+PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE.parent.mkdir(parents=True, exist_ok=True)
 EMBEDDING_SIZE = 768
 NUM_LAYERS = 12
 
 def get_sentences(verb:str) -> List[str]:
     """
     Returns all sentences from FAVA containing the input verb
+
+    Parameters
+    ----------
+    verb : str
+        Verb, as from the LAVA dataset.
+
+    Returns
+    -------
+    sentences : List[str]
+        The list of sentences from FAVA containing the input verb
     """ 
+    # Regex string to check whether input verb exists in sentence
     contains_verb = fava_df[fava_df['sentence'].str.contains(rf'.*\s{verb}\s.*')]
     sentences = contains_verb['sentence'].to_list()
     return sentences
@@ -52,10 +63,23 @@ def get_sentences(verb:str) -> List[str]:
 def find_verb_indices(verb_ids: Tensor, token_ids: Tensor) -> List[int]:
     """
     Get position of wordpiece tokens corresponding to the input verb in a sentence
+
+    Parameters
+    ----------
+    verb_ids : Tensor
+        1-d Tensor containing BERT wordpiece tokens corresponding to an input verb
+    token_ids: Tensor
+        1-d Tensor containing BERT wordpiece tokens corresponding to an input sentence
+
+    Returns
+    -------
+    span : List[int]
+        The index positions of the input verb relative to the sentence tokens
     """
     for i in range(0, len(token_ids)-2):
         if torch.equal(verb_ids, token_ids[i:i+len(verb_ids)]):
-            return [i, i+len(verb_ids)]
+            span = [i, i+len(verb_ids)]
+            return span
 
 def get_verb_embedding(verb:str) -> Tensor: 
     """
@@ -110,16 +134,12 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
     print(f'Creating contextual embeddings for {len(verbs)} verbs')
-    # Batch into 4 parts to reduce memory load
-    batch_indices = np.array_split(np.arange(len(verbs)), 4)
-    for i, batch in tqdm(enumerate(batch_indices)):
-        batch_verbs = verbs[batch]
-        # Shape: (|V|, 12, 768)
-        verb_embeddings = torch.empty(batch_verbs.shape[0], NUM_LAYERS, EMBEDDING_SIZE)
-        for verb in tqdm(batch_verbs):
-            verb_embedding = get_verb_embedding(verb)
-            verb_embedding = verb_embedding.unsqueeze(0)
-            verb_embeddings = torch.cat((verb_embeddings, verb_embedding))
+    # Shape: (|V|, 12, 768)
+    verb_embeddings = torch.empty(verbs.shape[0], NUM_LAYERS, EMBEDDING_SIZE)
+    for verb in tqdm(verbs):
+        verb_embedding = get_verb_embedding(verb)
+        verb_embedding = verb_embedding.unsqueeze(0)
+        verb_embeddings = torch.cat((verb_embeddings, verb_embedding))
 
-        verb_embeddings = verb_embeddings.detach().numpy()
-        verb_embeddings.tofile(PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_DIR / f"bert-contextual-word-embeddings-part{i}.npy")
+    verb_embeddings = verb_embeddings.detach().numpy()
+    verb_embeddings.tofile(PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE)

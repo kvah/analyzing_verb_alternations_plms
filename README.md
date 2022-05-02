@@ -51,6 +51,30 @@ with PATH_TO_LAVA_VOCAB.open("r") as f:
     vocabulary_to_index = json.load(f)
 ```
 
+ *  `get_bert_context_word_embeddings`: command-line utility to produce 
+     contextual word-level embeddings from the LAVA dataset based on 
+     sentences in FAVA
+     * usage: `get_bert_context_word_embeddings`
+     * Will produce the following output file(s):
+         * `./data/embeddings/bert-context-word-embeddings.npy`: This is a 3d
+           numpy array with contextual word-embeddings for each BERT layer
+           Shape: (|V|, 12, 768)
+     * usage on patas (recommended): condor_submit get_bert_context_word_embeddings.cmd
+         * Run this on patas if possible to avoid overloading your own machine
+         * Automatically sets up the conda environment before running the script
+
+
+The embeddings and associated vocabulary mapping can be loaded like so:
+
+```
+import json
+import numpy as np
+
+from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE
+
+context_embeddings = np.fromfile(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
+```
+
 
 ## Other Related Resources in This Repository
 
