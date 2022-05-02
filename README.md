@@ -16,13 +16,13 @@ in Spring of 2022.
 
 5. Activate the conda environment: `conda activate 575nn`
 
-6. Install `alternation_prober` as an editable package with pip: `pip install -e .`
+6. Install `alternationprober` as an editable package with pip: `pip install -e .`
 
 ## Development and Tests
 To Run tests: `pytests ./tests`
 
 
-## `alternation_prober` package.
+## `alternationprober` package.
 Provides the following:
 
  *  `get_bert_word_embeddings`: command-line utility to produce word-level
@@ -42,8 +42,8 @@ The embeddings and associated vocabulary mapping can be loaded like so:
 import json
 import numpy as np
 
-from alternation_prober.constants import (PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
-                                          PATH_TO_LAVA_VOCAB)
+from alternationprober.constants import (PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
+                                         PATH_TO_LAVA_VOCAB)
 
 embeddings = np.fromfile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 

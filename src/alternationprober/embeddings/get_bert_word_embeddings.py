@@ -11,7 +11,7 @@ Load the file with:
 
 ```
 import numpy as np
-from alternation_prober.constants import PATH_TO_BERT_WORD_EMBEDDINGS_FILE
+from alternationprober.constants import PATH_TO_BERT_WORD_EMBEDDINGS_FILE
 
 embeddings = np.fromfile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 ```
@@ -26,14 +26,14 @@ from transformers import BertTokenizer, BertModel
 from torch.nn.modules import Embedding
 from torch import Tensor
 
-from alternation_prober.constants import (
+from alternationprober.constants import (
     PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
     PATH_TO_LAVA_FILE,
     PATH_TO_LAVA_VOCAB
 )
 
 
-def get_word_emebeddings(
+def get_word_embeddings(
     verb: str, embeddings: Embedding, tokenizer: BertTokenizer
 ) -> Tensor:
     """Return the embedding vector for ``verb``.
@@ -58,15 +58,11 @@ def get_word_emebeddings(
     inputs = tokenizer(verb, add_special_tokens=False)
     input_ids = inputs["input_ids"]
 
-    if len(input_ids) > 1:
-        # e.g [21877, 28090], for "peddled" -> ['pe', '##ddled']
-        # we have sub-word tokenization, so take the mean
-        word_embedding = embeddings.weight[input_ids].mean(axis=0)
-
-    else:
-        # Just one token here, so take the first (and only) embedding so the
-        # shape is the same as what we have above.
-        word_embedding = embeddings.weight[input_ids][0]
+    # Sometimes we'll have sub-word tokenization, in which case we need
+    # to take the mean of the embeddings.  But even if we don't have sub-word
+    # tokenization, there's only one embedding in that case, so it's still
+    # save to take the mean:
+    word_embedding = embeddings.weight[input_ids].mean(axis=0)
 
     return word_embedding
 
@@ -96,8 +92,8 @@ def main():
     print("getting word embeddings...")
 
     for index, row in data_df.iterrows():
-        verb = row["verbs"]
-        word_embedding = get_word_emebeddings(verb, embedding_layer, tokenizer)
+        verb = row["verb"]
+        word_embedding = get_word_embeddings(verb, embedding_layer, tokenizer)
 
         lava_vocabulary_to_index[verb] = index
 
