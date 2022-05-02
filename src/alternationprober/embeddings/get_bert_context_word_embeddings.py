@@ -3,17 +3,15 @@ Script to get contextual word-embeddings out of Bert-family Models.
 
 Contextual Word-embeddings from bert-base-uncased for the LaVa dataset
 Input sentences used to create contextual embeddings are from FAVA
-
-will be written to ``PATH_TO_BERT_WORD_EMBEDDINGS_CONTEXT_DIR`` as four separate 
-numpy arrays. 
+will be written to ``PATH_TO_BERT_WORD_EMBEDDINGS_CONTEXT_FILE`` as an
+(|V|, 12, 768) dimensional nd-array.
 
 Load the file with:
 
 ```
 import numpy as np
-from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_DIR
+from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE
 
-# TODO 
 embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 ```
 
