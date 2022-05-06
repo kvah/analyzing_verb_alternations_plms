@@ -3,7 +3,7 @@ Script to get contextual word-embeddings out of Bert-family Models.
 
 Contextual Word-embeddings from bert-base-uncased for the LaVa dataset
 Input sentences used to create contextual embeddings are from FAVA
-will be written to ``PATH_TO_BERT_WORD_EMBEDDINGS_CONTEXT_FILE`` as an
+will be written to ``PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE`` as an
 (|V|, 12, 768) dimensional nd-array.
 
 Load the file with:
@@ -12,7 +12,7 @@ Load the file with:
 import numpy as np
 from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE
 
-embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
 ```
 
 :author: David Yi
@@ -20,7 +20,7 @@ embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 """
 
 from pathlib import Path
-from typing import List
+from typing import List, Dict
 
 import numpy as np
 import pandas as pd
@@ -30,16 +30,16 @@ import torch
 from tqdm import tqdm
 
 from alternationprober.constants import (
-    PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE,
+    PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE,
     PATH_TO_LAVA_FILE,
     PATH_TO_FAVA_DIR
 )
 
-PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE.parent.mkdir(parents=True, exist_ok=True)
+PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE.parent.mkdir(parents=True, exist_ok=True)
 EMBEDDING_SIZE = 768
 NUM_LAYERS = 12
 
-def get_sentences(verb:str) -> List[str]:
+def get_sentences(verb:str, sentence_df:pd.DataFrame) -> List[str]:
     """
     Returns all sentences from FAVA containing the input verb
 
@@ -47,6 +47,8 @@ def get_sentences(verb:str) -> List[str]:
     ----------
     verb : str
         Verb, as from the LAVA dataset.
+    sentence_df: pd.Series
+        pandas DataFrame containing sentences from FAVA
 
     Returns
     -------
@@ -54,7 +56,7 @@ def get_sentences(verb:str) -> List[str]:
         The list of sentences from FAVA containing the input verb
     """ 
     # Regex string to check whether input verb exists in sentence
-    contains_verb = fava_df[fava_df['sentence'].str.contains(rf'.*\s{verb}\s.*')]
+    contains_verb = sentence_df[sentence_df['sentence'].str.contains(rf'.*\s{verb}\s.*')]
     sentences = contains_verb['sentence'].to_list()
     return sentences
 
@@ -79,7 +81,7 @@ def find_verb_indices(verb_ids: Tensor, token_ids: Tensor) -> List[int]:
             span = [i, i+len(verb_ids)]
             return span
 
-def get_verb_embedding(verb:str) -> Tensor: 
+def get_verb_embedding(verb:str, verb_to_sentences:Dict, model:AutoModel, tokenizer:AutoTokenizer) -> Tensor: 
     """
     """
     inputs = tokenizer(verb_to_sentences[verb], padding=True, return_tensors="pt")
@@ -110,8 +112,11 @@ def get_verb_embedding(verb:str) -> Tensor:
     
     return mean_embeddings
 
-if __name__ == "__main__":
-
+def main():
+    """
+    Extract word-level contextual embeddings from ``bert-base-uncased`` for the verbs in lava
+    using the sentences in FAVA as input sentences
+    """
     # Load LaVa
     try:
         lava_df = pd.read_csv(PATH_TO_LAVA_FILE)
@@ -135,17 +140,29 @@ if __name__ == "__main__":
 
 
     verbs = lava_df['verb']
-    verb_to_sentences = {verb: get_sentences(verb) for verb in verbs}
+    verb_to_sentences = {
+        verb: get_sentences(verb=verb, sentence_df=fava_df) 
+        for verb in verbs
+    }
     model = AutoModel.from_pretrained("bert-base-uncased")
     tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
     print(f'Creating contextual embeddings for {len(verbs)} verbs')
     # Shape: (|V|, 12, 768)
-    verb_embeddings = torch.empty(verbs.shape[0], NUM_LAYERS, EMBEDDING_SIZE)
+    verb_embeddings = torch.empty(0, NUM_LAYERS, EMBEDDING_SIZE)
     for verb in tqdm(verbs):
-        verb_embedding = get_verb_embedding(verb)
+        verb_embedding = get_verb_embedding(
+            verb=verb, 
+            verb_to_sentences=verb_to_sentences, 
+            model=model, 
+            tokenizer=tokenizer
+        )
         verb_embedding = verb_embedding.unsqueeze(0)
         verb_embeddings = torch.cat((verb_embeddings, verb_embedding))
 
     verb_embeddings = verb_embeddings.detach().numpy()
-    np.save(PATH_TO_BERT_WORD_CONTEXT_EMBEDDINGS_FILE, verb_embeddings)
+    np.save(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE, verb_embeddings)
+    print(f'Context embeddings saved to: {PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE}')
+
+if __name__ == "__main__":
+    main()
