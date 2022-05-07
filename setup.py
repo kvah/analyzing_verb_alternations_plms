@@ -7,7 +7,7 @@ THIS_DIR = Path(__file__).resolve().parent
 
 setup(
     name="alternationprober",
-    version="0.0.1",
+    version="0.0.2",
     description="Work for LING 575 - Analysing Neural Language Models, Spring, 2022",
     long_description=(THIS_DIR / "README.md").read_text(),
     long_description_content_type="text/markdown",
@@ -18,6 +18,7 @@ setup(
     entry_points={
         "console_scripts": [
             "get_bert_word_embeddings=alternationprober.embeddings.get_bert_word_embeddings:main",
-            "get_bert_context_word_embeddings=alternationprober.embeddings.get_bert_context_word_embeddings:main"
+            "get_bert_context_word_embeddings=alternationprober.embeddings.get_bert_context_word_embeddings:main",
+            "run_linear_classifier_experiment=alternationprober.experiments.run_linear_classifier_experiment.py"
         ]
     })
