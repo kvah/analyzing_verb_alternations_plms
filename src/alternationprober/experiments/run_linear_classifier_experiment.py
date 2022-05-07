@@ -41,11 +41,6 @@ RANDOM_STATE = 575
 NUMBER_XVAL_FOLDS = 4
 
 
-# This is temporary:
-OUTPUT_DIR = Path(".").resolve() / "outputs"
-OUTPUT_DIR.mkdir(exist_ok=True)
-
-
 def get_evaluation_df(
     predictions_df: pd.DataFrame, alternation_classes: List[str]
 ) -> pd.DataFrame:
