@@ -218,6 +218,7 @@ def main():
         "output_directory",
         help="output_directory for exerimental_results",
         default=(PATH_TO_RESULTS_DIRECTORY / "linear-probe-for-word-embeddings"),
+        type=Path,
         nargs="?",
     )
     args = parser.parse_args()

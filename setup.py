@@ -19,6 +19,6 @@ setup(
         "console_scripts": [
             "get_bert_word_embeddings=alternationprober.embeddings.get_bert_word_embeddings:main",
             "get_bert_context_word_embeddings=alternationprober.embeddings.get_bert_context_word_embeddings:main",
-            "run_linear_classifier_experiment=alternationprober.experiments.run_linear_classifier_experiment.py"
+            "run_linear_classifier_experiment=alternationprober.experiments.run_linear_classifier_experiment:main"
         ]
     })
