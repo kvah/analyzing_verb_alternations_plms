@@ -45,7 +45,7 @@ import numpy as np
 from alternationprober.constants import (PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
                                          PATH_TO_LAVA_VOCAB)
 
-embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE, allow_pickle=True))
 
 with PATH_TO_LAVA_VOCAB.open("r") as f:
     vocabulary_to_index = json.load(f)
@@ -74,6 +74,14 @@ from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FIL
 
 context_embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
 ```
+
+ *  `run_linear_classifier_experiment`: Will run our experiment to predict
+    alternation classes from static BERT embeddings derived from the LAVA dataset.
+
+     * usage: `get_bert_word_embeddings <output_directory>`
+     * Note: <`output_directory`> will default to `./results/linear-probe-for-word-embeddings`
+     * Note: `./download-datasets.sh` and the jupyter notebook `./data_analysis.ipynb` must be
+             run first to make the data available.
 
 
 ## Other Related Resources in This Repository
