@@ -10,8 +10,10 @@ from torch.testing import assert_close
 from transformers import BertTokenizer, BertModel
 from unittest import TestCase, mock
 
-from alternationprober.embeddings.get_bert_word_embeddings import (get_word_embeddings,
-                                                                   main)
+from alternationprober.embeddings.get_bert_word_embeddings import (
+    get_word_embeddings,
+    main,
+)
 
 THIS_DIR = Path(__file__).resolve().parent
 EXPECTED_OUTPUT_DIR = THIS_DIR / "expected_outputs"
@@ -45,9 +47,7 @@ class TestGetWordEmbeddings(TestCase):
         expected_output = load(expected_output_file)
 
         verb = "fed"
-        word_embedding = get_word_embeddings(
-            verb, self.embedding_layer, self.tokenizer
-        )
+        word_embedding = get_word_embeddings(verb, self.embedding_layer, self.tokenizer)
 
         self.check_dimension_size(len(word_embedding))
 
@@ -62,9 +62,7 @@ class TestGetWordEmbeddings(TestCase):
         expected_output = load(expected_output_file)
 
         verb = "peddled"
-        word_embedding = get_word_embeddings(
-            verb, self.embedding_layer, self.tokenizer
-        )
+        word_embedding = get_word_embeddings(verb, self.embedding_layer, self.tokenizer)
 
         self.check_dimension_size(len(word_embedding))
 
@@ -94,7 +92,9 @@ class TestMain(TestCase):
         new_input_path = INPUT_DIR / "test_verbs.csv"
 
         # override the constant for the output embeddings file:
-        output_embedding_path_to_mock = f"{self.module_address}.PATH_TO_BERT_WORD_EMBEDDINGS_FILE"
+        output_embedding_path_to_mock = (
+            f"{self.module_address}.PATH_TO_BERT_WORD_EMBEDDINGS_FILE"
+        )
 
         # override the constant for the output vocabulary file:
         output_vocab_path_to_mock = f"{self.module_address}.PATH_TO_LAVA_VOCAB"

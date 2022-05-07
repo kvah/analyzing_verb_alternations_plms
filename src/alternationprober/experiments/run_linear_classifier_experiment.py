@@ -6,6 +6,7 @@ Authors
 -------
 James V. Bruno (jbruno@uw.edu)
 """
+import argparse
 import json
 import pandas as pd
 import numpy as np
@@ -21,6 +22,7 @@ from alternationprober.constants import (
     PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
     PATH_TO_LAVA_DIR,
     PATH_TO_LAVA_VOCAB,
+    PATH_TO_RESULTS_DIRECTORY,
 )
 
 
@@ -49,8 +51,8 @@ def get_evaluation_df(
 ) -> pd.DataFrame:
     """Return a dataframe of accuracy and MCC metrics.
 
-    Calculate metrics based on the predictions in ``predictions_df``
-    and also based on a majority baseline.
+    Calculate accuracy and MCC metrics based on the predictions in
+    ``predictions_df``.  Also calucate accuracy based on a majority baseline.
 
     Parameters
     ----------
@@ -86,7 +88,8 @@ def get_evaluation_df(
         majority_predictions = majority_classifier.predict(Y_true)
 
         majority_accuracy = accuracy_score(Y_true, majority_predictions)
-        majority_mcc = matthews_corrcoef(Y_true, majority_predictions)
+        # The MCC is always zero for the majority baseline.  Don't bother.
+        # majority_mcc = matthews_corrcoef(Y_true, majority_predictions)
 
         output_records.append(
             {
@@ -94,7 +97,6 @@ def get_evaluation_df(
                 "accuracy": accuracy,
                 "baseline_accuracy": majority_accuracy,
                 "mcc": mcc,
-                "baseline_mcc": majority_mcc,
             }
         )
 
@@ -103,8 +105,9 @@ def get_evaluation_df(
     return evaluation_df
 
 
-def run_experiment_for_alternation_csv(alternation_csv: Path,
-                                       output_directory: Path) -> None:
+def run_experiment_for_alternation_csv(
+    alternation_csv: Path, output_directory: Path
+) -> None:
     """Train and evaluate a LogisticRegression classifer on the data in ``alternation_csv``.
 
     Two result files will be written to ``output_directory``:
@@ -200,14 +203,37 @@ def run_experiment_for_alternation_csv(alternation_csv: Path,
     print(evaluation_df)
 
     # And store them.
-    evaluation_file = output_directory / f"{alternation_csv.stem}_evaluation_metrics.csv"
+    evaluation_file = (
+        output_directory / f"{alternation_csv.stem}_evaluation_metrics.csv"
+    )
     evaluation_df.to_csv(evaluation_file, index=False)
 
 
 def main():
-    alternation_csv = PATH_TO_LAVA_DIR / "sl.csv"
+    parser = argparse.ArgumentParser(
+        description="Run an experiment to try to predict the syntactic "
+        "frames of verbs based on their static word embeddings."
+    )
+    parser.add_argument(
+        "output_directory",
+        help="output_directory for exerimental_results",
+        default=(PATH_TO_RESULTS_DIRECTORY / "linear-probe-for-word-embeddings"),
+        nargs="?",
+    )
+    args = parser.parse_args()
 
-    run_experiment_for_alternation_csv(alternation_csv)
+    alternation_csvs = [
+        csv_file
+        for csv_file in PATH_TO_LAVA_DIR.glob("*.csv")
+        if not csv_file.stem == "all_verbs"
+    ]
+
+    args.output_directory.mkdir(parents=True, exist_ok=True)
+
+    for alternation_csv in alternation_csvs:
+        print(f"running experiment on {alternation_csv}")
+
+        run_experiment_for_alternation_csv(alternation_csv, args.output_directory)
 
 
 if __name__ == "__main__":

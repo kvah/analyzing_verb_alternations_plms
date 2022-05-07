@@ -28,3 +28,5 @@ PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE = (
 )
 
 PATH_TO_LAVA_VOCAB = _DATA_DIR / "embeddings" / "bert-word-embeddings-lava-vocab.json"
+
+PATH_TO_RESULTS_DIRECTORY = _THIS_DIR.parents[1] / "results"
