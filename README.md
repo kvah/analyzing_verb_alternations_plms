@@ -45,7 +45,7 @@ import numpy as np
 from alternationprober.constants import (PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
                                          PATH_TO_LAVA_VOCAB)
 
-embeddings = np.fromfile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 
 with PATH_TO_LAVA_VOCAB.open("r") as f:
     vocabulary_to_index = json.load(f)
