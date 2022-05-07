@@ -29,7 +29,7 @@ from torch import Tensor
 from alternationprober.constants import (
     PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
     PATH_TO_LAVA_FILE,
-    PATH_TO_LAVA_VOCAB
+    PATH_TO_LAVA_VOCAB,
 )
 
 
