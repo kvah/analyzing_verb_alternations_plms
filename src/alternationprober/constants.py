@@ -16,7 +16,9 @@ from pathlib import Path
 _THIS_DIR = Path(__file__).resolve().parent
 _DATA_DIR = _THIS_DIR.parents[1] / "data"
 
-PATH_TO_LAVA_FILE = _DATA_DIR / "lava" / "all_verbs.csv"
+PATH_TO_LAVA_DIR = _DATA_DIR / "lava"
+PATH_TO_LAVA_FILE = PATH_TO_LAVA_DIR / "all_verbs.csv"
+
 PATH_TO_FAVA_DIR = _DATA_DIR / "fava" / "verb_classes_public"
 PATH_TO_BERT_WORD_EMBEDDINGS_FILE = (
     _DATA_DIR / "embeddings" / "bert-word-embeddings-lava.npy"
