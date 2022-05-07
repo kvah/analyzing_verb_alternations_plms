@@ -13,7 +13,7 @@ Load the file with:
 import numpy as np
 from alternationprober.constants import PATH_TO_BERT_WORD_EMBEDDINGS_FILE
 
-embeddings = np.fromfile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE, allow_pickle=True))
 ```
 
 :author: James V. Bruno
@@ -101,7 +101,7 @@ def main():
         list_of_output_arrays.append(word_embedding.detach().numpy())
 
     np_output_array = np.array(list_of_output_arrays)
-    np_output_array.tofile(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
+    np_output_array.dump(PATH_TO_BERT_WORD_EMBEDDINGS_FILE)
 
     with PATH_TO_LAVA_VOCAB.open("w") as f:
         json.dump(lava_vocabulary_to_index, f, indent=4, sort_keys=True)

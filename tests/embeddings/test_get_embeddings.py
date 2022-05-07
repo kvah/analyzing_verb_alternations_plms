@@ -84,7 +84,7 @@ class TestMain(TestCase):
         and we check to make sure that we captured the mapping of vocabulary to indices.
         """
         expected_emeddings_file = EXPECTED_OUTPUT_DIR / "lava_test_embeddings.npy"
-        expected_embeddings = np.fromfile(expected_emeddings_file)
+        expected_embeddings = np.load(expected_emeddings_file, allow_pickle=True)
 
         expected_vocabulary_file = EXPECTED_OUTPUT_DIR / "lava_test_vocab.json"
         expected_vocabulary = json.load(expected_vocabulary_file.open("r"))
@@ -110,7 +110,7 @@ class TestMain(TestCase):
                         main()
 
             # load in the embeddings file that should have been created and check it:
-            computed_embeddings = np.fromfile(new_embedding_output_file)
+            computed_embeddings = np.load(new_embedding_output_file, allow_pickle=True)
             np.testing.assert_allclose(expected_embeddings, computed_embeddings)
 
             # load in the vocab file that should have been created and check it:
