@@ -1,0 +1,130 @@
+% This must be in the first 5 lines to tell arXiv to use pdfLaTeX, which is strongly recommended.
+\pdfoutput=1
+% In particular, the hyperref package requires pdfLaTeX in order to break URLs across lines.
+
+\documentclass[11pt]{article}
+
+% Remove the "review" option to generate the final version.
+\usepackage{acl}
+
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+
+% For proper rendering and hyphenation of words containing Latin characters (including in bib files)
+\usepackage[T1]{fontenc}
+% For Vietnamese characters
+% \usepackage[T5]{fontenc}
+% See https://www.latex-project.org/help/documentation/encguide.pdf for other character sets
+
+% This assumes your files are encoded as UTF8
+\usepackage[utf8]{inputenc}
+
+% This is not strictly necessary, and may be commented out,
+% but it will improve the layout of the manuscript,
+% and will typically save some space.
+\usepackage{microtype}
+
+% Nicer enumerations:
+\usepackage{enumitem}
+
+% provides the \ex command to make linguistics-style numbered examples
+\usepackage{gb4e}
+% recommended by https://tex.stackexchange.com/questions/325621/gb4e-package-causing-capacity-errors
+\noautomath
+
+% much prettier tables:
+\usepackage{booktabs}
+\usepackage[singlelinecheck=false]{caption} 
+
+\newcommand{\lookout}[1]{\textcolor{blue}{\textbf{#1}}}
+
+
+\title{Probing for Understanding of English Verb Classes and Alternations in Large Language Models}
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+% \author{Author 1 \and ... \and Author n \\
+%         Address line \\ ... \\ Address line}
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \And  ... \And
+%         Author n \\ Address line \\ ... \\ Address line}
+% To start a seperate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+
+\author{James V.~Bruno, Jiayu Han, David K.~Yi, Peter Zukerman \thanks{ The authors' names appear in alphabetical order.}\\
+The University of Washington\\
+  \texttt{\{jbruno, jyhan126, davidyi6, pzuk\}@uw.edu}}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Abstract goes here, man.
+\end{abstract}
+
+\section{Introduction}
+
+Cite these guys to make sure the bibliography works.  \cite{kann-etal-2019-verb}
+
+\section{Related Work}
+
+\section{Data}
+\section{Method}
+\section{Results}
+
+The results of experiment $1$ appear in Table~\ref{tab:word-embeddings-results}.
+
+
+\begin{table*}
+\begin{tabular}{lrrr}
+\toprule
+{} &  \multicolumn{1}{c}{Baseline} &           &    \\
+{} &  \multicolumn{1}{c}{Accuracy} &  Accuracy & MCC \\
+\midrule
+\textbf{Causative-Inchoative} &        &        &        \\
+Inchoative           &  0.589 &  0.847 &  0.683 \\
+Caustive             &  0.589 &  0.847 &  0.683 \\
+\addlinespace[6pt]
+\textbf{Dative}      &        &        &        \\
+Both                 &  0.907 &  0.928 &  0.523 \\
+Preposition          &  0.946 &  0.964 &  0.574 \\
+Double-Object        &  0.925 &  0.941 &  0.470 \\
+\addlinespace[6pt]
+\textbf{Spray-Load}  &        &        &        \\
+Both                 &  0.915 &  0.936 &  0.480 \\
+\textit{With}        &  0.790 &  0.875 &  0.603 \\
+Locative             &  0.834 &  0.878 &  0.506 \\
+\addlinespace[6pt]
+\textbf{\textit{There}-insertion} & &  &        \\
+No-there             &  0.664 &  0.779 &  0.492 \\
+\textit{There}       &  0.664 &  0.779 &  0.492 \\
+\addlinespace[6pt]
+\textbf{Understood Object}  &        &        &        \\
+Reflexive            &  0.833 &  0.864 &  0.467 \\
+Non-reflexive        &  0.975 &  0.984 &  0.615 \\
+\bottomrule
+\end{tabular}
+\caption{Accuracy and Matthews Correlation Coefficients for Syntactic Frame Predictions from Static Word Embeddings from Bert.}
+\label{tab:word-embeddings-results}
+\end{table*}
+
+\section{Discussion}
+\section{Conclusion}
+
+% Entries for the entire Anthology, followed by custom entries
+\bibliography{paper}
+
+\appendix
+
+\section{Example Appendix}
+\label{sec:appendix}
+
+This is an appendix.
+
+\end{document}
