@@ -2,18 +2,16 @@
 Tests for the embeddings.get_bert_word_embeddings module
 """
 import json
-import numpy as np
 from pathlib import Path
 from tempfile import TemporaryDirectory
-from torch import load
-from torch.testing import assert_close
-from transformers import BertTokenizer, BertModel
 from unittest import TestCase, mock
 
+import numpy as np
 from alternationprober.embeddings.get_bert_word_embeddings import (
-    get_word_embeddings,
-    main,
-)
+    get_word_embeddings, main)
+from torch import load
+from torch.testing import assert_close
+from transformers import BertModel, BertTokenizer
 
 THIS_DIR = Path(__file__).resolve().parent
 EXPECTED_OUTPUT_DIR = THIS_DIR / "expected_outputs"
@@ -81,8 +79,8 @@ class TestMain(TestCase):
         We check to make sure that the embeddings were output correctly as npy files,
         and we check to make sure that we captured the mapping of vocabulary to indices.
         """
-        expected_emeddings_file = EXPECTED_OUTPUT_DIR / "lava_test_embeddings.npy"
-        expected_embeddings = np.load(expected_emeddings_file, allow_pickle=True)
+        expected_embeddings_file = EXPECTED_OUTPUT_DIR / "lava_test_embeddings.npy"
+        expected_embeddings = np.load(expected_embeddings_file, allow_pickle=True)
 
         expected_vocabulary_file = EXPECTED_OUTPUT_DIR / "lava_test_vocab.json"
         expected_vocabulary = json.load(expected_vocabulary_file.open("r"))
