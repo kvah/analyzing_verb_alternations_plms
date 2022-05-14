@@ -1,6 +1,6 @@
 """
 Conduct an experiment whereby we see if we can predict the legitimate
-syntactic frames of verbs based on their static word embeddings.
+syntactic frames of verbs based on their static or contextual word embeddings.
 
 Authors
 -------
@@ -16,10 +16,12 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, matthews_corrcoef
 from sklearn.model_selection import StratifiedKFold
 from sklearn.multioutput import MultiOutputClassifier
+import torch
 from typing import List
 
 from alternationprober.constants import (
     PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
+    PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE,
     PATH_TO_LAVA_DIR,
     PATH_TO_LAVA_VOCAB,
     PATH_TO_RESULTS_DIRECTORY,
@@ -32,9 +34,6 @@ with PATH_TO_LAVA_VOCAB.open("r") as f:
 
 # And create the handy reverse lookup, too.
 INDEX_TO_VOCAB = {index: vocab for vocab, index in VOCAB_TO_INDEX.items()}
-
-# Load word embeddings.
-WORD_EMBEDDINGS = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE, allow_pickle=True)
 
 # Set some constants used in cross-validation.
 RANDOM_STATE = 575
@@ -101,20 +100,20 @@ def get_evaluation_df(
 
 
 def run_experiment_for_alternation_csv(
-    alternation_csv: Path, output_directory: Path
+    alternation_csv: Path, output_directory: Path, word_embeddings: torch.Tensor, layer: int = None
 ) -> None:
     """Train and evaluate a LogisticRegression classifer on the data in ``alternation_csv``.
-
     Two result files will be written to ``output_directory``:
         * a file of predictions: ``*_predictions.csv``
         * a file of evaluation metrics: ``*_evaluation_metrics.csv``
-
     Parameters
     ----------
     alternation_csv : Path
         path to alternation csv with gold standard binary labels.
     output_directory : Path
         path to output directory.
+    word_embeddings: torch.Tensor
+        word embedding tensor of shape (instances, classes)
     """
     # Load the input data.
     df_labels = pd.read_csv(alternation_csv)
@@ -131,7 +130,7 @@ def run_experiment_for_alternation_csv(
 
     # And now get the embeddings to use as features.
     # This is an array of shape (|instances|, 768).
-    X = WORD_EMBEDDINGS[indices_for_X]
+    X = word_embeddings[indices_for_X]
 
     # Implement 4-fold cross-validation, following the paper.
     cross_validation_iterator = StratifiedKFold(
@@ -198,23 +197,34 @@ def run_experiment_for_alternation_csv(
     print(evaluation_df)
 
     # And store them.
-    evaluation_file = (
-        output_directory / f"{alternation_csv.stem}_evaluation_metrics.csv"
-    )
+    if layer:
+        layer_dir = output_directory / str(layer)
+        layer_dir.mkdir(parents=True, exist_ok=True)
+        evaluation_file = layer_dir / f"{alternation_csv.stem}_evaluation_metrics.csv"
+        evaluation_df.to_csv(evaluation_file, index=False)
+    else:
+        static_dir = output_directory / "static"
+        static_dir.mkdir(parents=True, exist_ok=True)
+        evaluation_file = static_dir / f"{alternation_csv.stem}_evaluation_metrics.csv"
     evaluation_df.to_csv(evaluation_file, index=False)
 
 
 def main():
     parser = argparse.ArgumentParser(
         description="Run an experiment to try to predict the syntactic "
-        "frames of verbs based on their static word embeddings."
+        "frames of verbs based on their static/contextual word embeddings."
     )
     parser.add_argument(
-        "output_directory",
-        help="output_directory for exerimental_results",
+        "--output_directory",
+        help="output_directory for experimental_results",
         default=(PATH_TO_RESULTS_DIRECTORY / "linear-probe-for-word-embeddings"),
         type=Path,
         nargs="?",
+    )
+    parser.add_argument(
+        "--use_context_embeddings",
+        help="whether to use contextual bert embeddings instead of static wordpiece embeddings",
+        action="store_true"
     )
     args = parser.parse_args()
 
@@ -226,10 +236,43 @@ def main():
 
     args.output_directory.mkdir(parents=True, exist_ok=True)
 
-    for alternation_csv in alternation_csvs:
-        print(f"running experiment on {alternation_csv}")
+    if args.use_context_embeddings:
+        try:
+            # Load context word embeddings.
+            layer_embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE, allow_pickle=True)
+        except FileNotFoundError as e:
+            message = f"""
+            {PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE} not found.  
+            Execute 'run_linear_classifier_experiment --use_context_embeddings` before continuing.
+            """
+            raise FileNotFoundError(message) from e
+    
+    else:
+        try:
+            # Load static word embeddings.
+            word_embeddings = np.load(PATH_TO_BERT_WORD_EMBEDDINGS_FILE, allow_pickle=True)
+        except FileNotFoundError as e:
+            message = f"""
+            {PATH_TO_BERT_WORD_EMBEDDINGS_FILE} not found.  
+            Execute 'run_linear_classifier_experiment` before continuing.
+            """
+            raise FileNotFoundError(message) from e
 
-        run_experiment_for_alternation_csv(alternation_csv, args.output_directory)
+
+    if args.use_context_embeddings:
+        # Loop over each context layer
+        for i in range(layer_embeddings.shape[1]):
+            word_embeddings = layer_embeddings[:, i, :]
+            for alternation_csv in alternation_csvs:
+                print(f'Layer {i+1}')
+                print('----------------------------------------')
+                print(f"running experiment on {alternation_csv}")
+                run_experiment_for_alternation_csv(alternation_csv, args.output_directory, word_embeddings, layer=i+1)
+            print('\n')
+    else:
+        for alternation_csv in alternation_csvs:
+            print(f"running experiment on {alternation_csv}")
+            run_experiment_for_alternation_csv(alternation_csv, args.output_directory, word_embeddings)
 
 
 if __name__ == "__main__":
