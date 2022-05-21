@@ -78,7 +78,9 @@ context_embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
  *  `run_linear_classifier_experiment`: Will run our experiment to predict
     alternation classes from static BERT embeddings derived from the LAVA dataset.
 
-     * usage: `get_bert_word_embeddings <output_directory>`
+     * usage: `run_linear_classifier_experiment [--output_directory] [--use_context_embeddings]`
+     * Example: To run the linear classifier experiment with contextual embeddings:
+        * `run_linear_classifier_experiment --use_context_embeddings`
      * Note: <`output_directory`> will default to `./results/linear-probe-for-word-embeddings`
      * Note: `./download-datasets.sh` and the jupyter notebook `./data_analysis.ipynb` must be
              run first to make the data available.

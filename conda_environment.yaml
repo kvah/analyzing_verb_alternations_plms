@@ -6,6 +6,8 @@ dependencies:
   - jupyter
   - notebook
   - pandas
+  - seaborn=0.11.2
+  - matplotlib=3.5.2
   - pytest=7.1.2
   - python=3.9
   - scikit-learn=1.0.2
