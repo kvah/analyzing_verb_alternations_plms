@@ -5,6 +5,7 @@ syntactic frames of verbs based on their static or contextual word embeddings.
 Authors
 -------
 James V. Bruno (jbruno@uw.edu)
+David Yi (davidyi6@uw.edu)
 """
 import argparse
 import json
@@ -99,34 +100,31 @@ def get_evaluation_df(
     return evaluation_df
 
 
-def run_experiment_for_alternation_csv(
-    alternation_csv: Path, output_directory: Path, word_embeddings: torch.Tensor, layer: int = None
+def run_experiment_for_alternation_df(
+    df_labels: pd.DataFrame, frame:str, output_directory: Path, word_embeddings: torch.Tensor, layer: int = None
 ) -> None:
-    """Train and evaluate a LogisticRegression classifer on the data in ``alternation_csv``.
+    """Train and evaluate a LogisticRegression classifer on the data in ``alternation_df``.
     Two result files will be written to ``output_directory``:
         * a file of predictions: ``*_predictions.csv``
         * a file of evaluation metrics: ``*_evaluation_metrics.csv``
     Parameters
     ----------
-    alternation_csv : Path
-        path to alternation csv with gold standard binary labels.
+    df_labels : pd.DataFrame
+        pandas DataFrame with gold standard binary labels for a specific syntactic frame
+    frame: 
+        which verb frame to use for this experiment, e.g. `causative`
     output_directory : Path
         path to output directory.
     word_embeddings: torch.Tensor
         word embedding tensor of shape (instances, classes)
     """
-    # Load the input data.
-    df_labels = pd.read_csv(alternation_csv)
 
     # Get the indices for the verbs in this dataset.
-    indices_for_X = [VOCAB_TO_INDEX[verb] for verb in df_labels["verb"]]
-
-    # Set the verb as the index of the dataframe to make the numpy conversion clean.
-    df_labels = df_labels.set_index("verb")
+    indices_for_X = [VOCAB_TO_INDEX[verb] for verb in df_labels.index]
 
     # Prepare the data structure for the gold standard labels.
     # This is an array of shape (|instances|, |classes|).
-    Y = df_labels.to_numpy()
+    Y = df_labels[frame]
 
     # And now get the embeddings to use as features.
     # This is an array of shape (|instances|, 768).
@@ -137,19 +135,12 @@ def run_experiment_for_alternation_csv(
         n_splits=NUMBER_XVAL_FOLDS, shuffle=True, random_state=RANDOM_STATE
     )
 
-    # It's nice to use stratified cross-validation to make sure we get an
-    # even representation of classes across folds, but we can't do that
-    # with a multi-label classification problem.  We'll try to hack it to get
-    # close by summing the binary labels, so we know there are at least some
-    # positive cases in each fold.
-    collapsed_Y = Y.sum(axis=1)
-
     # Create a list to hold dictionaries of classification results for each instance.
     results = []
 
     # Iterate over our 4 cross-validation folds and train a classifier for each fold.
     for fold, (train_indices, test_indices) in enumerate(
-        cross_validation_iterator.split(X, collapsed_Y), start=1
+        cross_validation_iterator.split(X, Y), start=1
     ):
 
         X_test = X[test_indices]
@@ -160,13 +151,14 @@ def run_experiment_for_alternation_csv(
         Y_train = Y[train_indices]
 
         # Define a classifier.
-        classifier = MultiOutputClassifier(
-            LogisticRegression(penalty="none")
-            # The performance was abysmal when we used the L2 penalty, even with CV.
-            # I guess we're not worried about overfitting for this.
-        )
+        # The performance was abysmal when we used the L2 penalty, even with CV.
+        # I guess we're not worried about overfitting for this.
+        if len(np.unique(Y_train)) < 2:
+            # sklearn LR will error if there's only one class
+            classifier = DummyClassifier(strategy="most_frequent")
+        else:
+            classifier = LogisticRegression(penalty="none")
         classifier.fit(X_train, Y_train)
-
         predictions = classifier.predict(X_test)
 
         # Iterate over instances and collect true vs. predictions for each alternation.
@@ -175,37 +167,35 @@ def run_experiment_for_alternation_csv(
             # Start to build up a dictinoary for this instance.
             result_dict = {"verb": verb, "fold": fold}
 
-            # The array_index corresponds exactly to the column index from the input df.
-            for array_index, alternation_class in enumerate(df_labels.columns):
-
-                # Add classification results and true labels to the dictionary.
-                result_dict[f"{alternation_class}_true"] = true_label[array_index]
-                result_dict[f"{alternation_class}_predicted"] = prediction[array_index]
-
+            # Add classification results and true labels to the dictionary.
+            result_dict[f"{frame}_true"] = true_label
+            result_dict[f"{frame}_predicted"] = prediction
             results.append(result_dict)
 
     # Collect the results together into a nice DataFrame to output.
     predictions_df = pd.DataFrame.from_records(results)
 
     # Store the predictions for future reference.
-    prediction_file = output_directory / f"{alternation_csv.stem}_predictions.csv"
+    if layer:
+        layer_dir = output_directory / str(layer)
+        layer_dir.mkdir(parents=True, exist_ok=True)
+        prediction_file = layer_dir / f"{frame}_predictions.csv"
+    else:
+        static_dir = output_directory / "static"
+        static_dir.mkdir(parents=True, exist_ok=True)
+        prediction_file = static_dir / f"{frame}_predictions.csv"
     predictions_df.to_csv(prediction_file, index=False)
 
     # Get evaluation metrics.
     evaluation_df = get_evaluation_df(predictions_df, df_labels.columns.tolist())
-
     print(evaluation_df)
 
     # And store them.
     if layer:
-        layer_dir = output_directory / str(layer)
-        layer_dir.mkdir(parents=True, exist_ok=True)
-        evaluation_file = layer_dir / f"{alternation_csv.stem}_evaluation_metrics.csv"
+        evaluation_file = layer_dir / f"{frame}_evaluation_metrics.csv"
         evaluation_df.to_csv(evaluation_file, index=False)
     else:
-        static_dir = output_directory / "static"
-        static_dir.mkdir(parents=True, exist_ok=True)
-        evaluation_file = static_dir / f"{alternation_csv.stem}_evaluation_metrics.csv"
+        evaluation_file = static_dir / f"{frame}_evaluation_metrics.csv"
     evaluation_df.to_csv(evaluation_file, index=False)
 
 
@@ -228,11 +218,8 @@ def main():
     )
     args = parser.parse_args()
 
-    alternation_csvs = [
-        csv_file
-        for csv_file in PATH_TO_LAVA_DIR.glob("*.csv")
-        if not csv_file.stem == "all_verbs"
-    ]
+    alternation_csv = PATH_TO_LAVA_DIR / 'verb_frames.csv'
+    alternation_df = pd.read_csv(alternation_csv, index_col='verb')
 
     args.output_directory.mkdir(parents=True, exist_ok=True)
 
@@ -243,7 +230,7 @@ def main():
         except FileNotFoundError as e:
             message = f"""
             {PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE} not found.  
-            Execute 'run_linear_classifier_experiment --use_context_embeddings` before continuing.
+            Execute 'get_bert_context_word_embeddings` before continuing.
             """
             raise FileNotFoundError(message) from e
     
@@ -254,7 +241,7 @@ def main():
         except FileNotFoundError as e:
             message = f"""
             {PATH_TO_BERT_WORD_EMBEDDINGS_FILE} not found.  
-            Execute 'run_linear_classifier_experiment` before continuing.
+            Execute 'get_bert_word_embeddings` before continuing.
             """
             raise FileNotFoundError(message) from e
 
@@ -263,16 +250,24 @@ def main():
         # Loop over each context layer
         for i in range(layer_embeddings.shape[1]):
             word_embeddings = layer_embeddings[:, i, :]
-            for alternation_csv in alternation_csvs:
-                print(f'Layer {i+1}')
+            print(f'Layer {i+1}')
+            for frame in alternation_df.columns:
+                frame_df = alternation_df[[frame]]
+                # Remove verbs with missing values
+                frame_df = frame_df[frame_df[frame] != 'x'].astype(int)
                 print('----------------------------------------')
-                print(f"running experiment on {alternation_csv}")
-                run_experiment_for_alternation_csv(alternation_csv, args.output_directory, word_embeddings, layer=i+1)
+                print(f"running experiment on {frame}")
+                run_experiment_for_alternation_df(
+                    frame_df, frame, args.output_directory, word_embeddings, layer=i+1
+                )
             print('\n')
     else:
-        for alternation_csv in alternation_csvs:
-            print(f"running experiment on {alternation_csv}")
-            run_experiment_for_alternation_csv(alternation_csv, args.output_directory, word_embeddings)
+        for frame in alternation_df.columns:
+            frame_df = alternation_df[[frame]]
+            # Remove verbs with missing values
+            frame_df = frame_df[frame_df[frame] != 'x'].astype(int)
+            print(f"running experiment on {frame}")
+            run_experiment_for_alternation_df(frame_df, frame, args.output_directory, word_embeddings)
 
 
 if __name__ == "__main__":
