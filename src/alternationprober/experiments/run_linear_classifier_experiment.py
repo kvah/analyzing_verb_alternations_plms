@@ -111,6 +111,8 @@ def run_experiment_for_alternation_df(
     ----------
     df_labels : pd.DataFrame
         pandas DataFrame with gold standard binary labels for a specific syntactic frame
+    frame: 
+        which verb frame to use for this experiment, e.g. `causative`
     output_directory : Path
         path to output directory.
     word_embeddings: torch.Tensor
