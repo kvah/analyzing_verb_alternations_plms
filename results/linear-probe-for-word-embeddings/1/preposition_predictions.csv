@@ -1,5 +1,5 @@
 verb,fold,preposition_true,preposition_predicted
-fed,1,1,0
+fed,1,1,1
 leased,1,1,1
 awarded,1,1,1
 ceded,1,1,1
@@ -8,14 +8,14 @@ posted,1,1,1
 flung,1,1,0
 kicked,1,1,0
 taught,1,1,1
-explained,1,1,0
+explained,1,1,1
 demonstrated,1,1,1
 restored,1,1,0
 mentioned,1,1,1
 suggested,1,1,1
 proposed,1,1,1
-administered,1,1,1
-expressed,1,1,0
+administered,1,1,0
+expressed,1,1,1
 begrudged,1,0,0
 forgave,1,0,0
 wished,1,0,0
@@ -64,7 +64,7 @@ sprayed,1,0,0
 sprinkled,1,0,0
 rubbed,1,0,0
 sowed,1,0,0
-anointed,1,0,0
+anointed,1,0,1
 bathed,1,0,0
 embellished,1,0,0
 festooned,1,0,0
@@ -125,7 +125,7 @@ threw,2,1,1
 illustrated,2,1,1
 announced,2,1,1
 confessed,2,1,1
-broadcasted,2,1,0
+broadcasted,2,1,1
 cost,2,0,0
 bore,2,0,0
 tipped,2,0,0
@@ -227,10 +227,10 @@ bequeathed,3,1,1
 granted,3,1,1
 promised,3,1,1
 allocated,3,1,1
-forwarded,3,1,1
+forwarded,3,1,0
 mailed,3,1,1
 shipped,3,1,1
-chucked,3,1,1
+chucked,3,1,0
 read,3,1,0
 recited,3,1,1
 declared,3,1,1
@@ -290,7 +290,7 @@ drenched,3,0,0
 flooded,3,0,0
 stained,3,0,0
 clogged,3,0,0
-bound,3,0,0
+bound,3,0,1
 innundated,3,0,0
 saturated,3,0,0
 tiled,3,0,0
@@ -383,7 +383,7 @@ cut,4,0,0
 polished,4,0,0
 buffed,4,0,0
 understood,4,0,0
-recounted,4,0,0
+recounted,4,0,1
 enjoyed,4,0,0
 stuffed,4,0,0
 packed,4,0,0

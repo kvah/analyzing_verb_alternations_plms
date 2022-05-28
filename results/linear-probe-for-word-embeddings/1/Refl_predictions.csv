@@ -45,7 +45,7 @@ dissolved,1,0,0
 heated,1,0,0
 defrosted,1,0,0
 emptied,1,0,0
-tightened,1,0,1
+tightened,1,0,0
 doubled,1,0,0
 cleaned,1,0,0
 ate,1,0,0
@@ -215,7 +215,7 @@ mounted,2,0,0
 hammered,2,0,0
 dripped,2,0,0
 spewed,2,0,0
-spurted,2,1,0
+spurted,2,1,1
 shovelled,2,0,0
 shook,2,0,0
 looped,2,0,0
@@ -225,14 +225,14 @@ stood,2,0,0
 blazed,2,0,0
 crackled,2,0,0
 protruded,2,0,0
-hovered,2,0,1
+hovered,2,0,0
 kneeled,2,0,0
 exuded,2,0,0
 emerged,2,0,0
 gushed,2,0,0
 appeared,2,0,0
 followed,2,0,0
-slammed,2,1,0
+slammed,2,1,1
 halted,2,0,0
 jumped,2,0,0
 spoke,2,0,0
@@ -334,7 +334,7 @@ sat,3,0,0
 dangled,3,0,0
 suspended,3,0,0
 rammed,3,0,0
-raked,3,1,0
+raked,3,1,1
 coiled,3,0,0
 whirled,3,0,0
 laid,3,0,0

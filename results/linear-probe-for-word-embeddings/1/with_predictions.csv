@@ -6,7 +6,7 @@ rented,1,0,0
 awarded,1,0,0
 forwarded,1,0,0
 mailed,1,0,0
-lugged,1,0,0
+lugged,1,0,1
 dragged,1,0,0
 hauled,1,0,0
 flung,1,0,0
@@ -14,7 +14,7 @@ tossed,1,0,0
 threw,1,0,0
 read,1,0,0
 told,1,0,0
-restored,1,0,0
+restored,1,0,1
 returned,1,0,0
 admitted,1,0,0
 mentioned,1,0,0
@@ -33,10 +33,10 @@ popped,1,1,0
 scorched,1,1,1
 blackened,1,1,1
 melted,1,1,0
-rotated,1,1,1
+rotated,1,1,0
 vaporized,1,1,1
 bent,1,1,1
-folded,1,1,1
+folded,1,1,0
 wrinkled,1,1,1
 expanded,1,1,1
 dissolved,1,1,1
@@ -96,7 +96,7 @@ granted,2,0,0
 posted,2,0,0
 carried,2,0,0
 schlepped,2,0,0
-illustrated,2,0,0
+illustrated,2,0,1
 demonstrated,2,0,0
 contributed,2,0,0
 conveyed,2,0,0
@@ -117,8 +117,8 @@ opened,2,0,0
 flung open,2,0,1
 cracked,2,0,0
 crashed,2,1,1
-slowed,2,0,0
-burst,2,1,0
+slowed,2,0,1
+burst,2,1,1
 burned,2,1,1
 singed,2,1,0
 liquefied,2,1,1
@@ -126,7 +126,7 @@ twirled,2,1,1
 twisted,2,1,1
 evaporated,2,1,0
 grew,2,1,1
-shrank,2,1,1
+shrank,2,1,0
 darkened,2,1,1
 brightened,2,1,1
 soaked,2,1,1
@@ -194,10 +194,10 @@ named,3,0,0
 found,3,0,0
 shut,3,0,0
 broke,3,0,0
-chipped,3,0,0
+chipped,3,0,1
 softened,3,1,1
 condensed,3,1,1
-warped,3,1,0
+warped,3,1,1
 flattened,3,1,1
 steeped,3,1,1
 warmed,3,1,1
@@ -231,7 +231,7 @@ squirted,3,0,0
 dabbed,3,0,0
 scattered,3,0,0
 bathed,3,0,1
-coated,3,0,0
+coated,3,0,1
 covered,3,0,0
 festooned,3,0,0
 studded,3,0,0
@@ -248,7 +248,7 @@ paved,3,0,0
 dotted,3,0,0
 interlaced,3,0,0
 blotted,3,0,0
-dumped,3,0,1
+dumped,3,0,0
 siphoned,3,0,0
 hoisted,3,0,0
 placed,3,0,0
@@ -269,7 +269,7 @@ proposed,4,0,0
 administered,4,0,0
 expressed,4,0,0
 broadcasted,4,0,0
-envied,4,0,0
+envied,4,0,1
 forgave,4,0,0
 wished,4,0,0
 refused,4,0,0
@@ -292,13 +292,13 @@ crumpled,4,1,1
 frayed,4,1,1
 stretched,4,1,1
 unfolded,4,1,0
-smoothed,4,1,0
+smoothed,4,1,1
 enlarged,4,1,1
 faded,4,1,1
 cooled,4,1,1
 loosened,4,1,1
 tightened,4,1,1
-moistened,4,1,0
+moistened,4,1,1
 destroyed,4,1,1
 cleaned,4,1,1
 mopped,4,1,1
