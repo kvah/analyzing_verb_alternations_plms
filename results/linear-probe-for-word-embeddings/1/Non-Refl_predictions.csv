@@ -82,7 +82,7 @@ lined,1,0,0
 tiled,1,0,0
 framed,1,0,0
 interspersed,1,0,0
-flecked,1,0,1
+flecked,1,0,0
 slopped,1,0,0
 placed,1,0,0
 set,1,0,0
@@ -369,7 +369,7 @@ dealt,3,0,0
 disagreed,3,0,0
 searched,3,0,0
 winked,3,1,1
-flexed,3,1,0
+flexed,3,1,1
 puckered,3,0,0
 smacked,3,0,0
 shuffled,3,0,0

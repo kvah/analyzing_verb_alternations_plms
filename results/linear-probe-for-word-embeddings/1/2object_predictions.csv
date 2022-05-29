@@ -4,7 +4,7 @@ brought,1,1,1
 loaned,1,1,1
 carried,1,1,0
 schlepped,1,1,0
-hauled,1,1,1
+hauled,1,1,0
 kicked,1,1,1
 showed,1,1,0
 announced,1,0,0
@@ -13,7 +13,7 @@ confessed,1,0,0
 distributed,1,0,0
 administered,1,0,0
 envied,1,1,1
-forgave,1,1,0
+forgave,1,1,1
 refused,1,1,1
 charged,1,1,1
 spared,1,1,1
@@ -128,7 +128,7 @@ rouged,1,0,0
 bit,1,0,0
 sprained,1,0,0
 pricked,1,0,0
-fed,2,1,0
+fed,2,1,1
 sent,2,1,1
 sold,2,1,1
 peddled,2,1,0
@@ -280,7 +280,7 @@ restored,3,0,0
 returned,3,0,1
 reported,3,0,0
 proposed,3,0,0
-broadcasted,3,0,1
+broadcasted,3,0,0
 begrudged,3,1,1
 bore,3,1,1
 pronounced,3,1,1
@@ -386,7 +386,7 @@ dyed,3,0,0
 plaited,3,0,0
 coldcreamed,3,0,0
 split,3,0,0
-served,4,1,1
+served,4,1,0
 rented,4,1,1
 assigned,4,1,1
 bequeathed,4,1,1
@@ -396,11 +396,11 @@ threw,4,1,1
 read,4,1,0
 taught,4,1,1
 donated,4,0,1
-declared,4,0,1
+declared,4,0,0
 mentioned,4,0,1
 expressed,4,0,0
 wished,4,1,1
-saved,4,1,0
+saved,4,1,1
 overcharged,4,1,1
 bet,4,1,1
 appointed,4,1,1

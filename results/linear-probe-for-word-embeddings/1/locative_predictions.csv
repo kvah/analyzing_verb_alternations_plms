@@ -35,7 +35,7 @@ melted,1,1,0
 twirled,1,1,1
 twisted,1,1,1
 rotated,1,1,1
-grew,1,1,0
+grew,1,1,1
 defrosted,1,0,0
 emptied,1,0,0
 filled,1,0,0
@@ -58,11 +58,11 @@ squirted,1,1,1
 spreaded,1,1,1
 plastered,1,1,1
 draped,1,1,1
-covered,1,1,1
+covered,1,1,0
 adorned,1,1,1
 ornamented,1,1,1
 ringed,1,1,1
-dappled,1,1,1
+dappled,1,1,0
 swaddled,1,1,1
 littered,1,0,0
 drenched,1,0,0
@@ -114,8 +114,8 @@ closed,2,0,0
 shattered,2,0,0
 dropped,2,1,1
 maneuvered,2,0,0
-blackened,2,1,1
-softened,2,1,1
+blackened,2,1,0
+softened,2,1,0
 bounced,2,1,1
 condensed,2,1,1
 warped,2,1,1
@@ -123,8 +123,8 @@ frayed,2,1,1
 smoothed,2,1,0
 enlarged,2,1,0
 expanded,2,0,0
-shrank,2,0,1
-darkened,2,0,1
+shrank,2,0,0
+darkened,2,0,0
 faded,2,0,0
 soaked,2,0,0
 steeped,2,0,0
@@ -142,7 +142,7 @@ collected,2,0,0
 published,2,0,0
 skimmed,2,0,1
 admired,2,0,0
-hated,2,0,1
+hated,2,0,0
 loved,2,0,1
 enjoyed,2,0,0
 uncovered,2,0,0
@@ -160,7 +160,7 @@ smothered,2,1,1
 festooned,2,1,1
 cluttered,2,1,1
 emblazoned,2,1,1
-encrusted,2,1,1
+encrusted,2,1,0
 veiled,2,0,0
 suffused,2,0,0
 deluged,2,0,0
@@ -178,7 +178,7 @@ allotted,3,0,0
 granted,3,0,0
 promised,3,0,0
 dragged,3,0,1
-tossed,3,0,1
+tossed,3,0,0
 threw,3,0,0
 taught,3,0,0
 recited,3,0,0
@@ -211,7 +211,7 @@ flattened,3,1,1
 dissolved,3,0,1
 heated,3,0,0
 cooled,3,0,0
-tripled,3,0,0
+tripled,3,0,1
 moistened,3,0,1
 dampened,3,0,0
 improved,3,0,0
@@ -232,11 +232,11 @@ scattered,3,1,1
 anointed,3,1,1
 bathed,3,1,1
 embellished,3,1,0
-garnished,3,1,1
+garnished,3,1,0
 wreathed,3,1,1
 garlanded,3,1,1
 robed,3,1,1
-shrouded,3,0,0
+shrouded,3,0,1
 carpeted,3,0,0
 stained,3,0,0
 clogged,3,0,0
@@ -272,7 +272,7 @@ distributed,4,0,0
 broadcasted,4,0,0
 forgave,4,0,0
 charged,4,0,0
-tipped,4,0,0
+tipped,4,0,1
 spared,4,0,0
 appointed,4,0,0
 pronounced,4,0,0
