@@ -1,0 +1,551 @@
+alternation	label	sentence	pred_label
+inch	1.0	kelly opened the door .	1
+inch	1.0	the door opened .	1
+inch	1.0	christopher opened the gate .	1
+inch	1.0	the gate opened .	1
+inch	1.0	christopher opened the hatch .	1
+inch	1.0	the hatch opened .	1
+inch	1.0	rebecca opened the lid .	1
+inch	1.0	the lid opened .	1
+inch	1.0	nicole closed the door .	1
+inch	1.0	the door closed .	1
+inch	1.0	elizabeth closed the gate .	1
+inch	1.0	the gate closed .	1
+inch	1.0	jason closed the hatch .	1
+inch	1.0	the hatch closed .	1
+inch	1.0	jason closed the lid .	1
+inch	1.0	the lid closed .	1
+inch	1.0	jessica shut the door .	1
+inch	1.0	the door shut .	1
+inch	1.0	nicole shut the gate .	1
+inch	1.0	the gate shut .	1
+inch	1.0	christopher shut the hatch .	1
+inch	1.0	the hatch shut .	1
+inch	1.0	michael shut the lid .	1
+inch	1.0	the lid shut .	1
+inch	1.0	david flung open the door .	1
+inch	1.0	the door flung open .	1
+inch	1.0	james flung open the gate .	1
+inch	1.0	the gate flung open .	1
+inch	1.0	elizabeth flung open the hatch .	1
+inch	1.0	the hatch flung open .	1
+inch	1.0	david flung open the lid .	1
+inch	1.0	the lid flung open .	1
+inch	1.0	rebecca broke the vase .	1
+inch	1.0	the vase broke .	1
+inch	1.0	jessica broke the glass .	1
+inch	1.0	the glass broke .	1
+inch	1.0	michael broke the bowl .	1
+inch	1.0	the bowl broke .	1
+inch	1.0	elizabeth broke the platter .	1
+inch	1.0	the platter broke .	1
+inch	1.0	jessica broke the window .	1
+inch	1.0	the window broke .	1
+inch	1.0	james broke the screen .	1
+inch	1.0	the screen broke .	1
+inch	1.0	rebecca shattered the vase .	1
+inch	1.0	the vase shattered .	1
+inch	1.0	kelly shattered the glass .	1
+inch	1.0	the glass shattered .	1
+inch	1.0	michael shattered the bowl .	1
+inch	1.0	the bowl shattered .	1
+inch	1.0	rebecca shattered the platter .	1
+inch	1.0	the platter shattered .	1
+inch	1.0	jason shattered the window .	1
+inch	1.0	the window shattered .	1
+inch	1.0	michael shattered the screen .	1
+inch	1.0	the screen shattered .	1
+inch	1.0	david cracked the vase .	1
+inch	1.0	the vase cracked .	1
+inch	1.0	david cracked the glass .	1
+inch	1.0	the glass cracked .	1
+inch	1.0	elizabeth cracked the bowl .	1
+inch	1.0	the bowl cracked .	1
+inch	1.0	michael cracked the platter .	1
+inch	1.0	the platter cracked .	1
+inch	1.0	james cracked the window .	1
+inch	1.0	the window cracked .	1
+inch	1.0	jason cracked the screen .	1
+inch	1.0	the screen cracked .	1
+inch	1.0	james chipped the vase .	1
+inch	1.0	the vase chipped .	1
+inch	1.0	elizabeth chipped the glass .	1
+inch	1.0	the glass chipped .	1
+inch	1.0	rebecca chipped the bowl .	1
+inch	1.0	the bowl chipped .	1
+inch	1.0	rebecca chipped the platter .	1
+inch	1.0	the platter chipped .	1
+inch	1.0	christopher chipped the window .	1
+inch	1.0	the window chipped .	1
+inch	1.0	michael chipped the screen .	1
+inch	1.0	the screen chipped .	1
+inch	1.0	david popped the bubble .	1
+inch	1.0	the bubble popped .	1
+inch	1.0	michael popped the balloon .	1
+inch	1.0	the balloon popped .	1
+inch	1.0	kelly popped the ball .	1
+inch	1.0	the ball popped .	1
+inch	1.0	david popped the bag .	1
+inch	1.0	the bag popped .	1
+inch	1.0	david burst the bubble .	1
+inch	1.0	the bubble burst .	1
+inch	1.0	christopher burst the balloon .	1
+inch	1.0	the balloon burst .	1
+inch	1.0	david burst the ball .	1
+inch	1.0	the ball burst .	1
+inch	1.0	james burst the bag .	1
+inch	1.0	the bag burst .	1
+inch	1.0	rebecca burned the wood .	1
+inch	1.0	the wood burned .	1
+inch	1.0	christopher burned the candle .	1
+inch	1.0	the candle burned .	1
+inch	1.0	rebecca burned the paper .	1
+inch	1.0	the paper burned .	1
+inch	1.0	david burned the book .	1
+inch	1.0	the book burned .	1
+inch	1.0	rebecca burned the toast .	1
+inch	1.0	the toast burned .	1
+inch	1.0	jason burned the steak .	1
+inch	1.0	the steak burned .	1
+inch	1.0	kelly scorched the wood .	1
+inch	1.0	the wood scorched .	1
+inch	1.0	christopher scorched the candle .	1
+inch	1.0	the candle scorched .	1
+inch	1.0	jessica scorched the paper .	1
+inch	1.0	the paper scorched .	1
+inch	1.0	james scorched the book .	1
+inch	1.0	the book scorched .	1
+inch	1.0	jason scorched the toast .	1
+inch	1.0	the toast scorched .	1
+inch	1.0	michael scorched the steak .	1
+inch	1.0	the steak scorched .	1
+inch	1.0	rebecca singed the wood .	1
+inch	1.0	the wood singed .	1
+inch	1.0	michael singed the candle .	1
+inch	1.0	the candle singed .	1
+inch	1.0	jason singed the paper .	1
+inch	1.0	the paper singed .	1
+inch	1.0	jessica singed the book .	1
+inch	1.0	the book singed .	1
+inch	1.0	nicole singed the toast .	1
+inch	1.0	the toast singed .	1
+inch	1.0	james singed the steak .	1
+inch	1.0	the steak singed .	1
+inch	1.0	elizabeth blackened the wood .	1
+inch	1.0	the wood blackened .	1
+inch	1.0	nicole blackened the candle .	1
+inch	1.0	the candle blackened .	1
+inch	1.0	james blackened the paper .	1
+inch	1.0	the paper blackened .	1
+inch	1.0	kelly blackened the book .	1
+inch	1.0	the book blackened .	1
+inch	1.0	rebecca blackened the toast .	1
+inch	1.0	the toast blackened .	1
+inch	1.0	jason blackened the steak .	1
+inch	1.0	the steak blackened .	1
+inch	1.0	nicole twirled the ribbon .	1
+inch	1.0	the ribbon twirled .	1
+inch	1.0	james twirled the flag .	1
+inch	1.0	the flag twirled .	1
+inch	1.0	rebecca twisted the ribbon .	1
+inch	1.0	the ribbon twisted .	1
+inch	1.0	james twisted the flag .	1
+inch	1.0	the flag twisted .	1
+inch	1.0	elizabeth grew the tree .	1
+inch	1.0	the tree grew .	1
+inch	1.0	james grew the plant .	1
+inch	1.0	the plant grew .	1
+inch	1.0	jason grew the tomato .	1
+inch	1.0	the tomato grew .	1
+inch	1.0	jessica enlarged the image .	1
+inch	1.0	the image enlarged .	1
+inch	1.0	jason enlarged the picture .	1
+inch	1.0	the picture enlarged .	1
+inch	1.0	nicole enlarged the project .	1
+inch	1.0	the project enlarged .	1
+inch	1.0	james expanded the image .	1
+inch	1.0	the image expanded .	1
+inch	1.0	james expanded the picture .	1
+inch	1.0	the picture expanded .	1
+inch	1.0	jason expanded the project .	1
+inch	1.0	the project expanded .	1
+inch	1.0	elizabeth shrank the image .	1
+inch	1.0	the image shrank .	1
+inch	1.0	james shrank the picture .	1
+inch	1.0	the picture shrank .	1
+inch	1.0	michael shrank the project .	1
+inch	1.0	the project shrank .	1
+inch	1.0	james soaked the tea .	1
+inch	1.0	the tea soaked .	1
+inch	1.0	rebecca soaked the coffee .	1
+inch	1.0	the coffee soaked .	1
+inch	1.0	james soaked the spices .	1
+inch	1.0	the spices soaked .	1
+inch	1.0	james soaked the herbs .	1
+inch	1.0	the herbs soaked .	1
+inch	1.0	nicole steeped the tea .	1
+inch	1.0	the tea steeped .	1
+inch	1.0	james steeped the coffee .	1
+inch	1.0	the coffee steeped .	1
+inch	1.0	james steeped the spices .	1
+inch	1.0	the spices steeped .	1
+inch	1.0	nicole steeped the herbs .	1
+inch	1.0	the herbs steeped .	1
+inch	1.0	jason heated the water .	1
+inch	1.0	the water heated .	1
+inch	1.0	jason heated the food .	1
+inch	1.0	the food heated .	1
+inch	1.0	kelly heated the casserole .	1
+inch	1.0	the casserole heated .	1
+inch	1.0	james heated the dinner .	1
+inch	1.0	the dinner heated .	1
+inch	1.0	christopher cooled the water .	1
+inch	1.0	the water cooled .	1
+inch	1.0	jason cooled the food .	1
+inch	1.0	the food cooled .	1
+inch	1.0	michael cooled the casserole .	1
+inch	1.0	the casserole cooled .	1
+inch	1.0	michael cooled the dinner .	1
+inch	1.0	the dinner cooled .	1
+inch	1.0	james warmed the water .	1
+inch	1.0	the water warmed .	1
+inch	1.0	christopher warmed the food .	1
+inch	1.0	the food warmed .	1
+inch	1.0	jessica warmed the casserole .	1
+inch	1.0	the casserole warmed .	1
+inch	1.0	david warmed the dinner .	1
+inch	1.0	the dinner warmed .	1
+inch	1.0	james defrosted the water .	1
+inch	1.0	the water defrosted .	1
+inch	1.0	elizabeth defrosted the food .	1
+inch	1.0	the food defrosted .	1
+inch	1.0	elizabeth defrosted the casserole .	1
+inch	1.0	the casserole defrosted .	1
+inch	1.0	christopher defrosted the dinner .	1
+inch	1.0	the dinner defrosted .	1
+inch	1.0	elizabeth emptied the well .	1
+inch	1.0	the well emptied .	1
+inch	1.0	david emptied the container .	1
+inch	1.0	the container emptied .	1
+inch	1.0	david emptied the bowl .	1
+inch	1.0	the bowl emptied .	1
+inch	1.0	jessica emptied the glass .	1
+inch	1.0	the glass emptied .	1
+inch	1.0	rebecca filled the well .	1
+inch	1.0	the well filled .	1
+inch	1.0	rebecca filled the container .	1
+inch	1.0	the container filled .	1
+inch	1.0	david filled the bowl .	1
+inch	1.0	the bowl filled .	1
+inch	1.0	michael filled the glass .	1
+inch	1.0	the glass filled .	1
+inch	1.0	rebecca doubled the assets .	1
+inch	1.0	the assets doubled .	1
+inch	1.0	michael doubled the audience .	1
+inch	1.0	the audience doubled .	1
+inch	1.0	michael doubled the money .	1
+inch	1.0	the money doubled .	1
+inch	1.0	michael doubled the garden .	1
+inch	1.0	the garden doubled .	1
+inch	1.0	james doubled the crowd .	1
+inch	1.0	the crowd doubled .	1
+inch	1.0	christopher tripled the assets .	1
+inch	1.0	the assets tripled .	1
+inch	1.0	jessica tripled the audience .	1
+inch	1.0	the audience tripled .	1
+inch	1.0	nicole tripled the money .	1
+inch	1.0	the money tripled .	1
+inch	1.0	nicole tripled the garden .	1
+inch	1.0	the garden tripled .	1
+inch	1.0	nicole tripled the crowd .	1
+inch	1.0	the crowd tripled .	1
+inch	1.0	christopher quadrupled the assets .	1
+inch	1.0	the assets quadrupled .	1
+inch	1.0	rebecca quadrupled the audience .	1
+inch	1.0	the audience quadrupled .	1
+inch	1.0	james quadrupled the money .	1
+inch	1.0	the money quadrupled .	1
+inch	1.0	michael quadrupled the garden .	1
+inch	1.0	the garden quadrupled .	1
+inch	1.0	christopher quadrupled the crowd .	1
+inch	1.0	the crowd quadrupled .	1
+inch	1.0	david improved the plan .	1
+inch	1.0	the plan improved .	1
+inch	1.0	david improved the plot .	1
+inch	1.0	the plot improved .	1
+inch	1.0	james improved the scheme .	1
+inch	1.0	the scheme improved .	1
+inch	1.0	christopher improved the idea .	1
+inch	1.0	the idea improved .	1
+inch	1.0	james improved the procedure .	1
+inch	1.0	the procedure improved .	1
+inch	1.0	elizabeth improved the organization .	1
+inch	1.0	the organization improved .	1
+inch	1.0	michael developed the plan .	1
+inch	1.0	the plan developed .	1
+inch	1.0	nicole developed the plot .	1
+inch	1.0	the plot developed .	1
+inch	1.0	michael developed the scheme .	1
+inch	1.0	the scheme developed .	1
+inch	1.0	elizabeth developed the idea .	1
+inch	1.0	the idea developed .	1
+inch	1.0	jessica developed the procedure .	1
+inch	1.0	the procedure developed .	1
+inch	1.0	jason developed the organization .	1
+inch	1.0	the organization developed .	1
+inch	1.0	kelly expanded the plan .	1
+inch	1.0	the plan expanded .	1
+inch	1.0	christopher expanded the plot .	1
+inch	1.0	the plot expanded .	1
+inch	1.0	james expanded the scheme .	1
+inch	1.0	the scheme expanded .	1
+inch	1.0	michael expanded the idea .	1
+inch	1.0	the idea expanded .	1
+inch	1.0	michael expanded the procedure .	1
+inch	1.0	the procedure expanded .	1
+inch	1.0	rebecca expanded the organization .	1
+inch	1.0	the organization expanded .	1
+inch	1.0	james worsened the plan .	1
+inch	1.0	the plan worsened .	1
+inch	1.0	jessica worsened the plot .	1
+inch	1.0	the plot worsened .	1
+inch	1.0	kelly worsened the scheme .	1
+inch	1.0	the scheme worsened .	1
+inch	1.0	david worsened the idea .	1
+inch	1.0	the idea worsened .	1
+inch	1.0	jason worsened the procedure .	1
+inch	1.0	the procedure worsened .	1
+inch	1.0	rebecca worsened the organization .	1
+inch	1.0	the organization worsened .	1
+inch	1.0	david fed the cat .	1
+inch	0.0	the cat fed .	0
+inch	1.0	nicole fed the dog .	1
+inch	0.0	the dog fed .	0
+inch	1.0	jessica fed the kids .	1
+inch	0.0	the kids fed .	0
+inch	1.0	kelly washed the floor .	1
+inch	0.0	the floor washed .	0
+inch	1.0	christopher washed the dishes .	1
+inch	0.0	the dishes washed .	0
+inch	1.0	jessica washed the clothes .	1
+inch	0.0	the clothes washed .	0
+inch	1.0	james cleaned the floor .	1
+inch	0.0	the floor cleaned .	0
+inch	1.0	michael cleaned the dishes .	1
+inch	0.0	the dishes cleaned .	0
+inch	1.0	nicole cleaned the clothes .	1
+inch	0.0	the clothes cleaned .	0
+inch	1.0	jason ate the apple .	1
+inch	0.0	the apple ate .	0
+inch	1.0	kelly ate the cake .	1
+inch	0.0	the cake ate .	0
+inch	1.0	elizabeth ate the orange .	1
+inch	0.0	the orange ate .	0
+inch	1.0	michael devoured the apple .	1
+inch	0.0	the apple devoured .	0
+inch	1.0	jessica devoured the cake .	1
+inch	0.0	the cake devoured .	0
+inch	1.0	nicole devoured the orange .	1
+inch	0.0	the orange devoured .	0
+inch	1.0	nicole read the book .	1
+inch	0.0	the book read .	0
+inch	1.0	michael read the article .	1
+inch	0.0	the article read .	0
+inch	1.0	elizabeth read the novel .	1
+inch	0.0	the novel read .	0
+inch	1.0	james wrote the book .	1
+inch	0.0	the book wrote .	0
+inch	1.0	christopher wrote the article .	1
+inch	0.0	the article wrote .	0
+inch	1.0	kelly wrote the novel .	1
+inch	0.0	the novel wrote .	0
+inch	1.0	jessica polished the surface .	1
+inch	0.0	the surface polished .	0
+inch	1.0	elizabeth polished the brass .	1
+inch	0.0	the brass polished .	0
+inch	1.0	david polished the table .	1
+inch	0.0	the table polished .	0
+inch	1.0	nicole polished the counter .	1
+inch	0.0	the counter polished .	0
+inch	1.0	elizabeth polished the wood .	1
+inch	0.0	the wood polished .	0
+inch	1.0	james buffed the surface .	1
+inch	0.0	the surface buffed .	0
+inch	1.0	david buffed the brass .	1
+inch	0.0	the brass buffed .	0
+inch	1.0	james buffed the table .	1
+inch	0.0	the table buffed .	0
+inch	1.0	jason buffed the counter .	1
+inch	0.0	the counter buffed .	0
+inch	1.0	david buffed the wood .	1
+inch	0.0	the wood buffed .	0
+inch	1.0	elizabeth sanded the surface .	1
+inch	0.0	the surface sanded .	0
+inch	1.0	jason sanded the brass .	1
+inch	0.0	the brass sanded .	0
+inch	1.0	jessica sanded the table .	1
+inch	0.0	the table sanded .	0
+inch	1.0	christopher sanded the counter .	1
+inch	0.0	the counter sanded .	0
+inch	1.0	nicole sanded the wood .	1
+inch	0.0	the wood sanded .	0
+inch	1.0	kelly understood the problem .	1
+inch	0.0	the problem understood .	0
+inch	1.0	michael understood the dilemma .	1
+inch	0.0	the dilemma understood .	0
+inch	1.0	jason understood the puzzle .	1
+inch	0.0	the puzzle understood .	0
+inch	1.0	david understood the issue .	1
+inch	0.0	the issue understood .	0
+inch	1.0	jessica understood the paradox .	1
+inch	0.0	the paradox understood .	0
+inch	1.0	christopher solved the problem .	1
+inch	0.0	the problem solved .	0
+inch	1.0	nicole solved the dilemma .	1
+inch	0.0	the dilemma solved .	0
+inch	1.0	jason solved the puzzle .	1
+inch	0.0	the puzzle solved .	0
+inch	1.0	christopher solved the issue .	1
+inch	0.0	the issue solved .	0
+inch	1.0	jessica solved the paradox .	1
+inch	0.0	the paradox solved .	0
+inch	1.0	james explained the problem .	1
+inch	0.0	the problem explained .	0
+inch	1.0	michael explained the dilemma .	1
+inch	0.0	the dilemma explained .	0
+inch	1.0	kelly explained the puzzle .	1
+inch	0.0	the puzzle explained .	0
+inch	1.0	kelly explained the issue .	1
+inch	0.0	the issue explained .	0
+inch	1.0	james explained the paradox .	1
+inch	0.0	the paradox explained .	0
+inch	1.0	rebecca complicated the problem .	1
+inch	0.0	the problem complicated .	0
+inch	1.0	elizabeth complicated the dilemma .	1
+inch	0.0	the dilemma complicated .	0
+inch	1.0	jason complicated the puzzle .	1
+inch	0.0	the puzzle complicated .	0
+inch	1.0	michael complicated the issue .	1
+inch	0.0	the issue complicated .	0
+inch	1.0	elizabeth complicated the paradox .	1
+inch	0.0	the paradox complicated .	0
+inch	1.0	kelly admired the movie .	1
+inch	0.0	the movie admired .	0
+inch	1.0	michael admired the picture .	1
+inch	0.0	the picture admired .	0
+inch	1.0	nicole admired the painting .	1
+inch	0.0	the painting admired .	0
+inch	1.0	jason admired the novel .	1
+inch	0.0	the novel admired .	0
+inch	1.0	christopher admired the sculpture .	1
+inch	0.0	the sculpture admired .	0
+inch	1.0	rebecca admired the presentation .	1
+inch	0.0	the presentation admired .	0
+inch	1.0	elizabeth admired the speech .	1
+inch	0.0	the speech admired .	0
+inch	1.0	kelly admired the poem .	1
+inch	0.0	the poem admired .	0
+inch	1.0	david hated the movie .	1
+inch	0.0	the movie hated .	0
+inch	1.0	jessica hated the picture .	1
+inch	0.0	the picture hated .	0
+inch	1.0	elizabeth hated the painting .	1
+inch	0.0	the painting hated .	0
+inch	1.0	jason hated the novel .	1
+inch	0.0	the novel hated .	0
+inch	1.0	michael hated the sculpture .	1
+inch	0.0	the sculpture hated .	0
+inch	1.0	kelly hated the presentation .	1
+inch	0.0	the presentation hated .	0
+inch	1.0	michael hated the speech .	1
+inch	0.0	the speech hated .	0
+inch	1.0	david hated the poem .	1
+inch	0.0	the poem hated .	0
+inch	1.0	jason liked the movie .	1
+inch	0.0	the movie liked .	0
+inch	1.0	christopher liked the picture .	1
+inch	0.0	the picture liked .	0
+inch	1.0	nicole liked the painting .	1
+inch	0.0	the painting liked .	0
+inch	1.0	nicole liked the novel .	1
+inch	0.0	the novel liked .	0
+inch	1.0	elizabeth liked the sculpture .	1
+inch	0.0	the sculpture liked .	0
+inch	1.0	elizabeth liked the presentation .	1
+inch	0.0	the presentation liked .	0
+inch	1.0	nicole liked the speech .	1
+inch	0.0	the speech liked .	0
+inch	1.0	michael liked the poem .	1
+inch	0.0	the poem liked .	0
+inch	1.0	michael loved the movie .	1
+inch	0.0	the movie loved .	0
+inch	1.0	nicole loved the picture .	1
+inch	0.0	the picture loved .	0
+inch	1.0	david loved the painting .	1
+inch	0.0	the painting loved .	0
+inch	1.0	david loved the novel .	1
+inch	0.0	the novel loved .	0
+inch	1.0	nicole loved the sculpture .	1
+inch	0.0	the sculpture loved .	0
+inch	1.0	michael loved the presentation .	1
+inch	0.0	the presentation loved .	0
+inch	1.0	rebecca loved the speech .	1
+inch	0.0	the speech loved .	0
+inch	1.0	jason loved the poem .	1
+inch	0.0	the poem loved .	0
+inch	1.0	james enjoyed the movie .	1
+inch	0.0	the movie enjoyed .	0
+inch	1.0	james enjoyed the picture .	1
+inch	0.0	the picture enjoyed .	0
+inch	1.0	james enjoyed the painting .	1
+inch	0.0	the painting enjoyed .	0
+inch	1.0	elizabeth enjoyed the novel .	1
+inch	0.0	the novel enjoyed .	0
+inch	1.0	jessica enjoyed the sculpture .	1
+inch	0.0	the sculpture enjoyed .	0
+inch	1.0	rebecca enjoyed the presentation .	1
+inch	0.0	the presentation enjoyed .	0
+inch	1.0	rebecca enjoyed the speech .	1
+inch	0.0	the speech enjoyed .	0
+inch	1.0	jessica enjoyed the poem .	1
+inch	0.0	the poem enjoyed .	0
+inch	1.0	jason saw the crime .	1
+inch	0.0	the crime saw .	0
+inch	1.0	david saw the theft .	1
+inch	0.0	the theft saw .	0
+inch	1.0	james saw the accident .	1
+inch	0.0	the accident saw .	0
+inch	1.0	james saw the mistake .	1
+inch	0.0	the mistake saw .	0
+inch	1.0	christopher saw the murder .	1
+inch	0.0	the murder saw .	0
+inch	1.0	jessica witnessed the crime .	1
+inch	0.0	the crime witnessed .	0
+inch	1.0	elizabeth witnessed the theft .	1
+inch	0.0	the theft witnessed .	0
+inch	1.0	elizabeth witnessed the accident .	1
+inch	0.0	the accident witnessed .	0
+inch	1.0	michael witnessed the mistake .	1
+inch	0.0	the mistake witnessed .	0
+inch	1.0	nicole witnessed the murder .	1
+inch	0.0	the murder witnessed .	0
+inch	1.0	michael perceived the crime .	1
+inch	0.0	the crime perceived .	0
+inch	1.0	nicole perceived the theft .	1
+inch	0.0	the theft perceived .	0
+inch	1.0	jessica perceived the accident .	1
+inch	0.0	the accident perceived .	0
+inch	1.0	christopher perceived the mistake .	1
+inch	0.0	the mistake perceived .	0
+inch	1.0	jessica perceived the murder .	1
+inch	0.0	the murder perceived .	0
+inch	1.0	kelly glimpsed the crime .	1
+inch	0.0	the crime glimpsed .	0
+inch	1.0	jessica glimpsed the theft .	1
+inch	0.0	the theft glimpsed .	0
+inch	1.0	rebecca glimpsed the accident .	1
+inch	0.0	the accident glimpsed .	0
+inch	1.0	elizabeth glimpsed the mistake .	1
+inch	0.0	the mistake glimpsed .	0
+inch	1.0	rebecca glimpsed the murder .	1
+inch	0.0	the murder glimpsed .	0

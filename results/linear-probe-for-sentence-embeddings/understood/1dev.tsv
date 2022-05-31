@@ -1,0 +1,297 @@
+alternation	label	sentence	pred_label
+u_obj	1.0	michael nodded his head .	1
+u_obj	1.0	michael nodded .	1
+u_obj	1.0	nicole pointed her fingers .	1
+u_obj	1.0	nicole pointed .	1
+u_obj	1.0	james shrugged his shoulders .	1
+u_obj	1.0	james shrugged .	1
+u_obj	1.0	michael shaved his beard .	1
+u_obj	1.0	michael shaved .	1
+u_obj	1.0	jason shaved his legs .	1
+u_obj	1.0	jason shaved .	1
+u_obj	1.0	nicole shaved her back .	1
+u_obj	1.0	nicole shaved .	1
+u_obj	1.0	kelly shaved her face .	1
+u_obj	1.0	kelly shaved .	1
+u_obj	1.0	elizabeth shaved her armpits .	1
+u_obj	1.0	elizabeth shaved .	1
+u_obj	1.0	david washed his hands .	1
+u_obj	1.0	david washed .	1
+u_obj	1.0	jason washed his face .	1
+u_obj	1.0	jason washed .	1
+u_obj	1.0	jason washed his back .	1
+u_obj	1.0	jason washed .	1
+u_obj	1.0	jessica washed her legs .	1
+u_obj	1.0	jessica washed .	1
+u_obj	1.0	michael washed his arms .	1
+u_obj	1.0	michael washed .	1
+u_obj	1.0	james bared his teeth .	1
+u_obj	0.0	james bared .	0
+u_obj	1.0	jessica bared her molars .	1
+u_obj	0.0	jessica bared .	0
+u_obj	1.0	elizabeth bared her incisors .	1
+u_obj	0.0	elizabeth bared .	0
+u_obj	1.0	rebecca gnashed her teeth .	1
+u_obj	0.0	rebecca gnashed .	0
+u_obj	1.0	kelly gnashed her molars .	1
+u_obj	0.0	kelly gnashed .	0
+u_obj	1.0	michael gnashed his incisors .	1
+u_obj	0.0	michael gnashed .	0
+u_obj	1.0	jason ground his teeth .	1
+u_obj	0.0	jason ground .	0
+u_obj	1.0	jessica ground her molars .	1
+u_obj	0.0	jessica ground .	0
+u_obj	1.0	jessica ground her incisors .	1
+u_obj	0.0	jessica ground .	0
+u_obj	1.0	david flashed his teeth .	1
+u_obj	0.0	david flashed .	0
+u_obj	1.0	jessica flashed her molars .	1
+u_obj	0.0	jessica flashed .	0
+u_obj	1.0	rebecca flashed her incisors .	1
+u_obj	0.0	rebecca flashed .	0
+u_obj	1.0	kelly showed her teeth .	1
+u_obj	0.0	kelly showed .	0
+u_obj	1.0	james showed his molars .	1
+u_obj	0.0	james showed .	0
+u_obj	1.0	james showed his incisors .	1
+u_obj	0.0	james showed .	0
+u_obj	1.0	elizabeth clenched her teeth .	1
+u_obj	0.0	elizabeth clenched .	0
+u_obj	1.0	jessica clenched her molars .	1
+u_obj	0.0	jessica clenched .	0
+u_obj	1.0	michael clenched his incisors .	1
+u_obj	0.0	michael clenched .	0
+u_obj	1.0	rebecca puckered her lips .	1
+u_obj	0.0	rebecca puckered .	0
+u_obj	1.0	rebecca pursed her lips .	1
+u_obj	0.0	rebecca pursed .	0
+u_obj	1.0	kelly smacked her lips .	1
+u_obj	0.0	kelly smacked .	0
+u_obj	1.0	christopher snapped his fingers .	1
+u_obj	0.0	christopher snapped .	0
+u_obj	1.0	nicole batted her eyelashes .	1
+u_obj	0.0	nicole batted .	0
+u_obj	1.0	jessica fluttered her eyelashes .	1
+u_obj	0.0	jessica fluttered .	0
+u_obj	1.0	james twitched his eyelashes .	1
+u_obj	0.0	james twitched .	0
+u_obj	1.0	nicole wagged her tail .	1
+u_obj	0.0	nicole wagged .	0
+u_obj	1.0	james blew his nose .	1
+u_obj	0.0	james blew .	0
+u_obj	1.0	rebecca twitched her nose .	1
+u_obj	0.0	rebecca twitched .	0
+u_obj	1.0	christopher wiggled his nose .	1
+u_obj	0.0	christopher wiggled .	0
+u_obj	1.0	david wrinkled his nose .	1
+u_obj	0.0	david wrinkled .	0
+u_obj	1.0	kelly opened her hands .	1
+u_obj	0.0	kelly opened .	0
+u_obj	1.0	james raised his hands .	1
+u_obj	0.0	james raised .	0
+u_obj	1.0	kelly rubbed her hands .	1
+u_obj	0.0	kelly rubbed .	0
+u_obj	1.0	jessica shook her hands .	1
+u_obj	0.0	jessica shook .	0
+u_obj	1.0	david wrung his hands .	1
+u_obj	0.0	david wrung .	0
+u_obj	1.0	david crossed his arms .	1
+u_obj	0.0	david crossed .	0
+u_obj	1.0	michael crossed his legs .	1
+u_obj	0.0	michael crossed .	0
+u_obj	1.0	michael flapped his arms .	1
+u_obj	0.0	michael flapped .	0
+u_obj	1.0	jessica flapped her legs .	1
+u_obj	0.0	jessica flapped .	0
+u_obj	1.0	michael stretched his arms .	1
+u_obj	0.0	michael stretched .	0
+u_obj	1.0	kelly stretched her legs .	1
+u_obj	0.0	kelly stretched .	0
+u_obj	1.0	jessica raised her arms .	1
+u_obj	0.0	jessica raised .	0
+u_obj	1.0	kelly raised her legs .	1
+u_obj	0.0	kelly raised .	0
+u_obj	1.0	nicole shook her arms .	1
+u_obj	0.0	nicole shook .	0
+u_obj	1.0	david shook his legs .	1
+u_obj	0.0	david shook .	0
+u_obj	1.0	elizabeth folded her arms .	1
+u_obj	0.0	elizabeth folded .	0
+u_obj	1.0	elizabeth folded her legs .	1
+u_obj	0.0	elizabeth folded .	0
+u_obj	1.0	kelly clenched her fist .	1
+u_obj	0.0	kelly clenched .	0
+u_obj	1.0	david shook his fist .	1
+u_obj	0.0	david shook .	0
+u_obj	1.0	rebecca arched her back .	1
+u_obj	0.0	rebecca arched .	0
+u_obj	1.0	jessica arched her spine .	1
+u_obj	0.0	jessica arched .	0
+u_obj	1.0	jessica plucked her eyebrows .	1
+u_obj	0.0	jessica plucked .	0
+u_obj	1.0	rebecca shaped her eyebrows .	1
+u_obj	0.0	rebecca shaped .	0
+u_obj	1.0	jessica soaped her facehands .	1
+u_obj	0.0	jessica soaped .	0
+u_obj	1.0	elizabeth towelled her facehands .	1
+u_obj	0.0	elizabeth towelled .	0
+u_obj	1.0	kelly lathered her facehands .	1
+u_obj	0.0	kelly lathered .	0
+u_obj	1.0	kelly bit her lip .	1
+u_obj	0.0	kelly bit .	0
+u_obj	1.0	michael split his lip .	1
+u_obj	0.0	michael split .	0
+u_obj	1.0	james sprained his ankle .	1
+u_obj	0.0	james sprained .	0
+u_obj	1.0	elizabeth turned her ankle .	1
+u_obj	0.0	elizabeth turned .	0
+u_obj	1.0	nicole twisted her ankle .	1
+u_obj	0.0	nicole twisted .	0
+u_obj	1.0	nicole pulled her muscle .	1
+u_obj	0.0	nicole pulled .	0
+u_obj	1.0	jessica strained her muscle .	1
+u_obj	0.0	jessica strained .	0
+u_obj	1.0	elizabeth dressed herself .	1
+u_obj	1.0	elizabeth dressed .	1
+u_obj	1.0	jessica changed herself .	1
+u_obj	1.0	jessica changed .	1
+u_obj	1.0	kelly dress herself .	1
+u_obj	1.0	kelly dress .	1
+u_obj	1.0	michael shaved himself .	1
+u_obj	1.0	michael shaved .	1
+u_obj	1.0	jason washed himself .	1
+u_obj	1.0	jason washed .	1
+u_obj	1.0	jessica cut herself .	1
+u_obj	0.0	jessica cut .	0
+u_obj	1.0	jason sliced himself .	1
+u_obj	0.0	jason sliced .	0
+u_obj	1.0	james bit himself .	1
+u_obj	0.0	james bit .	0
+u_obj	1.0	rebecca burned herself .	1
+u_obj	0.0	rebecca burned .	0
+u_obj	0.0	michael groomed himself .	1
+u_obj	1.0	michael groomed .	0
+u_obj	0.0	kelly flossed herself .	1
+u_obj	1.0	kelly flossed .	0
+u_obj	0.0	david brushed himself .	0
+u_obj	0.0	david brushed .	0
+u_obj	0.0	christopher coldcreamed himself .	0
+u_obj	0.0	christopher coldcreamed .	0
+u_obj	0.0	christopher combed himself .	0
+u_obj	0.0	christopher combed .	0
+u_obj	0.0	david cropped himself .	0
+u_obj	0.0	david cropped .	0
+u_obj	0.0	elizabeth filed herself .	0
+u_obj	0.0	elizabeth filed .	0
+u_obj	0.0	jessica manicured herself .	0
+u_obj	0.0	jessica manicured .	0
+u_obj	0.0	rebecca parted herself .	0
+u_obj	0.0	rebecca parted .	0
+u_obj	0.0	elizabeth plaited herself .	0
+u_obj	0.0	elizabeth plaited .	0
+u_obj	0.0	james set himself .	0
+u_obj	0.0	james set .	0
+u_obj	0.0	jessica soaped herself .	0
+u_obj	0.0	jessica soaped .	0
+u_obj	0.0	rebecca towelled herself .	0
+u_obj	0.0	rebecca towelled .	0
+u_obj	0.0	james trimmed himself .	0
+u_obj	0.0	james trimmed .	0
+u_obj	0.0	kelly waved herself .	0
+u_obj	0.0	kelly waved .	0
+u_obj	1.0	christopher courted elizabeth .	1
+u_obj	1.0	christopher and elizabeth courted .	1
+u_obj	1.0	rebecca cuddled elizabeth .	1
+u_obj	1.0	rebecca and elizabeth cuddled .	1
+u_obj	1.0	christopher dated david .	1
+u_obj	1.0	christopher and david dated .	1
+u_obj	1.0	rebecca embraced james .	1
+u_obj	1.0	rebecca and james embraced .	1
+u_obj	1.0	elizabeth hugged nicole .	1
+u_obj	1.0	elizabeth and nicole hugged .	1
+u_obj	1.0	christopher kissed james .	1
+u_obj	1.0	christopher and james kissed .	1
+u_obj	1.0	david married rebecca .	1
+u_obj	1.0	david and rebecca married .	1
+u_obj	1.0	jessica petted james .	1
+u_obj	1.0	jessica and james petted .	1
+u_obj	1.0	jason boxed nicole .	1
+u_obj	1.0	jason and nicole boxed .	1
+u_obj	1.0	kelly fought james .	1
+u_obj	1.0	kelly and james fought .	1
+u_obj	1.0	michael consulted james .	1
+u_obj	1.0	michael and james consulted .	1
+u_obj	1.0	michael debated elizabeth .	1
+u_obj	1.0	michael and elizabeth debated .	1
+u_obj	1.0	jessica met nicole .	1
+u_obj	1.0	jessica and nicole met .	1
+u_obj	1.0	michael touch jessica .	1
+u_obj	1.0	michael and jessica touch .	1
+u_obj	0.0	rebecca agreed kelly .	0
+u_obj	1.0	rebecca and kelly agreed .	1
+u_obj	0.0	michael bantered christopher .	0
+u_obj	1.0	michael and christopher bantered .	1
+u_obj	0.0	michael bargained jason .	0
+u_obj	1.0	michael and jason bargained .	1
+u_obj	0.0	michael collaborated david .	0
+u_obj	1.0	michael and david collaborated .	1
+u_obj	0.0	elizabeth commiserated kelly .	0
+u_obj	1.0	elizabeth and kelly commiserated .	1
+u_obj	0.0	nicole communicated jessica .	0
+u_obj	1.0	nicole and jessica communicated .	1
+u_obj	0.0	nicole confabulated kelly .	0
+u_obj	1.0	nicole and kelly confabulated .	1
+u_obj	0.0	james conflicted michael .	0
+u_obj	1.0	james and michael conflicted .	1
+u_obj	0.0	christopher cooperated david .	0
+u_obj	1.0	christopher and david cooperated .	1
+u_obj	0.0	nicole corresponded david .	0
+u_obj	1.0	nicole and david corresponded .	1
+u_obj	0.0	david differed nicole .	0
+u_obj	1.0	david and nicole differed .	1
+u_obj	0.0	jessica feuded rebecca .	0
+u_obj	1.0	jessica and rebecca feuded .	1
+u_obj	0.0	michael flirted christopher .	0
+u_obj	1.0	michael and christopher flirted .	1
+u_obj	0.0	rebecca hobnobbed kelly .	0
+u_obj	1.0	rebecca and kelly hobnobbed .	1
+u_obj	0.0	jessica paired off james .	0
+u_obj	1.0	jessica and james paired off .	1
+u_obj	0.0	michael plotted christopher .	0
+u_obj	1.0	michael and christopher plotted .	1
+u_obj	0.0	elizabeth quarreled rebecca .	0
+u_obj	1.0	elizabeth and rebecca quarreled .	1
+u_obj	0.0	elizabeth rendezvoused michael .	0
+u_obj	1.0	elizabeth and michael rendezvoused .	1
+u_obj	0.0	rebecca sparred james .	0
+u_obj	1.0	rebecca and james sparred .	1
+u_obj	0.0	james spooned david .	0
+u_obj	1.0	james and david spooned .	1
+u_obj	0.0	james struggled jason .	0
+u_obj	1.0	james and jason struggled .	1
+u_obj	0.0	david tussled christopher .	0
+u_obj	1.0	david and christopher tussled .	1
+u_obj	0.0	christopher wrestled james .	0
+u_obj	1.0	christopher and james wrestled .	1
+u_obj	0.0	nicole talked jessica .	0
+u_obj	1.0	nicole and jessica talked .	1
+u_obj	0.0	david chatted james .	0
+u_obj	1.0	david and james chatted .	1
+u_obj	0.0	nicole chattered michael .	0
+u_obj	1.0	nicole and michael chattered .	1
+u_obj	0.0	jason conferred rebecca .	0
+u_obj	1.0	jason and rebecca conferred .	1
+u_obj	0.0	kelly gabbed rebecca .	0
+u_obj	1.0	kelly and rebecca gabbed .	1
+u_obj	0.0	david gossip james .	0
+u_obj	1.0	david and james gossip .	1
+u_obj	0.0	rebecca rapped christopher .	0
+u_obj	1.0	rebecca and christopher rapped .	1
+u_obj	0.0	nicole schmoozed james .	0
+u_obj	1.0	nicole and james schmoozed .	1
+u_obj	0.0	elizabeth yakked michael .	0
+u_obj	1.0	elizabeth and michael yakked .	1
+u_obj	1.0	jessica hit james .	0
+u_obj	0.0	jessica and james hit .	1
+u_obj	1.0	james missed jessica .	0
+u_obj	0.0	james and jessica missed .	1

@@ -1,0 +1,475 @@
+alternation	label	sentence	pred_label
+inch	1.0	elizabeth dropped the ball .	1
+inch	1.0	the ball dropped .	1
+inch	1.0	david dropped the platter .	1
+inch	1.0	the platter dropped .	1
+inch	1.0	jessica dropped the vase .	1
+inch	1.0	the vase dropped .	1
+inch	1.0	michael dropped computer .	1
+inch	1.0	computer dropped .	0
+inch	1.0	david tipped over the ball .	1
+inch	1.0	the ball tipped over .	1
+inch	1.0	nicole tipped over the platter .	1
+inch	1.0	the platter tipped over .	1
+inch	1.0	michael tipped over the vase .	1
+inch	1.0	the vase tipped over .	1
+inch	1.0	rebecca tipped over computer .	1
+inch	1.0	computer tipped over .	0
+inch	1.0	nicole rolled the ball .	1
+inch	1.0	the ball rolled .	1
+inch	1.0	jessica rolled the wheel .	1
+inch	1.0	the wheel rolled .	1
+inch	1.0	rebecca moved the car .	1
+inch	1.0	the car moved .	1
+inch	1.0	david moved the bicycle .	1
+inch	1.0	the bicycle moved .	1
+inch	1.0	rebecca moved the truck .	1
+inch	1.0	the truck moved .	1
+inch	1.0	jessica moved the boat .	1
+inch	1.0	the boat moved .	1
+inch	1.0	nicole moved the ship .	1
+inch	1.0	the ship moved .	1
+inch	1.0	michael moved the plane .	1
+inch	1.0	the plane moved .	1
+inch	1.0	jason moved the cart .	1
+inch	1.0	the cart moved .	1
+inch	1.0	jason maneuvered the car .	1
+inch	1.0	the car maneuvered .	1
+inch	1.0	nicole maneuvered the bicycle .	1
+inch	1.0	the bicycle maneuvered .	1
+inch	1.0	jessica maneuvered the truck .	1
+inch	1.0	the truck maneuvered .	1
+inch	1.0	elizabeth maneuvered the boat .	1
+inch	1.0	the boat maneuvered .	1
+inch	1.0	nicole maneuvered the ship .	1
+inch	1.0	the ship maneuvered .	1
+inch	1.0	nicole maneuvered the plane .	1
+inch	1.0	the plane maneuvered .	1
+inch	1.0	rebecca maneuvered the cart .	1
+inch	1.0	the cart maneuvered .	1
+inch	1.0	jessica crashed the car .	1
+inch	1.0	the car crashed .	1
+inch	1.0	elizabeth crashed the bicycle .	1
+inch	1.0	the bicycle crashed .	1
+inch	1.0	nicole crashed the truck .	1
+inch	1.0	the truck crashed .	1
+inch	1.0	jessica crashed the boat .	1
+inch	1.0	the boat crashed .	1
+inch	1.0	michael crashed the ship .	1
+inch	1.0	the ship crashed .	1
+inch	1.0	rebecca crashed the plane .	1
+inch	1.0	the plane crashed .	1
+inch	1.0	james crashed the cart .	1
+inch	1.0	the cart crashed .	1
+inch	1.0	kelly stopped the car .	1
+inch	1.0	the car stopped .	1
+inch	1.0	michael stopped the bicycle .	1
+inch	1.0	the bicycle stopped .	1
+inch	1.0	rebecca stopped the truck .	1
+inch	1.0	the truck stopped .	1
+inch	1.0	jason stopped the boat .	1
+inch	1.0	the boat stopped .	1
+inch	1.0	jason stopped the ship .	1
+inch	1.0	the ship stopped .	1
+inch	1.0	james stopped the plane .	1
+inch	1.0	the plane stopped .	1
+inch	1.0	michael stopped the cart .	1
+inch	1.0	the cart stopped .	1
+inch	1.0	david slowed the car .	1
+inch	1.0	the car slowed .	1
+inch	1.0	jessica slowed the bicycle .	1
+inch	1.0	the bicycle slowed .	1
+inch	1.0	kelly slowed the truck .	1
+inch	1.0	the truck slowed .	1
+inch	1.0	jason slowed the boat .	1
+inch	1.0	the boat slowed .	1
+inch	1.0	christopher slowed the ship .	1
+inch	1.0	the ship slowed .	1
+inch	1.0	christopher slowed the plane .	1
+inch	1.0	the plane slowed .	1
+inch	1.0	christopher slowed the cart .	1
+inch	1.0	the cart slowed .	1
+inch	1.0	nicole accelerated the car .	1
+inch	1.0	the car accelerated .	1
+inch	1.0	rebecca accelerated the bicycle .	1
+inch	1.0	the bicycle accelerated .	1
+inch	1.0	james accelerated the truck .	1
+inch	1.0	the truck accelerated .	1
+inch	1.0	elizabeth accelerated the boat .	1
+inch	1.0	the boat accelerated .	1
+inch	1.0	elizabeth accelerated the ship .	1
+inch	1.0	the ship accelerated .	1
+inch	1.0	nicole accelerated the plane .	1
+inch	1.0	the plane accelerated .	1
+inch	1.0	nicole accelerated the cart .	1
+inch	1.0	the cart accelerated .	1
+inch	1.0	michael melted the ice .	1
+inch	1.0	the ice melted .	1
+inch	1.0	christopher melted the chocolate .	1
+inch	1.0	the chocolate melted .	1
+inch	1.0	michael melted the plastic .	1
+inch	1.0	the plastic melted .	1
+inch	1.0	michael melted the ice cream .	1
+inch	1.0	the ice cream melted .	1
+inch	1.0	david melted the popsicle .	1
+inch	1.0	the popsicle melted .	1
+inch	1.0	kelly bounced the ball .	1
+inch	1.0	the ball bounced .	1
+inch	1.0	nicole bounced the balloon .	1
+inch	1.0	the balloon bounced .	1
+inch	1.0	david turned the sculpture .	1
+inch	1.0	the sculpture turned .	1
+inch	1.0	michael turned the sofa .	1
+inch	1.0	the sofa turned .	1
+inch	1.0	christopher turned the image .	1
+inch	1.0	the image turned .	1
+inch	1.0	elizabeth condensed the alcohol .	1
+inch	1.0	the alcohol condensed .	1
+inch	1.0	david condensed the water .	1
+inch	1.0	the water condensed .	1
+inch	1.0	rebecca condensed the solution .	1
+inch	1.0	the solution condensed .	1
+inch	1.0	christopher folded the paper .	1
+inch	1.0	the paper folded .	1
+inch	1.0	nicole folded the sheet .	1
+inch	1.0	the sheet folded .	1
+inch	1.0	kelly folded the poster .	1
+inch	1.0	the poster folded .	1
+inch	1.0	david folded the leaf .	1
+inch	1.0	the leaf folded .	1
+inch	1.0	kelly folded the foil .	1
+inch	1.0	the foil folded .	1
+inch	1.0	michael wrinkled the paper .	1
+inch	1.0	the paper wrinkled .	1
+inch	1.0	rebecca wrinkled the sheet .	1
+inch	1.0	the sheet wrinkled .	1
+inch	1.0	david wrinkled the poster .	1
+inch	1.0	the poster wrinkled .	1
+inch	1.0	nicole wrinkled the leaf .	1
+inch	1.0	the leaf wrinkled .	1
+inch	1.0	nicole wrinkled the foil .	1
+inch	1.0	the foil wrinkled .	1
+inch	1.0	david crumpled the paper .	1
+inch	1.0	the paper crumpled .	1
+inch	1.0	jessica crumpled the sheet .	1
+inch	1.0	the sheet crumpled .	1
+inch	1.0	james crumpled the poster .	1
+inch	1.0	the poster crumpled .	1
+inch	1.0	james crumpled the leaf .	1
+inch	1.0	the leaf crumpled .	1
+inch	1.0	jessica crumpled the foil .	1
+inch	1.0	the foil crumpled .	1
+inch	1.0	michael frayed the paper .	1
+inch	1.0	the paper frayed .	1
+inch	1.0	david frayed the sheet .	1
+inch	1.0	the sheet frayed .	1
+inch	1.0	elizabeth frayed the poster .	1
+inch	1.0	the poster frayed .	1
+inch	1.0	james frayed the leaf .	1
+inch	1.0	the leaf frayed .	1
+inch	1.0	james frayed the foil .	1
+inch	1.0	the foil frayed .	1
+inch	1.0	christopher stretched the paper .	1
+inch	1.0	the paper stretched .	1
+inch	1.0	rebecca stretched the sheet .	1
+inch	1.0	the sheet stretched .	1
+inch	1.0	james stretched the poster .	1
+inch	1.0	the poster stretched .	1
+inch	1.0	kelly stretched the leaf .	1
+inch	1.0	the leaf stretched .	1
+inch	1.0	david stretched the foil .	1
+inch	1.0	the foil stretched .	1
+inch	1.0	christopher unfolded the paper .	1
+inch	1.0	the paper unfolded .	1
+inch	1.0	david unfolded the sheet .	1
+inch	1.0	the sheet unfolded .	1
+inch	1.0	michael unfolded the poster .	1
+inch	1.0	the poster unfolded .	1
+inch	1.0	michael unfolded the leaf .	1
+inch	1.0	the leaf unfolded .	1
+inch	1.0	elizabeth unfolded the foil .	1
+inch	1.0	the foil unfolded .	1
+inch	1.0	christopher flattened the paper .	1
+inch	1.0	the paper flattened .	1
+inch	1.0	jason flattened the sheet .	1
+inch	1.0	the sheet flattened .	1
+inch	1.0	david flattened the poster .	1
+inch	1.0	the poster flattened .	1
+inch	1.0	kelly flattened the leaf .	1
+inch	1.0	the leaf flattened .	1
+inch	1.0	kelly flattened the foil .	1
+inch	1.0	the foil flattened .	1
+inch	1.0	david smoothed the paper .	1
+inch	1.0	the paper smoothed .	1
+inch	1.0	jason smoothed the sheet .	1
+inch	1.0	the sheet smoothed .	1
+inch	1.0	rebecca smoothed the poster .	1
+inch	1.0	the poster smoothed .	0
+inch	1.0	jason smoothed the leaf .	1
+inch	1.0	the leaf smoothed .	1
+inch	1.0	david smoothed the foil .	1
+inch	1.0	the foil smoothed .	1
+inch	1.0	james darkened the lights .	1
+inch	1.0	the lights darkened .	1
+inch	1.0	james darkened the room .	1
+inch	1.0	the room darkened .	1
+inch	1.0	james darkened the image .	1
+inch	1.0	the image darkened .	1
+inch	1.0	rebecca darkened the picture .	1
+inch	1.0	the picture darkened .	1
+inch	1.0	michael brightened the lights .	1
+inch	1.0	the lights brightened .	1
+inch	1.0	michael brightened the room .	1
+inch	1.0	the room brightened .	1
+inch	1.0	james brightened the image .	1
+inch	1.0	the image brightened .	1
+inch	1.0	james brightened the picture .	1
+inch	1.0	the picture brightened .	1
+inch	1.0	rebecca dimmed the lights .	1
+inch	1.0	the lights dimmed .	1
+inch	1.0	elizabeth dimmed the room .	1
+inch	1.0	the room dimmed .	1
+inch	1.0	david dimmed the image .	1
+inch	1.0	the image dimmed .	1
+inch	1.0	rebecca dimmed the picture .	1
+inch	1.0	the picture dimmed .	1
+inch	1.0	jason loosened the knot .	1
+inch	1.0	the knot loosened .	1
+inch	1.0	jason loosened the belt .	1
+inch	1.0	the belt loosened .	1
+inch	1.0	david loosened the grip .	1
+inch	1.0	the grip loosened .	1
+inch	1.0	rebecca tightened the knot .	1
+inch	1.0	the knot tightened .	1
+inch	1.0	christopher tightened the belt .	1
+inch	1.0	the belt tightened .	1
+inch	1.0	rebecca tightened the grip .	1
+inch	1.0	the grip tightened .	1
+inch	1.0	elizabeth dried the cloth .	1
+inch	1.0	the cloth dried .	1
+inch	1.0	rebecca dried the clothes .	1
+inch	1.0	the clothes dried .	1
+inch	1.0	david dried the plant .	1
+inch	1.0	the plant dried .	1
+inch	1.0	nicole dried the grass .	1
+inch	1.0	the grass dried .	1
+inch	1.0	michael dampened the cloth .	1
+inch	1.0	the cloth dampened .	1
+inch	1.0	elizabeth dampened the clothes .	1
+inch	1.0	the clothes dampened .	1
+inch	1.0	nicole dampened the plant .	1
+inch	1.0	the plant dampened .	1
+inch	1.0	rebecca dampened the grass .	1
+inch	1.0	the grass dampened .	1
+inch	1.0	jason destroyed the evidence .	1
+inch	0.0	the evidence destroyed .	0
+inch	1.0	david harvested the crops .	1
+inch	0.0	the crops harvested .	0
+inch	1.0	rebecca harvested the tomatoes .	1
+inch	0.0	the tomatoes harvested .	0
+inch	1.0	rebecca harvested the oranges .	1
+inch	0.0	the oranges harvested .	0
+inch	1.0	nicole cut the apple .	1
+inch	0.0	the apple cut .	0
+inch	1.0	nicole cut the onion .	1
+inch	0.0	the onion cut .	1
+inch	1.0	kelly cut the garlic .	1
+inch	0.0	the garlic cut .	1
+inch	1.0	kelly cut the tomato .	1
+inch	0.0	the tomato cut .	0
+inch	1.0	kelly chopped the apple .	1
+inch	0.0	the apple chopped .	0
+inch	1.0	christopher chopped the onion .	1
+inch	0.0	the onion chopped .	1
+inch	1.0	michael chopped the garlic .	1
+inch	0.0	the garlic chopped .	1
+inch	1.0	jason chopped the tomato .	1
+inch	0.0	the tomato chopped .	0
+inch	1.0	elizabeth peeled the apple .	1
+inch	0.0	the apple peeled .	1
+inch	1.0	nicole peeled the onion .	1
+inch	0.0	the onion peeled .	1
+inch	1.0	nicole peeled the garlic .	1
+inch	0.0	the garlic peeled .	1
+inch	1.0	michael peeled the tomato .	1
+inch	0.0	the tomato peeled .	1
+inch	1.0	david minced the apple .	1
+inch	0.0	the apple minced .	1
+inch	1.0	jason minced the onion .	1
+inch	0.0	the onion minced .	1
+inch	1.0	nicole minced the garlic .	1
+inch	0.0	the garlic minced .	1
+inch	1.0	jason minced the tomato .	1
+inch	0.0	the tomato minced .	1
+inch	1.0	jessica deposited the cash .	1
+inch	0.0	the cash deposited .	0
+inch	1.0	jessica deposited the money .	1
+inch	0.0	the money deposited .	0
+inch	1.0	james deposited the funds .	1
+inch	0.0	the funds deposited .	0
+inch	1.0	kelly withdrew the cash .	1
+inch	0.0	the cash withdrew .	1
+inch	1.0	jason withdrew the money .	1
+inch	0.0	the money withdrew .	1
+inch	1.0	jessica withdrew the funds .	1
+inch	0.0	the funds withdrew .	1
+inch	1.0	james saved the cash .	1
+inch	0.0	the cash saved .	0
+inch	1.0	jessica saved the money .	1
+inch	0.0	the money saved .	0
+inch	1.0	jason saved the funds .	1
+inch	0.0	the funds saved .	1
+inch	1.0	nicole collected the cash .	1
+inch	0.0	the cash collected .	0
+inch	1.0	michael collected the money .	1
+inch	0.0	the money collected .	0
+inch	1.0	rebecca collected the funds .	1
+inch	0.0	the funds collected .	1
+inch	1.0	rebecca recounted the story .	1
+inch	0.0	the story recounted .	0
+inch	1.0	elizabeth recounted the book .	1
+inch	0.0	the book recounted .	0
+inch	1.0	christopher recounted the anecdote .	1
+inch	0.0	the anecdote recounted .	0
+inch	1.0	rebecca recounted the article .	1
+inch	0.0	the article recounted .	0
+inch	1.0	jason recounted the chapter .	1
+inch	0.0	the chapter recounted .	0
+inch	1.0	rebecca recounted the letter .	1
+inch	0.0	the letter recounted .	1
+inch	1.0	kelly wrote the story .	1
+inch	0.0	the story wrote .	0
+inch	1.0	christopher wrote the book .	1
+inch	0.0	the book wrote .	0
+inch	1.0	christopher wrote the anecdote .	1
+inch	0.0	the anecdote wrote .	1
+inch	1.0	jason wrote the article .	1
+inch	0.0	the article wrote .	0
+inch	1.0	elizabeth wrote the chapter .	1
+inch	0.0	the chapter wrote .	0
+inch	1.0	kelly wrote the letter .	1
+inch	0.0	the letter wrote .	0
+inch	1.0	jason read the story .	1
+inch	0.0	the story read .	0
+inch	1.0	kelly read the book .	1
+inch	0.0	the book read .	0
+inch	1.0	david read the anecdote .	1
+inch	0.0	the anecdote read .	1
+inch	1.0	jason read the article .	1
+inch	0.0	the article read .	0
+inch	1.0	elizabeth read the chapter .	1
+inch	0.0	the chapter read .	0
+inch	1.0	jason read the letter .	1
+inch	0.0	the letter read .	0
+inch	1.0	elizabeth edited the story .	1
+inch	0.0	the story edited .	0
+inch	1.0	jessica edited the book .	1
+inch	0.0	the book edited .	0
+inch	1.0	jason edited the anecdote .	1
+inch	0.0	the anecdote edited .	1
+inch	1.0	jason edited the article .	1
+inch	0.0	the article edited .	0
+inch	1.0	david edited the chapter .	1
+inch	0.0	the chapter edited .	0
+inch	1.0	rebecca edited the letter .	1
+inch	0.0	the letter edited .	0
+inch	1.0	james skimmed the story .	1
+inch	0.0	the story skimmed .	0
+inch	1.0	james skimmed the book .	1
+inch	0.0	the book skimmed .	0
+inch	1.0	christopher skimmed the anecdote .	1
+inch	0.0	the anecdote skimmed .	0
+inch	1.0	kelly skimmed the article .	1
+inch	0.0	the article skimmed .	0
+inch	1.0	david skimmed the chapter .	1
+inch	0.0	the chapter skimmed .	0
+inch	1.0	christopher skimmed the letter .	1
+inch	0.0	the letter skimmed .	0
+inch	1.0	jason revealed the secret .	1
+inch	0.0	the secret revealed .	0
+inch	1.0	michael revealed the mistake .	1
+inch	0.0	the mistake revealed .	0
+inch	1.0	david revealed the results .	1
+inch	0.0	the results revealed .	0
+inch	1.0	jessica revealed the outcome .	1
+inch	0.0	the outcome revealed .	0
+inch	1.0	michael revealed the mess .	1
+inch	0.0	the mess revealed .	0
+inch	1.0	christopher revealed the disaster .	1
+inch	0.0	the disaster revealed .	0
+inch	1.0	michael concealed the secret .	1
+inch	0.0	the secret concealed .	0
+inch	1.0	rebecca concealed the mistake .	1
+inch	0.0	the mistake concealed .	0
+inch	1.0	nicole concealed the results .	1
+inch	0.0	the results concealed .	0
+inch	1.0	elizabeth concealed the outcome .	1
+inch	0.0	the outcome concealed .	0
+inch	1.0	michael concealed the mess .	1
+inch	0.0	the mess concealed .	0
+inch	1.0	christopher concealed the disaster .	1
+inch	0.0	the disaster concealed .	0
+inch	1.0	david covered up the secret .	1
+inch	0.0	the secret covered up .	0
+inch	1.0	christopher covered up the mistake .	1
+inch	0.0	the mistake covered up .	0
+inch	1.0	kelly covered up the results .	1
+inch	0.0	the results covered up .	0
+inch	1.0	jason covered up the outcome .	1
+inch	0.0	the outcome covered up .	0
+inch	1.0	jessica covered up the mess .	1
+inch	0.0	the mess covered up .	0
+inch	1.0	kelly covered up the disaster .	1
+inch	0.0	the disaster covered up .	0
+inch	1.0	david uncovered the secret .	1
+inch	0.0	the secret uncovered .	0
+inch	1.0	david uncovered the mistake .	1
+inch	0.0	the mistake uncovered .	0
+inch	1.0	jessica uncovered the results .	1
+inch	0.0	the results uncovered .	0
+inch	1.0	james uncovered the outcome .	1
+inch	0.0	the outcome uncovered .	0
+inch	1.0	david uncovered the mess .	1
+inch	0.0	the mess uncovered .	0
+inch	1.0	nicole uncovered the disaster .	1
+inch	0.0	the disaster uncovered .	0
+inch	1.0	kelly drank the liquid .	1
+inch	0.0	the liquid drank .	1
+inch	1.0	kelly drank the water .	1
+inch	0.0	the water drank .	1
+inch	1.0	jessica drank the vodka .	1
+inch	0.0	the vodka drank .	1
+inch	1.0	david drank the beer .	1
+inch	0.0	the beer drank .	1
+inch	1.0	michael drank the juice .	1
+inch	0.0	the juice drank .	1
+inch	1.0	david chugged the liquid .	1
+inch	0.0	the liquid chugged .	1
+inch	1.0	michael chugged the water .	1
+inch	0.0	the water chugged .	1
+inch	1.0	jessica chugged the vodka .	1
+inch	0.0	the vodka chugged .	1
+inch	1.0	rebecca chugged the beer .	1
+inch	0.0	the beer chugged .	1
+inch	1.0	david chugged the juice .	1
+inch	0.0	the juice chugged .	1
+inch	1.0	james swallowed the liquid .	1
+inch	0.0	the liquid swallowed .	1
+inch	1.0	kelly swallowed the water .	1
+inch	0.0	the water swallowed .	1
+inch	1.0	michael swallowed the vodka .	1
+inch	0.0	the vodka swallowed .	1
+inch	1.0	elizabeth swallowed the beer .	1
+inch	0.0	the beer swallowed .	1
+inch	1.0	james swallowed the juice .	1
+inch	0.0	the juice swallowed .	1
+inch	1.0	michael wasted the liquid .	1
+inch	0.0	the liquid wasted .	1
+inch	1.0	elizabeth wasted the water .	1
+inch	0.0	the water wasted .	1
+inch	1.0	david wasted the vodka .	1
+inch	0.0	the vodka wasted .	1
+inch	1.0	rebecca wasted the beer .	1
+inch	0.0	the beer wasted .	1
+inch	1.0	kelly wasted the juice .	1
+inch	0.0	the juice wasted .	1

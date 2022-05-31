@@ -1,0 +1,681 @@
+alternation	label	sentence	pred_label
+there	1.0	an orchid thrived at the edge of the cliff .	1
+there	1.0	there thrived at the edge of the cliff an orchid .	1
+there	1.0	an orchid thrived on the mountain .	1
+there	1.0	there thrived on the mountain an orchid .	1
+there	1.0	a cactus thrived at the edge of the cliff .	1
+there	1.0	there thrived at the edge of the cliff a cactus .	1
+there	1.0	a cactus thrived on the mountain .	1
+there	1.0	there thrived on the mountain a cactus .	1
+there	1.0	a tree thrived at the edge of the cliff .	1
+there	1.0	there thrived at the edge of the cliff a tree .	1
+there	1.0	a tree thrived on the mountain .	1
+there	1.0	there thrived on the mountain a tree .	1
+there	1.0	several concerns remained in our minds .	1
+there	1.0	there remained in our minds several concerns .	1
+there	1.0	some hope remained in our minds .	1
+there	1.0	there remained in our minds some hope .	1
+there	1.0	several issues remained in our minds .	1
+there	1.0	there remained in our minds several issues .	1
+there	1.0	some questions remained in our minds .	1
+there	1.0	there remained in our minds some questions .	1
+there	1.0	several concerns persisted in our minds .	1
+there	1.0	there persisted in our minds several concerns .	1
+there	1.0	some hope persisted in our minds .	1
+there	1.0	there persisted in our minds some hope .	1
+there	1.0	several issues persisted in our minds .	1
+there	1.0	there persisted in our minds several issues .	1
+there	1.0	some questions persisted in our minds .	1
+there	1.0	there persisted in our minds some questions .	1
+there	1.0	two families dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff two families .	1
+there	1.0	two families dwelled in the house .	1
+there	1.0	there dwelled in the house two families .	1
+there	1.0	two families dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment two families .	0
+there	1.0	two families dwelled in the town .	1
+there	1.0	there dwelled in the town two families .	1
+there	1.0	a colony of ants dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants dwelled in the house .	1
+there	1.0	there dwelled in the house a colony of ants .	1
+there	1.0	a colony of ants dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment a colony of ants .	0
+there	1.0	a colony of ants dwelled in the town .	1
+there	1.0	there dwelled in the town a colony of ants .	1
+there	1.0	some bats dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff some bats .	1
+there	1.0	some bats dwelled in the house .	1
+there	1.0	there dwelled in the house some bats .	1
+there	1.0	some bats dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment some bats .	0
+there	1.0	some bats dwelled in the town .	1
+there	1.0	there dwelled in the town some bats .	1
+there	1.0	an indigenous group dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group dwelled in the house .	1
+there	1.0	there dwelled in the house an indigenous group .	1
+there	1.0	an indigenous group dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment an indigenous group .	0
+there	1.0	an indigenous group dwelled in the town .	1
+there	1.0	there dwelled in the town an indigenous group .	1
+there	1.0	two families lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff two families .	1
+there	1.0	two families lived in the house .	1
+there	1.0	there lived in the house two families .	0
+there	1.0	two families lived in the apartment .	1
+there	1.0	there lived in the apartment two families .	0
+there	1.0	two families lived in the town .	1
+there	1.0	there lived in the town two families .	1
+there	1.0	a colony of ants lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants lived in the house .	1
+there	1.0	there lived in the house a colony of ants .	0
+there	1.0	a colony of ants lived in the apartment .	1
+there	1.0	there lived in the apartment a colony of ants .	0
+there	1.0	a colony of ants lived in the town .	1
+there	1.0	there lived in the town a colony of ants .	0
+there	1.0	some bats lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff some bats .	1
+there	1.0	some bats lived in the house .	1
+there	1.0	there lived in the house some bats .	0
+there	1.0	some bats lived in the apartment .	1
+there	1.0	there lived in the apartment some bats .	0
+there	1.0	some bats lived in the town .	1
+there	1.0	there lived in the town some bats .	0
+there	1.0	an indigenous group lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group lived in the house .	1
+there	1.0	there lived in the house an indigenous group .	0
+there	1.0	an indigenous group lived in the apartment .	1
+there	1.0	there lived in the apartment an indigenous group .	0
+there	1.0	an indigenous group lived in the town .	1
+there	1.0	there lived in the town an indigenous group .	0
+there	1.0	two families resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff two families .	1
+there	1.0	two families resided in the house .	1
+there	1.0	there resided in the house two families .	0
+there	1.0	two families resided in the apartment .	1
+there	1.0	there resided in the apartment two families .	0
+there	1.0	two families resided in the town .	1
+there	1.0	there resided in the town two families .	1
+there	1.0	a colony of ants resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants resided in the house .	1
+there	1.0	there resided in the house a colony of ants .	0
+there	1.0	a colony of ants resided in the apartment .	1
+there	1.0	there resided in the apartment a colony of ants .	0
+there	1.0	a colony of ants resided in the town .	1
+there	1.0	there resided in the town a colony of ants .	1
+there	1.0	some bats resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff some bats .	1
+there	1.0	some bats resided in the house .	1
+there	1.0	there resided in the house some bats .	0
+there	1.0	some bats resided in the apartment .	1
+there	1.0	there resided in the apartment some bats .	0
+there	1.0	some bats resided in the town .	1
+there	1.0	there resided in the town some bats .	0
+there	1.0	an indigenous group resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group resided in the house .	1
+there	1.0	there resided in the house an indigenous group .	0
+there	1.0	an indigenous group resided in the apartment .	1
+there	1.0	there resided in the apartment an indigenous group .	0
+there	1.0	an indigenous group resided in the town .	1
+there	1.0	there resided in the town an indigenous group .	0
+there	1.0	two families settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff two families .	0
+there	1.0	two families settled in the house .	1
+there	1.0	there settled in the house two families .	0
+there	1.0	two families settled in the apartment .	1
+there	1.0	there settled in the apartment two families .	0
+there	1.0	two families settled in the town .	1
+there	1.0	there settled in the town two families .	0
+there	1.0	a colony of ants settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants settled in the house .	1
+there	1.0	there settled in the house a colony of ants .	0
+there	1.0	a colony of ants settled in the apartment .	1
+there	1.0	there settled in the apartment a colony of ants .	0
+there	1.0	a colony of ants settled in the town .	1
+there	1.0	there settled in the town a colony of ants .	0
+there	1.0	some bats settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff some bats .	1
+there	1.0	some bats settled in the house .	1
+there	1.0	there settled in the house some bats .	0
+there	1.0	some bats settled in the apartment .	1
+there	1.0	there settled in the apartment some bats .	0
+there	1.0	some bats settled in the town .	1
+there	1.0	there settled in the town some bats .	0
+there	1.0	an indigenous group settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group settled in the house .	1
+there	1.0	there settled in the house an indigenous group .	0
+there	1.0	an indigenous group settled in the apartment .	1
+there	1.0	there settled in the apartment an indigenous group .	0
+there	1.0	an indigenous group settled in the town .	1
+there	1.0	there settled in the town an indigenous group .	0
+there	1.0	two families coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff two families .	1
+there	1.0	two families coexisted in the house .	1
+there	1.0	there coexisted in the house two families .	0
+there	1.0	two families coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment two families .	0
+there	1.0	two families coexisted in the town .	1
+there	1.0	there coexisted in the town two families .	0
+there	1.0	a colony of ants coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants coexisted in the house .	1
+there	1.0	there coexisted in the house a colony of ants .	0
+there	1.0	a colony of ants coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment a colony of ants .	0
+there	1.0	a colony of ants coexisted in the town .	1
+there	1.0	there coexisted in the town a colony of ants .	0
+there	1.0	some bats coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff some bats .	1
+there	1.0	some bats coexisted in the house .	1
+there	1.0	there coexisted in the house some bats .	0
+there	1.0	some bats coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment some bats .	0
+there	1.0	some bats coexisted in the town .	1
+there	1.0	there coexisted in the town some bats .	0
+there	1.0	an indigenous group coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group coexisted in the house .	1
+there	1.0	there coexisted in the house an indigenous group .	0
+there	1.0	an indigenous group coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment an indigenous group .	0
+there	1.0	an indigenous group coexisted in the town .	1
+there	1.0	there coexisted in the town an indigenous group .	0
+there	1.0	a boy kneeled next to the church .	1
+there	1.0	there kneeled next to the church a boy .	0
+there	1.0	a boy kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a boy .	0
+there	1.0	a boy kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a boy .	1
+there	1.0	a statue kneeled next to the church .	1
+there	1.0	there kneeled next to the church a statue .	0
+there	1.0	a statue kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a statue .	1
+there	1.0	a statue kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a statue .	1
+there	1.0	a dog kneeled next to the church .	1
+there	1.0	there kneeled next to the church a dog .	0
+there	1.0	a dog kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a dog .	1
+there	1.0	a dog kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a dog .	1
+there	1.0	a sparrow kneeled next to the church .	1
+there	1.0	there kneeled next to the church a sparrow .	1
+there	1.0	a sparrow kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a sparrow .	1
+there	1.0	a sparrow kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a sparrow .	1
+there	1.0	a boy squatted next to the church .	1
+there	1.0	there squatted next to the church a boy .	0
+there	1.0	a boy squatted in the plaza .	1
+there	1.0	there squatted in the plaza a boy .	0
+there	1.0	a boy squatted on the stoop .	1
+there	1.0	there squatted on the stoop a boy .	1
+there	1.0	a statue squatted next to the church .	1
+there	1.0	there squatted next to the church a statue .	0
+there	1.0	a statue squatted in the plaza .	1
+there	1.0	there squatted in the plaza a statue .	1
+there	1.0	a statue squatted on the stoop .	1
+there	1.0	there squatted on the stoop a statue .	1
+there	1.0	a dog squatted next to the church .	1
+there	1.0	there squatted next to the church a dog .	1
+there	1.0	a dog squatted in the plaza .	1
+there	1.0	there squatted in the plaza a dog .	1
+there	1.0	a dog squatted on the stoop .	1
+there	1.0	there squatted on the stoop a dog .	1
+there	1.0	a sparrow squatted next to the church .	1
+there	1.0	there squatted next to the church a sparrow .	1
+there	1.0	a sparrow squatted in the plaza .	1
+there	1.0	there squatted in the plaza a sparrow .	1
+there	1.0	a sparrow squatted on the stoop .	1
+there	1.0	there squatted on the stoop a sparrow .	1
+there	1.0	a boy stood next to the church .	1
+there	1.0	there stood next to the church a boy .	0
+there	1.0	a boy stood in the plaza .	1
+there	1.0	there stood in the plaza a boy .	0
+there	1.0	a boy stood on the stoop .	1
+there	1.0	there stood on the stoop a boy .	0
+there	1.0	a statue stood next to the church .	1
+there	1.0	there stood next to the church a statue .	0
+there	1.0	a statue stood in the plaza .	1
+there	1.0	there stood in the plaza a statue .	1
+there	1.0	a statue stood on the stoop .	1
+there	1.0	there stood on the stoop a statue .	1
+there	1.0	a dog stood next to the church .	1
+there	1.0	there stood next to the church a dog .	0
+there	1.0	a dog stood in the plaza .	1
+there	1.0	there stood in the plaza a dog .	0
+there	1.0	a dog stood on the stoop .	1
+there	1.0	there stood on the stoop a dog .	1
+there	1.0	a sparrow stood next to the church .	1
+there	1.0	there stood next to the church a sparrow .	1
+there	1.0	a sparrow stood in the plaza .	1
+there	1.0	there stood in the plaza a sparrow .	1
+there	1.0	a sparrow stood on the stoop .	1
+there	1.0	there stood on the stoop a sparrow .	1
+there	1.0	a boy perched next to the church .	1
+there	1.0	there perched next to the church a boy .	0
+there	1.0	a boy perched in the plaza .	1
+there	1.0	there perched in the plaza a boy .	0
+there	1.0	a boy perched on the stoop .	1
+there	1.0	there perched on the stoop a boy .	0
+there	1.0	a statue perched next to the church .	1
+there	1.0	there perched next to the church a statue .	0
+there	1.0	a statue perched in the plaza .	1
+there	1.0	there perched in the plaza a statue .	1
+there	1.0	a statue perched on the stoop .	1
+there	1.0	there perched on the stoop a statue .	1
+there	1.0	a dog perched next to the church .	1
+there	1.0	there perched next to the church a dog .	1
+there	1.0	a dog perched in the plaza .	1
+there	1.0	there perched in the plaza a dog .	1
+there	1.0	a dog perched on the stoop .	1
+there	1.0	there perched on the stoop a dog .	1
+there	1.0	a sparrow perched next to the church .	1
+there	1.0	there perched next to the church a sparrow .	1
+there	1.0	a sparrow perched in the plaza .	1
+there	1.0	there perched in the plaza a sparrow .	1
+there	1.0	a sparrow perched on the stoop .	1
+there	1.0	there perched on the stoop a sparrow .	1
+there	1.0	a flag dangled over the yard .	1
+there	1.0	there dangled over the yard a flag .	1
+there	1.0	a flag dangled from the tree .	1
+there	1.0	there dangled from the tree a flag .	1
+there	1.0	a sheet dangled over the yard .	1
+there	1.0	there dangled over the yard a sheet .	1
+there	1.0	a sheet dangled from the tree .	1
+there	1.0	there dangled from the tree a sheet .	1
+there	1.0	a clothes line dangled over the yard .	1
+there	1.0	there dangled over the yard a clothes line .	1
+there	1.0	a clothes line dangled from the tree .	1
+there	1.0	there dangled from the tree a clothes line .	1
+there	1.0	a flag hung over the yard .	1
+there	1.0	there hung over the yard a flag .	1
+there	1.0	a flag hung from the tree .	1
+there	1.0	there hung from the tree a flag .	1
+there	1.0	a sheet hung over the yard .	1
+there	1.0	there hung over the yard a sheet .	1
+there	1.0	a sheet hung from the tree .	1
+there	1.0	there hung from the tree a sheet .	1
+there	1.0	a clothes line hung over the yard .	1
+there	1.0	there hung over the yard a clothes line .	1
+there	1.0	a clothes line hung from the tree .	1
+there	1.0	there hung from the tree a clothes line .	1
+there	1.0	a flag swung over the yard .	1
+there	1.0	there swung over the yard a flag .	1
+there	1.0	a flag swung from the tree .	1
+there	1.0	there swung from the tree a flag .	1
+there	1.0	a sheet swung over the yard .	1
+there	1.0	there swung over the yard a sheet .	1
+there	1.0	a sheet swung from the tree .	1
+there	1.0	there swung from the tree a sheet .	1
+there	1.0	a clothes line swung over the yard .	1
+there	1.0	there swung over the yard a clothes line .	1
+there	1.0	a clothes line swung from the tree .	1
+there	1.0	there swung from the tree a clothes line .	1
+there	1.0	a path meandered through the town .	1
+there	1.0	there meandered through the town a path .	1
+there	1.0	a path meandered up the mountain .	1
+there	1.0	there meandered up the mountain a path .	1
+there	1.0	a path meandered over the prairie .	1
+there	1.0	there meandered over the prairie a path .	1
+there	1.0	a road meandered through the town .	1
+there	1.0	there meandered through the town a road .	1
+there	1.0	a road meandered up the mountain .	1
+there	1.0	there meandered up the mountain a road .	1
+there	1.0	a road meandered over the prairie .	1
+there	1.0	there meandered over the prairie a road .	1
+there	1.0	a telephone wire meandered through the town .	1
+there	1.0	there meandered through the town a telephone wire .	1
+there	1.0	a telephone wire meandered up the mountain .	1
+there	1.0	there meandered up the mountain a telephone wire .	1
+there	1.0	a telephone wire meandered over the prairie .	1
+there	1.0	there meandered over the prairie a telephone wire .	1
+there	1.0	a path twisted through the town .	1
+there	1.0	there twisted through the town a path .	1
+there	1.0	a path twisted up the mountain .	1
+there	1.0	there twisted up the mountain a path .	1
+there	1.0	a path twisted over the prairie .	1
+there	1.0	there twisted over the prairie a path .	1
+there	1.0	a road twisted through the town .	1
+there	1.0	there twisted through the town a road .	1
+there	1.0	a road twisted up the mountain .	1
+there	1.0	there twisted up the mountain a road .	0
+there	1.0	a road twisted over the prairie .	1
+there	1.0	there twisted over the prairie a road .	1
+there	1.0	a telephone wire twisted through the town .	1
+there	1.0	there twisted through the town a telephone wire .	1
+there	1.0	a telephone wire twisted up the mountain .	1
+there	1.0	there twisted up the mountain a telephone wire .	0
+there	1.0	a telephone wire twisted over the prairie .	1
+there	1.0	there twisted over the prairie a telephone wire .	1
+there	1.0	a path wandered through the town .	1
+there	1.0	there wandered through the town a path .	1
+there	1.0	a path wandered up the mountain .	1
+there	1.0	there wandered up the mountain a path .	1
+there	1.0	a path wandered over the prairie .	1
+there	1.0	there wandered over the prairie a path .	1
+there	1.0	a road wandered through the town .	1
+there	1.0	there wandered through the town a road .	0
+there	1.0	a road wandered up the mountain .	1
+there	1.0	there wandered up the mountain a road .	0
+there	1.0	a road wandered over the prairie .	1
+there	1.0	there wandered over the prairie a road .	0
+there	1.0	a telephone wire wandered through the town .	1
+there	1.0	there wandered through the town a telephone wire .	0
+there	1.0	a telephone wire wandered up the mountain .	1
+there	1.0	there wandered up the mountain a telephone wire .	0
+there	1.0	a telephone wire wandered over the prairie .	1
+there	1.0	there wandered over the prairie a telephone wire .	1
+there	1.0	a glass chipped in the yard .	1
+there	0.0	there chipped in the yard a glass .	1
+there	1.0	a glass chipped all over the ground .	1
+there	0.0	there chipped all over the ground a glass .	0
+there	1.0	a glass chipped on john 's head .	1
+there	0.0	there chipped on john 's head a glass .	0
+there	1.0	a bowl chipped in the yard .	1
+there	0.0	there chipped in the yard a bowl .	1
+there	1.0	a bowl chipped all over the ground .	1
+there	0.0	there chipped all over the ground a bowl .	1
+there	1.0	a bowl chipped on john 's head .	1
+there	0.0	there chipped on john 's head a bowl .	0
+there	1.0	a window chipped in the yard .	1
+there	0.0	there chipped in the yard a window .	1
+there	1.0	a window chipped all over the ground .	1
+there	0.0	there chipped all over the ground a window .	0
+there	1.0	a window chipped on john 's head .	1
+there	0.0	there chipped on john 's head a window .	0
+there	1.0	a glass shattered in the yard .	1
+there	0.0	there shattered in the yard a glass .	0
+there	1.0	a glass shattered all over the ground .	1
+there	0.0	there shattered all over the ground a glass .	0
+there	1.0	a glass shattered on john 's head .	1
+there	0.0	there shattered on john 's head a glass .	0
+there	1.0	a bowl shattered in the yard .	1
+there	0.0	there shattered in the yard a bowl .	1
+there	1.0	a bowl shattered all over the ground .	1
+there	0.0	there shattered all over the ground a bowl .	0
+there	1.0	a bowl shattered on john 's head .	1
+there	0.0	there shattered on john 's head a bowl .	0
+there	1.0	a window shattered in the yard .	1
+there	0.0	there shattered in the yard a window .	1
+there	1.0	a window shattered all over the ground .	1
+there	0.0	there shattered all over the ground a window .	0
+there	1.0	a window shattered on john 's head .	1
+there	0.0	there shattered on john 's head a window .	0
+there	1.0	a door closed on the second floor .	1
+there	0.0	there closed on the second floor a door .	0
+there	1.0	a door closed down the street .	1
+there	0.0	there closed down the street a door .	0
+there	1.0	a door closed in the next room .	1
+there	0.0	there closed in the next room a door .	0
+there	1.0	a window closed on the second floor .	1
+there	0.0	there closed on the second floor a window .	1
+there	1.0	a window closed down the street .	1
+there	0.0	there closed down the street a window .	1
+there	1.0	a window closed in the next room .	1
+there	0.0	there closed in the next room a window .	0
+there	1.0	a door shut on the second floor .	1
+there	0.0	there shut on the second floor a door .	0
+there	1.0	a door shut down the street .	1
+there	0.0	there shut down the street a door .	0
+there	1.0	a door shut in the next room .	1
+there	0.0	there shut in the next room a door .	0
+there	1.0	a window shut on the second floor .	1
+there	0.0	there shut on the second floor a window .	0
+there	1.0	a window shut down the street .	1
+there	0.0	there shut down the street a window .	0
+there	1.0	a window shut in the next room .	1
+there	0.0	there shut in the next room a window .	0
+there	1.0	a door opened on the second floor .	1
+there	0.0	there opened on the second floor a door .	0
+there	1.0	a door opened down the street .	1
+there	0.0	there opened down the street a door .	1
+there	1.0	a door opened in the next room .	1
+there	0.0	there opened in the next room a door .	0
+there	1.0	a window opened on the second floor .	1
+there	0.0	there opened on the second floor a window .	1
+there	1.0	a window opened down the street .	1
+there	0.0	there opened down the street a window .	1
+there	1.0	a window opened in the next room .	1
+there	0.0	there opened in the next room a window .	1
+there	1.0	a car slammed into the wall .	1
+there	0.0	there slammed into the wall a car .	0
+there	1.0	a car slammed into the pole .	1
+there	0.0	there slammed into the pole a car .	0
+there	1.0	a car slammed into the window .	1
+there	0.0	there slammed into the window a car .	1
+there	1.0	a bicycle slammed into the wall .	1
+there	0.0	there slammed into the wall a bicycle .	0
+there	1.0	a bicycle slammed into the pole .	1
+there	0.0	there slammed into the pole a bicycle .	0
+there	1.0	a bicycle slammed into the window .	1
+there	0.0	there slammed into the window a bicycle .	0
+there	1.0	a bird slammed into the wall .	1
+there	0.0	there slammed into the wall a bird .	0
+there	1.0	a bird slammed into the pole .	1
+there	0.0	there slammed into the pole a bird .	0
+there	1.0	a bird slammed into the window .	1
+there	0.0	there slammed into the window a bird .	1
+there	1.0	a car collided into the wall .	1
+there	0.0	there collided into the wall a car .	0
+there	1.0	a car collided into the pole .	1
+there	0.0	there collided into the pole a car .	0
+there	1.0	a car collided into the window .	1
+there	0.0	there collided into the window a car .	0
+there	1.0	a bicycle collided into the wall .	1
+there	0.0	there collided into the wall a bicycle .	0
+there	1.0	a bicycle collided into the pole .	1
+there	0.0	there collided into the pole a bicycle .	0
+there	1.0	a bicycle collided into the window .	1
+there	0.0	there collided into the window a bicycle .	0
+there	1.0	a bird collided into the wall .	1
+there	0.0	there collided into the wall a bird .	0
+there	1.0	a bird collided into the pole .	1
+there	0.0	there collided into the pole a bird .	0
+there	1.0	a bird collided into the window .	1
+there	0.0	there collided into the window a bird .	0
+there	1.0	a car bumped into the wall .	1
+there	0.0	there bumped into the wall a car .	0
+there	1.0	a car bumped into the pole .	1
+there	0.0	there bumped into the pole a car .	0
+there	1.0	a car bumped into the window .	1
+there	0.0	there bumped into the window a car .	0
+there	1.0	a bicycle bumped into the wall .	1
+there	0.0	there bumped into the wall a bicycle .	0
+there	1.0	a bicycle bumped into the pole .	1
+there	0.0	there bumped into the pole a bicycle .	0
+there	1.0	a bicycle bumped into the window .	1
+there	0.0	there bumped into the window a bicycle .	0
+there	1.0	a bird bumped into the wall .	1
+there	0.0	there bumped into the wall a bird .	0
+there	1.0	a bird bumped into the pole .	1
+there	0.0	there bumped into the pole a bird .	0
+there	1.0	a bird bumped into the window .	1
+there	0.0	there bumped into the window a bird .	0
+there	1.0	a teacher yelled at the children .	1
+there	0.0	there yelled at the children a teacher .	0
+there	1.0	a teacher yelled at the crowd .	1
+there	0.0	there yelled at the crowd a teacher .	0
+there	1.0	a teacher yelled at the pedestrians .	1
+there	0.0	there yelled at the pedestrians a teacher .	0
+there	1.0	a parent yelled at the children .	1
+there	0.0	there yelled at the children a parent .	0
+there	1.0	a parent yelled at the crowd .	1
+there	0.0	there yelled at the crowd a parent .	0
+there	1.0	a parent yelled at the pedestrians .	1
+there	0.0	there yelled at the pedestrians a parent .	0
+there	1.0	an old man yelled at the children .	1
+there	0.0	there yelled at the children an old man .	0
+there	1.0	an old man yelled at the crowd .	1
+there	0.0	there yelled at the crowd an old man .	0
+there	1.0	an old man yelled at the pedestrians .	1
+there	0.0	there yelled at the pedestrians an old man .	0
+there	1.0	a teacher hollered at the children .	1
+there	0.0	there hollered at the children a teacher .	0
+there	1.0	a teacher hollered at the crowd .	1
+there	0.0	there hollered at the crowd a teacher .	0
+there	1.0	a teacher hollered at the pedestrians .	1
+there	0.0	there hollered at the pedestrians a teacher .	0
+there	1.0	a parent hollered at the children .	1
+there	0.0	there hollered at the children a parent .	0
+there	1.0	a parent hollered at the crowd .	1
+there	0.0	there hollered at the crowd a parent .	0
+there	1.0	a parent hollered at the pedestrians .	1
+there	0.0	there hollered at the pedestrians a parent .	0
+there	1.0	an old man hollered at the children .	1
+there	0.0	there hollered at the children an old man .	0
+there	1.0	an old man hollered at the crowd .	1
+there	0.0	there hollered at the crowd an old man .	0
+there	1.0	an old man hollered at the pedestrians .	1
+there	0.0	there hollered at the pedestrians an old man .	0
+there	1.0	a teacher talked to the children .	1
+there	0.0	there talked to the children a teacher .	0
+there	1.0	a teacher talked to the crowd .	1
+there	0.0	there talked to the crowd a teacher .	0
+there	1.0	a teacher talked to the pedestrians .	1
+there	0.0	there talked to the pedestrians a teacher .	0
+there	1.0	a parent talked to the children .	1
+there	0.0	there talked to the children a parent .	0
+there	1.0	a parent talked to the crowd .	1
+there	0.0	there talked to the crowd a parent .	0
+there	1.0	a parent talked to the pedestrians .	1
+there	0.0	there talked to the pedestrians a parent .	0
+there	1.0	an old man talked to the children .	1
+there	0.0	there talked to the children an old man .	0
+there	1.0	an old man talked to the crowd .	1
+there	0.0	there talked to the crowd an old man .	0
+there	1.0	an old man talked to the pedestrians .	1
+there	0.0	there talked to the pedestrians an old man .	0
+there	1.0	a teacher lectured to the children .	1
+there	0.0	there lectured to the children a teacher .	0
+there	1.0	a teacher lectured to the crowd .	1
+there	0.0	there lectured to the crowd a teacher .	0
+there	1.0	a teacher lectured to the pedestrians .	1
+there	0.0	there lectured to the pedestrians a teacher .	0
+there	1.0	a parent lectured to the children .	1
+there	0.0	there lectured to the children a parent .	0
+there	1.0	a parent lectured to the crowd .	1
+there	0.0	there lectured to the crowd a parent .	0
+there	1.0	a parent lectured to the pedestrians .	1
+there	0.0	there lectured to the pedestrians a parent .	0
+there	1.0	an old man lectured to the children .	1
+there	0.0	there lectured to the children an old man .	0
+there	1.0	an old man lectured to the crowd .	1
+there	0.0	there lectured to the crowd an old man .	0
+there	1.0	an old man lectured to the pedestrians .	1
+there	0.0	there lectured to the pedestrians an old man .	0
+there	1.0	a teacher spoke to the children .	1
+there	0.0	there spoke to the children a teacher .	0
+there	1.0	a teacher spoke to the crowd .	1
+there	0.0	there spoke to the crowd a teacher .	0
+there	1.0	a teacher spoke to the pedestrians .	1
+there	0.0	there spoke to the pedestrians a teacher .	0
+there	1.0	a parent spoke to the children .	1
+there	0.0	there spoke to the children a parent .	0
+there	1.0	a parent spoke to the crowd .	1
+there	0.0	there spoke to the crowd a parent .	0
+there	1.0	a parent spoke to the pedestrians .	1
+there	0.0	there spoke to the pedestrians a parent .	0
+there	1.0	an old man spoke to the children .	1
+there	0.0	there spoke to the children an old man .	0
+there	1.0	an old man spoke to the crowd .	1
+there	0.0	there spoke to the crowd an old man .	0
+there	1.0	an old man spoke to the pedestrians .	1
+there	0.0	there spoke to the pedestrians an old man .	0
+there	1.0	a student agreed with the politician .	1
+there	0.0	there agreed with the politician a student .	0
+there	1.0	a student agreed with the police officer .	1
+there	0.0	there agreed with the police officer a student .	0
+there	1.0	a student agreed with the complaint .	1
+there	0.0	there agreed with the complaint a student .	0
+there	1.0	a protester agreed with the politician .	1
+there	0.0	there agreed with the politician a protester .	0
+there	1.0	a protester agreed with the police officer .	1
+there	0.0	there agreed with the police officer a protester .	0
+there	1.0	a protester agreed with the complaint .	1
+there	0.0	there agreed with the complaint a protester .	0
+there	1.0	a committee agreed with the politician .	1
+there	0.0	there agreed with the politician a committee .	0
+there	1.0	a committee agreed with the police officer .	1
+there	0.0	there agreed with the police officer a committee .	0
+there	1.0	a committee agreed with the complaint .	1
+there	0.0	there agreed with the complaint a committee .	0
+there	1.0	a student dealt with the politician .	1
+there	0.0	there dealt with the politician a student .	0
+there	1.0	a student dealt with the police officer .	1
+there	0.0	there dealt with the police officer a student .	0
+there	1.0	a student dealt with the complaint .	1
+there	0.0	there dealt with the complaint a student .	0
+there	1.0	a protester dealt with the politician .	1
+there	0.0	there dealt with the politician a protester .	0
+there	1.0	a protester dealt with the police officer .	1
+there	0.0	there dealt with the police officer a protester .	0
+there	1.0	a protester dealt with the complaint .	1
+there	0.0	there dealt with the complaint a protester .	0
+there	1.0	a committee dealt with the politician .	1
+there	0.0	there dealt with the politician a committee .	0
+there	1.0	a committee dealt with the police officer .	1
+there	0.0	there dealt with the police officer a committee .	0
+there	1.0	a committee dealt with the complaint .	1
+there	0.0	there dealt with the complaint a committee .	0
+there	1.0	a student disagreed with the politician .	1
+there	0.0	there disagreed with the politician a student .	0
+there	1.0	a student disagreed with the police officer .	1
+there	0.0	there disagreed with the police officer a student .	0
+there	1.0	a student disagreed with the complaint .	1
+there	0.0	there disagreed with the complaint a student .	0
+there	1.0	a protester disagreed with the politician .	0
+there	0.0	there disagreed with the politician a protester .	0
+there	1.0	a protester disagreed with the police officer .	1
+there	0.0	there disagreed with the police officer a protester .	0
+there	1.0	a protester disagreed with the complaint .	1
+there	0.0	there disagreed with the complaint a protester .	0
+there	1.0	a committee disagreed with the politician .	0
+there	0.0	there disagreed with the politician a committee .	0
+there	1.0	a committee disagreed with the police officer .	1
+there	0.0	there disagreed with the police officer a committee .	0
+there	1.0	a committee disagreed with the complaint .	1
+there	0.0	there disagreed with the complaint a committee .	0
+there	1.0	a little boy looked for evidence .	1
+there	0.0	there looked for evidence a little boy .	0
+there	1.0	a little boy looked for treasure .	1
+there	0.0	there looked for treasure a little boy .	0
+there	1.0	a little boy looked for the hidden children .	1
+there	0.0	there looked for the hidden children a little boy .	0
+there	1.0	an investigator looked for evidence .	1
+there	0.0	there looked for evidence an investigator .	0
+there	1.0	an investigator looked for treasure .	1
+there	0.0	there looked for treasure an investigator .	0
+there	1.0	an investigator looked for the hidden children .	1
+there	0.0	there looked for the hidden children an investigator .	0
+there	1.0	a scientist looked for evidence .	1
+there	0.0	there looked for evidence a scientist .	0
+there	1.0	a scientist looked for treasure .	1
+there	0.0	there looked for treasure a scientist .	0
+there	1.0	a scientist looked for the hidden children .	1
+there	0.0	there looked for the hidden children a scientist .	0
+there	1.0	a little boy searched for evidence .	1
+there	0.0	there searched for evidence a little boy .	0
+there	1.0	a little boy searched for treasure .	1
+there	0.0	there searched for treasure a little boy .	0
+there	1.0	a little boy searched for the hidden children .	1
+there	0.0	there searched for the hidden children a little boy .	0
+there	1.0	an investigator searched for evidence .	1
+there	0.0	there searched for evidence an investigator .	0
+there	1.0	an investigator searched for treasure .	1
+there	0.0	there searched for treasure an investigator .	0
+there	1.0	an investigator searched for the hidden children .	1
+there	0.0	there searched for the hidden children an investigator .	0
+there	1.0	a scientist searched for evidence .	1
+there	0.0	there searched for evidence a scientist .	0
+there	1.0	a scientist searched for treasure .	1
+there	0.0	there searched for treasure a scientist .	0
+there	1.0	a scientist searched for the hidden children .	1
+there	0.0	there searched for the hidden children a scientist .	0
