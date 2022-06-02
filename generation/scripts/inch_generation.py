@@ -6,13 +6,13 @@ import random
 namesList = names.words()
 random.shuffle(namesList)
 namesList = namesList[1:15]
-nouns_file = "POS_data/nouns.txt"
+nouns_file = "../POS_data/nouns.txt"
 lines = open(nouns_file, 'r').readlines()
 nouns = [line.lower().strip() for line in lines]
 
 
 ##causative/inchoative
-causative_file = "POS_data/causative_inchoative.txt"
+causative_file = "../POS_data/causative_inchoative.txt"
 lines = open(causative_file, 'r').readlines()
 causative_verbs = {}
 curr_verb_type = ""
@@ -30,7 +30,7 @@ default_conjugator = mlconjug3.Conjugator(language='en')
 
 inch_sentences = []
 
-with open('generated_data/inch_sentences.csv', 'w') as csvfile:
+with open('../generated_data/inch_sentences.csv', 'w') as csvfile:
     csvwriter = csv.writer(csvfile)
     for verb in causative_verbs.keys():
         for verb_type in causative_verbs[verb]:
