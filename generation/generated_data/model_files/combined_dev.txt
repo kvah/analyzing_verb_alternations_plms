@@ -1,0 +1,620 @@
+there	0		there stomped on a frog a boy .
+spray	1		jason draped the bedspread over the bed .
+there	1		a teacher yelled at the crowd .
+spray	0		jason scooped the bucket with water .
+spray	0		jessica suspended the roof with the masterpiece .
+inch	1		the plane steered .
+u_obj	0		elizabeth rendezvoused michael .
+spray	1		nicole dabbed glue onto the deck .
+spray	1		david spritzed the paper with cleanser .
+spray	0		elizabeth rammed the floor with the nail .
+spray	1		michael speckled the picture with the dye .
+there	0		there graduated from college a senior .
+there	1		there flickered a flame .
+dat	0		juliette furnished jolene a couch .
+dat	0		wenonah marked a pancake to bobbi .
+there	0		there bumped into the pole a bird .
+inch	1		the boat accelerated .
+inch	1		the ship steered .
+spray	1		james hoisted the couch onto the floor .
+u_obj	1		david and nicole duelled .
+there	0		there hollered at the children a parent .
+dat	0		richmond billed a fee to juliette .
+u_object	1		hannah conditioned her hair .
+inch	1		the shoe emerged .
+there	1		a dead rat rotted in the gutter .
+there	1		a path weaved through the town .
+spray	0		james wreathed flowers on the kingdom .
+spray	1		nicole surrounded the town with smog .
+there	0		there overspread a river .
+u_object	1		deandra permed her hair .
+there	0		there corresponded a boy .
+dat	1		dorrie branded a helicopter to ainsley .
+inch	1		anissa clubbed the leader .
+spray	1		james littered the mountain with pollen .
+spray	1		jessica planted the field with seeds .
+spray	1		michael dumped the stock into the bowl .
+spray	0		jessica coated perfume on the king .
+there	1		a bird crashed into the window .
+inch	1		nicole cut the apple .
+spray	1		christopher stowed the fixture on the ledge .
+there	1		there exuded from the container a putrid smell .
+spray	1		jessica filled the spout with sewage .
+spray	1		james pushed the toolbox on the roof .
+there	0		there turned a boy .
+spray	1		nicole splashed alcohol onto the paper .
+spray	0		rebecca suffused clouds over the coastline .
+u_object	1		sarah dyed her hair .
+there	1		a student concentrated on the puzzle .
+there	1		a strawberry decayed in the gutter .
+there	1		a hurricane arrived behind me .
+spray	1		michael embellished the theater with gems .
+u_object	1		hugh bruised his arm .
+spray	1		nicole carpeted forest floor with pollen .
+spray	1		michael wreathed the staircase with streamers .
+dat	1		dorrie rented bobbi a car .
+dat	0		michael judged the best to rebecca .
+spray	1		heathcliff twirled water on the window .
+u_object	1		sarah batted her eyelashes .
+dat	1		jessica fancied kelly a loser .
+spray	0		kelly spooned the cup with the ingredients .
+spray	1		elizabeth perched the pinwheels on the porch .
+spray	0		elizabeth paved the pebblesthe bricks in the garden .
+spray	0		christopher encircled fog into the coastline .
+spray	1		elizabeth crammed the train with the boxes .
+spray	1		hannis plastered the floor with paint .
+spray	0		daniel suffused incense in the air .
+inch	0		the shoe rapped .
+inch	1		the cart slowed .
+u_obj	1		christopher rouged his face .
+dat	0		dorrie yelped juliette a hello .
+there	1		a dog perched on the stoop .
+there	0		there shattered in the yard a bowl .
+spray	0		heathcliff emblazoned the window with juice .
+spray	1		james dabbed paint onto the siding .
+spray	1		david sprinkled fire retardant onto the letterthe cloth .
+there	1		there burned on the stove a coal .
+inch	1		elizabeth dried the cloth .
+spray	1		michael flecked the walls with the dye .
+inch	1		david moved the bicycle .
+spray	1		david bathed the child with perfume .
+spray	0		rebecca installed the floor with the ladder .
+inch	1		the lizard materialized .
+spray	0		christopher rested the ledge with the toolbox .
+spray	1		elizabeth soiled the bathroom with muck .
+inch	1		the platter tipped over .
+inch	0		the stamp bonked .
+spray	0		michael lowered the roof with the window .
+spray	1		nicole loaded the cargo into the boat .
+there	1		an old man spoke to the pedestrians .
+there	1		there issued from the hole a fine mist .
+spray	1		rebecca scattered corn in the yard .
+inch	0		the card stole .
+inch	1		the water vaporized .
+spray	1		david poured water into the bucket .
+inch	1		prudy aired out the plane .
+there	1		a putrid smell emanated from the cave .
+there	1		there blazed in the fireplace a coal .
+dat	1		marja alleged a story to richmond .
+there	0		there solidified on the floor a puddle .
+inch	0		the painting liked .
+inch	1		michael crashed the ship .
+dat	0		jason suggested john an idea .
+there	1		a teacher lectured to the crowd .
+u_obj	1		michael split his lip .
+inch	1		jason minced the onion .
+spray	0		rebecca placed the foundation with the couch .
+spray	0		jason bathed oil on the child .
+there	0		there finished in the morning a play .
+spray	1		elizabeth dropped the curtain onto the foundation .
+spray	1		nicole rubbed the painting with fire retardant .
+inch	1		mattias carbonized the criminal .
+inch	1		rebecca expanded the organization .
+spray	0		jason siphoned the mug with the stock .
+inch	1		the project expanded .
+inch	1		the pancake cooled .
+spray	1		david planted soybeans in the field .
+there	1		there festered on the forest floor a dead rat .
+spray	1		james spreaded cement onto the fence .
+inch	1		michael loved the movie .
+spray	0		elizabeth slopped the bucket with hot chocolate .
+spray	1		christopher dusted the dust into the envelope .
+inch	0		the counter sanded .
+spray	0		mirna encrusted oil on the door .
+inch	0		tawnya crimsoned the camera .
+dat	0		elizabeth thought a loser to kelly .
+inch	1		kelly shattered the glass .
+spray	0		michael ringed gems on the palace .
+spray	1		christopher garlanded the theater with streamers .
+spray	0		kelly wound the fence with the yarn .
+there	1		there headed a cat into the ocean .
+inch	1		the car maneuvered .
+there	1		there exuded from the hole a putrid smell .
+spray	1		nicole draped the blanket over the couch .
+spray	0		christopher suffused smog over the forest .
+spray	1		kelly emblazoned the sky with gems .
+spray	1		rebecca plugged the drain with muck .
+spray	0		zedekiah anointed oil on the window .
+spray	1		james placed the beam onto the foundation .
+spray	0		michael mounted the floor with the painting .
+spray	1		michael veiled the coastline with smog .
+spray	0		elizabeth dropped the ground with the materials .
+spray	1		michael poured the broth into the cup .
+spray	0		rebecca installed the ledge with the ladder .
+there	1		a statue sat in the plaza .
+there	1		a boy jumped on a button .
+spray	1		james whirled the baton in the wind .
+u_object	0		barbara sprained .
+inch	0		the pancake devastated .
+dat	1		jessica bequeathed the mansion to the family lawer .
+there	1		a cat leaped into the desert .
+spray	1		michael spooned the soup into the bucket .
+spray	1		elizabeth pumped the paper with alcohol .
+spray	1		rebecca shovelled the leaves into the trashcan .
+spray	0		nicole clogged hair in the spout .
+dat	1		juliette threw a rug to steward .
+inch	1		the herbs steeped .
+inch	1		rosalinda clogged the toilet .
+spray	0		rebecca interspersed the lies into the honesty .
+spray	1		nicole tiled the driveway with the concrete .
+inch	0		the stamp sawed .
+spray	0		rebecca funnelled the pot with the broth .
+spray	1		james raised the bedframe onto the ground .
+spray	1		david poured the stock into the bucket .
+inch	0		the theft saw .
+spray	1		david dribbled the milk from the cup .
+inch	1		candide magnified the camera .
+there	1		an old log decomposed on the forest floor .
+dat	1		meaghan whistled a tune to marja .
+there	0		there melted on the streets a glass of water .
+u_obj	0		michael collaborated david .
+spray	0		nicole speckled the varnish onto the picture .
+inch	1		jessica broke the window .
+spray	0		rebecca garlanded decorations on the staircase .
+spray	1		nicole sprayed water onto the paper .
+u_obj	1		elizabeth flossed her molars .
+spray	0		kelly carpeted pollen over the valley .
+spray	1		jason poured the soup into the cup .
+dat	1		jason tipped james a large sum .
+there	1		some bats resided at the edge of the cliff .
+spray	0		nicole curled the railing with the scarf .
+there	1		a colony of ants settled at the edge of the cliff .
+inch	1		tawnya served the shoe to me .
+dat	1		juliette left a shoe to kameko .
+spray	0		kelly pushed the floor with the fixture .
+spray	0		gertruda settled paint on the window .
+inch	1		the baby weakened .
+spray	1		jessica rubbed cleanser onto the letterthe cloth .
+u_obj	0		david wrung .
+spray	1		david pushed the ladder on the ledge .
+spray	1		michael daubed the wall with putty .
+dat	1		john brought a gift to the family .
+there	1		a fire smoldered on the stove .
+spray	1		marlowe brushed cream cheese on the floor .
+spray	0		nicole encrusted gems onto the sky .
+inch	0		miles mellowed the key .
+u_object	1		barbara studied a lecture .
+inch	0		the shoe mowed .
+inch	1		jessica enjoyed the sculpture .
+spray	1		rebecca put the materials onto the roof .
+inch	1		james saw the mistake .
+spray	1		michael twirled the flag in the sky .
+spray	1		david stashed the BBQ on the floor .
+inch	1		the cart crashed .
+there	1		a little boy searched for treasure .
+inch	1		rosalinda liquidated the stamp .
+spray	1		elizabeth encircled the forest with gloom .
+dat	1		carry owed juliette a rug .
+there	1		there crackled on the stove a coal .
+spray	1		rebecca daubed the siding with putty .
+spray	1		jason flecked the art with the varnish .
+spray	0		james shovelled the trashcan with the litter .
+spray	1		kelly draped the bedspread over the couch .
+spray	0		elizabeth dumped the cup with hot chocolate .
+u_obj	1		jessica brushed her teeth .
+there	1		a branch hovered above the walkway .
+u_obj	1		rebecca and christopher rapped .
+u_object	1		peter blew his nose .
+there	1		there blazed on the stove a coal .
+inch	1		david unfolded the sheet .
+spray	1		gertruda cloaked the couch with cream cheese .
+spray	1		jason littered the valley with snow .
+spray	0		james sloshed the mug with water .
+spray	1		kelly covered the patient with oil .
+spray	0		hannis pounded the couch with cream cheese .
+spray	1		david masked the forest with smog .
+u_obj	0		elizabeth scalded .
+spray	0		jessica spooned the cup with the broth .
+dat	0		michael taxed a thousand dollars to james .
+inch	0		the movie hated .
+spray	1		michael splattered water onto the letterthe cloth .
+there	1		a bird bumped into the wall .
+inch	0		the computer supervened .
+spray	1		rebecca stained the operating room with sewage .
+u_obj	1		jessica hit james .
+spray	1		james spreaded the fence with cement .
+spray	1		christopher placed the curtain onto the foundation .
+spray	0		nicole littered pine cones over forest floor .
+there	1		there weaved through the town a road .
+dat	0		jessica named the winner to susan .
+there	1		a sheet dangled from the tree .
+there	0		there juggled at the crowd a parent .
+spray	0		jessica adorned christmas lights on the kingdom .
+spray	1		christopher put the curtain onto the foundation .
+spray	0		jason shovelled the bag with the leaves .
+there	1		there rotted on the forest floor a forgotten apple .
+inch	1		doe opened the card .
+there	1		a student agreed with the complaint .
+dat	0		christopher accorded a generous reward to susan .
+spray	1		jason stained the hospital with waste .
+inch	0		the whale poisoned .
+dat	0		jason fined a large sum to kelly .
+spray	0		elizabeth encrusted stars onto the heavens .
+spray	1		nicole loaded the cargo into the cabinet .
+inch	1		the glass chipped .
+spray	1		jason smudged the fence with paint .
+inch	1		the boat stopped .
+dat	0		jason recited the audience a letter .
+spray	1		christopher dripped the milk from the ladle .
+inch	1		david chugged the liquid .
+spray	0		jason lifted the floor with the materials .
+u_obj	1		elizabeth dressed .
+there	1		a loud noise surged from the cave .
+there	1		an indigenous group resided at the edge of the cliff .
+spray	0		david spooned the cup with water .
+spray	1		michael splashed paint onto the letterthe cloth .
+spray	0		kelly ladled the cup with the broth .
+spray	1		amity squished paint on the floor .
+spray	1		elizabeth daubed stain onto the wall .
+spray	1		kelly installed the ladder on the deck .
+there	1		there grew at the edge of the cliff an orchid .
+there	0		there shattered on john 's head a glass .
+spray	0		andree suspended the couch with juice .
+inch	0		the orange devoured .
+spray	1		michael splattered the paper with alcohol .
+inch	1		the container filled .
+dat	1		carry extended steward a book .
+inch	1		the toilet decelerated .
+spray	1		christopher spilled the milk from the spatula .
+dat	1		charlena reported a bicycle to jolene .
+u_obj	1		nicole and jessica talked .
+spray	0		rebecca encrusted gems onto the heavens .
+dat	1		kameko shoved a cat to wenonah .
+spray	0		christopher sat the roof with the BBQ .
+spray	0		jessica shrouded smog into the village .
+inch	1		armond spanked the bed .
+there	1		a parent screamed at the pedestrians .
+inch	1		the leaf smoothed .
+inch	0		the pillow regularized .
+dat	1		john gave his wife a book .
+dat	1		richmond flung a plant to jolene .
+there	0		there stemmed a tornado behind me .
+spray	0		david hoisted the ground with the bedframe .
+there	1		a casserole warmed in the oven .
+there	1		there wandered through the town a road .
+spray	1		jessica splashed perfume onto the paper .
+dat	1		elizabeth assigned a gold star to the student .
+there	1		there issued from the container a fine mist .
+dat	1		nicole lugged the new tenants the bags .
+inch	1		mattias singed the bee .
+spray	1		christopher positioned the BBQ on the ledge .
+there	1		a dead rat rotted on the forest floor .
+there	1		a protester agreed with the police officer .
+spray	0		david encircled mist over the town .
+there	1		a giant wave appeared from the hole .
+there	0		a forest fire meandered .
+u_obj	1		david winked .
+u_object	1		bob drank a coffee .
+spray	1		jessica sprayed the paper with alcohol .
+spray	1		christopher plastered the deck with putty .
+inch	1		the pillow matured .
+spray	0		christopher embellished christmas lights on the theater .
+u_obj	1		kelly cocked her head .
+spray	1		elizabeth suffused the coastline with gloom .
+inch	1		christopher liked the picture .
+spray	0		rebecca plugged sewage in the pipes .
+spray	0		jason dirtied sewage into the hospital .
+spray	1		jason sprayed paint onto the painting .
+spray	1		elizabeth surrounded the forest with clouds .
+spray	1		james wound the rope around the pole .
+there	1		there projected over the edge of the cliff a branch .
+spray	1		james dripped the soup from the spoon .
+spray	0		david dotted the concrete in the garden .
+spray	1		rebecca smudged putty onto the wall .
+there	0		there slammed into the window a car .
+there	1		there hovered above the walkway a boulder .
+there	0		there bumped into the wall a car .
+there	1		there exuded from the container a fine mist .
+spray	0		andree strewed the chair with juice .
+inch	1		james improved the procedure .
+spray	0		david bathed oil on the patient .
+spray	1		christopher placed the materials onto the foundation .
+u_obj	1		elizabeth clenched her teeth .
+spray	0		elizabeth dropped the roof with the couch .
+inch	1		michael perceived the crime .
+spray	1		james splattered the letterthe cloth with alcohol .
+spray	1		jason suffused the town with gloom .
+u_obj	0		jason brushed .
+there	0		there entered a thunderstorm in the valley .
+spray	1		jason ladled water into the pot .
+u_object	0		david ground .
+spray	1		elizabeth sat the ladder on the roof .
+u_obj	0		nicole dissented michael .
+dat	0		ainsley raged an expletive to marja .
+inch	1		the picture brightened .
+spray	1		david suffused the village with fog .
+there	1		a casserole defrosted in the microwave .
+u_obj	1		elizabeth and kelly commiserated .
+spray	0		michael drenched water into the basement .
+spray	1		elizabeth splattered perfume onto the paper .
+spray	0		jason tainted mud into the hospital .
+spray	1		kelly looped the yarn around the hydrant .
+there	1		a teacher yelled at the children .
+spray	0		jorge studded paint on the desk .
+u_object	0		peter raised .
+inch	0		the apple granulated .
+there	1		a teacher juggled at the crowd .
+dat	1		wenonah mulced marja a flower .
+spray	1		michael stowed the bench on the floor .
+there	1		a window cracked on john 's head .
+spray	1		michael veiled the forest with smog .
+spray	1		michael polluted the operating room with mud .
+spray	0		michael covered the blanket over the queen .
+dat	1		richmond yapped a cry to wenonah .
+there	1		a plant decayed .
+spray	0		christopher garlanded christmas lights on the staircase .
+u_obj	0		james injured .
+spray	0		jessica suspended the doorframe with the masterpiece .
+spray	1		rebecca coated the child with oil .
+there	1		a boy stepped on a bug .
+spray	0		nicole dripped the spoon with the milk .
+there	1		there flew a giant .
+spray	1		james blanketed the valley with pine cones .
+there	1		a piece of paper stuck to the glue .
+spray	1		michael dabbed the wall with cement .
+inch	1		armond punched the rug .
+spray	1		kelly splattered cleanser onto the paper .
+spray	1		rebecca placed the couch onto the foundation .
+inch	1		the cat appeared .
+there	1		a dog squatted on the stoop .
+inch	0		goose clipped the mouse .
+spray	0		elizabeth installed the wall with the BBQ .
+spray	0		elizabeth banged the wood with the peg .
+spray	1		michael splashed water onto the letterthe cloth .
+there	1		a strawberry decayed in the shadows .
+spray	1		james poured the soup into the bucket .
+spray	1		elizabeth ringed the kingdom with streamers .
+there	1		there resided in the town a colony of ants .
+dat	0		elizabeth ruled a hero to susan .
+spray	1		elizabeth slopped the ingredients into the bowl .
+spray	0		elizabeth raked the bag with the litter .
+spray	1		jorge swathed the couch with paint .
+spray	1		jorge spritzed oil on the desk .
+u_object	0		sarah dyed .
+there	1		a fly stuck to the wall .
+there	1		a nice old lady believed in god .
+spray	0		jason sloshed the pot with water .
+u_object	1		james kneaded the dough .
+inch	0		they repaid the car to me .
+spray	1		kelly rubbed alcohol onto the paper .
+inch	1		the cat eventuated .
+inch	0		hamilton collapsed the glass .
+spray	1		jason squirted perfume onto the letterthe cloth .
+there	1		there coexisted in the apartment an indigenous group .
+u_obj	0		kelly opened .
+spray	0		christopher shovelled the box with the leaves .
+there	0		there juggled at the pedestrians a teacher .
+spray	0		david twisted the hydrant with the thread .
+spray	1		michael stuffed the boxes into the cabinet .
+there	1		there rested on the stoop a dog .
+there	1		there kneeled next to the church a dog .
+spray	1		daniel filled the desk with paint .
+spray	1		christopher interweaved the honesty with the fables .
+spray	1		james polluted the clinic with mud .
+spray	1		david surrounded the coastline with gloom .
+spray	1		heathcliff tainted the couch with water .
+inch	1		hamilton sliced the lizard .
+inch	1		the picture darkened .
+spray	0		elizabeth interlaced the lies into the truth .
+u_object	1		hugh rolled his eyes .
+spray	1		james staffed the island with the employees .
+inch	0		the disaster revealed .
+inch	0		the novel wrote .
+spray	1		nicole slopped water into the mug .
+spray	1		nicole set the curtain onto the roof .
+there	1		a dancer twisted .
+u_obj	0		michael flirted christopher .
+spray	0		kelly shrouded clouds into the coastline .
+spray	0		christopher scooped the mug with the broth .
+inch	1		the leaf warped .
+dat	1		jolene relayed a tree to meaghan .
+there	1		a sticky fluid issued from the oven .
+there	1		a movie finished at the theater .
+spray	1		rebecca hung the blanket over the couch .
+spray	1		jessica rubbed the letterthe cloth with cleanser .
+u_object	0		james puckered .
+inch	0		the onion sliced .
+there	1		there meandered up the mountain a telephone wire .
+inch	1		the baby reddened .
+inch	0		agathe stemmed the hall .
+spray	0		kelly siphoned the pot with the broth .
+inch	0		the shoe purpled .
+there	1		there decayed in the gutter a forgotten apple .
+there	1		there sat next to the church a boy .
+spray	0		rebecca ladled the mug with the ingredients .
+spray	1		jason poured the ingredients into the cup .
+inch	1		jessica solved the paradox .
+dat	1		bobbi handed a shoe to juliette .
+spray	0		rebecca splotched the wax onto the walls .
+spray	1		hannis ornamented the floor with water .
+dat	0		juliette moaned juliette a greeting .
+inch	1		the fruit soured .
+spray	1		rebecca sat the bench on the roof .
+spray	0		james spooned the cup with the soup .
+spray	1		christopher embellished the city with christmas lights .
+spray	1		christopher spreaded the siding with cement .
+inch	1		the dinner warmed .
+spray	1		elizabeth blanketed the mountain with pollen .
+dat	1		christopher peddled the sales clerk a car .
+there	1		a bird slammed into the pole .
+inch	0		maggie occurred the car .
+inch	0		the story published .
+spray	1		kelly packed the train with the boxes .
+spray	0		david masked mist into the forest .
+there	1		a cult believed in the goodness of people .
+dat	1		john gave the little boy a plate of food .
+dat	0		meaghan bleated prudi a cry .
+spray	1		rebecca funnelled water into the bucket .
+spray	1		james squirted the paper with paint .
+spray	0		jessica positioned the ledge with the fixture .
+spray	1		christopher ringed the theater with decorations .
+inch	0		the apple pinched .
+spray	0		nicole swept the bag with the litter .
+there	1		a road weaved over the prairie .
+there	0		there opened in the next room a window .
+inch	0		the vase proliferated .
+spray	1		jason pounded the pin into the wood .
+there	1		there coexisted in the apartment two families .
+spray	1		jessica put the couch onto the floor .
+inch	1		the poster wrinkled .
+u_object	1		hugh hurt his arm .
+spray	1		nicole loaded the cargo into the train .
+spray	1		michael crammed the cabinet with the fruit .
+there	0		there crashed into the window a bird .
+spray	0		rebecca twisted the fence with the scarf .
+there	0		there froze on the table a puddle .
+there	1		there issued from the oven a sticky fluid .
+spray	0		kelly placed the floor with the couch .
+spray	1		christopher polluted the operating room with waste .
+spray	0		michael paved the concrete in campsite .
+spray	0		miquela coated cream cheese on the wall .
+inch	0		the pencil crushed .
+inch	1		the picture dimmed .
+spray	1		nicole surrounded the coastline with clouds .
+there	1		a fine mist exuded from the container .
+spray	0		elizabeth surrounded gloom into the forest .
+spray	0		jessica wreathed gems on the kingdom .
+inch	1		josefa diced the toilet .
+spray	0		david ornamented gems on the palace .
+there	0		there shattered all over the ground a glass .
+there	0		there concluded in the auditorium a lecture .
+inch	1		kelly covered up the results .
+there	1		an elephant rode into the desert .
+spray	1		nicole spreaded stain onto the fence .
+spray	0		jason speckled the varnish onto the art .
+spray	0		daniel embellished oil on the wall .
+there	1		there worked a cow in front of me .
+there	1		a bird lay in front of me .
+there	1		a sparrow squatted in the plaza .
+inch	1		jason saved the funds .
+inch	1		elizabeth bent the sheet .
+spray	1		jason bathed the child with oil .
+spray	0		jason decorated flowers on the city .
+spray	1		rebecca crammed the train with the melons .
+there	1		there hovered over the river a boulder .
+spray	0		jessica saturated the workers into the colony .
+inch	0		the card wrinkled .
+inch	0		the plant pounded .
+spray	1		nicole loaded the melons into the cabinet .
+inch	0		tawnya coagulated the dad .
+u_obj	0		michael crooked .
+inch	1		the lid flung open .
+inch	0		the apple tamed .
+spray	1		jessica splattered the letterthe cloth with perfume .
+spray	0		christopher scooped the bowl with the stock .
+spray	1		nicole garlanded the city with christmas lights .
+u_obj	1		michael and james consulted .
+spray	0		christopher spilled the spatula with the soup .
+u_object	1		bob hunted .
+there	1		a problem loomed .
+inch	1		kelly skimmed the article .
+there	0		there was discerned in the mountain a treasure .
+there	1		there gushed from the cave a putrid smell .
+inch	0		candide smashed the lion .
+spray	1		kelly veiled the village with clouds .
+spray	1		david leaned the toolbox on the ledge .
+u_obj	1		david shook his fist .
+dat	1		richmond crooned a good morning to ainsley .
+there	1		a forgotten apple festered in the gutter .
+there	1		an old man played at the crowd .
+spray	0		hannis squeezed the couch with water .
+inch	1		the boat steered .
+inch	0		the vodka chugged .
+there	1		a boulder projected above the walkway .
+there	1		there persisted in our minds some hope .
+spray	0		james imbued the falsehoods into the truth .
+there	1		there loomed over the edge of the cliff a branch .
+spray	1		jason dropped the materials onto the floor .
+there	1		a window chipped in the yard .
+dat	0		ainsley whimpered carry a poem .
+spray	1		elizabeth anointed the patient with oil .
+spray	0		daniel stocked oil on the window .
+there	1		a log burned on the stove .
+inch	1		tawnya loosened the toothpaste .
+there	1		there festered in the gutter a dead rat .
+there	1		a sparrow sat on the stoop .
+inch	1		the bowl emptied .
+u_object	0		barbara sprained .
+inch	1		the organization improved .
+spray	1		rebecca suffused the coastline with gloom .
+there	1		a branch hovered over the edge of the cliff .
+spray	0		elizabeth situated the language with the immigrant .
+spray	0		jessica flooded water into the basement .
+spray	0		jason tiled the concrete in the courtyard .
+dat	0		elizabeth labeled the greatest athlete to kelly .
+spray	1		elizabeth smeared stain onto the wall .
+there	1		a giant wave surged from the cave .
+there	1		a car collided into the window .
+spray	1		kelly twirled the baton in the breeze .
+dat	1		elizabeth considered john the most valuable player .
+spray	0		nicole veiled mist over the village .
+inch	1		the paper frayed .
+spray	1		david sprinkled alcohol onto the letterthe cloth .
+there	1		a fine mist issued from the cave .
+there	0		there cooled in the microwave a plate of food .
+u_obj	0		kelly stretched .
+u_obj	0		kelly flossed herself .
+u_obj	1		michael and christopher flirted .
+dat	1		juliette anointed a jet to prudi .
+inch	1		the disease roughened .
+there	1		a telephone wire twisted over the prairie .
+dat	1		marja rasped a goodbye to meaghan .
+spray	1		kelly hoisted the materials onto the floor .
+dat	1		jason granted the mansion to the family lawer .
+there	1		a putrid smell gushed from the cave .
+spray	1		rebecca stuffed the truck with the boxes .
+spray	1		david spritzed the painting with perfume .
+inch	1		the plane stopped .
+inch	1		the garden quadrupled .
+spray	1		elizabeth smeared cement onto the wall .
+there	1		there rotted on the forest floor a strawberry .
+spray	1		david shovelled the dirt into the bin .
+spray	0		james interspersed the lies into the truth .
+inch	1		jessica witnessed the crime .
+spray	0		michael spooned the mug with water .
+spray	1		david garnished the palace with gems .
+spray	1		jessica installed the BBQ on the roof .
+there	1		an elephant jumped on a frog .
+spray	1		elizabeth stowed the fixture on the roof .
+u_object	0		deandra smacked .
+dat	1		elizabeth flung the ball to the goalie .
+spray	1		elizabeth placed the couch onto the roof .
+dat	1		jason saved david a spot .
+inch	1		james darkened the lights .
+there	1		a protester agreed with the complaint .
+there	1		a student focused on the puzzle .
+spray	0		elizabeth sat the roof with the ladder .
+inch	1		armond sold the keyboard to me .
+inch	1		the steak blackened .
+there	1		a pile of snow froze on the floor .
+inch	1		nicole maneuvered the bicycle .
+spray	1		elizabeth adorned the theater with streamers .
+spray	1		james draped the towel over the bed .
+spray	1		james lined the driveway with the pebblesthe bricks .
+spray	1		christopher smudged cement onto the siding .
+inch	1		jason read the article .
+inch	1		doe hardened the bed .
+spray	1		christopher replenished the island with the workers .
+there	1		a boy swang .
+u_obj	1		rebecca opened her eyes .
+there	1		a bright light appeared from the cave .

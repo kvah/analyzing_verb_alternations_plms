@@ -1,0 +1,2534 @@
+there	1		there stood a girl in the valley .
+dat	1		richmond anointed jolene a jet .
+spray	0		chauncey bestrewed juice on the door .
+there	1		there resounded a bird in the sky .
+inch	1		doe balanced the plant .
+spray	0		daniel curled water on the chair .
+inch	1		the wood splintered .
+there	1		there awoke a zombie behind the mountain .
+spray	0		heathcliff twirled the window with water .
+u_object	0		deandra twisted .
+inch	0		the book stratified .
+inch	1		goose hacked the sun .
+u_object	1		bob snapped .
+there	0		there was hooked on the door a coat .
+spray	1		andree garlanded the chair with water .
+inch	0		miles floated the owner .
+there	1		there dozed a tiger in the valley .
+there	0		there tumbled a tumbleweed .
+inch	1		the hall hushed .
+there	1		there shimmered a ship behind the mountain .
+spray	1		marlowe piled the bed with clothes .
+inch	0		tawnya coagulated the dad .
+dat	0		wenonah wagered a shoe to juliette .
+dat	0		charlena cited a bicycle to charlena .
+inch	1		the owner lengthened .
+there	1		a problem persisted .
+dat	1		kameko shoved a cat to wenonah .
+inch	1		agathe slacked the card .
+u_object	1		peter raised his hand .
+there	1		a flame glistened on the water .
+inch	1		the rocket awoke .
+dat	0		richmond barked dorrie an expletive .
+inch	0		agathe coarsened the bull .
+there	1		a boy ran .
+inch	0		maggie wearied the rocket .
+u_object	1		peter scalded his leg .
+inch	0		the carpet swatted .
+u_object	0		barbara broke .
+there	1		a quote was inscribed in the journal .
+dat	1		marja batted a bee to ainsley .
+dat	1		steward ceded a castle to kameko .
+dat	0		ainsley esteemed a charger to meaghan .
+inch	1		doe massacred the bicycle .
+spray	0		gertruda cloaked cream cheese on the couch .
+there	1		a horse plodded into the desert .
+u_object	0		hannah injured .
+there	1		there chattered a crowd .
+inch	0		maggie reddened the baby .
+inch	1		the sun emanated .
+u_object	1		barbara tossed her mane .
+u_object	1		hannah powdered her face .
+spray	1		mirna jammed the shelf with boxes .
+spray	1		marlowe paved the wall with cream cheese .
+inch	1		armond decelerated the toilet .
+inch	1		goose crashed the car .
+inch	1		miles rose the helicopter .
+there	0		there was stamped on the sheet a bunny .
+inch	1		goose bashed the apple .
+inch	1		hamilton loaned the toothpaste to me .
+dat	0		richmond boomed dorrie a yell .
+inch	1		armond deepened the pillow .
+there	0		there was seen an image .
+spray	1		zedekiah planted the couch with cream cheese .
+inch	1		they forfeited the shoe to me .
+u_object	1		james hummed .
+u_object	1		james combed his hair .
+inch	0		the pirate abated .
+inch	1		the dad drilled .
+inch	1		the whale split .
+there	0		there entered a thunderstorm in the valley .
+inch	0		the owner chipped .
+dat	0		kameko bashed jolene a toothpaste .
+inch	1		josefa blitzed the stamp .
+inch	1		tawnya squished the bee .
+inch	1		the criminal petrified .
+u_object	1		sarah sketched .
+dat	0		steward relayed kameko a dog .
+dat	1		richmond crooned a good morning to ainsley .
+u_object	0		olga washed .
+spray	0		chauncey inlayed paint on the chair .
+inch	1		josefa thinned the vase .
+spray	1		amity dotted the table with water .
+dat	0		richmond stamped a pancake to wenonah .
+inch	1		mattias altered the bee .
+dat	1		juliette burbled a story to bobbi .
+inch	1		the balloon distended .
+inch	0		the disease pecked .
+there	0		there was engraved a drawing .
+inch	1		doe chipped the owner .
+u_object	1		peter fractured his femur .
+u_object	1		olga sculpted .
+spray	1		chauncey soiled the table with juice .
+u_object	1		peter bit his lip .
+dat	0		ainsley bet a pill to juliette .
+dat	0		steward adjudged a plant to kameko .
+inch	1		rosalinda dispatched the toothpaste .
+spray	1		marlowe framed the wall with cream cheese .
+inch	0		anissa dampened the cat .
+inch	1		hamilton demagnetized the rocket .
+dat	0		juliette warranted marja a card .
+inch	1		the sticker stuck .
+dat	1		meaghan faxed a plane to prudi .
+inch	1		candide quadrupled the equation .
+u_object	1		bob hunted a whale .
+dat	0		richmond recounted dorrie a charger .
+spray	0		evie mottled the door with cream cheese .
+there	1		a cat sped into the desert .
+u_object	1		olga typed an essay .
+dat	1		richmond relayed carry a tree .
+u_object	0		hannah powdered .
+spray	1		amity lodged cream cheese on the couch .
+inch	0		armond came the rug .
+spray	0		andree imbued juice on the bed .
+dat	1		dorrie guaranteed marja a pillow .
+inch	1		the keyboard swang .
+dat	0		ainsley adopted a baby to dorrie .
+dat	1		jolene loaned a bull to kameko .
+dat	1		dorrie spared a bed for carry .
+dat	0		steward cried a greeting to juliette .
+inch	1		doe shortened the apple .
+u_object	1		hannah groomed herself .
+inch	0		agathe erupted the pill .
+dat	0		bobbi lowered marja a dad .
+dat	1		meaghan flicked a flower to wenonah .
+dat	1		charlena avowed juliette a flower .
+dat	1		wenonah handed richmond a shoe .
+dat	1		steward sung steward a song .
+dat	0		richmond trucked meaghan a pencil .
+inch	1		the ice tripled .
+u_object	1		deandra smacked her lips .
+spray	1		mirna daubed oil on the bed .
+inch	1		the baby reddened .
+inch	1		rosalinda knifed the car .
+inch	1		the charger grieved .
+inch	1		the card kicked .
+u_object	1		bob hunted .
+inch	1		josefa materialized the lizard .
+dat	1		charlena squeaked a whisper to wenonah .
+inch	1		tawnya gashed the camera .
+inch	1		prudy unfolded the envelope .
+u_object	1		bob flicked his finger .
+u_object	0		hannah injured .
+there	1		a hurricane arrived behind me .
+inch	0		tawnya humidified the bed .
+inch	1		goose neutralized the ice .
+dat	1		bobbi barked an expletive to bobbi .
+dat	0		bobbi forgave a computer to dorrie .
+u_object	1		hugh painted a picture .
+u_object	1		hugh manicured his nails .
+dat	1		marja rolled a pancake to meaghan .
+there	1		a bell chimed in front of me .
+inch	1		the glass condensed .
+u_object	0		peter fractured .
+inch	0		hamilton yelled the car .
+there	1		a girl stood in the valley .
+u_object	0		hannah clicked .
+dat	0		richmond screeched steward a cry .
+spray	0		colline dripped the floor with water .
+dat	0		marja trusted a bed to bobbi .
+there	1		a river wound .
+there	1		a tornado followed behind the mountain .
+dat	0		ainsley repeated charlena a carpet .
+dat	1		richmond furnished a couch to marja .
+inch	1		the dad capsized .
+inch	1		the toothpaste blackened .
+inch	1		anissa clubbed the leader .
+inch	0		the helicopter paddywhacked .
+u_object	0		olga recited .
+u_object	1		sarah swept the leaves .
+inch	1		josefa enthused the sun .
+dat	1		steward screamed an expletive to carry .
+inch	1		the disease surged .
+inch	0		the sticker truncheoned .
+spray	1		daniel slathered cream cheese on the chair .
+inch	1		maggie offered the pillow to me .
+inch	1		they guaranteed the card to me .
+spray	1		gertruda draped a blanket on the chair .
+there	1		a river grew .
+there	1		a body was discovered .
+there	1		a ship evolved on the horizon .
+spray	1		gertruda mounted a painting on the door .
+inch	0		the jet glutenized .
+dat	1		steward appoined a car to jolene .
+inch	1		the car yelled .
+dat	0		ainsley bawled steward a story .
+inch	0		the toilet bruised .
+dat	0		richmond slipped a cat to ainsley .
+dat	1		jolene awarded jolene a shoe .
+inch	1		the bee macerated .
+dat	1		kameko wired ainsley a shoe .
+u_object	0		peter ruptured .
+dat	0		richmond named a shoe to dorrie .
+u_object	1		hugh painted .
+there	0		there wound a river .
+inch	0		mattias rolled the flower .
+inch	0		doe vitrified the computer .
+inch	1		the cat plopped .
+inch	1		the pancake cooled .
+dat	0		bobbi chanted charlena a prayer .
+there	1		there strolled a dog into the room .
+there	1		a cow crawled into the water .
+inch	0		the disease whacked .
+dat	1		bobbi yodeled a song to bobbi .
+there	1		a ship materialized in front of me .
+dat	1		carry yielded a bull to richmond .
+u_object	1		barbara burned her leg .
+there	1		a star shone behind the mountain .
+spray	1		marlowe festooned the desk with oil .
+u_object	1		bob carved a drawing .
+u_object	0		peter bit .
+inch	0		anissa macerated the bee .
+inch	0		anissa transpied the whale .
+inch	0		rosalinda drifted the lizard .
+there	1		there bubbled a stream .
+spray	1		marlowe brushed cream cheese on the floor .
+inch	1		armond shortcircuited the computer .
+inch	1		the flower rolled .
+dat	0		jolene rasped ainsley a goodbye .
+dat	1		marja chucked a car to marja .
+inch	1		the pill evolved .
+inch	1		agathe strapped the ice .
+inch	1		the shoe liquefied .
+there	0		there dawned a tornado in the room .
+dat	0		charlena yodeled carry a song .
+dat	1		carry wirelessed a charger to steward .
+u_object	1		hugh gnashed his teeth .
+there	0		a forest fire meandered .
+inch	0		the leader strengthened .
+there	0		there died a man in front of me .
+dat	1		marja yielded juliette a bull .
+there	1		there staggered an elephant into the desert .
+there	0		there wove a grandma .
+u_object	1		barbara studied .
+dat	0		wenonah mulced a flower to wenonah .
+u_object	1		david wagged his finger .
+inch	0		anissa disappeared the camera .
+there	1		a ship rose behind me .
+spray	1		daniel bombarded the table with oil .
+u_object	1		deandra shaved .
+inch	0		josefa rumpled the plane .
+there	0		there sheltered a giant .
+u_object	1		olga twitched her nose .
+u_object	1		hugh washed his face .
+there	1		there lurked a beast .
+spray	0		zedekiah scooped the floor with oil .
+u_object	0		sarah shook .
+spray	0		heathcliff interwove water on the chair .
+dat	0		kameko warbled juliette a cry .
+inch	0		rosalinda silicified the tree .
+there	1		a stamp was imprinted on the paper .
+inch	0		the lizard sliced .
+spray	0		jorge rested the door with water .
+inch	1		rosalinda kisded the plane .
+dat	1		meaghan guaranteed carry a card .
+dat	0		dorrie burbled wenonah a story .
+inch	1		agathe mowed the shoe .
+spray	1		gertruda set paint on the bed .
+there	0		there swang a boy .
+spray	1		chauncey dipped cream cheese on the window .
+dat	1		richmond brought wenonah a pin .
+inch	1		the criminal won .
+dat	0		marja kicked charlena a lizard .
+inch	1		agathe drained the swamp .
+dat	1		juliette adopted bobbi a baby .
+u_object	1		barbara studied a lecture .
+inch	1		the key mellowed .
+spray	0		heathcliff funneled the desk with oil .
+inch	0		mattias atrophied the shoe .
+dat	0		marja squealed steward a poem .
+spray	0		andree rung juice on the couch .
+there	1		a thunderstorm ascened on the horizon .
+u_object	1		olga cut her skin .
+inch	0		candide brained the keyboard .
+inch	0		the pancake devastated .
+spray	1		chauncey wreathed the table with paint .
+u_object	1		david wrote a story .
+inch	0		the lion belted .
+dat	1		steward rented a car for carry .
+inch	0		rosalinda soured the fruit .
+there	1		there strutted a cat into the water .
+dat	0		charlena avowed a flower to richmond .
+inch	0		the mouse socked .
+there	1		there hurtled an elephant into the ground .
+inch	1		rosalinda whacked the disease .
+spray	0		evie wound the chair with cream cheese .
+spray	0		amity soaked juice on the door .
+u_object	1		hugh hurt his head .
+inch	1		the bed enlarged .
+inch	0		the rug punched .
+inch	1		the card opened .
+inch	1		the valley tapered .
+there	0		a river cascaded .
+inch	1		mattias stratified the book .
+spray	0		daniel lowered the bed with water .
+inch	1		anissa whisked the rocket .
+dat	1		jolene croaked a greeting to dorrie .
+dat	0		kameko refuned marja a mouse .
+dat	0		juliette raged ainsley a expletive .
+dat	1		bobbi billed bobbi a fee .
+there	0		a fire protruded .
+inch	1		the plant perished .
+inch	1		tawnya looped the stamp .
+there	1		a ship flowed in the room .
+there	0		there stretched a tiger .
+inch	0		the toothpaste lit .
+u_object	1		sarah shaved .
+there	1		there flashed a light .
+inch	1		goose equalised the leader .
+there	1		a bell rung in the valley .
+dat	1		richmond acknowledged meaghan a lizard .
+inch	1		the lizard drifted .
+there	1		a thunderstorm beat on the horizon .
+inch	1		the book degraded .
+u_object	1		barbara wiggled .
+there	1		a city stretched on the horizon .
+spray	1		gertruda washed the window with cream cheese .
+inch	0		the room westernized .
+dat	1		jolene denied kameko a pencil .
+inch	1		hamilton grated the hall .
+there	1		a tornado dawned in the room .
+inch	1		the camera turned .
+inch	1		goose defrosted the chicken .
+dat	1		juliette snuffled a story to juliette .
+inch	1		doe petrified the criminal .
+there	0		there opened a thunderstorm in front of me .
+inch	1		the dad carbonified .
+u_object	0		barbara sprained .
+dat	0		marja imagined a pillow to bobbi .
+inch	1		goose slid the charger .
+dat	0		meaghan struck carry a blow .
+inch	1		the frost diminished .
+dat	0		ainsley conceded marja a camera .
+spray	1		chauncey enriched the couch with juice .
+dat	0		juliette branded steward a helicopter .
+dat	1		juliette shuttled a shoe to meaghan .
+inch	1		the dog halted .
+u_object	1		hugh bruised his finger .
+there	1		a problem existed .
+dat	1		steward snapped a remark to juliette .
+dat	0		bobbi screamed meaghan an expletive .
+dat	0		steward provided charlena a sun .
+dat	0		carry jabbered juliette a greeting .
+dat	1		ainsley presented ainsley a bull .
+dat	1		kameko screeched a cry to dorrie .
+inch	0		candide weakened the baby .
+u_object	0		hannah barked .
+there	1		a bird sang in the desert .
+dat	1		juliette crowned wenonah a cat .
+dat	1		bobbi catapulted a dad to dorrie .
+dat	0		richmond credited meaghan a bicycle .
+dat	0		kameko admitted a bicycle to jolene .
+u_object	1		hugh shampooed .
+inch	1		josefa hushed the hall .
+there	1		a dog walked into the desert .
+there	1		a tumbleweed tumbled .
+u_object	1		hugh hurt his arm .
+inch	0		josefa smartened the sticker .
+u_object	1		olga wrinkled her forehead .
+there	1		a plant rose .
+dat	0		prudi crowed bobbi a hello .
+inch	1		maggie enlarged the bed .
+spray	0		daniel seasoned juice on the salad .
+inch	1		the key flowed .
+dat	1		jolene flung kameko a plant .
+inch	0		the pancake paddled .
+dat	0		marja bode a rocket to carry .
+inch	0		the lizard stabbed .
+inch	1		prudy westernied the room .
+dat	0		bobbi toted richmond a pill .
+dat	0		marja shoved charlena a cat .
+inch	1		the computer sweetened .
+spray	0		miquela dammed juice on the door .
+dat	0		dorrie lilted bobbi a hello .
+there	1		a thunderstorm emerged behind the mountain .
+u_object	1		hugh washed his body .
+inch	0		doe appeared the cat .
+inch	0		doe calcified the book .
+dat	1		bobbi undercharged charlena a fee .
+inch	1		prudy pecked the bicycle .
+dat	1		charlena confessed a cap to richmond .
+spray	1		evie spewed juice on the table .
+u_object	0		olga closed .
+dat	1		kameko deemed carry a lion .
+inch	1		mattias sacrificed the cap to me .
+u_object	0		olga teased .
+inch	1		rosalinda reopened the store .
+there	0		there burst a balloon in front of me .
+spray	1		hannis endowed the bed with paint .
+inch	0		the ice delighted .
+there	1		a cat sailed into the ground .
+spray	1		gertruda dirtied the floor with cream cheese .
+dat	1		dorrie assumed bobbi a stamp .
+dat	1		charlena taught marja a lesson .
+inch	1		maggie hastened the disease .
+dat	1		richmond grunted a cry to marja .
+dat	0		steward fined a bull to dorrie .
+spray	1		colline saturated the plant with water .
+inch	1		the rug solidified .
+u_object	1		hannah strained her leg .
+there	1		a plant survived .
+inch	0		the rug gouged .
+u_object	1		sarah washed .
+u_object	0		peter plaited .
+spray	1		jorge adorned the window with cream cheese .
+spray	0		gertruda dappled juice on the wall .
+dat	1		ainsley shoved a flower to juliette .
+inch	1		the glass scarred .
+there	1		there glimmered a star on the horizon .
+u_object	1		olga twitched her ears .
+inch	0		the shoe purpled .
+inch	1		the silk frayed .
+inch	1		mattias proffered the carpet to me .
+u_object	1		james puckered his lips .
+inch	0		the owner squashed .
+inch	1		rosalinda clawed the stamp .
+dat	1		ainsley asserted a book to juliette .
+inch	1		the computer shut .
+inch	0		the charger stranged .
+u_object	1		olga closed her eyes .
+dat	1		kameko announced a story to richmond .
+inch	0		the pill chilled .
+inch	1		they gave the vase to me .
+spray	0		chauncey shoveled the wall with oil .
+dat	1		charlena bounced prudi a ball .
+inch	1		the bed fused .
+dat	1		steward groaned a passage to jolene .
+dat	0		wenonah cackled charlena a laugh .
+inch	1		the glass whitened .
+inch	1		doe smashed the keyboard .
+there	1		there shone a star behind the mountain .
+there	1		there was mounted on the wall a skull .
+u_object	1		sarah wrang her hands .
+inch	1		doe hardened the bed .
+inch	0		the vase obliterated .
+dat	1		ainsley professed wenonah a pirate .
+inch	0		the whale transpied .
+inch	1		tawnya submerged the camera .
+inch	0		the tea steeped .
+inch	0		they refuned the helicopter to me .
+inch	1		the keyboard spun .
+there	1		a thunderstorm supervened on the horizon .
+there	1		a sheet was glued to the wall .
+dat	0		jolene snuffled charlena a story .
+inch	1		the ice harmonized .
+inch	1		rosalinda slashed the toothpaste .
+dat	1		kameko allocated a cap to meaghan .
+inch	1		the vase brightened .
+spray	0		marlowe festooned oil on the desk .
+dat	0		charlena bunted bobbi a ball .
+inch	1		the shoe gelatinized .
+dat	0		carry asked a bull to bobbi .
+spray	1		hannis strung the table with rope .
+inch	1		prudy scratched the book .
+inch	0		the car occurred .
+inch	0		the owner crushed .
+dat	1		charlena served jolene a bull .
+u_object	0		deandra smacked .
+u_object	1		bob polished the shoes .
+u_object	0		hugh bruised .
+there	1		a cow flew into the ocean .
+there	1		a fire sparkled behind the mountain .
+there	1		a giant sat in front of me .
+dat	0		prudi vouchsafed meaghan a baby .
+inch	1		the baby weakened .
+spray	1		zedekiah packed juice into the box .
+dat	1		charlena slammed ainsley a ball .
+inch	1		miles promised the ball to me .
+there	1		there wandered a tiger .
+inch	1		the apple ossified .
+dat	0		wenonah pronounced a queen to juliette .
+inch	1		goose crumbled the ball .
+spray	1		miquela dammed the door with juice .
+spray	0		heathcliff emblazoned the window with juice .
+dat	1		ainsley spluttered a goodbye to steward .
+inch	1		they returned the vase to me .
+dat	1		marja posted a shoe to ainsley .
+inch	0		the carpet filled .
+u_object	1		bob kicked his leg .
+there	0		there was inscribed a quote in the journal .
+u_object	1		james filed his nails .
+inch	1		miles ripened the sticker .
+u_object	0		barbara rinsed .
+dat	1		juliette willed meaghan a key .
+dat	1		dorrie purred a greeting to kameko .
+dat	1		jolene saved bobbi a pear .
+dat	1		jolene telexed a sticker to jolene .
+spray	1		andree suspended juice on the couch .
+dat	0		wenonah marked a pancake to bobbi .
+inch	0		they restored the vase to me .
+there	1		a giant straddled in the valley .
+there	1		there was tattooed on his chest a word .
+dat	1		juliette whispered a poem to richmond .
+spray	1		andree rung the couch with juice .
+dat	1		wenonah denied a pencil to steward .
+spray	0		gertruda decked paint on the desk .
+inch	0		the ice ravaged .
+there	1		there awoke a man on the horizon .
+inch	1		josefa chilled the pill .
+dat	1		kameko hurled prudi a book .
+dat	1		kameko guaranteed a pillow to jolene .
+inch	1		the equation tripled .
+dat	1		marja wired a shoe to jolene .
+spray	0		mirna edged water on the door .
+dat	0		dorrie begrudged a key to meaghan .
+u_object	0		deandra preened .
+dat	0		ainsley whimpered carry a poem .
+dat	1		steward esteemed charlena a charger .
+u_object	1		hannah played .
+dat	0		kameko flew carry a dog .
+dat	0		ainsley cited steward a bicycle .
+inch	0		tawnya harmonized the ice .
+dat	0		bobbi tipped a dollar to prudi .
+inch	1		mattias crushed the owner .
+inch	0		the pencil recurred .
+u_object	1		hannah cut her hair .
+dat	1		meaghan tipped ainsley a ball .
+there	1		a star glimmered on the horizon .
+u_object	1		james soaped his body .
+u_object	0		hannah strained .
+u_object	1		barbara sprained her wrist .
+spray	0		amity dotted water on the table .
+spray	0		mirna hung the door with a painting .
+inch	0		the stamp liquidated .
+dat	0		dorrie gabbled a quote to kameko .
+spray	1		amity soaked the door with juice .
+inch	0		the ball chopped .
+inch	0		prudy stuck the ball .
+dat	0		steward shrieked meaghan an expletive .
+spray	1		colline cultivated plants in the garden .
+inch	1		the flower gushed .
+spray	1		hannis coiled paint on the chair .
+there	0		there was strapped to the chair a man .
+inch	0		rosalinda plopped the cat .
+spray	1		marlowe brushed the floor with cream cheese .
+dat	1		marja charged a key to marja .
+u_object	1		barbara broke her finger .
+u_object	0		deandra bumped .
+there	1		a girl labored in the valley .
+dat	0		ainsley bore jolene a leader .
+dat	1		charlena brought a pin to dorrie .
+inch	1		hamilton tied the shoe .
+there	1		a people coexisted .
+inch	0		anissa advanced the sticker .
+dat	0		carry slung prudi a criminal .
+inch	0		candide degraded the book .
+dat	1		steward squalled a hello to steward .
+dat	0		richmond phoned marja a pillow .
+inch	1		mattias singed the bee .
+there	1		there sang a bird in the desert .
+inch	0		the bed charred .
+spray	1		heathcliff impregnated his wife with a child .
+there	1		a tornado began behind me .
+spray	1		zedekiah planted cream cheese on the couch .
+u_object	0		barbara sowed .
+inch	1		the computer quickened .
+u_object	1		sarah dusted the porch .
+dat	1		jolene consecrated kameko a card .
+dat	1		dorrie tipped ainsley a dollar .
+inch	1		goose shut the computer .
+inch	1		prudy dented the owner .
+dat	0		bobbi overcharged a fine to marja .
+there	1		there glistened a flame on the water .
+u_object	0		hannah nicked .
+spray	0		colline tiled paint on the table .
+inch	0		agathe purpled the shoe .
+inch	0		the baby thumped .
+inch	0		doe dulled the rug .
+inch	1		the plane crystallized .
+u_object	1		sarah hennaed her hair .
+spray	0		daniel seeded water on the couch .
+inch	1		doe awoke the rocket .
+dat	1		juliette advanced a loan to jolene .
+inch	1		the tree degenerated .
+spray	0		andree rammed the chair with water .
+there	1		a cat climbed into the forest .
+dat	1		ainsley crowed a hello to carry .
+inch	1		candide assigned the owner to me .
+inch	1		goose darkened the baby .
+u_object	1		bob flexed his muscles .
+dat	1		kameko rowed a baby to wenonah .
+inch	0		armond dashed the mouse .
+dat	0		juliette thought carry a ball .
+there	1		a balloon burst in front of me .
+u_object	0		sarah dusted .
+there	1		there flowed a river .
+dat	1		ainsley hoisted a lion to kameko .
+u_object	1		hannah clicked her heels .
+inch	1		the keyboard browned .
+there	0		there arrived a hurricane behind me .
+inch	1		the equation quadrupled .
+inch	1		the cup tilted .
+u_object	1		deandra twisted her ankle .
+inch	1		the rocket fossilized .
+dat	0		meaghan muttered richmond a hello .
+spray	0		gertruda doused cream cheese on the bed .
+there	1		a horse darted into the sky .
+dat	0		meaghan elected a lizard to kameko .
+u_object	1		barbara fluttered her eyelashes .
+dat	0		marja declared dorrie a hall .
+inch	1		armond sold the keyboard to me .
+dat	0		prudi wailed kameko a goodbye .
+dat	0		jolene shot jolene a cap .
+u_object	0		sarah batted .
+inch	1		hamilton sliced the lizard .
+inch	1		josefa moistened the toilet .
+spray	0		miquela stuck the window with cream cheese .
+spray	0		colline lifted the building with bricks .
+u_object	1		barbara sprained her ankle .
+u_object	0		hannah cut .
+inch	1		maggie awakened the dad .
+there	1		there reverberated a sound above me .
+dat	0		juliette shoved carry a flower .
+inch	0		anissa emulsified the pill .
+inch	0		josefa perished the plant .
+dat	0		steward thought a ball to dorrie .
+u_object	1		barbara sprained her knee .
+spray	0		daniel sowed the window with cream cheese .
+there	1		a giant sheltered .
+dat	1		kameko lowered a dad to kameko .
+u_object	1		sarah clipped her nails .
+inch	1		the man tired .
+inch	1		prudy beat the pirate .
+dat	0		steward towed wenonah a vase .
+spray	0		evie tucked the chair with cream cheese .
+u_object	1		david disrobed himself .
+dat	0		meaghan bleated prudi a cry .
+there	1		a girl leaned in the room .
+inch	0		the tree obsessed .
+inch	1		josefa stabbed the lizard .
+u_object	1		david clapped .
+inch	1		candide fused the bed .
+inch	0		agathe supervened the computer .
+inch	1		the sticker shrank .
+there	1		a man won .
+there	0		there emanated a light .
+inch	1		mattias blunted the leader .
+inch	0		tawnya vanied the glass .
+dat	1		richmond wailed a goodbye to kameko .
+spray	0		zedekiah looped juice on the floor .
+spray	0		jorge bathed juice on the floor .
+there	0		there smoldered a boy .
+inch	1		josefa licked the pancake .
+spray	1		gertruda dappled the wall with juice .
+inch	0		the plant scorched .
+there	1		a painting was hung on the wall .
+spray	1		colline lifted bricks onto the building .
+inch	1		the camera accelerated .
+dat	0		prudi dubbed a sun to richmond .
+inch	1		the store reopened .
+there	1		a man was strapped to the chair .
+there	0		a tornado stemmed behind me .
+dat	0		wenonah nominated a cat to kameko .
+there	1		clothes were piled on the shelf .
+there	1		a bird rested in the valley .
+dat	0		marja purred dorrie a greeting .
+there	1		there was placed on the floor a pot .
+inch	0		candide emanated the sun .
+u_object	0		barbara showed .
+dat	1		wenonah dropped richmond a camera .
+spray	1		daniel stocked the window with oil .
+dat	0		kameko tugged prudi a toothpaste .
+spray	1		jorge repopulated the field with animals .
+there	1		there pranced a dog into the forest .
+inch	1		the toilet clogged .
+inch	1		the sun arose .
+inch	0		agathe cheered the dog .
+inch	0		the bed speared .
+there	1		a thunderstorm rose in the room .
+inch	0		prudy grayed the car .
+spray	0		marlowe stippled up the door with oil .
+inch	1		maggie bored the mouse .
+inch	1		hamilton fossilized the rocket .
+spray	1		marlowe laid paint on the wall .
+inch	0		armond lapsed the keyboard .
+inch	1		the bed hardened .
+u_object	1		hugh shrugged his shoulders .
+u_object	0		deandra bared .
+inch	1		maggie shrunk the sticker .
+spray	1		andree imbued the bed with juice .
+inch	1		the glass collapsed .
+spray	1		hannis spattered juice on the door .
+spray	0		chauncey enriched juice on the couch .
+inch	0		the book hit .
+there	1		there protruded a fire .
+inch	0		prudy worsened the helicopter .
+dat	1		steward shrieked an expletive to meaghan .
+u_object	1		hannah powdered her nose .
+inch	1		the hall split .
+inch	1		the computer shortcircuited .
+inch	1		the mouse dashed .
+there	0		there followed a tornado behind the mountain .
+inch	1		the toothpaste compressed .
+dat	1		prudi chanted a prayer to ainsley .
+inch	1		doe extended the pancake to me .
+dat	1		dorrie telecast ainsley a tree .
+there	1		a hurricane happened in the valley .
+inch	0		they repaid the car to me .
+dat	0		richmond wheeled charlena a carpet .
+dat	1		juliette floated kameko a computer .
+inch	1		tawnya paddywhacked the helicopter .
+inch	1		candide inflated the rug .
+dat	1		ainsley dubbed marja a sun .
+u_object	1		deandra permed her hair .
+u_object	1		barbara burned her arm .
+dat	1		wenonah appoined juliette a car .
+spray	1		marlowe shrouded the window with paint .
+u_object	1		hugh vacuumed the floor .
+spray	0		andree strewed the chair with juice .
+inch	1		the ice flattened .
+dat	1		juliette carried ice to bobbi .
+u_object	1		sarah dyed her hair .
+there	1		there shrieked a girl in the ocean .
+spray	0		evie larded juice on the window .
+there	1		there lived a plant .
+spray	0		mirna swaddled juice on the wall .
+inch	1		doe tamed the apple .
+dat	0		prudi rated a owner to prudi .
+spray	1		miquela stuck cream cheese on the window .
+inch	0		goose shriveled the fruit .
+inch	0		the pillow banged .
+u_object	1		james nodded .
+dat	1		bobbi repeated a carpet to ainsley .
+dat	1		marja supplied a bed to dorrie .
+u_object	1		david poined his finger .
+inch	0		the rocket rounded .
+spray	0		amity flecked paint on the chair .
+dat	1		charlena ferried juliette a camera .
+u_object	1		deandra knit .
+spray	1		zedekiah siphoned water on the chair .
+inch	0		the plane thrashed .
+there	1		there trotted a cow into the forest .
+there	0		there supervened a thunderstorm on the horizon .
+there	1		a girl knelt behind the mountain .
+there	0		there swung a monkey behind me .
+dat	1		carry clucked a greeting to juliette .
+spray	1		evie rippled the chair with oil .
+inch	0		rosalinda silvered the plane .
+inch	0		doe subsided the waves .
+there	1		there rode an elephant into the desert .
+u_object	1		hugh washed his hands .
+inch	0		the camera crucified .
+spray	1		heathcliff interwove the chair with water .
+u_object	1		peter lathered his hair .
+there	1		there gleamed a rainbow above me .
+dat	1		prudi mailed a pill to wenonah .
+there	1		a monkey was painted on the paper .
+u_object	0		peter scalded .
+u_object	0		david cold creamed .
+there	1		there rushed a dog into the room .
+u_object	1		bob blinked .
+there	1		there ran a cow into the desert .
+inch	0		the stamp blitzed .
+inch	1		maggie popped the pimple .
+dat	0		wenonah squalled meaghan a hello .
+inch	1		the rug inflated .
+dat	0		wenonah called kameko a cat .
+there	1		there knelt a girl behind the mountain .
+there	0		there projected a voice .
+spray	0		amity swept the chair with juice .
+u_object	1		hugh stamped his foot .
+inch	1		agathe heated the ball .
+inch	1		maggie minced the dad .
+dat	1		prudi hissed a poem to bobbi .
+inch	1		the people democratized .
+spray	1		jorge swathed the couch with paint .
+dat	1		wenonah slipped jolene a cat .
+spray	1		andree rammed water on the chair .
+dat	0		steward took jolene a cat .
+dat	0		dorrie taxed a pancake to richmond .
+dat	0		carry carried jolene ice .
+dat	0		jolene decreed a leader to juliette .
+u_object	1		james nodded his head .
+dat	1		ainsley squealed a poem to charlena .
+there	1		a tornado went behind me .
+inch	1		the vase thinned .
+dat	1		jolene kicked a ball to jolene .
+dat	0		jolene supplied kameko a bed .
+spray	1		evie pushed cream cheese on the window .
+spray	0		jorge twisted the desk with oil .
+inch	1		the boat sank .
+dat	0		kameko called a pencil to juliette .
+inch	1		the cap contracted .
+inch	1		the disease hastened .
+inch	1		miles distened the balloon .
+dat	1		bobbi chucked carry a car .
+inch	1		armond pounded the plant .
+inch	0		agathe stemmed the hall .
+u_object	1		deandra ate a cake .
+inch	1		the cap detonated .
+inch	0		prudy gladdened the bed .
+inch	1		doe hammered the rocket .
+spray	0		daniel slopped oil on the table .
+inch	1		maggie crisped the pancake .
+inch	1		mattias hit the book .
+there	0		there writhed a giant .
+there	0		a koala cut .
+u_object	1		peter crossed his arms .
+u_object	0		hannah nicked .
+dat	1		prudi trilled a note to richmond .
+dat	1		jolene slung a criminal to charlena .
+there	1		a dog strolled into the room .
+there	1		there jumped a cow into the air .
+inch	1		rosalinda moved the carpet .
+inch	1		the disease lessened .
+dat	1		meaghan proclaimed steward a pillow .
+inch	1		the glass cracked .
+dat	1		meaghan yammered a song to meaghan .
+u_object	1		deandra bared her teeth .
+there	1		a giant slept behind the mountain .
+there	1		there was glued to the wall a sheet .
+there	1		there ticked a clock .
+inch	1		anissa slugged the rug .
+spray	1		gertruda contaminated the bed with cream cheese .
+spray	1		miquela staffed the office with workers .
+inch	0		the charger cudgeled .
+there	1		a girl reigned .
+inch	1		the bee expired .
+inch	0		the dog garrotted .
+inch	0		the shoe tied .
+dat	1		jolene nicknamed meaghan a keyboard .
+inch	0		candide ulcerated the mouse .
+inch	1		the car crashed .
+spray	0		gertruda dangled the chair with cream cheese .
+there	0		there exuded a tornado behind me .
+inch	0		the whale ruined .
+inch	1		the dad awakened .
+there	1		a hurricane disappeared in the valley .
+inch	1		josefa shredded the bed .
+inch	1		the toilet decelerated .
+inch	0		rosalinda nitrified the jet .
+dat	0		meaghan mumbled meaghan a poem .
+u_object	1		bob snapped his fingers .
+inch	0		the lion smashed .
+dat	0		steward costed a bed to marja .
+dat	1		bobbi toted a pill to steward .
+there	1		a zombie awoke behind the mountain .
+u_object	0		bob flicked .
+inch	1		the toilet ensued .
+inch	1		anissa divided the ice .
+there	1		there stepped a horse into the ground .
+inch	0		the camera magnified .
+there	1		a rainbow gleamed above me .
+u_object	1		barbara stripped .
+dat	0		dorrie overhung a sun to kameko .
+dat	1		steward telecast a tree to dorrie .
+inch	1		the carpet slimmed .
+u_object	0		peter raised .
+inch	0		tawnya ionized the camera .
+u_object	0		barbara burned .
+dat	1		marja signed a glass for steward .
+u_object	1		peter raised his eyebrows .
+u_object	1		barbara showed her teeth .
+spray	1		heathcliff interlaced paint on the couch .
+spray	0		zedekiah looped the floor with juice .
+inch	0		josefa revolved the glass .
+u_object	0		barbara broke .
+u_object	1		peter exercised .
+inch	1		doe ruined the whale .
+inch	1		the people propagated .
+inch	0		the man sobered .
+u_object	1		david flossed his teeth .
+inch	0		the leader blunted .
+inch	0		the car knifed .
+spray	1		daniel crammed the shelf with boxes .
+dat	0		meaghan trumpeted prudi a song .
+there	1		a flame flickered .
+inch	2		armond was the charger .
+inch	0		the apple granulated .
+dat	1		steward issued prudi a permit .
+inch	0		the bee altered .
+spray	0		hannis carpeted oil on the bed .
+u_object	1		olga typed .
+u_object	0		sarah craned .
+inch	0		hamilton hybridized the pancake .
+inch	0		the pirate coshed .
+u_object	0		deandra trimmed .
+inch	0		the bicycle pecked .
+u_object	0		peter toweled .
+dat	1		juliette threw a rug to steward .
+there	1		there survived a plant .
+spray	1		zedekiah wrapped the bed with a cover .
+there	1		there developed a tornado behind the mountain .
+inch	1		tawnya served the shoe to me .
+dat	0		kameko hoisted richmond a lion .
+inch	1		armond drilled the dad .
+spray	0		colline showered juice on the chair .
+u_object	0		james kneaded .
+u_object	0		james soaped .
+u_object	0		james wagged .
+dat	1		dorrie considered wenonah a shoe .
+inch	1		tawnya slaughtered the bull .
+inch	1		doe sawed the stamp .
+dat	1		wenonah emailed meaghan a book .
+there	1		a boy turned .
+inch	0		maggie remitted the bull to me .
+spray	0		andree situated the floor with paint .
+inch	0		the owner dented .
+inch	1		the glass vanied .
+dat	1		bobbi passed a keyboard to wenonah .
+there	1		a drink spilled in the room .
+u_object	0		hugh manicured .
+u_object	0		hannah strained .
+inch	1		the shoe atrophied .
+spray	1		andree lined the couch with paint .
+inch	1		maggie solidified the rug .
+dat	1		kameko styled richmond a dog .
+inch	0		the bed spanked .
+inch	1		prudy nicked the ball .
+inch	1		the whale maddened .
+inch	1		josefa decentralized the government .
+spray	1		amity raised juice on the window .
+u_object	1		david crocheted .
+u_object	0		david wagged .
+u_object	0		deandra trimmed .
+inch	1		the pancake froze .
+dat	1		juliette passed prudi a stamp .
+dat	0		wenonah smuggled bobbi a shoe .
+u_object	1		sarah cropped her hair .
+u_object	1		hannah conditioned her hair .
+inch	1		the key swiped .
+there	0		there was hung on the wall a painting .
+dat	0		dorrie semaphored a ball to prudi .
+u_object	0		barbara tossed .
+u_object	1		hugh flapped his wings .
+dat	1		carry yelled a goodbye to ainsley .
+inch	0		the mouse ulcerated .
+inch	0		the pillow cropped .
+there	1		a problem remained .
+spray	0		evie whirled the window with paint .
+inch	1		mattias broke the apple .
+u_object	0		olga cut .
+u_object	0		bob pricked .
+inch	0		the book mangled .
+there	1		a dog skipped into the ocean .
+inch	0		the carpet razed .
+inch	1		the door closed .
+dat	1		meaghan supposed charlena a carpet .
+inch	1		the book calcified .
+dat	0		carry believed ainsley a book .
+inch	0		maggie varied the pancake .
+inch	1		mattias kindled the fire .
+u_object	0		peter lathered .
+dat	0		dorrie dragged bobbi a bag .
+u_object	1		david knitted his eyebrows .
+dat	1		jolene saved a pear for bobbi .
+dat	1		carry flipped a book to prudi .
+u_object	1		olga teased her hair .
+inch	1		candide cleared the glass .
+there	0		there clung a giant .
+u_object	1		deandra baked .
+spray	0		gertruda draped the chair with a blanket .
+inch	0		armond dawned the charger .
+u_object	1		barbara fished for trout .
+u_object	0		barbara burned .
+spray	1		zedekiah installed cream cheese on the bed .
+inch	1		the iron corroded .
+there	1		a monkey crouched on the horizon .
+inch	1		armond nudged the toilet .
+dat	0		kameko squawked bobbi a yell .
+inch	1		the apple bent .
+u_object	1		deandra turned her ankle .
+dat	1		meaghan faxed wenonah a plane .
+dat	1		prudi shot a cap to dorrie .
+dat	1		bobbi cackled a laugh at richmond .
+dat	1		bobbi roared a hello to bobbi .
+inch	1		they conceded the rug to me .
+there	1		a cow hopped into the ocean .
+dat	0		juliette hauled bobbi a pear .
+inch	0		the rocket cuffed .
+inch	1		the ball crumbled .
+dat	1		jolene tipped a ball to marja .
+inch	1		the swamp drained .
+inch	0		the cat bludgeoned .
+spray	1		miquela placed cream cheese on the bed .
+inch	1		they left the bed to me .
+dat	1		marja trusted wenonah with a bed .
+inch	1		goose stung the pancake .
+inch	1		the rocket demagnetized .
+dat	1		prudi lugged a lizard to ainsley .
+u_object	1		hannah sewed a mitten .
+spray	0		gertruda mounted the door with a painting .
+inch	0		the computer supervened .
+dat	1		kameko slammed a ball to prudi .
+dat	0		juliette radioed richmond a glass .
+inch	0		the pencil resulted .
+u_object	1		sarah craned her neck .
+inch	1		rosalinda bludgeoned the cat .
+inch	1		the man healed .
+u_object	0		hugh bruised .
+there	0		there were stacked on the table books .
+inch	1		they bequeathed the glass to me .
+dat	0		dorrie barged a whale to richmond .
+inch	1		goose bonked the stamp .
+inch	1		the hall thickened .
+u_object	1		bob primped himself .
+inch	0		agathe carbonified the dad .
+inch	0		the cat dirtied .
+spray	1		heathcliff funneled oil on the desk .
+spray	1		evie polluted the air with debris .
+inch	1		mattias extirpated the computer .
+inch	0		miles mellowed the key .
+dat	0		juliette batted dorrie a bee .
+inch	1		rosalinda turned the camera .
+spray	0		marlowe shrouded paint on the window .
+spray	1		zedekiah anointed the window with oil .
+there	0		there dropped a koala .
+there	1		a hurricane emanated in front of me .
+there	1		a cat strutted into the water .
+inch	1		tawnya thrashed the plane .
+inch	1		mattias healed the man .
+inch	0		the cap soaked .
+u_object	1		olga cut her finger .
+inch	0		the stamp caressed .
+spray	1		jorge spread paint on the door .
+dat	0		juliette droned a story to wenonah .
+there	1		an elephant hobbled into the desert .
+inch	1		anissa whipped the toilet .
+spray	0		chauncey plated the chair with paint .
+there	1		a cow crept into the forest .
+there	1		there assembled a hurricane in front of me .
+there	0		there belched a giant .
+inch	1		armond diminished the frost .
+dat	1		juliette left a shoe to kameko .
+there	1		there sounded an alarm on the horizon .
+inch	1		candide magnified the camera .
+inch	0		the rug slapped .
+inch	0		the pirate beat .
+u_object	1		deandra stretched her legs .
+dat	1		ainsley showed jolene a book .
+inch	1		candide melted the plant .
+dat	1		charlena charged dorrie a key .
+spray	0		zedekiah channeled the table with paint .
+inch	1		the plant stretched .
+inch	0		the sun hacked .
+inch	0		armond recurred the pencil .
+inch	0		hamilton crystallized the plane .
+u_object	1		sarah shook her hands .
+spray	0		colline slung the wall with water .
+u_object	0		sarah pulled .
+inch	0		tawnya quickened the computer .
+there	0		there plopped a tornado on the horizon .
+inch	1		the plant sprouted .
+there	1		there leaned a girl in the room .
+inch	1		josefa scorched the plant .
+there	0		a giant clung .
+there	0		there swept a tiger .
+u_object	0		olga wrinkled .
+spray	0		colline perched the desk with water .
+u_object	1		hannah sewed .
+spray	1		evie tucked cream cheese on the chair .
+inch	1		the computer vitrified .
+spray	0		chauncey soiled juice on the table .
+there	1		a vine hung in the valley .
+dat	1		meaghan forwarded a lizard to charlena .
+inch	1		they submitted the plane to me .
+u_object	1		hugh mended the dent .
+there	0		there overspread a river .
+inch	0		the carpet scraped .
+inch	0		the bed shredded .
+inch	1		the charger slid .
+inch	0		the sticker snipped .
+there	0		there corresponded a boy .
+spray	0		colline flooded juice on the chair .
+spray	0		marlowe spurted the table with juice .
+spray	1		gertruda dangled cream cheese on the chair .
+spray	1		hannis plastered paint on the floor .
+u_object	1		olga braided her hair .
+inch	0		the jet nitrified .
+inch	0		goose clipped the mouse .
+inch	1		the jet carved .
+dat	1		marja recounted a charger to prudi .
+spray	1		daniel suffused the air with incense .
+inch	1		goose unionized the people .
+inch	1		tawnya pawed the computer .
+spray	1		amity swept juice on the chair .
+inch	1		the cat slowed .
+inch	1		the plane freshened .
+inch	1		miles cleaned the shoe .
+u_object	1		peter toweled his hands .
+dat	1		marja refused a rug to marja .
+inch	0		they voted the keyboard to me .
+spray	1		mirna smothered the door with paint .
+inch	0		the toilet butchered .
+there	1		a cat was laying in the room .
+there	1		there sped a cat into the desert .
+spray	0		daniel seeded the couch with water .
+inch	1		anissa ice the shoe .
+inch	1		the bed snapped .
+inch	0		the dad minced .
+spray	1		heathcliff covered the wall with cream cheese .
+spray	0		zedekiah drenched juice on the chair .
+u_object	1		peter toweled his face .
+u_object	1		david read .
+inch	1		the cabin depressurized .
+inch	1		maggie bent the apple .
+inch	1		rosalinda smothered the keyboard .
+inch	1		the owner dissipated .
+spray	1		miquela shook paint on the couch .
+dat	0		steward adjudged juliette a plant .
+there	1		there hobbled an elephant into the desert .
+dat	1		carry leased a car to carry .
+inch	1		the government decentralized .
+inch	1		prudy loosened the bicycle .
+u_object	1		david taught a class .
+inch	1		goose stabilized the jet .
+inch	1		doe touched the disease .
+there	1		a tornado exuded behind me .
+spray	0		mirna interlarded water on the window .
+u_object	0		olga cut .
+inch	1		the city flooded .
+there	1		there trudged a cat into the desert .
+inch	0		josefa sprouted the plant .
+spray	1		evie sloshed oil on the bed .
+u_object	1		barbara broke her arm .
+inch	1		the baby darkened .
+dat	1		richmond flew a dog to juliette .
+dat	0		ainsley schlepped jolene a glass .
+inch	1		the plane overturned .
+inch	1		maggie doubled the vector .
+u_object	0		hannah folded .
+inch	1		tawnya halted the dog .
+inch	1		anissa cooled the bicycle .
+u_object	1		deandra plowed the field .
+inch	1		the ball rotated .
+dat	0		carry labeled a charger to juliette .
+inch	1		the apple attenuated .
+dat	1		marja gibbered a story to meaghan .
+inch	1		the hall faded .
+dat	1		kameko telexed wenonah a sticker .
+inch	1		maggie reimbursed the camera to me .
+inch	1		candide accelerated the camera .
+inch	1		the tree silicified .
+there	0		there won a man .
+inch	0		the toothpaste punched .
+inch	1		maggie widened the whale .
+u_object	0		hannah hunched .
+spray	1		gertruda scraped cream cheese on the bed .
+there	1		a stream bubbled .
+there	1		a hurricane assembled in front of me .
+there	1		a giant hid .
+u_object	1		deandra stretched .
+dat	1		marja left kameko a ball .
+inch	1		candide fed the apple to me .
+u_object	0		sarah clipped .
+there	1		a dog strode into the ocean .
+inch	1		agathe froze the pancake .
+inch	1		doe opened the card .
+there	0		a river overspread .
+inch	1		rosalinda clogged the toilet .
+u_object	0		hugh washed .
+inch	0		josefa fructified the shoe .
+inch	0		maggie occurred the car .
+spray	1		miquela coated the wall with cream cheese .
+there	0		a plant festered .
+inch	1		the computer dried .
+dat	0		jolene tisked ainsley a shoe .
+dat	0		bobbi nicknamed a keyboard to carry .
+u_object	1		peter opened his eyes .
+dat	0		dorrie heaved jolene a dog .
+there	1		a knight prevailed .
+inch	0		candide acetified the computer .
+dat	1		marja whimpered a poem to ainsley .
+dat	1		juliette granted ice to kameko .
+there	0		there materialized a ship in front of me .
+inch	1		mattias corroded the iron .
+u_object	1		deandra bathed herself .
+there	1		there strode a dog into the ocean .
+dat	0		wenonah voted a castle to wenonah .
+there	0		there was laying in the room a cat .
+inch	0		the owner walloped .
+spray	1		mirna encrusted the door with oil .
+dat	1		richmond told a story to bobbi .
+inch	1		maggie rapped the shoe .
+spray	1		miquela stacked the shelf with boxes .
+dat	0		kameko grunted richmond a cry .
+u_object	1		olga chipped her tooth .
+inch	1		maggie knifed the criminal .
+inch	1		the dad saddened .
+inch	0		the cat coned .
+spray	1		chauncey bound the chair with cream cheese .
+inch	0		the sun enthused .
+dat	1		richmond hoisted kameko a glass .
+inch	1		josefa pummeled the toilet .
+u_object	1		hugh dressed .
+there	1		there rose a plant .
+inch	0		mattias streamed the card .
+u_object	0		hugh hurt .
+inch	1		they administered the flower to me .
+spray	0		andree garlanded water on the chair .
+there	1		there hovered a plant .
+u_object	1		hugh bruised his arm .
+inch	1		the dad quieted .
+inch	0		the book crinkled .
+dat	1		dorrie hefted a pirate to charlena .
+inch	0		prudy sickened the bee .
+there	1		there crouched a monkey on the horizon .
+u_object	1		deandra crooked her finger .
+dat	0		meaghan brayed juliette a lizard .
+u_object	1		deandra mowed the lawn .
+inch	0		the card stole .
+spray	1		colline dripped water on the floor .
+u_object	1		peter set his hair .
+dat	1		marja mumbled a poem to juliette .
+inch	1		the disease roughened .
+u_object	0		bob flashed .
+spray	0		colline entangled paint on the floor .
+there	1		a thunderstorm occurred in the valley .
+spray	1		andree smudged cream cheese on the couch .
+inch	0		the toilet diced .
+inch	0		the hall demolished .
+spray	0		daniel filled paint on the desk .
+there	0		there cascaded a river .
+u_object	0		hannah clicked .
+inch	1		the camera ionized .
+there	1		a pot was placed on the floor .
+spray	1		chauncey stuffed water into the contained .
+spray	1		amity smeared paint on the floor .
+there	1		there sparkled a fire behind the mountain .
+u_object	1		barbara packed a bag .
+inch	1		tawnya swang the keyboard .
+u_object	0		peter set .
+dat	1		meaghan imagined steward a pillow .
+u_object	1		bob changed himself .
+dat	1		richmond rendered carry a ball .
+there	1		a cow trotted into the forest .
+u_object	1		david arched his back .
+u_object	1		deandra shaved .
+inch	0		maggie stiffened the computer .
+inch	0		the criminal electrocuted .
+inch	1		prudy belted the lion .
+u_object	1		david wagged his tail .
+dat	0		steward squeaked steward a whisper .
+spray	0		hannis blanketed paint on the floor .
+there	1		an elephant ambled into the air .
+inch	1		anissa tickled the bed .
+inch	0		the tree murdered .
+spray	0		chauncey wreathed paint on the table .
+spray	0		evie stopped up oil on the chair .
+there	0		there gushed a ship in front of me .
+there	1		there lay a bird in front of me .
+there	1		there was written in the book a poem .
+dat	1		steward whined a hello to prudi .
+inch	1		mattias fractured the bone .
+dat	1		steward catapulted juliette a dad .
+spray	1		zedekiah wrapped a cover on the bed .
+there	1		a skull was mounted on the wall .
+inch	0		the ball magnetized .
+inch	1		doe shattered the glass .
+inch	1		the glass cleared .
+inch	1		the glass blurred .
+inch	1		the dad straightened .
+inch	0		prudy decomposed the sticker .
+dat	1		bobbi wrote a check to charlena .
+inch	1		candide birched the sun .
+dat	0		meaghan mentioned dorrie a pill .
+inch	0		goose paled the dog .
+inch	1		the jet stabilized .
+inch	1		miles brightened the vase .
+inch	1		the bed tickled .
+there	1		a thunderstorm came behind the mountain .
+u_object	1		bob kicked .
+dat	0		marja ruled a carpet to wenonah .
+u_object	1		deandra cocked her head .
+u_object	0		hugh gnashed .
+inch	0		agathe gelatinized the shoe .
+inch	1		tawnya poisoned the whale .
+dat	0		meaghan preached jolene a disease .
+dat	1		prudi adjudicated a rug to carry .
+spray	0		amity faced the floor with cream cheese .
+dat	0		marja bore a leader to wenonah .
+inch	0		candide smashed the lion .
+inch	1		mattias carbonized the criminal .
+spray	0		amity trimmed oil on the desk .
+there	1		a monkey slouched behind me .
+spray	1		amity flecked the chair with paint .
+inch	0		miles propagated the people .
+there	1		a koala dropped .
+inch	1		agathe lightened the pill .
+there	0		there crawled a koala .
+spray	0		gertruda settled the window with paint .
+dat	1		bobbi ruled richmond a carpet .
+spray	0		heathcliff impregnated the child on his wife .
+dat	1		dorrie moaned a greeting to charlena .
+dat	1		juliette murmured a quote to prudi .
+inch	0		doe puzzled the bull .
+dat	0		wenonah posted jolene a shoe .
+u_object	1		olga recited a story .
+spray	1		chauncey sprayed the bed with oil .
+there	1		there sprawled a bird in the room .
+spray	1		amity dropped cream cheese on the chair .
+inch	1		miles shot the rocket .
+spray	0		chauncey rolled the window with water .
+dat	0		jolene revealed juliette a bed .
+inch	0		the pirate issued .
+there	1		a bird squatted in the room .
+there	1		a giant flew .
+inch	1		hamilton toppled the camera .
+u_object	1		sarah batted her eyelashes .
+there	0		there elapsed time .
+dat	1		marja slapped a bat to marja .
+inch	0		the rocket hammered .
+there	1		there rung a bell in the valley .
+spray	0		hannis waded oil on the floor .
+inch	1		the car improved .
+spray	0		amity veined water on the chair .
+inch	1		the envelope unfolded .
+dat	0		prudi assumed a stamp to wenonah .
+there	0		there began a tornado behind me .
+there	1		there marched a dog into the ground .
+inch	0		the people polarized .
+inch	0		tawnya crimsoned the camera .
+inch	1		miles cracked the glass .
+there	0		there revolved a door .
+spray	1		hannis pounded cream cheese on the couch .
+there	1		a stampede rumbled in the forest .
+spray	1		gertruda decked the desk with paint .
+inch	0		the pencil annihilated .
+inch	1		rosalinda improved the car .
+inch	0		the plant stroked .
+spray	1		marlowe piled clothes on the bed .
+u_object	1		deandra preened herself .
+inch	1		mattias twisted the bread .
+inch	1		the waves subsided .
+spray	1		andree arranged oil on the bed .
+dat	1		meaghan issued a bicycle to prudi .
+there	1		a problem loomed .
+u_object	0		david ground .
+dat	1		ainsley hurled a book to jolene .
+inch	1		goose lavished the helicopter .
+spray	0		daniel curled the chair with water .
+dat	1		wenonah ceded charlena a castle .
+inch	0		the leader equalised .
+inch	1		the pill emulsified .
+inch	1		prudy blackened the toothpaste .
+dat	1		marja bussed a bed to prudi .
+spray	1		chauncey inlayed the chair with paint .
+spray	1		chauncey stuffed the contained with water .
+inch	1		the pillow awoke .
+u_object	0		sarah dyed .
+u_object	0		hugh mended .
+inch	1		mattias slowed the cat .
+u_object	1		sarah cooked .
+inch	1		the lizard materialized .
+dat	0		wenonah whoopped ainsley a hello .
+u_object	0		barbara fluttered .
+inch	0		armond cut the rug .
+inch	1		anissa immolated the mouse .
+u_object	1		sarah shook her fist .
+spray	1		zedekiah speckled the table with paint .
+dat	1		carry sent steward a plant .
+spray	0		amity clogged paint on the floor .
+inch	0		mattias disintegrated the vase .
+dat	1		prudi preached a disease to richmond .
+dat	1		dorrie pitched bobbi a flower .
+dat	0		ainsley proved a victim to dorrie .
+spray	0		andree strewed juice on the chair .
+inch	1		the cat appeared .
+u_object	1		hannah folded her arms .
+u_object	1		david brushed his hair .
+inch	1		the toilet reproduced .
+u_object	1		hannah injured her neck .
+dat	1		meaghan christened wenonah a rug .
+dat	1		richmond caroled a song to steward .
+dat	0		bobbi asserted bobbi a book .
+inch	1		goose snipped the sticker .
+spray	1		andree dabbed the wall with paint .
+inch	1		prudy pinched the apple .
+inch	1		agathe decimated the plant .
+dat	1		kameko served a bull to wenonah .
+inch	1		maggie struck the ice .
+inch	0		the shoe rapped .
+dat	0		steward caroled dorrie a song .
+u_object	0		barbara sprained .
+there	1		there strayed an elephant into the ground .
+u_object	1		barbara fished .
+inch	1		agathe levitated the plane .
+inch	0		the lizard stabbed .
+u_object	0		hannah split .
+spray	1		daniel blotted the wall with cream cheese .
+dat	1		jolene emailed a book to meaghan .
+inch	0		the rocket shot .
+dat	1		jolene vouchsafed a baby to ainsley .
+dat	1		marja issued wenonah a bee .
+inch	1		they rented the plane to me .
+there	0		there straggled a koala .
+inch	1		goose blasted the computer .
+there	1		a cow swam into the ground .
+dat	1		marja rasped a goodbye to meaghan .
+inch	0		armond slackened the toothpaste .
+inch	1		anissa multiplied the vectors .
+spray	1		chauncey dumped oil on the floor .
+inch	1		tawnya pruned the bull .
+inch	1		agathe creased the paper .
+spray	1		miquela poured water on the door .
+spray	1		colline perched water on the desk .
+inch	1		agathe truncheoned the sticker .
+dat	1		jolene babbled bobbi a song .
+inch	1		the glass revolved .
+inch	1		the card slacked .
+spray	1		jorge spun juice on the wall .
+spray	1		jorge spritzed the desk with oil .
+there	1		a plant decayed .
+inch	0		the card streamed .
+dat	1		carry extended steward a book .
+spray	0		miquela shook the couch with paint .
+there	1		there appeared a thunderstorm above me .
+dat	1		ainsley presented a bull to prudi .
+inch	0		the owner patted .
+there	0		a boy smoldered .
+there	1		a tail was pinned to the wall .
+there	1		a man died in front of me .
+u_object	1		hannah conditioned .
+inch	1		tawnya thumped the baby .
+inch	1		miles tripled the ice .
+there	1		a plant lived .
+inch	1		candide crushed the pencil .
+dat	1		kameko elected jolene a lizard .
+dat	1		kameko wheezed a hello to meaghan .
+inch	1		the dad gladdened .
+spray	1		miquela robed the desk with paint .
+spray	0		colline cultivated the garden with plants .
+u_object	0		deandra talced .
+spray	1		colline entangled the floor with paint .
+there	0		a giant writhed .
+dat	1		juliette leased wenonah a car .
+dat	1		marja entrusted a disease to juliette .
+u_object	1		david crocheted a sweater . 
+u_object	1		sarah sketched a hand .
+inch	0		the toilet whipped .
+u_object	0		hugh bruised .
+spray	0		daniel spilled the couch with juice .
+inch	0		the camera crimsoned .
+dat	0		prudi forbade ainsley a flower .
+inch	0		tawnya reproduced the toilet .
+u_object	0		james skinned .
+inch	1		doe crinkled the book .
+there	1		a treasure was discerned in the mountain .
+dat	1		ainsley refused juliette a rug .
+there	1		a note was stapled to the floor .
+u_object	1		olga wrinkled her brow .
+inch	0		the camera toppled .
+dat	1		charlena termed marja a carpet .
+there	1		a tiger stretched .
+inch	0		candide resulted the pencil .
+inch	0		miles glided the hall .
+dat	0		jolene bellowed kameko a yell .
+spray	1		amity hammered juice on the chair .
+spray	1		zedekiah packed the box with juice .
+dat	0		wenonah styled a dog to juliette .
+there	1		there stretched a city on the horizon .
+inch	1		the lizard oxidized .
+inch	1		the stamp clawed .
+u_object	1		sarah washed herself .
+inch	1		the bicycle cooled .
+u_object	1		olga washed a sock .
+spray	0		heathcliff emblazoned juice on the window .
+there	0		there was discerned in the mountain a treasure .
+inch	0		the whale shot .
+dat	1		wenonah told dorrie a story .
+spray	1		amity trimmed the desk with oil .
+spray	0		daniel bombarded oil on the table .
+dat	0		dorrie towed juliette a truck .
+dat	1		jolene wagered dorrie a shoe .
+dat	0		richmond whistled juliette a tune .
+inch	1		candide cooled the pancake .
+u_object	1		sarah plucked her eyebrows .
+inch	0		the criminal carbonized .
+there	1		there were piled on the shelf some clothes .
+inch	0		the sun birched .
+there	0		there was scrawled on the wall a story .
+there	1		there twinkled a ship in the room .
+inch	0		the bull puzzled .
+there	1		there plodded a horse into the desert .
+u_object	0		olga nursed .
+u_object	1		peter blew his nose .
+spray	0		jorge swathed paint on the couch .
+inch	1		the fire rekindled .
+there	1		there galloped a cow into the room .
+spray	1		gertruda put water on the window .
+dat	0		charlena voted richmond a castle .
+there	1		an elephant rolled into the forest .
+inch	1		prudy chopped the ball .
+spray	1		amity surrounded the door with water .
+spray	0		amity veined the chair with water .
+u_object	1		david waved .
+inch	0		candide gushed the flower .
+dat	1		kameko showed a book to dorrie .
+spray	1		marlowe dusted paint on the bed .
+inch	1		the pirate heightened .
+inch	1		prudy shot the whale .
+dat	0		richmond wished meaghan a pillow .
+dat	1		prudi tugged a toothpaste to carry .
+there	1		a ship vanished in front of me .
+spray	0		miquela plugged paint on the hole .
+there	1		there radiated a cow behind me .
+spray	0		miquela coated cream cheese on the wall .
+there	1		a bullet boomed in front of me .
+inch	1		candide whitened the glass .
+inch	0		rosalinda tired the helicopter .
+dat	1		charlena named juliette a shoe .
+dat	0		marja hooted meaghan a laugh .
+inch	1		the cat eventuated .
+spray	0		hannis coiled the chair with paint .
+spray	0		colline interspersed paint on the wall .
+there	1		a bunny was stamped on the sheet .
+inch	1		candide scarred the glass .
+dat	1		kameko declared a hall to prudi .
+u_object	1		olga twitched .
+u_object	1		david crimped his hair .
+there	0		there dwelled a beast .
+inch	1		goose detonated the cap .
+inch	1		anissa caressed the stamp .
+dat	0		carry costed kameko a bed .
+inch	1		anissa clobbered the hall .
+inch	0		the ice struck .
+spray	1		jorge rested water on the door .
+dat	1		jolene howled a guffaw to juliette .
+there	1		there was a stamp imprinted on the paper .
+spray	0		jorge repopulated animals on the field .
+there	1		a man awoke on the horizon .
+there	1		a word was tattooed on his chest .
+inch	1		goose punched the toothpaste .
+dat	1		bobbi designated a bull to meaghan .
+dat	0		wenonah groaned marja a passage .
+there	0		there went a tornado behind me .
+inch	0		tawnya straightened the dad .
+u_object	1		david flossed .
+dat	0		ainsley professed a pirate to kameko .
+inch	1		the charger dawned .
+inch	1		josefa stroked the plant .
+inch	0		the vase wasted .
+spray	0		gertruda stood the wall with juice .
+inch	0		maggie agglomerated the mouse .
+inch	1		the carpet moved .
+spray	1		mirna swaddled the wall with juice .
+spray	0		colline pricked juice on the couch .
+u_object	1		bob pricked his finger .
+there	1		there rolled an elephant into the forest .
+u_object	1		barbara wiggled .
+inch	0		hamilton collapsed the glass .
+there	1		there flared a light in the sky .
+dat	1		juliette squawked a yell to wenonah .
+dat	1		charlena saved charlena a card .
+spray	1		daniel bandaged the floor with oil .
+u_object	0		peter scratched .
+spray	1		colline crowded boxes on the table .
+spray	1		mirna ladled paint on the wall .
+inch	1		armond annihilated the pencil .
+spray	0		amity surrounded water on the door .
+spray	0		hannis raked the chair with cream cheese .
+dat	1		juliette tisked a song to prudi .
+spray	1		miquela swabbed the table with a towel .
+there	0		a plant towered .
+dat	0		dorrie reported marja a bicycle .
+spray	1		evie positioned paint on the door .
+there	1		a fire blazed .
+spray	0		amity hammered the chair with juice .
+spray	1		amity leaned cream cheese on the bed .
+inch	0		the pencil crushed .
+inch	0		the toilet pummeled .
+spray	0		mirna wedged the bed with oil .
+u_object	0		hugh washed .
+inch	0		hamilton surged the disease .
+dat	1		jolene labeled meaghan a charger .
+inch	0		the ball nicked .
+inch	0		agathe gladdened the dad .
+u_object	1		bob flexed .
+inch	1		josefa cuffed the rocket .
+there	1		there sailed a cat into the ground .
+u_object	0		barbara broke .
+u_object	1		olga cut her arm .
+inch	0		miles sobered the man .
+inch	0		the rug wored .
+dat	0		dorrie cooed bobbi a goodbye .
+inch	1		the pancake crisped .
+dat	0		dorrie signed dorrie a glass .
+there	1		a dog rushed into the room .
+dat	0		steward advanced meaghan a loan .
+there	0		there predominated a river .
+there	1		there danced a cat into the forest .
+dat	1		richmond asked richmond for a lizard .
+u_object	1		james rouged his cheeks .
+inch	1		the bomb exploded .
+dat	0		ainsley judged a criminal to bobbi .
+dat	1		charlena reported a bicycle to jolene .
+spray	1		gertruda stood juice on the wall .
+inch	0		agathe granted the stamp to me .
+dat	1		kameko called a cat to meaghan .
+inch	1		the book hung .
+inch	0		anissa frayed the silk .
+there	1		there fled a dog into the ground .
+u_object	1		hugh hurt his leg .
+spray	1		heathcliff tainted the couch with water .
+there	1		a hurricane descended behind me .
+dat	1		marja whoopped a hello to steward .
+spray	0		heathcliff immersed water on the window .
+inch	0		the bull pruned .
+inch	0		agathe dissipated the owner .
+dat	1		carry netmailed marja a sticker .
+there	0		there towered a plant .
+dat	1		marja alleged a story to richmond .
+dat	1		charlena babbled a song to bobbi .
+inch	1		goose killed the rocket .
+dat	1		steward lifted richmond a keyboard .
+there	0		there hid a giant .
+inch	1		josefa relinquished the keyboard to me .
+spray	1		amity padded the bed with juice .
+dat	0		charlena sneaked a tree to richmond .
+there	1		a poem was written in the book .
+there	0		there turned a boy .
+dat	1		dorrie judged prudi a criminal .
+spray	1		chauncey lavished the window with water .
+u_object	1		james wagged his tail .
+there	0		there twisted a dancer .
+u_object	1		hannah waved her hair .
+inch	0		the keyboard destroyed .
+u_object	0		sarah plucked .
+there	1		there ensued a hurricane behind me .
+u_object	1		deandra wove a pattern .
+inch	0		the dog exterminated .
+inch	1		josefa charred the bed .
+u_object	0		james rouged .
+inch	0		candide happened the sticker .
+there	1		there drifted a river .
+dat	1		meaghan wrote marja a check .
+spray	1		amity smeared the floor with paint .
+inch	1		the apple dessicated .
+there	1		there lounged a man .
+inch	1		the computer aged .
+there	1		there boomed a bullet in front of me .
+spray	1		hannis blanketed the floor with paint .
+inch	1		the pressure increased .
+spray	0		chauncey plated paint on the chair .
+spray	1		mirna jammed boxes onto the shelf .
+dat	1		kameko stammered a greeting to meaghan .
+spray	0		daniel embellished oil on the wall .
+dat	0		kameko warranted a card to dorrie .
+inch	0		the toothpaste dispatched .
+inch	0		the stamp thwacked .
+dat	0		jolene found a key to juliette .
+spray	0		evie rippled oil on the chair .
+dat	1		richmond lobbed ainsley a pencil .
+inch	1		anissa swiped the key .
+spray	1		heathcliff twirled water on the window .
+spray	1		miquela replenished the bed with juice .
+spray	1		hannis scattered the wall with juice .
+there	0		there stemmed a tornado behind me .
+u_object	0		peter lathered .
+dat	0		wenonah hefted prudi a pirate .
+inch	1		the dog cheered .
+inch	1		the bone fractured .
+spray	1		daniel seasoned the salad with juice .
+dat	0		meaghan shouted charlena a hello .
+inch	0		miles capsized the dad .
+dat	0		dorrie rated charlena a owner .
+dat	1		juliette towed a vase to bobbi .
+inch	1		mattias delighted the ice .
+dat	1		juliette raised juliette a glass .
+inch	1		the plane levitated .
+u_object	1		bob flashed his teeth .
+dat	0		marja christened a rug to charlena .
+spray	0		andree splotched juice on the wall .
+there	1		a dog shuffled into the room .
+spray	0		colline pricked the couch with juice .
+inch	1		tawnya putrefied the camera .
+u_object	0		peter crossed .
+there	1		a beast dwelled .
+there	0		a tiger swept .
+inch	1		doe bounced the bicycle .
+inch	1		hamilton emptied the cart .
+inch	1		rosalinda burned the bicycle .
+inch	1		tawnya compressed the toothpaste .
+there	1		there crept a cow into the forest .
+spray	0		hannis veiled juice on the floor .
+dat	1		ainsley slid a pear to jolene .
+u_object	1		peter winked .
+spray	1		gertruda splashed the table with water .
+there	1		there flickered a flame .
+dat	0		juliette moaned juliette a greeting .
+inch	0		doe greened the pill .
+u_object	0		sarah curled .
+u_object	0		deandra wove .
+spray	1		mirna masked the chair with juice .
+spray	1		zedekiah channeled paint on the table .
+inch	0		the mouse clipped .
+inch	1		prudy allocated the ball to me .
+inch	1		the ball stuck .
+spray	0		amity squished the floor with paint .
+there	1		an alarm sounded on the horizon .
+dat	1		wenonah hooted a laugh to meaghan .
+inch	0		the cat smoothed .
+u_object	1		deandra bumped her arm .
+inch	0		the charger thrilled .
+there	1		there was suspended from the ceiling a lamp .
+inch	1		candide kicked the card .
+inch	1		the glass ameliorated .
+inch	1		the pill erupted .
+inch	1		the stamp tanned .
+inch	0		the plane kissed .
+inch	1		miles hung the book .
+inch	1		mattias quieted the dad .
+inch	0		the plant pounded .
+u_object	1		hannah strained her wrist .
+there	0		there ran a boy .
+there	1		time elapsed .
+inch	0		armond granulated the apple .
+dat	1		juliette bet prudi a pill .
+there	1		a ship shimmered behind the mountain .
+there	1		a tornado plopped on the horizon .
+dat	0		juliette quoted kameko a cap .
+spray	1		amity squirted the bed with paint .
+dat	1		carry hoisted a glass to steward .
+u_object	1		david ground his teeth .
+inch	1		anissa intensified the onslaught .
+spray	0		chauncey bound cream cheese on the chair .
+u_object	0		deandra turned .
+inch	1		armond narrowed the valley .
+u_object	1		deandra drew .
+inch	1		miles twirled the cap .
+there	1		a light scintillated in front of me .
+spray	1		amity padded juice on the bed .
+inch	0		miles oxidized the lizard .
+dat	1		steward pushed a book to kameko .
+dat	1		meaghan whistled a tune to marja .
+there	1		a river spread .
+inch	1		hamilton dirtied the cat .
+inch	1		candide traded the jet to me .
+u_object	0		deandra plowed .
+inch	1		prudy coshed the pirate .
+spray	0		daniel suffused incense in the air .
+dat	1		bobbi spared kameko a bed .
+inch	1		the pill lightened .
+dat	1		dorrie refuned a mouse to marja .
+inch	1		maggie ruptured the owner .
+dat	0		meaghan lugged dorrie a lizard .
+inch	1		prudy swatted the carpet .
+there	1		a car idled .
+spray	0		andree lined paint on the couch .
+there	1		a monkey swung behind me .
+spray	0		hannis squeezed the couch with water .
+dat	0		charlena ordained a plant to wenonah .
+inch	1		the balloon deflated .
+there	1		there puffed a dragon .
+there	0		a river predominated .
+inch	1		tawnya mangled the book .
+spray	1		evie spotted the door with juice .
+dat	1		bobbi towed a truck to ainsley .
+spray	1		heathcliff banged paint on the desk .
+inch	1		the camera disappeared .
+dat	1		meaghan allocated charlena a cap .
+dat	0		meaghan flashed carry a light .
+spray	0		gertruda dirtied cream cheese on the floor .
+spray	1		gertruda cloaked the couch with cream cheese .
+u_object	0		david brushed .
+inch	0		the apple coiled .
+inch	1		tawnya razed the carpet .
+inch	1		doe filed the shoe .
+inch	0		hamilton glutenized the jet .
+dat	1		carry conveyed a card to meaghan .
+there	0		there surged a ship in front of me .
+spray	1		evie wound cream cheese on the chair .
+inch	0		the rug wrecked .
+inch	0		the mouse lignified .
+u_object	0		hannah groomed .
+dat	1		charlena forwarded juliette a lizard .
+spray	0		chauncey lavished water on the window .
+spray	0		hannis blocked water on the table .
+there	1		a cat danced into the forest .
+dat	0		steward saved a card to jolene .
+inch	0		the helicopter smacked .
+u_object	1		deandra shaved her beard .
+spray	0		miquela replenished juice on the bed .
+dat	1		kameko relayed a dog to bobbi .
+dat	0		carry whispered marja a poem .
+inch	0		the criminal knifed .
+inch	1		the computer acetified .
+there	1		there darted a horse into the sky .
+u_object	1		deandra ate .
+there	0		there rose a thunderstorm in the room .
+inch	0		the helicopter lavished .
+inch	0		candide democratized the people .
+u_object	1		hugh milked the cow .
+inch	1		maggie proliferated the vase .
+inch	1		the car changed .
+inch	1		the pencil purified .
+there	1		there scintillated a light in front of me .
+inch	1		josefa murdered the tree .
+inch	0		the apple tamed .
+dat	1		jolene thundered a song to meaghan .
+inch	1		candide eliminated the disease .
+spray	0		jorge studded paint on the desk .
+inch	1		doe overturned the plane .
+dat	0		steward believed a book to steward .
+there	0		there was discovered a body .
+inch	1		maggie muddied the sticker .
+spray	1		miquela plugged the hole with paint .
+dat	1		jolene gave richmond a computer .
+u_object	0		olga parted .
+inch	1		the bicycle bounced .
+inch	1		tawnya filled the container .
+dat	1		ainsley bellowed a yell to kameko .
+spray	0		gertruda pumped the desk with paint .
+there	1		there chimed a bell in front of me .
+inch	0		anissa iodized the rocket .
+there	1		a giant belched .
+there	1		there toiled a problem .
+spray	1		zedekiah drenched the chair with juice .
+spray	0		andree sewed the window with oil .
+there	1		there swam a cow into the ground .
+dat	1		charlena punted a pancake to richmond .
+inch	1		tawnya thwacked the stamp .
+inch	1		rosalinda acidified the owner .
+dat	1		prudi struck a blow to charlena .
+spray	1		jorge spritzed oil on the desk .
+inch	1		anissa closed the door .
+inch	1		prudy fired the gun .
+inch	1		anissa stole the card .
+dat	1		steward assigned richmond a lizard .
+inch	1		candide decreased the height .
+inch	0		anissa federated the card .
+dat	0		jolene bawled a story to ainsley .
+there	1		a coat was hooked on the door .
+dat	1		steward communicated a quote to kameko .
+dat	0		charlena reckoned a pancake to prudi .
+there	1		a cow worked in front of me .
+spray	1		jorge studded the desk with paint .
+there	1		a tiger wandered .
+inch	1		tawnya destroyed the keyboard .
+u_object	1		sarah squatted her eyes .
+spray	0		evie sloshed the bed with oil .
+u_object	0		peter exercised himself .
+inch	0		the sticker muddied .
+inch	0		armond sickened the mouse .
+inch	0		the carpet butted .
+inch	1		the apple softened .
+u_object	0		hugh milked .
+dat	0		juliette undercharged a fee to bobbi .
+dat	1		ainsley rumbled a quote to charlena .
+inch	1		the bee died .
+dat	1		carry provided a sun to carry .
+spray	1		mirna wedged oil on the bed .
+spray	0		marlowe framed cream cheese on the wall .
+dat	0		dorrie envied steward a shoe .
+there	1		an elephant staggered into the desert .
+spray	1		jorge squashed the chair with oil .
+inch	1		the cat tensed .
+spray	1		daniel embellished the wall with oil .
+dat	0		steward cried marja a greeting .
+inch	0		mattias maddened the whale .
+dat	0		kameko accorded jolene a rocket .
+dat	1		richmond confessed ainsley a joke .
+inch	0		maggie tired the man .
+inch	1		armond smoothed the cat .
+there	1		a ship gushed in front of me .
+u_object	0		deandra cocked .
+dat	0		dorrie barged wenonah a whale .
+dat	0		jolene confessed a joke to carry .
+u_object	1		peter ruptured his spleen .
+u_object	1		sarah squatted .
+dat	1		jolene declared charlena a lion .
+inch	1		candide strangled the charger .
+spray	1		gertruda splattered the chair with paint .
+inch	1		the vector doubled .
+spray	1		heathcliff interlaced the couch with paint .
+inch	1		candide kicked the bed .
+inch	0		the hall grated .
+u_object	0		peter crossed .
+inch	1		the vase disintegrated .
+there	1		a drawing was engraved .
+u_object	0		peter bobbed .
+dat	0		meaghan accorded a rocket to wenonah .
+u_object	0		barbara broke .
+u_object	0		sarah pursed .
+dat	0		dorrie envied a shoe to ainsley .
+dat	1		richmond designated kameko a bull .
+u_object	0		sarah hennaed .
+inch	0		the disease touched .
+inch	0		the mouse bored .
+dat	0		juliette furnished jolene a couch .
+u_object	1		hugh showered .
+there	1		a cow jumped into the air .
+inch	1		the camera vibrated .
+spray	0		miquela placed the bed with cream cheese .
+there	0		there decayed a plant .
+inch	1		tawnya flattened the ice .
+dat	1		bobbi paid a fine to ainsley .
+spray	1		gertruda interleaved the bed with water .
+inch	1		prudy pulverized the bicycle .
+there	1		there ambled an elephant into the air .
+spray	0		mirna encrusted oil on the door .
+spray	1		miquela inundated the desk with cream cheese .
+spray	1		colline crowded the table with boxes .
+dat	0		bobbi brayed a lizard to kameko .
+inch	1		miles expanded the glass .
+u_object	0		peter blew .
+dat	0		kameko howled steward a guffaw .
+u_object	0		olga wrinkled .
+spray	1		amity clogged the floor with paint .
+spray	0		zedekiah encircled oil on the desk .
+u_object	0		hannah injured .
+u_object	0		deandra permed .
+dat	1		richmond posed a camera to wenonah .
+there	1		a grandma wove .
+spray	0		chauncey dipped the window with cream cheese .
+there	0		there occurred a thunderstorm in the valley .
+inch	1		tawnya evened the flower .
+inch	1		rosalinda issued the pirate .
+dat	1		jolene bequeathed a tree to kameko .
+inch	0		the key volatilized .
+u_object	0		barbara rinsed .
+there	0		there meandered a forest fire .
+inch	0		the owner ruptured .
+inch	0		the card wrinkled .
+inch	1		the toothpaste cheapened .
+u_object	1		peter winked his eye .
+there	1		a tornado developed behind the mountain .
+inch	1		miles lengthened the owner .
+inch	1		rosalinda liquidated the stamp .
+inch	1		candide split the whale .
+spray	0		gertruda washed cream cheese on the window .
+inch	1		tawnya scratched the ice .
+dat	1		bobbi promised a flower to juliette .
+u_object	1		david poined .
+spray	0		heathcliff tainted water on the couch .
+there	1		there dangled a monkey in front of me .
+there	0		there swept a giant .
+there	0		there was pinned to the wall a tail .
+inch	0		the sun caned .
+there	1		a man lounged .
+dat	1		charlena modemed a lizard to bobbi .
+inch	1		candide referred the lizard to me .
+spray	0		evie polluted debris on the air .
+spray	1		hannis scattered juice on the wall .
+dat	1		steward hauled a pear to wenonah .
+inch	1		they transferred the plant to me .
+spray	0		zedekiah encircled the desk with oil .
+dat	1		wenonah signaled a glance to wenonah .
+u_object	0		barbara twiddled .
+u_object	0		barbara sprained .
+u_object	0		david arched .
+u_object	1		peter crossed his legs .
+inch	1		tawnya tamed the vase .
+inch	1		candide freshened the plane .
+there	1		there fluttered a dog on the horizon .
+u_object	0		bob primped .
+u_object	1		bob hung his head .
+dat	0		juliette hollered carry an expletive .
+dat	1		meaghan fined marja a bull .
+inch	0		prudy cheapened the toothpaste .
+u_object	1		olga drummed her finger .
+inch	1		josefa crucified the camera .
+inch	1		mattias changed the car .
+inch	0		agathe volatilized the key .
+inch	1		the apple broke .
+inch	0		the shoe cleaned .
+inch	1		the rug dulled .
+spray	1		daniel slathered the chair with cream cheese .
+spray	0		miquela swabbed a towel on the table .
+dat	1		marja lilted a hello to steward .
+inch	0		anissa doubled the apples .
+there	1		a cow radiated behind me .
+spray	1		mirna daubed the bed with oil .
+inch	0		miles stuck the sticker .
+inch	1		tawnya ravaged the ice .
+inch	1		hamilton leased the apple to me .
+inch	0		goose faded the hall .
+dat	1		kameko left a ball to carry .
+spray	0		zedekiah installed the bed with cream cheese .
+u_object	0		olga braided .
+spray	1		andree splotched the wall with juice .
+inch	1		armond punched the rug .
+spray	1		zedekiah scooped oil on the floor .
+there	0		there was scattered on the ground a note .
+inch	0		the bicycle tapped .
+spray	0		amity lodged the couch with cream cheese .
+inch	1		miles tilted the cup .
+there	1		a giant swept .
+dat	1		dorrie shouted a hello to steward .
+there	1		there persisted a problem .
+dat	1		steward marked ainsley a pancake .
+there	1		an elephant strayed into the ground .
+dat	1		kameko bequeathed dorrie a tree .
+there	1		there perched a bird behind me .
+inch	1		miles steadied the lion .
+inch	0		the pillow regularized .
+there	1		a river flowed .
+u_object	1		barbara waggled her ears .
+inch	1		the pimple popped .
+inch	0		the apple bashed .
+inch	1		josefa stabbed the lizard .
+inch	1		mattias operated the plane .
+dat	1		charlena found dorrie a key .
+inch	1		the pill greened .
+spray	0		miquela littered juice on the desk .
+dat	1		bobbi took a cat for carry .
+there	1		an elephant rode into the desert .
+inch	1		tawnya passed the hall to me .
+inch	1		the room dehumidified .
+there	1		there beat a thunderstorm on the horizon .
+dat	0		juliette spared a cap to juliette .
+dat	0		wenonah proposed meaghan a shoe .
+spray	1		hannis raked cream cheese on the chair .
+dat	1		marja ferried a camera to prudi .
+dat	0		wenonah satellited marja a cat .
+there	1		there worked a cow in front of me .
+inch	0		the computer extirpated .
+dat	1		meaghan sold peter a cat .
+inch	1		miles cudgeled the charger .
+inch	0		they rendered the helicopter to me .
+inch	1		the plane operated .
+u_object	1		sarah cooked a meal .
+inch	0		the bee folded .
+dat	1		bobbi flipped ainsley a book .
+spray	0		heathcliff vested the table with juice .
+inch	0		the whale hewed .
+dat	1		richmond yapped a cry to wenonah .
+inch	1		the helicopter awoke .
+inch	1		rosalinda strengthened the leader .
+dat	1		steward asked wenonah for a bull .
+spray	1		mirna garnished the floor with water .
+there	1		there crawled a cow into the water .
+dat	0		kameko roared richmond a hello .
+dat	0		richmond supposed a carpet to marja .
+there	1		there flapped a bird into the water .
+inch	1		candide cropped the pillow .
+inch	1		armond assassinated the sun .
+spray	0		mirna garnished water on the floor .
+dat	0		prudi gabbled dorrie a quote .
+inch	1		josefa wasted the vase .
+inch	1		the ground leveled .
+inch	1		the whale tightened .
+spray	0		evie mottled cream cheese on the door .
+spray	0		mirna ladled the wall with paint .
+dat	1		richmond fancied charlena a camera .
+there	1		there rumbled a stampede in the forest .
+inch	1		agathe dehumidified the room .
+dat	1		bobbi stamped kameko a pancake .
+there	0		there emerged a thunderstorm behind the mountain .
+dat	1		carry nominated jolene a cat .
+dat	0		charlena pushed kameko a book .
+inch	0		the bull grinded .
+u_object	1		bob drank .
+dat	0		kameko stammered richmond a greeting .
+inch	0		the rug cut .
+u_object	1		barbara wiggled her ears .
+inch	0		maggie ossified the apple .
+dat	1		juliette crowned wenonah a dad .
+dat	1		richmond served a meal to charlena .
+inch	1		the pirate broadened .
+inch	0		the plant decimated .
+inch	0		the dog energized .
+inch	1		miles awoke the helicopter .
+dat	1		dorrie taught a lesson to charlena .
+dat	1		carry flashed a light to carry .
+inch	0		the keyboard brained .
+inch	1		josefa lessened the disease .
+u_object	1		barbara rinsed her mouth .
+there	1		a bird lay in front of me .
+inch	1		the bed gladdened .
+there	1		a dog marched into the ground .
+spray	1		miquela sprinkled the bed with juice .
+there	1		a crowd chattered .
+there	0		there came a thunderstorm behind the mountain .
+inch	1		armond bit the cap .
+there	1		there remained a problem .
+inch	1		agathe splayed the pillow .
+inch	1		mattias pecked the disease .
+inch	1		armond browned the keyboard .
+u_object	0		olga wrinkled .
+inch	1		the chicken defrosted .
+u_object	0		hannah beat .
+dat	1		prudi warbled a cry to jolene .
+spray	0		heathcliff banged the desk with paint .
+inch	1		anissa burst the bed .
+there	0		a boy corresponded .
+u_object	1		hannah injured her arm .
+there	1		a cow galloped into the room .
+u_object	1		david sang .
+there	1		there glittered a light in the valley .
+u_object	0		hugh flapped .
+inch	0		anissa splintered the wood .
+inch	0		the key executed .
+u_object	0		barbara sprained .
+inch	1		the fruit soured .
+u_object	1		barbara wiggled her hips .
+there	1		there labored a girl in the valley .
+spray	1		andree wiped oil on the table .
+inch	1		the owner whirled .
+spray	0		heathcliff riddled cream cheese on the floor .
+dat	1		wenonah wrote an essay to carry .
+inch	0		the lion steadied .
+inch	1		prudy aired out the plane .
+there	1		there coexisted a people .
+dat	0		wenonah traded jolene a plant .
+spray	0		gertruda contaminated cream cheese on the bed .
+dat	1		prudi credited a bicycle to juliette .
+inch	1		doe caned the sun .
+dat	0		prudi consecrated a card to bobbi .
+spray	0		marlowe stippled up oil on the door .
+inch	1		goose depressurized the cabin .
+u_object	1		deandra baked a cake .
+inch	1		they surrendered the helicopter to me .
+spray	0		heathcliff vested juice on the table .
+there	1		a bird flapped into the water .
+dat	1		meaghan sang a song to bobbi .
+inch	1		the card federated .
+dat	1		juliette owed a rug to wenonah .
+there	1		a story was scrawled on the wall .
+spray	0		zedekiah anointed oil on the window .
+inch	0		the sticker happened .
+inch	0		hamilton steepened the hill .
+dat	0		juliette rumbled meaghan a quote .
+dat	1		prudi offered a bed to charlena .
+dat	0		steward declared a lion to jolene .
+inch	1		the lights dimmed .
+spray	1		colline showered the chair with juice .
+inch	1		the plant balanced .
+spray	1		chauncey loaded the washer with clothes .
+inch	0		rosalinda desiccated the apple .
+inch	1		the glass shattered .
+dat	1		kameko reported a tree to kameko .
+u_object	1		olga nursed the child .
+dat	1		meaghan wrote marja an essay .
+inch	1		mattias sharpened the glass .
+inch	0		maggie advanced the bicycle to me .
+u_object	1		deandra drew a map .
+there	1		a dog roamed into the room .
+there	1		a thunderstorm entered the valley .
+there	1		there hopped a cow into the ocean .
+inch	0		the bee squished .
+dat	1		charlena raised a glass to carry .
+u_object	0		hannah powdered .
+dat	0		richmond peddled jolene a rug .
+dat	1		steward paid juliette a fine .
+there	1		a forest fire presided above the water .
+spray	0		mirna mounded oil on the door .
+u_object	1		david taught .
+dat	1		carry owed juliette a rug .
+there	0		a monkey climbed .
+inch	1		maggie deescalated the rocket .
+dat	0		dorrie thundered carry a song .
+dat	0		juliette kicked bobbi a ball .
+inch	0		miles tensed the cat .
+inch	1		the plant americanized .
+inch	0		the egg incubated .
+inch	0		prudy lit the stamp to me .
+there	0		a river resided .
+dat	0		richmond wheezed richmond a hello .
+there	1		a dancer twisted .
+dat	1		carry sung a song to wenonah .
+inch	1		anissa gouged the rug .
+there	0		there passed a hurricane behind the mountain .
+inch	1		prudy exploded the bomb .
+there	1		there grew a river .
+inch	1		rosalinda dimmed the lights .
+dat	0		wenonah wanted a dad to kameko .
+inch	0		the pill prodded .
+inch	0		the cap bit .
+dat	1		bobbi handed a shoe to juliette .
+spray	0		evie spotted juice on the door .
+there	0		a ship issued in the valley .
+u_object	0		hugh hurt .
+dat	1		steward said a story to wenonah .
+dat	0		prudi bleated a cry to wenonah .
+there	1		there presided a forest fire above the water .
+there	1		a problem toiled .
+inch	0		candide chipped the cap .
+inch	1		hamilton coned the cat .
+there	0		there streamed a boy .
+inch	1		the glass sharpened .
+spray	0		evie positioned the door with paint .
+u_object	0		bob hung .
+spray	0		andree deluged oil on the wall .
+inch	1		the electricity shorted .
+u_object	0		james shuffled .
+inch	1		the height decreased .
+inch	1		armond spanked the bed .
+dat	1		charlena wired money to jolene .
+inch	0		the book scratched .
+dat	1		charlena telegraphed a carpet to ainsley .
+dat	1		ainsley articulated a toilet to prudi .
+there	0		there settled a storm .
+spray	1		miquela stacked boxes on the shelf .
+inch	1		the cart emptied .
+inch	1		prudy magnetized the ball .
+there	0		there derived a thunderstorm above me .
+inch	1		the book neatened .
+inch	1		prudy destabilized the plane .
+inch	0		the plane rumpled .
+there	1		there walked a dog into the desert .
+inch	1		the car vaporized .
+spray	0		andree wiped the table with oil .
+there	0		there emanated a hurricane in front of me .
+u_object	1		hannah chopped an onion .
+spray	1		evie whirled paint on the window .
+dat	1		prudi floated a computer to charlena .
+spray	0		gertruda splashed water on the table .
+spray	0		mirna masked juice on the chair .
+inch	0		hamilton contributed the computer to me .
+inch	1		candide lent the carpet to me .
+inch	1		the hall grew .
+inch	1		the hill steepened .
+there	1		a storm settled .
+spray	1		andree smudged the couch with cream cheese .
+there	0		there disappeared a hurricane in the valley .
+u_object	1		peter crossed his eyes .
+u_object	0		sarah shook .
+inch	1		the computer alkalified .
+u_object	0		deandra bumped .
+u_object	1		barbara sprained her back .
+there	1		a dog pranced into the forest .
+inch	1		tawnya alkalified the computer .
+spray	0		mirna edged the door with water .
+dat	1		carry drove marja a key .
+inch	1		candide notched the pill .
+u_object	1		peter bobbed his hair .
+spray	0		evie infected water on the chair .
+there	0		a koala plunged .
+inch	0		the mouse immolated .
+inch	1		the sticker ripened .
+spray	0		mirna heaped the chair with juice .
+inch	1		the dog paled .
+inch	0		rosalinda ensued the toilet .
+spray	0		mirna heaped juice on the chair .
+dat	1		jolene punted marja a pancake .
+spray	1		marlowe dusted the bed with paint .
+dat	0		ainsley begrudged prudi a key .
+spray	0		colline decorated oil on the chair .
+inch	1		doe incubated the egg .
+dat	0		ainsley raged an expletive to marja .
+u_object	1		hannah nicked her leg .
+u_object	1		bob carved .
+spray	1		amity injected juice into the blender .
+inch	0		tawnya wored the rug .
+dat	1		ainsley conceded a camera to jolene .
+u_object	1		hugh dressed himself .
+u_object	1		deandra cleaned the sink .
+inch	1		candide aged the computer .
+inch	0		the computer blasted .
+dat	0		prudi repaid richmond a fee .
+there	1		there loomed a problem .
+dat	0		jolene hissed marja a poem .
+dat	1		prudi made wenonah a lion .
+spray	0		amity dropped the chair with cream cheese .
+u_object	0		james soaped .
+inch	1		tawnya crumpled the pancake .
+spray	0		mirna mounded the door with oil .
+inch	1		the rocket iodized .
+dat	0		jolene drawled jolene a cry .
+spray	1		marlowe spurted juice on the table .
+there	1		a dog fluttered on the horizon .
+dat	1		wenonah offered marja a bed .
+u_object	0		olga drummed .
+inch	1		prudy blurred the glass .
+inch	1		mattias deflated the balloon .
+there	0		there accumulated a storm in the valley .
+u_object	1		james shuffled his feet .
+dat	0		marja rowed kameko a baby .
+inch	1		the ball dissolved .
+there	1		there rose a ship behind me .
+inch	0		they disbursed the sticker to me .
+spray	0		miquela poured the door with water .
+inch	0		the disease eliminated .
+inch	0		the ball heated .
+spray	0		evie pushed the window with cream cheese .
+there	0		there dropped a ship in front of me .
+there	1		there echoed a yell in the cave .
+dat	1		jolene muttered a hello to richmond .
+dat	1		dorrie fed marja a bee .
+dat	1		marja chirped a hello to marja .
+spray	1		hannis veiled the floor with juice .
+inch	1		maggie increased the pressure .
+u_object	1		sarah brushed her teeth .
+dat	1		bobbi taxed bobbi a pancake .
+dat	1		juliette spared carry a cap .
+inch	0		tawnya emerged the shoe .
+u_object	0		james filed .
+spray	1		hannis blocked the table with water .
+spray	0		hannis endowed paint on the bed .
+u_object	1		bob drank a coffee .
+spray	0		marlowe laid the wall with paint .
+inch	0		the helicopter tired .
+inch	0		the sun assassinated .
+u_object	1		deandra bathed .
+spray	0		miquela staffed workers on the office .
+u_object	0		peter scalded .
+dat	1		meaghan proposed a shoe to charlena .
+inch	1		anissa polarized the people .
+u_object	1		james kneaded the dough .
+spray	0		miquela robed paint on the desk .
+inch	0		the ice scratched .
+inch	1		the owner acidified .
+dat	0		prudi conveyed kameko a card .
+there	0		there festered a plant .
+dat	1		steward pitched a flower to kameko .
+there	1		a horse stepped into the ground .
+there	1		an image was seen .
+spray	1		heathcliff immersed the window with water .
+inch	0		the ice neutralized .
+there	0		a river drifted .
+there	0		there was painted on the paper a monkey .
+spray	0		hannis pounded the couch with cream cheese .
+inch	1		goose devastated the pancake .
+dat	0		dorrie yelped juliette a hello .
+spray	1		hannis ornamented the floor with water .
+dat	0		richmond acknowledged a lizard to dorrie .
+spray	0		miquela inundated cream cheese on the desk .
+u_object	1		james hummed a song .
+inch	1		tawnya bruised the toilet .
+dat	1		steward proclaimed a pillow to richmond .
+dat	1		jolene schlepped a glass to marja .
+u_object	0		james rouged .
+dat	1		marja kicked a lizard to bobbi .
+u_object	1		deandra trimmed her hair .
+inch	0		the leader clubbed .
+dat	0		steward boomed a yell to juliette .
+u_object	1		hannah clicked her tongue .
+there	1		a ship dropped in front of me .
+there	1		a door revolved .
+inch	1		the helicopter rose .
+inch	1		armond grinded the bull .
+dat	1		ainsley reckoned meaghan a pancake .
+inch	1		prudy heightened the pirate .
+there	1		a light emanated .
+u_object	0		peter raised .
+dat	0		bobbi snapped marja a remark .
+spray	1		colline interspersed the wall with paint .
+there	1		a cry was heard .
+dat	0		wenonah growled kameko a yell .
+u_object	1		hugh vacuumed .
+inch	1		the mouse sickened .
+u_object	1		olga sculpted a statue .
+inch	0		anissa thickened the hall .
+dat	1		jolene bounced a ball to marja .
+dat	0		meaghan rendered a ball to kameko .
+inch	0		miles perforated the vase .
+u_object	1		deandra bumped her leg .
+inch	0		prudy eventuated the cat .
+inch	0		the rocket killed .
+dat	0		dorrie admitted wenonah a bicycle .
+u_object	1		james rouged his face .
+spray	1		amity injected the blender with juice .
+inch	1		the cap twirled .
+inch	1		the pancake hybridized .
+u_object	1		hugh bruised his elbow .
+there	1		there flowed a ship in the room .
+inch	1		the bull coarsened .
+there	0		there cut a koala .
+u_object	0		peter stubbed .
+spray	0		chauncey dribbled the door with paint .
+inch	0		the vase proliferated .
+dat	0		ainsley presumed a criminal to prudi .
+spray	1		chauncey sat juice on the desk .
+there	1		there squatted a bird in the room .
+inch	1		tawnya contracted the cap .
+dat	0		juliette sneaked charlena a tree .
+dat	1		jolene willed a key to bobbi .
+u_object	1		hannah barked her shin .
+spray	1		evie larded the window with juice .
+inch	1		maggie snapped the bed .
+u_object	1		peter scratched his chin .
+there	0		there prevailed a knight .
+dat	1		charlena carted a pear to marja .
+inch	1		tawnya scraped the carpet .
+dat	1		jolene wired richmond money .
+spray	1		amity squirted paint on the bed .
+inch	1		maggie paddled the pancake .
+dat	1		dorrie snarled a hiss to jolene .
+spray	1		heathcliff drizzled the floor with water .
+dat	1		marja extended a book to kameko .
+there	1		books were stacked on the table .
+inch	0		the toilet flogged .
+spray	0		evie spewed the table with juice .
+inch	1		the window frosted .
+inch	1		prudy ignited the plant .
+there	1		a light flared in the sky .
+dat	0		carry spluttered bobbi a goodbye .
+there	1		there evolved a ship on the horizon .
+there	1		a cow ran into the desert .
+spray	1		gertruda interleaved water on the bed .
+u_object	1		peter plaited his hair .
+u_object	1		peter lathered his body .
+inch	0		the bicycle pulverized .
+dat	0		charlena shuttled juliette a shoe .
+there	0		there stole a man behind me .
+there	1		there was stapled to the floor a note .
+inch	0		the shoe filed .
+spray	0		andree choked paint on the couch .
+u_object	1		david waved his hand .
+spray	0		amity stained cream cheese on the desk .
+u_object	1		deandra cleaned .
+spray	1		gertruda pumped paint on the desk .
+spray	0		gertruda put the window with water .
+u_object	1		barbara wiggled her nose .
+dat	0		richmond yammered meaghan a song .
+u_object	0		olga rubbed .
+u_object	0		peter toweled .
+inch	0		candide tapered the valley .
+u_object	0		james combed .
+spray	1		colline flooded the chair with juice .
+dat	1		prudi awarded a shoe to kameko .
+dat	1		richmond stuttered a goodbye to jolene .
+spray	1		zedekiah wrang paint on the table .
+spray	1		chauncey loaded clothes in the washer .
+inch	0		goose hewed the whale .
+u_object	1		hugh bruised his leg .
+there	1		a thunderstorm opened in front of me .
+there	1		a sound reverberated above me .
+u_object	1		david undressed himself .
+dat	1		dorrie passed a stamp to juliette .
+u_object	1		barbara broke her elbow .
+u_object	1		deandra talced her body .
+dat	0		marja phoned a pillow to bobbi .
+inch	1		mattias demolished the hall .
+inch	1		the pressure eased .
+inch	1		the pancake varied .
+dat	1		wenonah modemed dorrie a lizard .
+u_object	1		bob changed .
+inch	0		candide evaporated the pirate .
+inch	1		candide filled the carpet .
+dat	0		wenonah termed a carpet to prudi .
+u_object	1		hannah hunched her shoulders .
+u_object	1		david sang a hymn .
+there	1		there hung a vine in the valley .
+u_object	0		hannah waved .
+inch	1		the plant melted .
+dat	1		marja assigned a lizard to kameko .
+inch	1		the bed burst .
+there	0		there issued a ship in the valley .
+inch	1		agathe executed the key .
+dat	1		prudi netmailed a sticker to prudi .
+dat	1		richmond decreed steward a leader .
+dat	1		wenonah lent marja a pill .
+inch	0		the rocket cubed .
+there	0		there spread a river .
+u_object	1		sarah embroidered a flower .
+dat	0		prudi said carry a story .
+u_object	0		deandra crooked .
+there	1		a boy waited behind the mountain .
+u_object	0		james puckered .
+inch	1		the vectors multiplied .
+there	0		there ascened a thunderstorm on the horizon .
+inch	1		the rug came .
+there	1		a hurricane passed behind the mountain .
+dat	0		marja wished a pillow to marja .
+u_object	1		barbara broke her leg .
+there	1		there arose a hurricane in the valley .
+there	1		a hurricane arose in the valley .
+dat	0		kameko posed juliette a camera .
+there	1		a beast lurked .
+u_object	1		barbara wiggled .
+dat	0		charlena made a lion to wenonah .
+inch	0		the pill notched .
+u_object	1		sarah shook her head .
+u_object	1		david read a poem .
+dat	1		carry carted dorrie a pear .
+dat	1		jolene relayed a tree to meaghan .
+spray	1		jorge twisted oil on the desk .
+inch	1		the toothpaste loosened .
+dat	1		jolene hollered an expletive to carry .
+inch	1		the owner floated .
+u_object	0		hugh washed .
+u_object	1		barbara twiddled her thumbs .
+spray	1		chauncey shoveled oil on the wall .
+there	1		a ship twinkled in the room .
+there	1		a ship surged in front of me .
+dat	1		ainsley radioed a glass to richmond .
+spray	1		hannis plastered the floor with paint .
+inch	1		josefa diced the toilet .
+spray	0		zedekiah siphoned the chair with water .
+inch	0		the toothpaste slashed .
+inch	0		goose whirled the owner .
+dat	1		dorrie slid richmond a pear .
+inch	1		the flower evened .
+there	1		a monkey dangled in front of me .
+dat	1		wenonah mulced marja a flower .
+there	1		a plant hovered .
+inch	1		the rocket deescalated .
+dat	1		bobbi dragged a bag to steward .
+inch	1		rosalinda purified the pencil .
+inch	0		the pancake stung .
+inch	1		maggie dissolved the ball .
+inch	1		tawnya carved the jet .
+inch	0		the pancake licked .
+spray	1		evie infected the chair with water .
+dat	0		jolene lisped charlena a goodbye .
+dat	0		prudi yapped steward a cry .
+inch	1		the jet gasified .
+inch	1		the pirate evaporated .
+spray	1		andree deluged the wall with oil .
+there	1		there skipped a dog into the ocean .
+inch	1		the fruit shriveled .
+dat	0		dorrie pulled richmond a bee .
+there	0		a boy streamed .
+inch	1		the computer stiffened .
+u_object	0		bob clenched .
+inch	1		the bicycle loosened .
+there	1		a bird sprawled in the room .
+spray	1		zedekiah hoisted oil on the bed .
+u_object	1		bob clenched his fists .
+there	0		there resided a river .
+u_object	1		hannah played a song .
+there	1		there waited a boy behind the mountain .
+inch	1		armond rekindled the fire .
+spray	1		chauncey rolled water on the window .
+there	1		there slept a giant behind the mountain .
+inch	1		maggie walloped the owner .
+inch	1		tawnya flogged the toilet .
+inch	0		goose deteriorated the baby .
+there	1		a note was scattered on the ground .
+there	1		there roamed a dog into the room .
+dat	1		kameko repaid a fee to marja .
+there	1		there blazed a fire .
+u_object	0		peter crossed .
+dat	0		charlena confessed juliette a cap .
+inch	1		mattias rounded the rocket .
+dat	1		juliette quoted a cap to bobbi .
+there	0		there idled a car .
+inch	1		mattias spun the keyboard .
+u_object	0		sarah embroidered .
+dat	1		dorrie allotted a bee to jolene .
+inch	1		the glass expanded .
+dat	0		prudi tweeted carry a hello .
+dat	0		bobbi snarled carry a hiss .
+dat	0		steward announced bobbi a story .
+dat	0		wenonah baptized a toilet to richmond .
+dat	1		jolene lobbed a pencil to juliette .
+inch	1		rosalinda tightened the whale .
+spray	0		evie spooned the desk with water .
+there	1		there floated a cat into the ground .
+there	1		there flew a cow into the ocean .
+u_object	0		olga whittled .
+spray	0		marlowe paved cream cheese on the wall .
+inch	0		hamilton paid the pirate to me .

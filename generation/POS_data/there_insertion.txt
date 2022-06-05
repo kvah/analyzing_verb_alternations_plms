@@ -1,0 +1,32 @@
+-existence
+Blue, bubble, cling, coexist, correspond, decay, depend, drift, dwell, elapsed, emanate, exist, fester, float, flow, fly, grow, hide, hover, live, loom, lurk, overspread, persist, predominate, prevail, project, protrude, remain, revolve, reside, rise, settle, shelter, smolder, spread, stream, survive, sweep, swing, tower, wind, writhe
+
+-spatial
+Crouch, dangle, hang, kneel, lean, lie, perch, rest, sit, slouch, sprawl, squat, stand, straddle, stretch, swing
+
+-meander
+Cascase, climb, crawl, cut, drop, go, meander, plunge, run, straggle, stretch, sweep, tumble, turn, twist, wander, weave, wind
+
+-appearance
+Accumulate, appear, arise, assemble, awake, awaken, begin, break, burst, dawn, derive, develop, emanate, emerge, ensue, evolve, exude, flow, follow, gush, happen, issue, materialize, occur, open, plop, rise, spill, steal, stem, supervene, surge
+
+-disappearance
+Die, disappear, vanish
+
+-directed
+Arrive, ascend, come, descend, drop, enter, fall, go, pass, rise
+
+-manner
+Amble, climb, crawl, creep, dance, dart, flee, float, fly, gallop, head, hobble, hop, hurtle, jump, leap, march, plod, prance, ride, roam, roll, run, rush, sail, shuffle, skip, speed, stagger, step, stray, stride, stroll, strut, swim, trot, trudge, walk
+
+-extendedexistence
+Flap, flutter, beat, boom, chime, ring, rumble, shriek, tick, echo, resound, reverberate, sound, flare, flash, flicker, gleam, glimmer, glisten, glitter, scintillate, shimmer, shine, sparkle, twinkle, belch, puff, radiate, chatter, doze, idle, labor, lounge, preside, reign, sing, sleep, toil, wait, work
+
+-transitivepassive
+Discern, discover, hear, see, engrave, imprint, inscribe, paint, scrawl, stamp, tattoo, write, hang, lay, mount, place, pile, stack, suspend, scatter, glue, hook, pin, staple, strap
+
+-otherpassive
+Add, build, display, create, enact, find, show, understand, write
+
+-transitive
+Await, confront, cross, enter, follow, reach, seize, take, want

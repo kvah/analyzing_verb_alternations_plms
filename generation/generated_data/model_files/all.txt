@@ -1,0 +1,2982 @@
+spray	1		marlowe brushed cream cheese on the floor .
+spray	1		marlowe brushed the floor with cream cheese .
+spray	1		daniel crammed boxes on the shelf .
+spray	1		daniel crammed the shelf with boxes .
+spray	1		colline crowded boxes on the table .
+spray	1		colline crowded the table with boxes .
+spray	1		colline cultivated plants in the garden .
+spray	0		colline cultivated the garden with plants .
+spray	1		andree dabbed paint on the wall .
+spray	1		andree dabbed the wall with paint .
+spray	1		mirna daubed oil on the bed .
+spray	1		mirna daubed the bed with oil .
+spray	1		gertruda draped a blanket on the chair .
+spray	0		gertruda draped the chair with a blanket .
+spray	1		heathcliff drizzled water on the floor .
+spray	1		heathcliff drizzled the floor with water .
+spray	1		marlowe dusted paint on the bed .
+spray	1		marlowe dusted the bed with paint .
+spray	1		mirna hung a painting on the door .
+spray	0		mirna hung the door with a painting .
+spray	0		mirna heaped juice on the chair .
+spray	0		mirna heaped the chair with juice .
+spray	1		amity injected juice into the blender .
+spray	1		amity injected the blender with juice .
+spray	1		mirna jammed boxes onto the shelf .
+spray	1		mirna jammed the shelf with boxes .
+spray	1		chauncey loaded clothes in the washer .
+spray	1		chauncey loaded the washer with clothes .
+spray	0		mirna mounded oil on the door .
+spray	0		mirna mounded the door with oil .
+spray	1		zedekiah packed juice into the box .
+spray	1		zedekiah packed the box with juice .
+spray	1		marlowe piled clothes on the bed .
+spray	1		marlowe piled the bed with clothes .
+spray	1		zedekiah planted cream cheese on the couch .
+spray	1		zedekiah planted the couch with cream cheese .
+spray	1		hannis plastered paint on the floor .
+spray	1		hannis plastered the floor with paint .
+spray	0		colline pricked juice on the couch .
+spray	0		colline pricked the couch with juice .
+spray	1		gertruda pumped paint on the desk .
+spray	0		gertruda pumped the desk with paint .
+spray	1		miquela rubbed juice on the desk .
+spray	1		miquela rubbed the desk with juice .
+spray	1		hannis scattered juice on the wall .
+spray	1		hannis scattered the wall with juice .
+spray	0		daniel seeded water on the couch .
+spray	0		daniel seeded the couch with water .
+spray	0		gertruda settled paint on the window .
+spray	0		gertruda settled the window with paint .
+spray	0		andree sewed oil on the window .
+spray	0		andree sewed the window with oil .
+spray	0		colline showered juice on the chair .
+spray	1		colline showered the chair with juice .
+spray	1		daniel slathered cream cheese on the chair .
+spray	1		daniel slathered the chair with cream cheese .
+spray	1		amity smeared paint on the floor .
+spray	1		amity smeared the floor with paint .
+spray	1		andree smudged cream cheese on the couch .
+spray	1		andree smudged the couch with cream cheese .
+spray	0		daniel sowed cream cheese on the window .
+spray	0		daniel sowed the window with cream cheese .
+spray	1		hannis spattered juice on the door .
+spray	1		hannis spattered the door with juice .
+spray	0		gertruda splashed water on the table .
+spray	1		gertruda splashed the table with water .
+spray	1		gertruda splattered paint on the chair .
+spray	1		gertruda splattered the chair with paint .
+spray	1		chauncey sprayed oil on the bed .
+spray	1		chauncey sprayed the bed with oil .
+spray	1		jorge spread paint on the door .
+spray	0		jorge spread the door with paint .
+spray	1		miquela sprinkled juice on the bed .
+spray	1		miquela sprinkled the bed with juice .
+spray	1		jorge spritzed oil on the desk .
+spray	1		jorge spritzed the desk with oil .
+spray	1		amity squirted paint on the bed .
+spray	1		amity squirted the bed with paint .
+spray	1		miquela stacked boxes on the shelf .
+spray	1		miquela stacked the shelf with boxes .
+spray	1		miquela stuck cream cheese on the window .
+spray	0		miquela stuck the window with cream cheese .
+spray	0		daniel stocked oil on the window .
+spray	1		daniel stocked the window with oil .
+spray	0		andree strewed juice on the chair .
+spray	0		andree strewed the chair with juice .
+spray	1		hannis strung rope on the table .
+spray	1		hannis strung the table with rope .
+spray	1		chauncey stuffed water into the contained .
+spray	1		chauncey stuffed the contained with water .
+spray	0		miquela swabbed a towel on the table .
+spray	1		miquela swabbed the table with a towel .
+spray	0		heathcliff vested juice on the table .
+spray	0		heathcliff vested the table with juice .
+spray	0		gertruda washed cream cheese on the window .
+spray	1		gertruda washed the window with cream cheese .
+spray	1		zedekiah wrapped a cover on the bed .
+spray	1		zedekiah wrapped the bed with a cover .
+spray	0		jorge adorned cream cheese on the window .
+spray	1		jorge adorned the window with cream cheese .
+spray	0		zedekiah anointed oil on the window .
+spray	1		zedekiah anointed the window with oil .
+spray	0		daniel bandaged oil on the floor .
+spray	1		daniel bandaged the floor with oil .
+spray	0		jorge bathed juice on the floor .
+spray	1		jorge bathed the floor with juice .
+spray	0		chauncey bestrewed juice on the door .
+spray	1		chauncey bestrewed the door with juice .
+spray	0		chauncey bound cream cheese on the chair .
+spray	1		chauncey bound the chair with cream cheese .
+spray	0		hannis blanketed paint on the floor .
+spray	1		hannis blanketed the floor with paint .
+spray	0		hannis blocked water on the table .
+spray	1		hannis blocked the table with water .
+spray	0		daniel blotted cream cheese on the wall .
+spray	1		daniel blotted the wall with cream cheese .
+spray	0		daniel bombarded oil on the table .
+spray	1		daniel bombarded the table with oil .
+spray	0		hannis carpeted oil on the bed .
+spray	1		hannis carpeted the bed with oil .
+spray	0		andree choked paint on the couch .
+spray	1		andree choked the couch with paint .
+spray	0		gertruda cloaked cream cheese on the couch .
+spray	1		gertruda cloaked the couch with cream cheese .
+spray	0		amity clogged paint on the floor .
+spray	1		amity clogged the floor with paint .
+spray	0		colline cluttered paint on the wall .
+spray	1		colline cluttered the wall with paint .
+spray	0		miquela coated cream cheese on the wall .
+spray	1		miquela coated the wall with cream cheese .
+spray	0		gertruda contaminated cream cheese on the bed .
+spray	1		gertruda contaminated the bed with cream cheese .
+spray	0		heathcliff covered cream cheese on the wall .
+spray	1		heathcliff covered the wall with cream cheese .
+spray	0		miquela dammed juice on the door .
+spray	1		miquela dammed the door with juice .
+spray	0		gertruda dappled juice on the wall .
+spray	1		gertruda dappled the wall with juice .
+spray	0		gertruda decked paint on the desk .
+spray	1		gertruda decked the desk with paint .
+spray	0		colline decorated oil on the chair .
+spray	1		colline decorated the chair with oil .
+spray	0		andree deluged oil on the wall .
+spray	1		andree deluged the wall with oil .
+spray	0		gertruda dirtied cream cheese on the floor .
+spray	1		gertruda dirtied the floor with cream cheese .
+spray	0		gertruda doused cream cheese on the bed .
+spray	1		gertruda doused the bed with cream cheese .
+spray	0		amity dotted water on the table .
+spray	1		amity dotted the table with water .
+spray	0		zedekiah drenched juice on the chair .
+spray	1		zedekiah drenched the chair with juice .
+spray	0		mirna edged water on the door .
+spray	0		mirna edged the door with water .
+spray	0		daniel embellished oil on the wall .
+spray	1		daniel embellished the wall with oil .
+spray	0		heathcliff emblazoned juice on the window .
+spray	0		heathcliff emblazoned the window with juice .
+spray	0		zedekiah encircled oil on the desk .
+spray	0		zedekiah encircled the desk with oil .
+spray	0		mirna encrusted oil on the door .
+spray	1		mirna encrusted the door with oil .
+spray	0		hannis endowed paint on the bed .
+spray	1		hannis endowed the bed with paint .
+spray	0		chauncey enriched juice on the couch .
+spray	1		chauncey enriched the couch with juice .
+spray	0		colline entangled paint on the floor .
+spray	1		colline entangled the floor with paint .
+spray	0		amity faced cream cheese on the floor .
+spray	0		amity faced the floor with cream cheese .
+spray	0		marlowe festooned oil on the desk .
+spray	1		marlowe festooned the desk with oil .
+spray	0		daniel filled paint on the desk .
+spray	1		daniel filled the desk with paint .
+spray	0		amity flecked paint on the chair .
+spray	1		amity flecked the chair with paint .
+spray	0		colline flooded juice on the chair .
+spray	1		colline flooded the chair with juice .
+spray	0		marlowe framed cream cheese on the wall .
+spray	1		marlowe framed the wall with cream cheese .
+spray	0		andree garlanded water on the chair .
+spray	1		andree garlanded the chair with water .
+spray	0		mirna garnished water on the floor .
+spray	1		mirna garnished the floor with water .
+spray	0		andree imbued juice on the bed .
+spray	1		andree imbued the bed with juice .
+spray	0		heathcliff impregnated the child on his wife .
+spray	1		heathcliff impregnated his wife with a child .
+spray	0		evie infected water on the chair .
+spray	1		evie infected the chair with water .
+spray	0		chauncey inlayed paint on the chair .
+spray	1		chauncey inlayed the chair with paint .
+spray	1		heathcliff interlaced paint on the couch .
+spray	1		heathcliff interlaced the couch with paint .
+spray	0		mirna interlarded water on the window .
+spray	0		mirna interlarded the window with water .
+spray	1		gertruda interleaved water on the bed .
+spray	1		gertruda interleaved the bed with water .
+spray	0		colline interspersed paint on the wall .
+spray	1		colline interspersed the wall with paint .
+spray	0		heathcliff interwove water on the chair .
+spray	1		heathcliff interwove the chair with water .
+spray	0		miquela inundated cream cheese on the desk .
+spray	1		miquela inundated the desk with cream cheese .
+spray	0		evie larded juice on the window .
+spray	1		evie larded the window with juice .
+spray	0		chauncey lavished water on the window .
+spray	1		chauncey lavished the window with water .
+spray	0		andree lined paint on the couch .
+spray	1		andree lined the couch with paint .
+spray	0		miquela littered juice on the desk .
+spray	1		miquela littered the desk with juice .
+spray	0		mirna masked juice on the chair .
+spray	1		mirna masked the chair with juice .
+spray	0		evie mottled cream cheese on the door .
+spray	0		evie mottled the door with cream cheese .
+spray	0		hannis ornamented water on the floor .
+spray	1		hannis ornamented the floor with water .
+spray	1		amity padded juice on the bed .
+spray	1		amity padded the bed with juice .
+spray	0		marlowe paved cream cheese on the wall .
+spray	1		marlowe paved the wall with cream cheese .
+spray	0		chauncey plated paint on the chair .
+spray	0		chauncey plated the chair with paint .
+spray	0		miquela plugged paint on the hole .
+spray	1		miquela plugged the hole with paint .
+spray	0		evie polluted debris on the air .
+spray	1		evie polluted the air with debris .
+spray	0		miquela replenished juice on the bed .
+spray	1		miquela replenished the bed with juice .
+spray	0		jorge repopulated animals on the field .
+spray	1		jorge repopulated the field with animals .
+spray	0		heathcliff riddled cream cheese on the floor .
+spray	1		heathcliff riddled the floor with cream cheese .
+spray	0		andree rung juice on the couch .
+spray	1		andree rung the couch with juice .
+spray	0		evie rippled oil on the chair .
+spray	1		evie rippled the chair with oil .
+spray	0		miquela robed paint on the desk .
+spray	1		miquela robed the desk with paint .
+spray	0		colline saturated water on the plant .
+spray	1		colline saturated the plant with water .
+spray	0		daniel seasoned juice on the salad .
+spray	1		daniel seasoned the salad with juice .
+spray	0		marlowe shrouded paint on the window .
+spray	1		marlowe shrouded the window with paint .
+spray	0		mirna smothered paint on the door .
+spray	1		mirna smothered the door with paint .
+spray	0		amity soaked juice on the door .
+spray	1		amity soaked the door with juice .
+spray	0		chauncey soiled juice on the table .
+spray	1		chauncey soiled the table with juice .
+spray	0		zedekiah speckled paint on the table .
+spray	1		zedekiah speckled the table with paint .
+spray	0		andree splotched juice on the wall .
+spray	1		andree splotched the wall with juice .
+spray	0		evie spotted juice on the door .
+spray	1		evie spotted the door with juice .
+spray	0		miquela staffed workers on the office .
+spray	1		miquela staffed the office with workers .
+spray	0		amity stained cream cheese on the desk .
+spray	1		amity stained the desk with cream cheese .
+spray	0		marlowe stippled up oil on the door .
+spray	0		marlowe stippled up the door with oil .
+spray	0		evie stopped up oil on the chair .
+spray	0		evie stopped up the chair with oil .
+spray	0		jorge studded paint on the desk .
+spray	1		jorge studded the desk with paint .
+spray	0		daniel suffused incense in the air .
+spray	1		daniel suffused the air with incense .
+spray	0		amity surrounded water on the door .
+spray	1		amity surrounded the door with water .
+spray	0		mirna swaddled juice on the wall .
+spray	1		mirna swaddled the wall with juice .
+spray	0		jorge swathed paint on the couch .
+spray	1		jorge swathed the couch with paint .
+spray	0		heathcliff tainted water on the couch .
+spray	1		heathcliff tainted the couch with water .
+spray	0		colline tiled paint on the table .
+spray	1		colline tiled the table with paint .
+spray	0		amity trimmed oil on the desk .
+spray	1		amity trimmed the desk with oil .
+spray	0		hannis veiled juice on the floor .
+spray	1		hannis veiled the floor with juice .
+spray	0		amity veined water on the chair .
+spray	0		amity veined the chair with water .
+spray	0		chauncey wreathed paint on the table .
+spray	1		chauncey wreathed the table with paint .
+spray	1		andree arranged oil on the bed .
+spray	0		andree arranged the bed with oil .
+spray	0		heathcliff immersed water on the window .
+spray	1		heathcliff immersed the window with water .
+spray	1		zedekiah installed cream cheese on the bed .
+spray	0		zedekiah installed the bed with cream cheese .
+spray	1		amity lodged cream cheese on the couch .
+spray	0		amity lodged the couch with cream cheese .
+spray	1		gertruda mounted a painting on the door .
+spray	0		gertruda mounted the door with a painting .
+spray	1		miquela placed cream cheese on the bed .
+spray	0		miquela placed the bed with cream cheese .
+spray	1		evie positioned paint on the door .
+spray	0		evie positioned the door with paint .
+spray	1		gertruda put water on the window .
+spray	0		gertruda put the window with water .
+spray	1		gertruda set paint on the bed .
+spray	0		gertruda set the bed with paint .
+spray	1		andree situated paint on the floor .
+spray	0		andree situated the floor with paint .
+spray	1		colline slung water on the wall .
+spray	0		colline slung the wall with water .
+spray	1		gertruda dangled cream cheese on the chair .
+spray	0		gertruda dangled the chair with cream cheese .
+spray	1		marlowe laid paint on the wall .
+spray	0		marlowe laid the wall with paint .
+spray	1		amity leaned cream cheese on the bed .
+spray	0		amity leaned the bed with cream cheese .
+spray	1		colline perched water on the desk .
+spray	0		colline perched the desk with water .
+spray	1		jorge rested water on the door .
+spray	0		jorge rested the door with water .
+spray	1		chauncey sat juice on the desk .
+spray	0		chauncey sat the desk with juice .
+spray	1		gertruda stood juice on the wall .
+spray	0		gertruda stood the wall with juice .
+spray	1		andree suspended juice on the couch .
+spray	0		andree suspended the couch with juice .
+spray	1		heathcliff banged paint on the desk .
+spray	0		heathcliff banged the desk with paint .
+spray	1		zedekiah channeled paint on the table .
+spray	0		zedekiah channeled the table with paint .
+spray	1		chauncey dipped cream cheese on the window .
+spray	0		chauncey dipped the window with cream cheese .
+spray	1		chauncey dumped oil on the floor .
+spray	0		chauncey dumped the floor with oil .
+spray	1		heathcliff funneled oil on the desk .
+spray	0		heathcliff funneled the desk with oil .
+spray	1		amity hammered juice on the chair .
+spray	0		amity hammered the chair with juice .
+spray	1		mirna ladled paint on the wall .
+spray	0		mirna ladled the wall with paint .
+spray	1		hannis pounded cream cheese on the couch .
+spray	0		hannis pounded the couch with cream cheese .
+spray	1		evie pushed cream cheese on the window .
+spray	0		evie pushed the window with cream cheese .
+spray	1		hannis raked cream cheese on the chair .
+spray	0		hannis raked the chair with cream cheese .
+spray	1		andree rammed water on the chair .
+spray	0		andree rammed the chair with water .
+spray	1		zedekiah scooped oil on the floor .
+spray	0		zedekiah scooped the floor with oil .
+spray	1		gertruda scraped cream cheese on the bed .
+spray	0		gertruda scraped the bed with cream cheese .
+spray	1		miquela shook paint on the couch .
+spray	0		miquela shook the couch with paint .
+spray	1		chauncey shoveled oil on the wall .
+spray	0		chauncey shoveled the wall with oil .
+spray	1		zedekiah siphoned water on the chair .
+spray	0		zedekiah siphoned the chair with water .
+spray	1		evie spooned water on the desk .
+spray	0		evie spooned the desk with water .
+spray	1		hannis squeezed water on the couch .
+spray	0		hannis squeezed the couch with water .
+spray	1		amity squished paint on the floor .
+spray	0		amity squished the floor with paint .
+spray	1		jorge squashed oil on the chair .
+spray	1		jorge squashed the chair with oil .
+spray	1		amity swept juice on the chair .
+spray	0		amity swept the chair with juice .
+spray	1		evie tucked cream cheese on the chair .
+spray	0		evie tucked the chair with cream cheese .
+spray	0		hannis waded oil on the floor .
+spray	0		hannis waded the floor with oil .
+spray	1		mirna wedged oil on the bed .
+spray	0		mirna wedged the bed with oil .
+spray	1		andree wiped oil on the table .
+spray	0		andree wiped the table with oil .
+spray	1		zedekiah wrang paint on the table .
+spray	0		zedekiah wrang the table with paint .
+spray	1		amity dropped cream cheese on the chair .
+spray	0		amity dropped the chair with cream cheese .
+spray	1		zedekiah hoisted oil on the bed .
+spray	0		zedekiah hoisted the bed with oil .
+spray	1		colline lifted bricks onto the building .
+spray	0		colline lifted the building with bricks .
+spray	1		daniel lowered water on the bed .
+spray	0		daniel lowered the bed with water .
+spray	1		amity raised juice on the window .
+spray	0		amity raised the window with juice .
+spray	1		chauncey dribbled paint on the door .
+spray	0		chauncey dribbled the door with paint .
+spray	1		colline dripped water on the floor .
+spray	0		colline dripped the floor with water .
+spray	1		miquela poured water on the door .
+spray	0		miquela poured the door with water .
+spray	0		daniel slopped oil on the table .
+spray	1		daniel slopped the table with oil .
+spray	1		evie sloshed oil on the bed .
+spray	0		evie sloshed the bed with oil .
+spray	1		evie spewed juice on the table .
+spray	0		evie spewed the table with juice .
+spray	1		daniel spilled juice on the couch .
+spray	0		daniel spilled the couch with juice .
+spray	1		marlowe spurted juice on the table .
+spray	0		marlowe spurted the table with juice .
+spray	1		hannis coiled paint on the chair .
+spray	0		hannis coiled the chair with paint .
+spray	0		daniel curled water on the chair .
+spray	0		daniel curled the chair with water .
+spray	0		zedekiah looped juice on the floor .
+spray	0		zedekiah looped the floor with juice .
+spray	1		chauncey rolled water on the window .
+spray	0		chauncey rolled the window with water .
+spray	1		jorge spun juice on the wall .
+spray	0		jorge spun the wall with juice .
+spray	1		heathcliff twirled water on the window .
+spray	0		heathcliff twirled the window with water .
+spray	1		jorge twisted oil on the desk .
+spray	0		jorge twisted the desk with oil .
+spray	1		evie whirled paint on the window .
+spray	0		evie whirled the window with paint .
+spray	1		evie wound cream cheese on the chair .
+spray	0		evie wound the chair with cream cheese .
+u_object	1		deandra baked a cake .
+u_object	1		deandra baked .
+u_object	1		bob carved a drawing .
+u_object	1		bob carved .
+u_object	1		hannah chopped an onion .
+u_object	1		hannah chopped .
+u_object	1		deandra cleaned the sink .
+u_object	1		deandra cleaned .
+u_object	1		sarah cooked a meal .
+u_object	1		sarah cooked .
+u_object	1		david crocheted a sweater . 
+u_object	1		david crocheted .
+u_object	1		deandra drew a map .
+u_object	1		deandra drew .
+u_object	1		bob drank a coffee .
+u_object	1		bob drank .
+u_object	1		sarah dusted the porch .
+u_object	0		sarah dusted .
+u_object	1		deandra ate a cake .
+u_object	1		deandra ate .
+u_object	1		sarah embroidered a flower .
+u_object	0		sarah embroidered .
+u_object	1		james hummed a song .
+u_object	1		james hummed .
+u_object	1		bob hunted a whale .
+u_object	1		bob hunted .
+u_object	1		barbara fished for trout .
+u_object	1		barbara fished .
+u_object	1		deandra ironed a suit .
+u_object	1		deandra ironed .
+u_object	1		james kneaded the dough .
+u_object	0		james kneaded .
+u_object	1		deandra knit a sweater .
+u_object	1		deandra knit .
+u_object	1		hugh mended the dent .
+u_object	0		hugh mended .
+u_object	1		hugh milked the cow .
+u_object	0		hugh milked .
+u_object	1		deandra mowed the lawn .
+u_object	0		deandra mowed .
+u_object	1		olga nursed the child .
+u_object	0		olga nursed .
+u_object	1		barbara packed a bag .
+u_object	1		barbara packed .
+u_object	1		hugh painted a picture .
+u_object	1		hugh painted .
+u_object	1		hannah played a song .
+u_object	1		hannah played .
+u_object	1		deandra plowed the field .
+u_object	0		deandra plowed .
+u_object	1		bob polished the shoes .
+u_object	0		bob polished .
+u_object	1		david read a poem .
+u_object	1		david read .
+u_object	1		olga recited a story .
+u_object	0		olga recited .
+u_object	1		hannah sewed a mitten .
+u_object	1		hannah sewed .
+u_object	1		olga sculpted a statue .
+u_object	1		olga sculpted .
+u_object	1		david sang a hymn .
+u_object	1		david sang .
+u_object	1		sarah sketched a hand .
+u_object	1		sarah sketched .
+u_object	1		barbara sowed a seed .
+u_object	0		barbara sowed .
+u_object	1		barbara studied a lecture .
+u_object	1		barbara studied .
+u_object	1		sarah swept the leaves .
+u_object	1		sarah swept .
+u_object	1		david taught a class .
+u_object	1		david taught .
+u_object	1		olga typed an essay .
+u_object	1		olga typed .
+u_object	1		hugh vacuumed the floor .
+u_object	1		hugh vacuumed .
+u_object	1		olga washed a sock .
+u_object	0		olga washed .
+u_object	1		deandra wove a pattern .
+u_object	0		deandra wove .
+u_object	1		olga whittled a bird .
+u_object	0		olga whittled .
+u_object	1		david wrote a story .
+u_object	0		david wrote .
+u_object	1		bob blinked his eyes .
+u_object	1		bob blinked .
+u_object	1		david clapped his hands .
+u_object	1		david clapped .
+u_object	1		james nodded his head .
+u_object	1		james nodded .
+u_object	1		david poined his finger .
+u_object	1		david poined .
+u_object	1		hugh shrugged his shoulders .
+u_object	1		hugh shrugged .
+u_object	1		sarah squatted her eyes .
+u_object	1		sarah squatted .
+u_object	1		james wagged his tail .
+u_object	0		james wagged .
+u_object	1		david waved his hand .
+u_object	1		david waved .
+u_object	1		peter winked his eye .
+u_object	1		peter winked .
+u_object	1		david arched his back .
+u_object	0		david arched .
+u_object	1		david arched his neck .
+u_object	0		david arched .
+u_object	1		deandra bared her teeth .
+u_object	0		deandra bared .
+u_object	1		sarah batted her eyelashes .
+u_object	0		sarah batted .
+u_object	1		hannah beat her feet .
+u_object	0		hannah beat .
+u_object	1		peter blew his nose .
+u_object	0		peter blew .
+u_object	1		bob clenched his fists .
+u_object	0		bob clenched .
+u_object	1		hannah clicked her heels .
+u_object	0		hannah clicked .
+u_object	1		hannah clicked her tongue .
+u_object	0		hannah clicked .
+u_object	1		olga closed her eyes .
+u_object	0		olga closed .
+u_object	1		deandra cocked her head .
+u_object	0		deandra cocked .
+u_object	1		sarah craned her neck .
+u_object	0		sarah craned .
+u_object	1		deandra crooked her finger .
+u_object	0		deandra crooked .
+u_object	1		peter crossed his arms .
+u_object	0		peter crossed .
+u_object	1		peter crossed his eyes .
+u_object	0		peter crossed .
+u_object	1		peter crossed his legs .
+u_object	0		peter crossed .
+u_object	1		olga drummed her finger .
+u_object	0		olga drummed .
+u_object	1		hugh flapped his wings .
+u_object	0		hugh flapped .
+u_object	1		bob flashed his teeth .
+u_object	0		bob flashed .
+u_object	1		bob flexed his muscles .
+u_object	1		bob flexed .
+u_object	1		bob flicked his finger .
+u_object	0		bob flicked .
+u_object	1		barbara fluttered her eyelashes .
+u_object	0		barbara fluttered .
+u_object	1		hannah folded her arms .
+u_object	0		hannah folded .
+u_object	1		hugh gnashed his teeth .
+u_object	0		hugh gnashed .
+u_object	1		david ground his teeth .
+u_object	0		david ground .
+u_object	1		bob hung his head .
+u_object	0		bob hung .
+u_object	1		hannah hunched her shoulders .
+u_object	0		hannah hunched .
+u_object	1		bob kicked his leg .
+u_object	1		bob kicked .
+u_object	1		david knitted his eyebrows .
+u_object	0		david knitted .
+u_object	1		peter opened his eyes .
+u_object	0		peter opened .
+u_object	1		james puckered his lips .
+u_object	0		james puckered .
+u_object	1		sarah pursed her lips .
+u_object	0		sarah pursed .
+u_object	1		peter raised his eyebrows .
+u_object	0		peter raised .
+u_object	1		peter raised his leg .
+u_object	0		peter raised .
+u_object	1		peter raised his hand .
+u_object	0		peter raised .
+u_object	1		hugh rolled his eyes .
+u_object	0		hugh rolled .
+u_object	1		olga rubbed her hands .
+u_object	0		olga rubbed .
+u_object	1		sarah shook her head .
+u_object	0		sarah shook .
+u_object	1		sarah shook her fist .
+u_object	0		sarah shook .
+u_object	1		sarah shook her hands .
+u_object	0		sarah shook .
+u_object	1		barbara showed her teeth .
+u_object	0		barbara showed .
+u_object	1		james shuffled his feet .
+u_object	0		james shuffled .
+u_object	1		deandra smacked her lips .
+u_object	0		deandra smacked .
+u_object	1		bob snapped his fingers .
+u_object	1		bob snapped .
+u_object	1		hugh stamped his foot .
+u_object	0		hugh stamped .
+u_object	1		deandra stretched her legs .
+u_object	1		deandra stretched .
+u_object	1		barbara tossed her mane .
+u_object	0		barbara tossed .
+u_object	1		hannah turned her head .
+u_object	1		hannah turned .
+u_object	1		barbara twiddled her thumbs .
+u_object	0		barbara twiddled .
+u_object	1		olga twitched her ears .
+u_object	1		olga twitched .
+u_object	1		olga twitched her nose .
+u_object	1		olga twitched .
+u_object	1		david wagged his finger .
+u_object	0		david wagged .
+u_object	1		david wagged his tail .
+u_object	0		david wagged .
+u_object	1		barbara waggled her ears .
+u_object	0		barbara waggled .
+u_object	1		barbara wiggled her ears .
+u_object	1		barbara wiggled .
+u_object	1		barbara wiggled her hips .
+u_object	1		barbara wiggled .
+u_object	1		barbara wiggled her nose .
+u_object	1		barbara wiggled .
+u_object	1		sarah wrang her hands .
+u_object	0		sarah wrang .
+u_object	1		olga wrinkled her forehead .
+u_object	0		olga wrinkled .
+u_object	1		olga wrinkled her nose .
+u_object	0		olga wrinkled .
+u_object	1		olga wrinkled her brow .
+u_object	0		olga wrinkled .
+u_object	1		sarah brushed her teeth .
+u_object	0		sarah brushed .
+u_object	1		david flossed his teeth .
+u_object	1		david flossed .
+u_object	1		deandra shaved her beard .
+u_object	1		deandra shaved .
+u_object	1		deandra shaved her legs .
+u_object	1		deandra shaved .
+u_object	1		hugh washed his hands .
+u_object	0		hugh washed .
+u_object	1		hugh washed his face .
+u_object	0		hugh washed .
+u_object	1		hugh washed his body .
+u_object	0		hugh washed .
+u_object	1		peter bobbed his hair .
+u_object	0		peter bobbed .
+u_object	1		olga braided her hair .
+u_object	0		olga braided .
+u_object	1		david brushed his hair .
+u_object	0		david brushed .
+u_object	1		sarah clipped her nails .
+u_object	0		sarah clipped .
+u_object	1		david cold creamed his face .
+u_object	0		david cold creamed .
+u_object	1		james combed his hair .
+u_object	0		james combed .
+u_object	1		hannah conditioned her hair .
+u_object	1		hannah conditioned .
+u_object	1		david crimped his hair .
+u_object	0		david crimped .
+u_object	1		sarah cropped her hair .
+u_object	0		sarah cropped .
+u_object	1		sarah curled her hair .
+u_object	0		sarah curled .
+u_object	1		hannah cut her hair .
+u_object	0		hannah cut .
+u_object	1		sarah dyed her hair .
+u_object	0		sarah dyed .
+u_object	1		james filed his nails .
+u_object	0		james filed .
+u_object	1		sarah hennaed her hair .
+u_object	0		sarah hennaed .
+u_object	1		peter lathered his hair .
+u_object	0		peter lathered .
+u_object	1		peter lathered his body .
+u_object	0		peter lathered .
+u_object	1		hugh manicured his nails .
+u_object	0		hugh manicured .
+u_object	1		olga parted her hair .
+u_object	0		olga parted .
+u_object	1		deandra permed her hair .
+u_object	0		deandra permed .
+u_object	1		peter plaited his hair .
+u_object	0		peter plaited .
+u_object	1		sarah plucked her eyebrows .
+u_object	0		sarah plucked .
+u_object	1		hannah powdered her face .
+u_object	0		hannah powdered .
+u_object	1		hannah powdered her nose .
+u_object	0		hannah powdered .
+u_object	1		barbara rinsed her hair .
+u_object	0		barbara rinsed .
+u_object	1		barbara rinsed her mouth .
+u_object	0		barbara rinsed .
+u_object	1		james rouged his cheeks .
+u_object	0		james rouged .
+u_object	1		james rouged his face .
+u_object	0		james rouged .
+u_object	1		peter set his hair .
+u_object	0		peter set .
+u_object	1		hugh shampooed his hair .
+u_object	1		hugh shampooed .
+u_object	1		james soaped his hands .
+u_object	0		james soaped .
+u_object	1		james soaped his body .
+u_object	0		james soaped .
+u_object	1		deandra talced her body .
+u_object	0		deandra talced .
+u_object	1		olga teased her hair .
+u_object	0		olga teased .
+u_object	1		peter toweled his face .
+u_object	0		peter toweled .
+u_object	1		peter toweled his hands .
+u_object	0		peter toweled .
+u_object	1		deandra trimmed her hair .
+u_object	0		deandra trimmed .
+u_object	1		deandra trimmed her beard .
+u_object	0		deandra trimmed .
+u_object	1		hannah waved her hair .
+u_object	0		hannah waved .
+u_object	1		hannah barked her shin .
+u_object	0		hannah barked .
+u_object	1		peter bit his lip .
+u_object	0		peter bit .
+u_object	1		deandra bumped her leg .
+u_object	0		deandra bumped .
+u_object	1		deandra bumped her arm .
+u_object	0		deandra bumped .
+u_object	1		barbara burned her leg .
+u_object	0		barbara burned .
+u_object	1		barbara burned her arm .
+u_object	0		barbara burned .
+u_object	1		barbara broke her leg .
+u_object	0		barbara broke .
+u_object	1		barbara broke her arm .
+u_object	0		barbara broke .
+u_object	1		barbara broke her finger .
+u_object	0		barbara broke .
+u_object	1		barbara broke her elbow .
+u_object	0		barbara broke .
+u_object	1		hugh bruised his leg .
+u_object	0		hugh bruised .
+u_object	1		hugh bruised his arm .
+u_object	0		hugh bruised .
+u_object	1		hugh bruised his finger .
+u_object	0		hugh bruised .
+u_object	1		hugh bruised his elbow .
+u_object	0		hugh bruised .
+u_object	1		olga chipped her tooth .
+u_object	0		olga chipped .
+u_object	1		olga cut her finger .
+u_object	0		olga cut .
+u_object	1		olga cut her skin .
+u_object	0		olga cut .
+u_object	1		olga cut her arm .
+u_object	0		olga cut .
+u_object	1		peter fractured his femur .
+u_object	0		peter fractured .
+u_object	1		hugh hurt his head .
+u_object	0		hugh hurt .
+u_object	1		hugh hurt his leg .
+u_object	0		hugh hurt .
+u_object	1		hugh hurt his arm .
+u_object	0		hugh hurt .
+u_object	1		hannah injured her neck .
+u_object	0		hannah injured .
+u_object	1		hannah injured her leg .
+u_object	0		hannah injured .
+u_object	1		hannah injured her arm .
+u_object	0		hannah injured .
+u_object	1		hannah nicked her chin .
+u_object	0		hannah nicked .
+u_object	1		hannah nicked her leg .
+u_object	0		hannah nicked .
+u_object	1		bob pricked his finger .
+u_object	0		bob pricked .
+u_object	1		sarah pulled her muscle .
+u_object	0		sarah pulled .
+u_object	1		peter ruptured his spleen .
+u_object	0		peter ruptured .
+u_object	1		peter scalded his arm .
+u_object	0		peter scalded .
+u_object	1		peter scalded his leg .
+u_object	0		peter scalded .
+u_object	1		peter scratched his chin .
+u_object	0		peter scratched .
+u_object	1		james skinned his knee .
+u_object	0		james skinned .
+u_object	1		hannah split her lip .
+u_object	0		hannah split .
+u_object	1		barbara sprained her ankle .
+u_object	0		barbara sprained .
+u_object	1		barbara sprained her back .
+u_object	0		barbara sprained .
+u_object	1		barbara sprained her knee .
+u_object	0		barbara sprained .
+u_object	1		barbara sprained her wrist .
+u_object	0		barbara sprained .
+u_object	1		hannah strained her wrist .
+u_object	0		hannah strained .
+u_object	1		hannah strained her leg .
+u_object	0		hannah strained .
+u_object	1		peter stubbed his toe .
+u_object	0		peter stubbed .
+u_object	1		deandra turned her ankle .
+u_object	0		deandra turned .
+u_object	1		deandra twisted her ankle .
+u_object	0		deandra twisted .
+u_object	1		deandra bathed herself .
+u_object	1		deandra bathed .
+u_object	1		bob changed himself .
+u_object	1		bob changed .
+u_object	1		david disrobed himself .
+u_object	1		david disrobed .
+u_object	1		hugh dressed himself .
+u_object	1		hugh dressed .
+u_object	0		peter exercised himself .
+u_object	1		peter exercised .
+u_object	1		deandra preened herself .
+u_object	0		deandra preened .
+u_object	1		bob primped himself .
+u_object	0		bob primped .
+u_object	1		sarah shaved herself .
+u_object	1		sarah shaved .
+u_object	0		hugh showered himself .
+u_object	1		hugh showered .
+u_object	0		barbara stripped herself .
+u_object	1		barbara stripped .
+u_object	1		david undressed himself .
+u_object	1		david undressed .
+u_object	1		sarah washed herself .
+u_object	1		sarah washed .
+u_object	1		hannah groomed herself .
+u_object	0		hannah groomed .
+there	1		a fire blazed .
+there	1		there blazed a fire .
+there	1		a stream bubbled .
+there	1		there bubbled a stream .
+there	0		a giant clung .
+there	0		there clung a giant .
+there	1		a people coexisted .
+there	1		there coexisted a people .
+there	0		a boy corresponded .
+there	0		there corresponded a boy .
+there	1		a plant decayed .
+there	0		there decayed a plant .
+there	0		a boy depended .
+there	0		there depended a boy .
+there	0		a river drifted .
+there	1		there drifted a river .
+there	1		a beast dwelled .
+there	0		there dwelled a beast .
+there	1		time elapsed .
+there	0		there elapsed time .
+there	1		a light emanated .
+there	0		there emanated a light .
+there	1		a problem existed .
+there	1		there existed a problem .
+there	0		a plant festered .
+there	0		there festered a plant .
+there	1		a boy floated .
+there	1		there floated a boy .
+there	1		a river flowed .
+there	1		there flowed a river .
+there	1		a giant flew .
+there	1		there flew a giant .
+there	1		a river grew .
+there	1		there grew a river .
+there	1		a giant hid .
+there	0		there hid a giant .
+there	1		a plant hovered .
+there	1		there hovered a plant .
+there	1		a plant lived .
+there	1		there lived a plant .
+there	1		a problem loomed .
+there	1		there loomed a problem .
+there	1		a beast lurked .
+there	1		there lurked a beast .
+there	0		a river overspread .
+there	0		there overspread a river .
+there	1		a problem persisted .
+there	1		there persisted a problem .
+there	0		a river predominated .
+there	0		there predominated a river .
+there	1		a knight prevailed .
+there	0		there prevailed a knight .
+there	1		a voice projected .
+there	0		there projected a voice .
+there	0		a fire protruded .
+there	1		there protruded a fire .
+there	1		a problem remained .
+there	1		there remained a problem .
+there	1		a door revolved .
+there	0		there revolved a door .
+there	0		a river resided .
+there	0		there resided a river .
+there	1		a plant rose .
+there	1		there rose a plant .
+there	1		a storm settled .
+there	0		there settled a storm .
+there	1		a giant sheltered .
+there	0		there sheltered a giant .
+there	0		a boy smoldered .
+there	0		there smoldered a boy .
+there	1		a river spread .
+there	0		there spread a river .
+there	0		a boy streamed .
+there	0		there streamed a boy .
+there	1		a plant survived .
+there	1		there survived a plant .
+there	1		a giant swept .
+there	0		there swept a giant .
+there	1		a boy swang .
+there	0		there swang a boy .
+there	0		a plant towered .
+there	0		there towered a plant .
+there	1		a river wound .
+there	0		there wound a river .
+there	0		a giant writhed .
+there	0		there writhed a giant .
+there	1		a monkey crouched on the horizon .
+there	1		there crouched a monkey on the horizon .
+there	1		a monkey dangled in front of me .
+there	1		there dangled a monkey in front of me .
+there	1		a vine hung in the valley .
+there	1		there hung a vine in the valley .
+there	1		a girl knelt behind the mountain .
+there	1		there knelt a girl behind the mountain .
+there	1		a girl leaned in the room .
+there	1		there leaned a girl in the room .
+there	1		a bird lay in front of me .
+there	1		there lay a bird in front of me .
+there	1		a bird perched behind me .
+there	1		there perched a bird behind me .
+there	1		a bird rested in the valley .
+there	1		there rested a bird in the valley .
+there	1		a giant sat in front of me .
+there	1		there sat a giant in front of me .
+there	1		a monkey slouched behind me .
+there	1		there slouched a monkey behind me .
+there	1		a bird sprawled in the room .
+there	1		there sprawled a bird in the room .
+there	1		a bird squatted in the room .
+there	1		there squatted a bird in the room .
+there	1		a girl stood in the valley .
+there	1		there stood a girl in the valley .
+there	1		a giant straddled in the valley .
+there	0		there straddled a giant in the valley .
+there	1		a city stretched on the horizon .
+there	1		there stretched a city on the horizon .
+there	1		a monkey swung behind me .
+there	0		there swung a monkey behind me .
+there	0		a river cascaded .
+there	0		there cascaded a river .
+there	0		a monkey climbed .
+there	0		there climbed a monkey .
+there	1		a koala crawled .
+there	0		there crawled a koala .
+there	0		a koala cut .
+there	0		there cut a koala .
+there	1		a koala dropped .
+there	0		there dropped a koala .
+there	0		a waterfall went .
+there	0		there went a waterfall .
+there	0		a forest fire meandered .
+there	0		there meandered a forest fire .
+there	0		a koala plunged .
+there	0		there plunged a koala .
+there	1		a boy ran .
+there	0		there ran a boy .
+there	0		a koala straggled .
+there	0		there straggled a koala .
+there	1		a tiger stretched .
+there	0		there stretched a tiger .
+there	0		a tiger swept .
+there	0		there swept a tiger .
+there	1		a tumbleweed tumbled .
+there	0		there tumbled a tumbleweed .
+there	1		a boy turned .
+there	0		there turned a boy .
+there	1		a dancer twisted .
+there	0		there twisted a dancer .
+there	1		a tiger wandered .
+there	1		there wandered a tiger .
+there	1		a grandma wove .
+there	0		there wove a grandma .
+there	1		a man won .
+there	0		there won a man .
+there	1		a storm accumulated in the valley .
+there	0		there accumulated a storm in the valley .
+there	1		a thunderstorm appeared above me .
+there	1		there appeared a thunderstorm above me .
+there	1		a hurricane arose in the valley .
+there	1		there arose a hurricane in the valley .
+there	1		a hurricane assembled in front of me .
+there	1		there assembled a hurricane in front of me .
+there	1		a zombie awoke behind the mountain .
+there	1		there awoke a zombie behind the mountain .
+there	1		a man awoke on the horizon .
+there	1		there awoke a man on the horizon .
+there	1		a tornado began behind me .
+there	0		there began a tornado behind me .
+there	1		a ship broke in the room .
+there	0		there broke a ship in the room .
+there	1		a balloon burst in front of me .
+there	0		there burst a balloon in front of me .
+there	1		a tornado dawned in the room .
+there	0		there dawned a tornado in the room .
+there	0		a thunderstorm derived above me .
+there	0		there derived a thunderstorm above me .
+there	1		a tornado developed behind the mountain .
+there	1		there developed a tornado behind the mountain .
+there	1		a hurricane emanated in front of me .
+there	0		there emanated a hurricane in front of me .
+there	1		a thunderstorm emerged behind the mountain .
+there	0		there emerged a thunderstorm behind the mountain .
+there	1		a hurricane ensued behind me .
+there	1		there ensued a hurricane behind me .
+there	1		a ship evolved on the horizon .
+there	1		there evolved a ship on the horizon .
+there	1		a tornado exuded behind me .
+there	0		there exuded a tornado behind me .
+there	1		a ship flowed in the room .
+there	1		there flowed a ship in the room .
+there	1		a tornado followed behind the mountain .
+there	0		there followed a tornado behind the mountain .
+there	1		a ship gushed in front of me .
+there	0		there gushed a ship in front of me .
+there	1		a hurricane happened in the valley .
+there	0		there happened a hurricane in the valley .
+there	0		a ship issued in the valley .
+there	0		there issued a ship in the valley .
+there	1		a ship materialized in front of me .
+there	0		there materialized a ship in front of me .
+there	1		a thunderstorm occurred in the valley .
+there	0		there occurred a thunderstorm in the valley .
+there	1		a thunderstorm opened in front of me .
+there	0		there opened a thunderstorm in front of me .
+there	1		a tornado plopped on the horizon .
+there	0		there plopped a tornado on the horizon .
+there	1		a thunderstorm rose in the room .
+there	0		there rose a thunderstorm in the room .
+there	1		a drink spilled in the room .
+there	0		there spilled a drink in the room .
+there	1		a man stole behind me .
+there	0		there stole a man behind me .
+there	0		a tornado stemmed behind me .
+there	0		there stemmed a tornado behind me .
+there	1		a thunderstorm supervened on the horizon .
+there	0		there supervened a thunderstorm on the horizon .
+there	1		a ship surged in front of me .
+there	0		there surged a ship in front of me .
+there	1		a man died in front of me .
+there	0		there died a man in front of me .
+there	1		a hurricane disappeared in the valley .
+there	0		there disappeared a hurricane in the valley .
+there	1		a ship vanished in front of me .
+there	0		there vanished a ship in front of me .
+there	1		a hurricane arrived behind me .
+there	0		there arrived a hurricane behind me .
+there	1		a thunderstorm ascened on the horizon .
+there	0		there ascened a thunderstorm on the horizon .
+there	1		a thunderstorm came behind the mountain .
+there	0		there came a thunderstorm behind the mountain .
+there	1		a hurricane descended behind me .
+there	0		there descended a hurricane behind me .
+there	1		a ship dropped in front of me .
+there	0		there dropped a ship in front of me .
+there	1		a thunderstorm entered the valley .
+there	0		there entered a thunderstorm in the valley .
+there	1		a plane fell behind the mountain .
+there	1		there fell a plane behind the mountain .
+there	1		a tornado went behind me .
+there	0		there went a tornado behind me .
+there	1		a hurricane passed behind the mountain .
+there	0		there passed a hurricane behind the mountain .
+there	1		a ship rose behind me .
+there	1		there rose a ship behind me .
+there	1		an elephant ambled into the air .
+there	1		there ambled an elephant into the air .
+there	1		a cat climbed into the forest .
+there	1		there climbed a cat into the forest .
+there	1		a cow crawled into the water .
+there	1		there crawled a cow into the water .
+there	1		a cow crept into the forest .
+there	1		there crept a cow into the forest .
+there	1		a cat danced into the forest .
+there	1		there danced a cat into the forest .
+there	1		a horse darted into the sky .
+there	1		there darted a horse into the sky .
+there	1		a dog fled into the ground .
+there	1		there fled a dog into the ground .
+there	1		a cat floated into the ground .
+there	1		there floated a cat into the ground .
+there	1		a cow flew into the ocean .
+there	1		there flew a cow into the ocean .
+there	1		a cow galloped into the room .
+there	1		there galloped a cow into the room .
+there	1		a cat headed into the ocean .
+there	1		there headed a cat into the ocean .
+there	1		an elephant hobbled into the desert .
+there	1		there hobbled an elephant into the desert .
+there	1		a cow hopped into the ocean .
+there	1		there hopped a cow into the ocean .
+there	1		an elephant hurtled into the ground .
+there	1		there hurtled an elephant into the ground .
+there	1		a cow jumped into the air .
+there	1		there jumped a cow into the air .
+there	1		a cat leaped into the desert .
+there	1		there leaped a cat into the desert .
+there	1		a dog marched into the ground .
+there	1		there marched a dog into the ground .
+there	1		a horse plodded into the desert .
+there	1		there plodded a horse into the desert .
+there	1		a dog pranced into the forest .
+there	1		there pranced a dog into the forest .
+there	1		an elephant rode into the desert .
+there	1		there rode an elephant into the desert .
+there	1		a dog roamed into the room .
+there	1		there roamed a dog into the room .
+there	1		an elephant rolled into the forest .
+there	1		there rolled an elephant into the forest .
+there	1		a cow ran into the desert .
+there	1		there ran a cow into the desert .
+there	1		a dog rushed into the room .
+there	1		there rushed a dog into the room .
+there	1		a cat sailed into the ground .
+there	1		there sailed a cat into the ground .
+there	1		a dog shuffled into the room .
+there	1		there shuffled a dog into the room .
+there	1		a dog skipped into the ocean .
+there	1		there skipped a dog into the ocean .
+there	1		a cat sped into the desert .
+there	1		there sped a cat into the desert .
+there	1		an elephant staggered into the desert .
+there	1		there staggered an elephant into the desert .
+there	1		a horse stepped into the ground .
+there	1		there stepped a horse into the ground .
+there	1		an elephant strayed into the ground .
+there	1		there strayed an elephant into the ground .
+there	1		a dog strode into the ocean .
+there	1		there strode a dog into the ocean .
+there	1		a dog strolled into the room .
+there	1		there strolled a dog into the room .
+there	1		a cat strutted into the water .
+there	1		there strutted a cat into the water .
+there	1		a cow swam into the ground .
+there	1		there swam a cow into the ground .
+there	1		a cow trotted into the forest .
+there	1		there trotted a cow into the forest .
+there	1		a cat trudged into the desert .
+there	1		there trudged a cat into the desert .
+there	1		a dog walked into the desert .
+there	1		there walked a dog into the desert .
+there	1		a bird flapped into the water .
+there	1		there flapped a bird into the water .
+there	1		a dog fluttered on the horizon .
+there	1		there fluttered a dog on the horizon .
+there	1		a thunderstorm beat on the horizon .
+there	1		there beat a thunderstorm on the horizon .
+there	1		a bullet boomed in front of me .
+there	1		there boomed a bullet in front of me .
+there	1		a bell chimed in front of me .
+there	1		there chimed a bell in front of me .
+there	1		a bell rung in the valley .
+there	1		there rung a bell in the valley .
+there	1		a stampede rumbled in the forest .
+there	1		there rumbled a stampede in the forest .
+there	1		a girl shrieked in the ocean .
+there	1		there shrieked a girl in the ocean .
+there	1		a clock ticked .
+there	1		there ticked a clock .
+there	1		a yell echoed in the cave .
+there	1		there echoed a yell in the cave .
+there	1		a bird resounded in the sky .
+there	1		there resounded a bird in the sky .
+there	1		a sound reverberated above me .
+there	1		there reverberated a sound above me .
+there	1		an alarm sounded on the horizon .
+there	1		there sounded an alarm on the horizon .
+there	1		a light flared in the sky .
+there	1		there flared a light in the sky .
+there	1		a light flashed .
+there	1		there flashed a light .
+there	1		a flame flickered .
+there	1		there flickered a flame .
+there	1		a rainbow gleamed above me .
+there	1		there gleamed a rainbow above me .
+there	1		a star glimmered on the horizon .
+there	1		there glimmered a star on the horizon .
+there	1		a flame glistened on the water .
+there	1		there glistened a flame on the water .
+there	1		a light glittered in the valley .
+there	1		there glittered a light in the valley .
+there	1		a light scintillated in front of me .
+there	1		there scintillated a light in front of me .
+there	1		a ship shimmered behind the mountain .
+there	1		there shimmered a ship behind the mountain .
+there	1		a star shone behind the mountain .
+there	1		there shone a star behind the mountain .
+there	1		a fire sparkled behind the mountain .
+there	1		there sparkled a fire behind the mountain .
+there	1		a ship twinkled in the room .
+there	1		there twinkled a ship in the room .
+there	1		a giant belched .
+there	0		there belched a giant .
+there	1		a dragon puffed .
+there	1		there puffed a dragon .
+there	1		a cow radiated behind me .
+there	1		there radiated a cow behind me .
+there	1		a crowd chattered .
+there	1		there chattered a crowd .
+there	1		a tiger dozed in the valley .
+there	1		there dozed a tiger in the valley .
+there	1		a car idled .
+there	0		there idled a car .
+there	1		a girl labored in the valley .
+there	1		there labored a girl in the valley .
+there	1		a man lounged .
+there	1		there lounged a man .
+there	1		a forest fire presided above the water .
+there	1		there presided a forest fire above the water .
+there	1		a girl reigned .
+there	1		there reigned a girl .
+there	1		a bird sang in the desert .
+there	1		there sang a bird in the desert .
+there	1		a giant slept behind the mountain .
+there	1		there slept a giant behind the mountain .
+there	1		a problem toiled .
+there	1		there toiled a problem .
+there	1		a boy waited behind the mountain .
+there	1		there waited a boy behind the mountain .
+there	1		a cow worked in front of me .
+there	1		there worked a cow in front of me .
+there	1		a treasure was discerned in the mountain .
+there	0		there was discerned in the mountain a treasure .
+there	1		a body was discovered .
+there	0		there was discovered a body .
+there	1		a cry was heard .
+there	1		there was heard a cry .
+there	1		an image was seen .
+there	0		there was seen an image .
+there	1		a drawing was engraved .
+there	0		there was engraved a drawing .
+there	1		there was a stamp imprinted on the paper .
+there	1		a stamp was imprinted on the paper .
+there	1		a quote was inscribed in the journal .
+there	0		there was inscribed a quote in the journal .
+there	1		a monkey was painted on the paper .
+there	0		there was painted on the paper a monkey .
+there	1		a story was scrawled on the wall .
+there	0		there was scrawled on the wall a story .
+there	1		a bunny was stamped on the sheet .
+there	0		there was stamped on the sheet a bunny .
+there	1		a word was tattooed on his chest .
+there	1		there was tattooed on his chest a word .
+there	1		a poem was written in the book .
+there	1		there was written in the book a poem .
+there	1		a painting was hung on the wall .
+there	0		there was hung on the wall a painting .
+there	1		a cat was laying in the room .
+there	0		there was laying in the room a cat .
+there	1		a skull was mounted on the wall .
+there	1		there was mounted on the wall a skull .
+there	1		a pot was placed on the floor .
+there	1		there was placed on the floor a pot .
+there	1		clothes were piled on the shelf .
+there	1		there were piled on the shelf some clothes .
+there	1		books were stacked on the table .
+there	0		there were stacked on the table books .
+there	1		a lamp was suspended from the ceiling .
+there	1		there was suspended from the ceiling a lamp .
+there	1		a note was scattered on the ground .
+there	0		there was scattered on the ground a note .
+there	1		a sheet was glued to the wall .
+there	1		there was glued to the wall a sheet .
+there	1		a coat was hooked on the door .
+there	0		there was hooked on the door a coat .
+there	1		a tail was pinned to the wall .
+there	0		there was pinned to the wall a tail .
+there	1		a note was stapled to the floor .
+there	1		there was stapled to the floor a note .
+there	1		a man was strapped to the chair .
+there	0		there was strapped to the chair a man .
+dat	1		ainsley fed a bee to prudi .
+dat	1		dorrie fed marja a bee .
+dat	1		charlena gave a computer to ainsley .
+dat	1		jolene gave richmond a computer .
+dat	1		carry leased a car to carry .
+dat	1		juliette leased wenonah a car .
+dat	1		richmond lent a pill to charlena .
+dat	1		wenonah lent marja a pill .
+dat	1		jolene loaned a bull to kameko .
+dat	1		steward loaned juliette a bull .
+dat	1		bobbi passed a keyboard to wenonah .
+dat	1		carry passed steward a keyboard .
+dat	1		bobbi paid a fine to ainsley .
+dat	1		steward paid juliette a fine .
+dat	1		marja peddled a rug to meaghan .
+dat	0		richmond peddled jolene a rug .
+dat	1		dorrie refuned a mouse to marja .
+dat	0		kameko refuned marja a mouse .
+dat	0		meaghan rendered a ball to kameko .
+dat	1		richmond rendered carry a ball .
+dat	1		steward rented a car for carry .
+dat	1		dorrie rented bobbi a car .
+dat	1		kameko repaid a fee to marja .
+dat	0		prudi repaid richmond a fee .
+dat	1		ainsley sold a cat to dorrie .
+dat	1		meaghan sold peter a cat .
+dat	1		richmond served a meal to charlena .
+dat	1		juliette served carry a meal .
+dat	1		charlena traded a plant to wenonah .
+dat	0		wenonah traded jolene a plant .
+dat	1		juliette advanced a loan to jolene .
+dat	0		steward advanced meaghan a loan .
+dat	1		kameko allocated a cap to meaghan .
+dat	1		meaghan allocated charlena a cap .
+dat	1		dorrie allotted a bee to jolene .
+dat	1		dorrie allotted bobbi a bee .
+dat	1		marja assigned a lizard to kameko .
+dat	1		steward assigned richmond a lizard .
+dat	1		prudi awarded a shoe to kameko .
+dat	1		jolene awarded jolene a shoe .
+dat	1		jolene bequeathed a tree to kameko .
+dat	1		kameko bequeathed dorrie a tree .
+dat	1		steward ceded a castle to kameko .
+dat	1		wenonah ceded charlena a castle .
+dat	1		ainsley conceded a camera to jolene .
+dat	0		ainsley conceded marja a camera .
+dat	1		marja extended a book to kameko .
+dat	1		carry extended steward a book .
+dat	1		juliette granted ice to kameko .
+dat	1		charlena granted prudi ice .
+dat	0		charlena guaranteed a card to bobbi .
+dat	1		meaghan guaranteed carry a card .
+dat	1		meaghan issued a bicycle to prudi .
+dat	1		kameko issued jolene a bicycle .
+dat	1		kameko left a ball to carry .
+dat	1		marja left kameko a ball .
+dat	1		prudi offered a bed to charlena .
+dat	1		wenonah offered marja a bed .
+dat	1		juliette owed a rug to wenonah .
+dat	1		carry owed juliette a rug .
+dat	1		bobbi promised a flower to juliette .
+dat	1		bobbi promised prudi a flower .
+dat	0		wenonah voted a castle to wenonah .
+dat	0		charlena voted richmond a castle .
+dat	1		jolene willed a key to bobbi .
+dat	1		juliette willed meaghan a key .
+dat	1		carry yielded a bull to richmond .
+dat	1		marja yielded juliette a bull .
+dat	1		charlena brought a pin to dorrie .
+dat	1		richmond brought wenonah a pin .
+dat	1		bobbi took a cat for carry .
+dat	0		steward took jolene a cat .
+dat	1		meaghan forwarded a lizard to charlena .
+dat	1		charlena forwarded juliette a lizard .
+dat	1		bobbi handed a shoe to juliette .
+dat	1		wenonah handed richmond a shoe .
+dat	1		prudi mailed a pill to wenonah .
+dat	1		jolene mailed richmond a pill .
+dat	1		marja posted a shoe to ainsley .
+dat	0		wenonah posted jolene a shoe .
+dat	1		ainsley sent a plant to dorrie .
+dat	1		carry sent steward a plant .
+dat	1		wenonah shipped a charger to bobbi .
+dat	1		juliette shipped kameko a charger .
+dat	0		richmond slipped a cat to ainsley .
+dat	1		wenonah slipped jolene a cat .
+dat	1		marja smuggled a shoe to meaghan .
+dat	0		wenonah smuggled bobbi a shoe .
+dat	0		charlena sneaked a tree to richmond .
+dat	0		juliette sneaked charlena a tree .
+dat	1		jolene bounced a ball to marja .
+dat	1		charlena bounced prudi a ball .
+dat	1		prudi floated a computer to charlena .
+dat	1		juliette floated kameko a computer .
+dat	1		marja rolled a pancake to meaghan .
+dat	1		dorrie rolled jolene a pancake .
+dat	1		ainsley slid a pear to jolene .
+dat	1		dorrie slid richmond a pear .
+dat	1		juliette carried ice to bobbi .
+dat	0		carry carried jolene ice .
+dat	1		bobbi dragged a bag to steward .
+dat	0		dorrie dragged bobbi a bag .
+dat	1		steward hauled a pear to wenonah .
+dat	0		juliette hauled bobbi a pear .
+dat	0		marja heaved a dog to bobbi .
+dat	0		dorrie heaved jolene a dog .
+dat	1		dorrie hefted a pirate to charlena .
+dat	0		wenonah hefted prudi a pirate .
+dat	1		ainsley hoisted a lion to kameko .
+dat	0		kameko hoisted richmond a lion .
+dat	1		marja kicked a lizard to bobbi .
+dat	0		marja kicked charlena a lizard .
+dat	1		prudi lugged a lizard to ainsley .
+dat	0		meaghan lugged dorrie a lizard .
+dat	1		meaghan pulled a bee to ainsley .
+dat	0		dorrie pulled richmond a bee .
+dat	1		steward pushed a book to kameko .
+dat	0		charlena pushed kameko a book .
+dat	1		jolene schlepped a glass to marja .
+dat	0		ainsley schlepped jolene a glass .
+dat	1		ainsley shoved a flower to juliette .
+dat	0		juliette shoved carry a flower .
+dat	1		bobbi toted a pill to steward .
+dat	0		bobbi toted richmond a pill .
+dat	1		juliette towed a vase to bobbi .
+dat	0		steward towed wenonah a vase .
+dat	1		prudi tugged a toothpaste to carry .
+dat	0		kameko tugged prudi a toothpaste .
+dat	0		dorrie barged a whale to richmond .
+dat	0		dorrie barged wenonah a whale .
+dat	1		marja bussed a bed to prudi .
+dat	1		dorrie bussed charlena a bed .
+dat	1		charlena carted a pear to marja .
+dat	1		carry carted dorrie a pear .
+dat	1		jolene drove a key to bobbi .
+dat	1		carry drove marja a key .
+dat	1		marja ferried a camera to prudi .
+dat	1		charlena ferried juliette a camera .
+dat	1		richmond flew a dog to juliette .
+dat	0		kameko flew carry a dog .
+dat	1		kameko rowed a baby to wenonah .
+dat	0		marja rowed kameko a baby .
+dat	1		juliette shuttled a shoe to meaghan .
+dat	0		charlena shuttled juliette a shoe .
+dat	1		juliette trucked a pencil to ainsley .
+dat	0		richmond trucked meaghan a pencil .
+dat	1		charlena wheeled a carpet to carry .
+dat	0		richmond wheeled charlena a carpet .
+dat	1		charlena wired money to jolene .
+dat	1		jolene wired richmond money .
+dat	0		jolene bashed a toothpaste to jolene .
+dat	0		kameko bashed jolene a toothpaste .
+dat	1		marja batted a bee to ainsley .
+dat	0		juliette batted dorrie a bee .
+dat	1		wenonah bunted a ball to carry .
+dat	0		charlena bunted bobbi a ball .
+dat	1		bobbi catapulted a dad to dorrie .
+dat	1		steward catapulted juliette a dad .
+dat	1		marja chucked a car to marja .
+dat	1		bobbi chucked carry a car .
+dat	1		meaghan flicked a flower to wenonah .
+dat	1		richmond flicked bobbi a flower .
+dat	1		richmond flung a plant to jolene .
+dat	1		jolene flung kameko a plant .
+dat	1		carry flipped a book to prudi .
+dat	1		bobbi flipped ainsley a book .
+dat	1		juliette hit a pear to prudi .
+dat	1		kameko hit marja a pear .
+dat	1		ainsley hurled a book to jolene .
+dat	1		kameko hurled prudi a book .
+dat	1		jolene kicked a ball to jolene .
+dat	0		juliette kicked bobbi a ball .
+dat	1		jolene lobbed a pencil to juliette .
+dat	1		richmond lobbed ainsley a pencil .
+dat	1		dorrie passed a stamp to juliette .
+dat	1		juliette passed prudi a stamp .
+dat	1		steward pitched a flower to kameko .
+dat	1		dorrie pitched bobbi a flower .
+dat	1		charlena punted a pancake to richmond .
+dat	1		jolene punted marja a pancake .
+dat	1		prudi shot a cap to dorrie .
+dat	0		jolene shot jolene a cap .
+dat	1		kameko shoved a cat to wenonah .
+dat	0		marja shoved charlena a cat .
+dat	1		kameko slammed a ball to prudi .
+dat	1		charlena slammed ainsley a ball .
+dat	1		marja slapped a bat to marja .
+dat	0		kameko slapped juliette a bat .
+dat	1		jolene slung a criminal to charlena .
+dat	0		carry slung prudi a criminal .
+dat	1		juliette threw a rug to steward .
+dat	1		richmond threw steward a rug .
+dat	1		jolene tipped a ball to marja .
+dat	1		meaghan tipped ainsley a ball .
+dat	1		bobbi towed a truck to ainsley .
+dat	0		dorrie towed juliette a truck .
+dat	0		carry asked a bull to bobbi .
+dat	1		steward asked wenonah for a bull .
+dat	0		charlena cited a bicycle to charlena .
+dat	0		ainsley cited steward a bicycle .
+dat	1		richmond posed a camera to wenonah .
+dat	0		kameko posed juliette a camera .
+dat	1		prudi preached a disease to richmond .
+dat	0		meaghan preached jolene a disease .
+dat	1		juliette quoted a cap to bobbi .
+dat	0		juliette quoted kameko a cap .
+dat	1		steward read a book to marja .
+dat	1		richmond read ainsley a book .
+dat	1		kameko relayed a dog to bobbi .
+dat	0		steward relayed kameko a dog .
+dat	1		kameko showed a book to dorrie .
+dat	1		ainsley showed jolene a book .
+dat	1		dorrie taught a lesson to charlena .
+dat	1		charlena taught marja a lesson .
+dat	1		richmond told a story to bobbi .
+dat	1		wenonah told dorrie a story .
+dat	1		wenonah wrote an essay to carry .
+dat	1		meaghan wrote marja an essay .
+dat	1		jolene cabled a lizard to prudi .
+dat	0		richmond cabled dorrie a lizard .
+dat	1		jolene emailed a book to meaghan .
+dat	1		wenonah emailed meaghan a book .
+dat	1		meaghan faxed a plane to prudi .
+dat	1		meaghan faxed wenonah a plane .
+dat	1		charlena modemed a lizard to bobbi .
+dat	1		wenonah modemed dorrie a lizard .
+dat	1		prudi netmailed a sticker to prudi .
+dat	1		carry netmailed marja a sticker .
+dat	0		marja phoned a pillow to bobbi .
+dat	0		richmond phoned marja a pillow .
+dat	1		ainsley radioed a glass to richmond .
+dat	0		juliette radioed richmond a glass .
+dat	1		jolene relayed a tree to meaghan .
+dat	1		richmond relayed carry a tree .
+dat	0		juliette satellited a cat to charlena .
+dat	0		wenonah satellited marja a cat .
+dat	0		dorrie semaphored a ball to prudi .
+dat	0		marja semaphored carry a ball .
+dat	1		marja signed a glass for steward .
+dat	0		dorrie signed dorrie a glass .
+dat	1		wenonah signaled a glance to wenonah .
+dat	0		jolene signaled meaghan a glance .
+dat	0		carry telephoned a rug to jolene .
+dat	0		prudi telephoned carry a rug .
+dat	1		steward telecast a tree to dorrie .
+dat	1		dorrie telecast ainsley a tree .
+dat	1		charlena telegraphed a carpet to ainsley .
+dat	1		dorrie telegraphed kameko a carpet .
+dat	1		jolene telexed a sticker to jolene .
+dat	1		kameko telexed wenonah a sticker .
+dat	1		marja wired a shoe to jolene .
+dat	1		kameko wired ainsley a shoe .
+dat	1		carry wirelessed a charger to steward .
+dat	1		steward wirelessed bobbi a charger .
+dat	0		meaghan accorded a rocket to wenonah .
+dat	0		kameko accorded jolene a rocket .
+dat	0		ainsley asked a lizard to wenonah .
+dat	1		richmond asked richmond for a lizard .
+dat	0		marja bore a leader to wenonah .
+dat	0		ainsley bore jolene a leader .
+dat	0		dorrie begrudged a key to meaghan .
+dat	0		ainsley begrudged prudi a key .
+dat	0		marja bode a rocket to carry .
+dat	0		steward bode wenonah a rocket .
+dat	0		steward costed a bed to marja .
+dat	0		carry costed kameko a bed .
+dat	1		wenonah denied a pencil to steward .
+dat	1		jolene denied kameko a pencil .
+dat	0		dorrie envied a shoe to ainsley .
+dat	0		dorrie envied steward a shoe .
+dat	1		carry flashed a light to carry .
+dat	0		meaghan flashed carry a light .
+dat	1		carry forbade a flower to juliette .
+dat	0		prudi forbade ainsley a flower .
+dat	0		bobbi forgave a computer to dorrie .
+dat	0		dorrie forgave charlena a computer .
+dat	1		kameko guaranteed a pillow to jolene .
+dat	1		dorrie guaranteed marja a pillow .
+dat	1		richmond issued a bee to juliette .
+dat	1		marja issued wenonah a bee .
+dat	1		marja refused a rug to marja .
+dat	1		ainsley refused juliette a rug .
+dat	1		jolene saved a pear for bobbi .
+dat	1		jolene saved bobbi a pear .
+dat	1		dorrie spared a bed for carry .
+dat	1		bobbi spared kameko a bed .
+dat	1		prudi struck a blow to charlena .
+dat	0		meaghan struck carry a blow .
+dat	1		jolene vouchsafed a baby to ainsley .
+dat	0		prudi vouchsafed meaghan a baby .
+dat	0		marja wished a pillow to marja .
+dat	0		richmond wished meaghan a pillow .
+dat	1		bobbi wrote a check to charlena .
+dat	1		meaghan wrote marja a check .
+dat	0		kameko admitted a bicycle to jolene .
+dat	0		dorrie admitted wenonah a bicycle .
+dat	1		marja alleged a story to richmond .
+dat	0		wenonah alleged jolene a story .
+dat	1		kameko announced a story to richmond .
+dat	0		steward announced bobbi a story .
+dat	1		ainsley articulated a toilet to prudi .
+dat	0		kameko articulated richmond a toilet .
+dat	1		ainsley asserted a book to juliette .
+dat	0		bobbi asserted bobbi a book .
+dat	1		steward communicated a quote to kameko .
+dat	0		marja communicated wenonah a quote .
+dat	1		charlena confessed a cap to richmond .
+dat	0		charlena confessed juliette a cap .
+dat	1		carry conveyed a card to meaghan .
+dat	0		prudi conveyed kameko a card .
+dat	1		kameko declared a hall to prudi .
+dat	0		marja declared dorrie a hall .
+dat	1		wenonah mentioned a pill to wenonah .
+dat	0		meaghan mentioned dorrie a pill .
+dat	1		meaghan proposed a shoe to charlena .
+dat	0		wenonah proposed meaghan a shoe .
+dat	1		marja recounted a charger to prudi .
+dat	0		richmond recounted dorrie a charger .
+dat	1		bobbi repeated a carpet to ainsley .
+dat	0		ainsley repeated charlena a carpet .
+dat	1		charlena reported a bicycle to jolene .
+dat	0		dorrie reported marja a bicycle .
+dat	1		carry revealed a bed to steward .
+dat	0		jolene revealed juliette a bed .
+dat	1		steward said a story to wenonah .
+dat	0		prudi said carry a story .
+dat	1		carry sung a song to wenonah .
+dat	1		steward sung steward a song .
+dat	1		charlena babbled a song to bobbi .
+dat	1		jolene babbled bobbi a song .
+dat	1		bobbi barked an expletive to bobbi .
+dat	0		richmond barked dorrie an expletive .
+dat	0		jolene bawled a story to ainsley .
+dat	0		ainsley bawled steward a story .
+dat	1		ainsley bellowed a yell to kameko .
+dat	0		jolene bellowed kameko a yell .
+dat	0		prudi bleated a cry to wenonah .
+dat	0		meaghan bleated prudi a cry .
+dat	0		steward boomed a yell to juliette .
+dat	0		richmond boomed dorrie a yell .
+dat	0		bobbi brayed a lizard to kameko .
+dat	0		meaghan brayed juliette a lizard .
+dat	1		juliette burbled a story to bobbi .
+dat	0		dorrie burbled wenonah a story .
+dat	1		bobbi cackled a laugh at richmond .
+dat	0		wenonah cackled charlena a laugh .
+dat	1		kameko called a cat to meaghan .
+dat	0		wenonah called kameko a cat .
+dat	1		richmond caroled a song to steward .
+dat	0		steward caroled dorrie a song .
+dat	1		prudi chanted a prayer to ainsley .
+dat	0		bobbi chanted charlena a prayer .
+dat	1		carry chattered a cry to wenonah .
+dat	0		dorrie chattered steward a cry .
+dat	1		marja chirped a hello to marja .
+dat	1		charlena chirped carry a hello .
+dat	1		carry clucked a greeting to juliette .
+dat	0		dorrie clucked ainsley a greeting .
+dat	1		prudi cooed a goodbye to marja .
+dat	0		dorrie cooed bobbi a goodbye .
+dat	1		jolene croaked a greeting to dorrie .
+dat	0		wenonah croaked meaghan a greeting .
+dat	1		richmond crooned a good morning to ainsley .
+dat	0		steward crooned dorrie a good morning .
+dat	1		ainsley crowed a hello to carry .
+dat	0		prudi crowed bobbi a hello .
+dat	0		steward cried a greeting to juliette .
+dat	0		steward cried marja a greeting .
+dat	0		meaghan drawled a cry to dorrie .
+dat	0		jolene drawled jolene a cry .
+dat	0		juliette droned a story to wenonah .
+dat	0		carry droned richmond a story .
+dat	0		dorrie gabbled a quote to kameko .
+dat	0		prudi gabbled dorrie a quote .
+dat	1		marja gibbered a story to meaghan .
+dat	0		steward gibbered dorrie a shoe .
+dat	1		steward groaned a passage to jolene .
+dat	0		wenonah groaned marja a passage .
+dat	1		richmond growled a yell to dorrie .
+dat	0		wenonah growled kameko a yell .
+dat	1		prudi grumbled a book to marja .
+dat	0		kameko grumbled kameko a book .
+dat	1		richmond grunted a cry to marja .
+dat	0		kameko grunted richmond a cry .
+dat	1		prudi hissed a poem to bobbi .
+dat	0		jolene hissed marja a poem .
+dat	1		jolene hollered an expletive to carry .
+dat	0		juliette hollered carry an expletive .
+dat	1		wenonah hooted a laugh to meaghan .
+dat	0		marja hooted meaghan a laugh .
+dat	1		jolene howled a guffaw to juliette .
+dat	0		kameko howled steward a guffaw .
+dat	1		kameko jabbered a greeting to dorrie .
+dat	0		carry jabbered juliette a greeting .
+dat	1		marja lilted a hello to steward .
+dat	0		dorrie lilted bobbi a hello .
+dat	1		bobbi lisped a goodbye to steward .
+dat	0		jolene lisped charlena a goodbye .
+dat	1		dorrie moaned a greeting to charlena .
+dat	0		juliette moaned juliette a greeting .
+dat	1		marja mumbled a poem to juliette .
+dat	0		meaghan mumbled meaghan a poem .
+dat	1		juliette murmured a quote to prudi .
+dat	0		dorrie murmured charlena a quote .
+dat	1		jolene muttered a hello to richmond .
+dat	0		meaghan muttered richmond a hello .
+dat	1		dorrie purred a greeting to kameko .
+dat	0		marja purred dorrie a greeting .
+dat	0		ainsley raged an expletive to marja .
+dat	0		juliette raged ainsley a expletive .
+dat	1		marja rasped a goodbye to meaghan .
+dat	0		jolene rasped ainsley a goodbye .
+dat	1		bobbi roared a hello to bobbi .
+dat	0		kameko roared richmond a hello .
+dat	1		ainsley rumbled a quote to charlena .
+dat	0		juliette rumbled meaghan a quote .
+dat	1		steward screamed an expletive to carry .
+dat	0		bobbi screamed meaghan an expletive .
+dat	1		kameko screeched a cry to dorrie .
+dat	0		richmond screeched steward a cry .
+dat	1		dorrie shouted a hello to steward .
+dat	0		meaghan shouted charlena a hello .
+dat	1		steward shrieked an expletive to meaghan .
+dat	0		steward shrieked meaghan an expletive .
+dat	1		meaghan sang a song to bobbi .
+dat	1		jolene sang carry a song .
+dat	1		steward snapped a remark to juliette .
+dat	0		bobbi snapped marja a remark .
+dat	1		dorrie snarled a hiss to jolene .
+dat	0		bobbi snarled carry a hiss .
+dat	1		juliette snuffled a story to juliette .
+dat	0		jolene snuffled charlena a story .
+dat	1		ainsley spluttered a goodbye to steward .
+dat	0		carry spluttered bobbi a goodbye .
+dat	1		steward squalled a hello to steward .
+dat	0		wenonah squalled meaghan a hello .
+dat	1		juliette squawked a yell to wenonah .
+dat	0		kameko squawked bobbi a yell .
+dat	1		charlena squeaked a whisper to wenonah .
+dat	0		steward squeaked steward a whisper .
+dat	1		ainsley squealed a poem to charlena .
+dat	0		marja squealed steward a poem .
+dat	1		kameko stammered a greeting to meaghan .
+dat	0		kameko stammered richmond a greeting .
+dat	1		richmond stuttered a goodbye to jolene .
+dat	0		charlena stuttered steward a goodbye .
+dat	1		jolene thundered a song to meaghan .
+dat	0		dorrie thundered carry a song .
+dat	1		juliette tisked a song to prudi .
+dat	0		jolene tisked ainsley a shoe .
+dat	1		prudi trilled a note to richmond .
+dat	0		juliette trilled ainsley a note .
+dat	1		prudi trumpeted a song to dorrie .
+dat	0		meaghan trumpeted prudi a song .
+dat	1		richmond tweeted a hello to ainsley .
+dat	0		prudi tweeted carry a hello .
+dat	1		richmond wailed a goodbye to kameko .
+dat	0		prudi wailed kameko a goodbye .
+dat	1		prudi warbled a cry to jolene .
+dat	0		kameko warbled juliette a cry .
+dat	1		kameko wheezed a hello to meaghan .
+dat	0		richmond wheezed richmond a hello .
+dat	1		marja whimpered a poem to ainsley .
+dat	0		ainsley whimpered carry a poem .
+dat	1		steward whined a hello to prudi .
+dat	0		marja whined jolene a hello .
+dat	1		juliette whispered a poem to richmond .
+dat	0		carry whispered marja a poem .
+dat	1		meaghan whistled a tune to marja .
+dat	0		richmond whistled juliette a tune .
+dat	1		marja whoopped a hello to steward .
+dat	0		wenonah whoopped ainsley a hello .
+dat	1		meaghan yammered a song to meaghan .
+dat	0		richmond yammered meaghan a song .
+dat	1		richmond yapped a cry to wenonah .
+dat	0		prudi yapped steward a cry .
+dat	1		carry yelled a goodbye to ainsley .
+dat	0		kameko yelled meaghan a goodbye .
+dat	1		juliette yelped a hello to kameko .
+dat	0		dorrie yelped juliette a hello .
+dat	1		bobbi yodeled a song to bobbi .
+dat	0		charlena yodeled carry a song .
+dat	1		dorrie dropped a camera to charlena .
+dat	1		wenonah dropped richmond a camera .
+dat	1		carry hoisted a glass to steward .
+dat	1		richmond hoisted kameko a glass .
+dat	1		steward lifted a keyboard to wenonah .
+dat	1		steward lifted richmond a keyboard .
+dat	1		kameko lowered a dad to kameko .
+dat	0		bobbi lowered marja a dad .
+dat	1		charlena raised a glass to carry .
+dat	1		juliette raised juliette a glass .
+dat	1		prudi credited a bicycle to juliette .
+dat	0		richmond credited meaghan a bicycle .
+dat	1		marja entrusted a disease to juliette .
+dat	0		richmond entrusted bobbi a disease .
+dat	1		richmond furnished a couch to marja .
+dat	0		juliette furnished jolene a couch .
+dat	1		charlena issued a permit to wenonah .
+dat	1		steward issued prudi a permit .
+dat	1		juliette left a shoe to kameko .
+dat	1		juliette left prudi a shoe .
+dat	1		ainsley presented a bull to prudi .
+dat	1		ainsley presented ainsley a bull .
+dat	1		carry provided a sun to carry .
+dat	0		steward provided charlena a sun .
+dat	1		kameko served a bull to wenonah .
+dat	1		charlena served jolene a bull .
+dat	1		marja supplied a bed to dorrie .
+dat	0		jolene supplied kameko a bed .
+dat	0		marja trusted a bed to bobbi .
+dat	1		marja trusted wenonah with a bed .
+dat	0		ainsley bet a pill to juliette .
+dat	1		juliette bet prudi a pill .
+dat	0		richmond billed a fee to juliette .
+dat	1		bobbi billed bobbi a fee .
+dat	1		marja charged a key to marja .
+dat	1		charlena charged dorrie a key .
+dat	0		steward fined a bull to dorrie .
+dat	1		meaghan fined marja a bull .
+dat	0		wenonah mulced a flower to wenonah .
+dat	1		wenonah mulced marja a flower .
+dat	0		bobbi overcharged a fine to marja .
+dat	1		charlena overcharged ainsley a fine .
+dat	0		steward saved a card to jolene .
+dat	1		charlena saved charlena a card .
+dat	0		juliette spared a cap to juliette .
+dat	1		juliette spared carry a cap .
+dat	0		dorrie taxed a pancake to richmond .
+dat	1		bobbi taxed bobbi a pancake .
+dat	0		bobbi tipped a dollar to prudi .
+dat	1		dorrie tipped ainsley a dollar .
+dat	0		juliette undercharged a fee to bobbi .
+dat	1		bobbi undercharged charlena a fee .
+dat	0		wenonah wagered a shoe to juliette .
+dat	1		jolene wagered dorrie a shoe .
+dat	0		richmond acknowledged a lizard to dorrie .
+dat	1		richmond acknowledged meaghan a lizard .
+dat	0		ainsley adopted a baby to dorrie .
+dat	1		juliette adopted bobbi a baby .
+dat	1		steward appoined a car to jolene .
+dat	1		wenonah appoined juliette a car .
+dat	0		carry considered a shoe to carry .
+dat	1		dorrie considered wenonah a shoe .
+dat	0		juliette crowned a cat to ainsley .
+dat	1		juliette crowned wenonah a cat .
+dat	0		steward deemed a lion to carry .
+dat	1		kameko deemed carry a lion .
+dat	1		bobbi designated a bull to meaghan .
+dat	1		richmond designated kameko a bull .
+dat	0		meaghan elected a lizard to kameko .
+dat	1		kameko elected jolene a lizard .
+dat	0		ainsley esteemed a charger to meaghan .
+dat	1		steward esteemed charlena a charger .
+dat	0		marja imagined a pillow to bobbi .
+dat	1		meaghan imagined steward a pillow .
+dat	0		wenonah marked a pancake to bobbi .
+dat	1		steward marked ainsley a pancake .
+dat	0		wenonah nominated a cat to kameko .
+dat	1		carry nominated jolene a cat .
+dat	0		charlena ordained a plant to wenonah .
+dat	1		marja ordained juliette a plant .
+dat	1		steward proclaimed a pillow to richmond .
+dat	1		meaghan proclaimed steward a pillow .
+dat	0		prudi rated a owner to prudi .
+dat	0		dorrie rated charlena a owner .
+dat	0		charlena reckoned a pancake to prudi .
+dat	1		ainsley reckoned meaghan a pancake .
+dat	1		kameko reported a tree to kameko .
+dat	0		bobbi reported ainsley a tree .
+dat	0		wenonah wanted a dad to kameko .
+dat	0		jolene wanted prudi a dad .
+dat	1		juliette anointed a jet to prudi .
+dat	1		richmond anointed jolene a jet .
+dat	0		wenonah baptized a toilet to richmond .
+dat	1		richmond baptized jolene a toilet .
+dat	1		dorrie branded a helicopter to ainsley .
+dat	0		juliette branded steward a helicopter .
+dat	0		kameko called a pencil to juliette .
+dat	1		bobbi called bobbi a pencil .
+dat	0		marja christened a rug to charlena .
+dat	1		meaghan christened wenonah a rug .
+dat	0		prudi consecrated a card to bobbi .
+dat	1		jolene consecrated kameko a card .
+dat	0		meaghan crowned a dad to meaghan .
+dat	1		juliette crowned wenonah a dad .
+dat	0		jolene decreed a leader to juliette .
+dat	1		richmond decreed steward a leader .
+dat	0		prudi dubbed a sun to richmond .
+dat	1		ainsley dubbed marja a sun .
+dat	0		carry labeled a charger to juliette .
+dat	1		jolene labeled meaghan a charger .
+dat	0		charlena made a lion to wenonah .
+dat	1		prudi made wenonah a lion .
+dat	0		richmond named a shoe to dorrie .
+dat	1		charlena named juliette a shoe .
+dat	0		bobbi nicknamed a keyboard to carry .
+dat	1		jolene nicknamed meaghan a keyboard .
+dat	0		wenonah pronounced a queen to juliette .
+dat	1		richmond pronounced ainsley a queen .
+dat	0		marja ruled a carpet to wenonah .
+dat	1		bobbi ruled richmond a carpet .
+dat	0		richmond stamped a pancake to wenonah .
+dat	1		bobbi stamped kameko a pancake .
+dat	0		wenonah styled a dog to juliette .
+dat	1		kameko styled richmond a dog .
+dat	0		wenonah termed a carpet to prudi .
+dat	1		charlena termed marja a carpet .
+dat	0		dorrie overhung a sun to kameko .
+dat	1		juliette overhung carry a sun .
+dat	0		steward adjudged a plant to kameko .
+dat	0		steward adjudged juliette a plant .
+dat	1		prudi adjudicated a rug to carry .
+dat	0		wenonah adjudicated richmond a rug .
+dat	0		prudi assumed a stamp to wenonah .
+dat	1		dorrie assumed bobbi a stamp .
+dat	0		charlena avowed a flower to richmond .
+dat	1		charlena avowed juliette a flower .
+dat	0		steward believed a book to steward .
+dat	0		carry believed ainsley a book .
+dat	0		jolene confessed a joke to carry .
+dat	1		richmond confessed ainsley a joke .
+dat	0		steward declared a lion to jolene .
+dat	1		jolene declared charlena a lion .
+dat	0		marja fancied a camera to wenonah .
+dat	1		richmond fancied charlena a camera .
+dat	0		jolene found a key to juliette .
+dat	1		charlena found dorrie a key .
+dat	0		ainsley judged a criminal to bobbi .
+dat	1		dorrie judged prudi a criminal .
+dat	0		ainsley presumed a criminal to prudi .
+dat	1		charlena presumed carry a criminal .
+dat	0		ainsley professed a pirate to kameko .
+dat	1		ainsley professed wenonah a pirate .
+dat	0		ainsley proved a victim to dorrie .
+dat	1		kameko proved charlena a victim .
+dat	0		richmond supposed a carpet to marja .
+dat	1		meaghan supposed charlena a carpet .
+dat	0		steward thought a ball to dorrie .
+dat	0		juliette thought carry a ball .
+dat	0		kameko warranted a card to dorrie .
+dat	0		juliette warranted marja a card .
+inch	1		the bicycle bounced .
+inch	1		doe bounced the bicycle .
+inch	1		the lizard drifted .
+inch	0		rosalinda drifted the lizard .
+inch	1		the keyboard dropped .
+inch	1		agathe dropped the keyboard .
+inch	1		the owner floated .
+inch	0		miles floated the owner .
+inch	1		the hall glided .
+inch	0		miles glided the hall .
+inch	1		the carpet moved .
+inch	1		rosalinda moved the carpet .
+inch	1		the flower rolled .
+inch	0		mattias rolled the flower .
+inch	1		the charger slid .
+inch	1		goose slid the charger .
+inch	1		the keyboard swang .
+inch	1		tawnya swang the keyboard .
+inch	0		the apple coiled .
+inch	1		maggie coiled the apple .
+inch	1		the glass revolved .
+inch	0		josefa revolved the glass .
+inch	1		the ball rotated .
+inch	1		hamilton rotated the ball .
+inch	1		the keyboard spun .
+inch	1		mattias spun the keyboard .
+inch	1		the camera turned .
+inch	1		rosalinda turned the camera .
+inch	1		the cap twirled .
+inch	1		miles twirled the cap .
+inch	0		the bread twisted .
+inch	1		mattias twisted the bread .
+inch	1		the owner whirled .
+inch	0		goose whirled the owner .
+inch	1		the criminal won .
+inch	0		candide won the criminal .
+inch	1		the apple broke .
+inch	1		mattias broke the apple .
+inch	0		the cap chipped .
+inch	0		candide chipped the cap .
+inch	1		the glass cracked .
+inch	1		miles cracked the glass .
+inch	1		the car crashed .
+inch	1		goose crashed the car .
+inch	0		the owner crushed .
+inch	1		mattias crushed the owner .
+inch	1		the bone fractured .
+inch	1		mattias fractured the bone .
+inch	1		the paper ripped .
+inch	1		maggie ripped the paper .
+inch	1		the glass shattered .
+inch	1		doe shattered the glass .
+inch	0		the lion smashed .
+inch	0		candide smashed the lion .
+inch	1		the bed snapped .
+inch	1		maggie snapped the bed .
+inch	1		the wood splintered .
+inch	0		anissa splintered the wood .
+inch	1		the whale split .
+inch	1		candide split the whale .
+inch	0		the shoe tied .
+inch	1		hamilton tied the shoe .
+inch	1		the apple bent .
+inch	1		maggie bent the apple .
+inch	1		the paper creased .
+inch	1		agathe creased the paper .
+inch	0		the book crinkled .
+inch	1		doe crinkled the book .
+inch	1		the pancake crumpled .
+inch	1		tawnya crumpled the pancake .
+inch	0		the bee folded .
+inch	1		miles folded the bee .
+inch	0		the plane rumpled .
+inch	0		josefa rumpled the plane .
+inch	0		the card wrinkled .
+inch	1		rosalinda wrinkled the card .
+inch	0		the pirate abated .
+inch	1		prudy abated the pirate .
+inch	1		the sticker advanced .
+inch	0		anissa advanced the sticker .
+inch	1		the computer aged .
+inch	1		candide aged the computer .
+inch	0		the plane aired out .
+inch	1		prudy aired out the plane .
+inch	0		the bee altered .
+inch	1		mattias altered the bee .
+inch	1		the shoe atrophied .
+inch	0		mattias atrophied the shoe .
+inch	1		the pillow awoke .
+inch	1		prudy awoke the pillow .
+inch	1		the plant balanced .
+inch	1		doe balanced the plant .
+inch	0		the computer blasted .
+inch	1		goose blasted the computer .
+inch	1		the glass blurred .
+inch	1		prudy blurred the glass .
+inch	1		the bicycle burned .
+inch	1		rosalinda burned the bicycle .
+inch	1		the bed burst .
+inch	1		anissa burst the bed .
+inch	1		the dad capsized .
+inch	0		miles capsized the dad .
+inch	1		the car changed .
+inch	1		mattias changed the car .
+inch	0		the bed charred .
+inch	1		josefa charred the bed .
+inch	0		the pill chilled .
+inch	1		josefa chilled the pill .
+inch	1		the toilet clogged .
+inch	1		rosalinda clogged the toilet .
+inch	1		the door closed .
+inch	1		anissa closed the door .
+inch	1		the glass collapsed .
+inch	0		hamilton collapsed the glass .
+inch	1		the pancake cooled .
+inch	1		candide cooled the pancake .
+inch	1		the toothpaste compressed .
+inch	1		tawnya compressed the toothpaste .
+inch	1		the glass condensed .
+inch	1		candide condensed the glass .
+inch	1		the cap contracted .
+inch	1		tawnya contracted the cap .
+inch	1		the iron corroded .
+inch	1		mattias corroded the iron .
+inch	1		the ball crumbled .
+inch	1		goose crumbled the ball .
+inch	1		the sticker decomposed .
+inch	0		prudy decomposed the sticker .
+inch	1		the height decreased .
+inch	1		candide decreased the height .
+inch	1		the balloon deflated .
+inch	1		mattias deflated the balloon .
+inch	1		the chicken defrosted .
+inch	1		goose defrosted the chicken .
+inch	1		the book degraded .
+inch	0		candide degraded the book .
+inch	1		the frost diminished .
+inch	1		armond diminished the frost .
+inch	1		the ball dissolved .
+inch	1		maggie dissolved the ball .
+inch	1		the balloon distended .
+inch	1		miles distened the balloon .
+inch	1		the ice divided .
+inch	1		anissa divided the ice .
+inch	1		the apples doubled .
+inch	0		anissa doubled the apples .
+inch	1		the swamp drained .
+inch	1		agathe drained the swamp .
+inch	1		the pressure eased .
+inch	1		mattias eased the pressure .
+inch	1		the bed enlarged .
+inch	1		maggie enlarged the bed .
+inch	1		the glass expanded .
+inch	1		miles expanded the glass .
+inch	1		the bomb exploded .
+inch	1		prudy exploded the bomb .
+inch	1		the hall faded .
+inch	0		goose faded the hall .
+inch	1		the container filled .
+inch	1		tawnya filled the container .
+inch	1		the city flooded .
+inch	1		agathe flooded the city .
+inch	1		the silk frayed .
+inch	0		anissa frayed the silk .
+inch	1		the pancake froze .
+inch	1		agathe froze the pancake .
+inch	1		the window frosted .
+inch	0		maggie frosted the window .
+inch	1		the bed fused .
+inch	1		candide fused the bed .
+inch	1		the hall grew .
+inch	0		candide grew the hall .
+inch	1		the dog halted .
+inch	1		tawnya halted the dog .
+inch	1		the man healed .
+inch	1		mattias healed the man .
+inch	0		the ball heated .
+inch	1		agathe heated the ball .
+inch	1		the hall hushed .
+inch	1		josefa hushed the hall .
+inch	1		the plant ignited .
+inch	1		prudy ignited the plant .
+inch	1		the car improved .
+inch	1		rosalinda improved the car .
+inch	1		the pressure increased .
+inch	1		maggie increased the pressure .
+inch	1		the rug inflated .
+inch	1		candide inflated the rug .
+inch	0		the fire kindled .
+inch	1		mattias kindled the fire .
+inch	0		the toothpaste lit .
+inch	1		maggie lit the toothpaste .
+inch	0		the stamp looped .
+inch	1		tawnya looped the stamp .
+inch	1		the pillow matured .
+inch	0		josefa matured the pillow .
+inch	1		the plant melted .
+inch	1		candide melted the plant .
+inch	1		the vectors multiplied .
+inch	1		anissa multiplied the vectors .
+inch	1		the plane overturned .
+inch	1		doe overturned the plane .
+inch	1		the pimple popped .
+inch	1		maggie popped the pimple .
+inch	1		the equation quadrupled .
+inch	1		candide quadrupled the equation .
+inch	1		the fire rekindled .
+inch	1		armond rekindled the fire .
+inch	1		the store reopened .
+inch	1		rosalinda reopened the store .
+inch	1		the toilet reproduced .
+inch	0		tawnya reproduced the toilet .
+inch	0		the owner ruptured .
+inch	1		maggie ruptured the owner .
+inch	0		the plant scorched .
+inch	1		josefa scorched the plant .
+inch	1		the glass scarred .
+inch	1		candide scarred the glass .
+inch	1		the electricity shorted .
+inch	0		armond shorted the electricity .
+inch	1		the computer shortcircuited .
+inch	1		armond shortcircuited the computer .
+inch	1		the sticker shrank .
+inch	1		maggie shrunk the sticker .
+inch	1		the fruit shriveled .
+inch	0		goose shriveled the fruit .
+inch	0		the bee singed .
+inch	1		mattias singed the bee .
+inch	1		the boat sank .
+inch	1		armond sank the boat .
+inch	0		the cap soaked .
+inch	0		doe soaked the cap .
+inch	1		the pillow splayed .
+inch	1		agathe splayed the pillow .
+inch	1		the plant sprouted .
+inch	0		josefa sprouted the plant .
+inch	0		the tea steeped .
+inch	1		hamilton steeped the tea .
+inch	1		the plant stretched .
+inch	1		maggie stretched the plant .
+inch	0		the camera submerged .
+inch	1		tawnya submerged the camera .
+inch	1		the waves subsided .
+inch	0		doe subsided the waves .
+inch	1		the valley tapered .
+inch	0		candide tapered the valley .
+inch	1		the ice thawed .
+inch	1		anissa ice the shoe .
+inch	1		the cup tilted .
+inch	1		miles tilted the cup .
+inch	1		the man tired .
+inch	0		maggie tired the man .
+inch	0		the camera toppled .
+inch	1		hamilton toppled the camera .
+inch	1		the equation tripled .
+inch	1		candide tripled the equation .
+inch	1		the envelope unfolded .
+inch	1		prudy unfolded the envelope .
+inch	1		the pancake varied .
+inch	0		maggie varied the pancake .
+inch	1		the ball stuck .
+inch	0		prudy stuck the ball .
+inch	0		the leader blunted .
+inch	1		mattias blunted the leader .
+inch	1		the glass cleared .
+inch	1		candide cleared the glass .
+inch	0		the shoe cleaned .
+inch	1		miles cleaned the shoe .
+inch	1		the bicycle cooled .
+inch	1		anissa cooled the bicycle .
+inch	1		the pancake crisped .
+inch	1		maggie crisped the pancake .
+inch	1		the lights dimmed .
+inch	1		rosalinda dimmed the lights .
+inch	0		the cat dirtied .
+inch	1		hamilton dirtied the cat .
+inch	1		the vector doubled .
+inch	1		maggie doubled the vector .
+inch	1		the computer dried .
+inch	1		josefa dried the computer .
+inch	1		the rug dulled .
+inch	0		doe dulled the rug .
+inch	1		the cart emptied .
+inch	1		hamilton emptied the cart .
+inch	1		the flower evened .
+inch	1		tawnya evened the flower .
+inch	1		the gun fired .
+inch	1		prudy fired the gun .
+inch	1		the ground leveled .
+inch	1		agathe leveled the ground .
+inch	1		the toothpaste loosened .
+inch	1		tawnya loosened the toothpaste .
+inch	1		the key mellowed .
+inch	0		miles mellowed the key .
+inch	0		the sticker muddied .
+inch	1		maggie muddied the sticker .
+inch	1		the valley narrowed .
+inch	1		armond narrowed the valley .
+inch	1		the card opened .
+inch	1		doe opened the card .
+inch	1		the dog paled .
+inch	0		goose paled the dog .
+inch	1		the dad quieted .
+inch	1		mattias quieted the dad .
+inch	0		the rocket rounded .
+inch	1		mattias rounded the rocket .
+inch	1		the computer shut .
+inch	1		goose shut the computer .
+inch	1		the card slacked .
+inch	1		agathe slacked the card .
+inch	1		the carpet slimmed .
+inch	1		armond slimmed the carpet .
+inch	1		the cat slowed .
+inch	1		mattias slowed the cat .
+inch	0		the cat smoothed .
+inch	1		armond smoothed the cat .
+inch	0		the man sobered .
+inch	0		miles sobered the man .
+inch	1		the fruit soured .
+inch	0		rosalinda soured the fruit .
+inch	0		the lion steadied .
+inch	1		miles steadied the lion .
+inch	0		the apple tamed .
+inch	1		doe tamed the apple .
+inch	1		the cat tensed .
+inch	0		miles tensed the cat .
+inch	1		the vase thinned .
+inch	1		josefa thinned the vase .
+inch	1		the ice tripled .
+inch	1		miles tripled the ice .
+inch	1		the sticker stuck .
+inch	0		miles stuck the sticker .
+inch	1		the toothpaste blackened .
+inch	1		prudy blackened the toothpaste .
+inch	1		the keyboard browned .
+inch	1		armond browned the keyboard .
+inch	0		the camera crimsoned .
+inch	0		tawnya crimsoned the camera .
+inch	1		the car grayed .
+inch	0		prudy grayed the car .
+inch	1		the pill greened .
+inch	0		doe greened the pill .
+inch	0		the shoe purpled .
+inch	0		agathe purpled the shoe .
+inch	1		the baby reddened .
+inch	0		maggie reddened the baby .
+inch	0		the plane silvered .
+inch	0		rosalinda silvered the plane .
+inch	1		the stamp tanned .
+inch	1		doe tanned the stamp .
+inch	1		the glass whitened .
+inch	1		candide whitened the glass .
+inch	1		the car yelled .
+inch	0		hamilton yelled the car .
+inch	1		the dad awakened .
+inch	1		maggie awakened the dad .
+inch	1		the vase brightened .
+inch	1		miles brightened the vase .
+inch	1		the pirate broadened .
+inch	0		mattias broadened the pirate .
+inch	1		the toothpaste cheapened .
+inch	0		prudy cheapened the toothpaste .
+inch	1		the bull coarsened .
+inch	0		agathe coarsened the bull .
+inch	1		the cat dampened .
+inch	0		anissa dampened the cat .
+inch	1		the baby darkened .
+inch	1		goose darkened the baby .
+inch	1		the pillow deepened .
+inch	1		armond deepened the pillow .
+inch	1		the camera fattened .
+inch	1		agathe fattened the camera .
+inch	1		the ice flattened .
+inch	1		tawnya flattened the ice .
+inch	1		the plane freshened .
+inch	1		candide freshened the plane .
+inch	1		the dad gladdened .
+inch	0		agathe gladdened the dad .
+inch	1		the bed hardened .
+inch	1		doe hardened the bed .
+inch	1		the disease hastened .
+inch	1		maggie hastened the disease .
+inch	1		the pirate heightened .
+inch	1		prudy heightened the pirate .
+inch	1		the owner lengthened .
+inch	1		miles lengthened the owner .
+inch	1		the disease lessened .
+inch	1		josefa lessened the disease .
+inch	1		the pill lightened .
+inch	1		agathe lightened the pill .
+inch	1		the bicycle loosened .
+inch	1		prudy loosened the bicycle .
+inch	1		the toilet moistened .
+inch	1		josefa moistened the toilet .
+inch	1		the book neatened .
+inch	0		doe neatened the book .
+inch	1		the computer quickened .
+inch	0		tawnya quickened the computer .
+inch	1		the sticker ripened .
+inch	1		miles ripened the sticker .
+inch	1		the disease roughened .
+inch	0		rosalinda rougheed the disease .
+inch	1		the glass sharpened .
+inch	1		mattias sharpened the glass .
+inch	1		the apple shortened .
+inch	1		doe shortened the apple .
+inch	1		the bee sickened .
+inch	0		prudy sickened the bee .
+inch	1		the toothpaste slackened .
+inch	0		armond slackened the toothpaste .
+inch	1		the sticker smartened .
+inch	0		josefa smartened the sticker .
+inch	1		the apple softened .
+inch	1		rosalinda softened the apple .
+inch	1		the hill steepened .
+inch	0		hamilton steepened the hill .
+inch	1		the computer stiffened .
+inch	0		maggie stiffened the computer .
+inch	1		the dad straightened .
+inch	0		tawnya straightened the dad .
+inch	0		the leader strengthened .
+inch	1		rosalinda strengthened the leader .
+inch	1		the computer sweetened .
+inch	1		tawnya sweetened the computer .
+inch	1		the hall thickened .
+inch	0		anissa thickened the hall .
+inch	1		the whale tightened .
+inch	1		rosalinda tightened the whale .
+inch	1		the flower toughened .
+inch	0		prudy toughened the flower .
+inch	1		the helicopter awoke .
+inch	1		miles awoke the helicopter .
+inch	1		the baby weakened .
+inch	0		candide weakened the baby .
+inch	1		the whale widened .
+inch	1		maggie widened the whale .
+inch	1		the helicopter worsened .
+inch	0		prudy worsened the helicopter .
+inch	1		the computer acetified .
+inch	0		candide acetified the computer .
+inch	1		the owner acidified .
+inch	1		rosalinda acidified the owner .
+inch	1		the computer alkalified .
+inch	1		tawnya alkalified the computer .
+inch	1		the book calcified .
+inch	0		doe calcified the book .
+inch	1		the dad carbonified .
+inch	0		agathe carbonified the dad .
+inch	1		the room dehumidified .
+inch	1		agathe dehumidified the room .
+inch	1		the pill emulsified .
+inch	0		anissa emulsified the pill .
+inch	1		the shoe fructified .
+inch	0		josefa fructified the shoe .
+inch	1		the jet gasified .
+inch	0		anissa gasified the jet .
+inch	1		the bed humidified .
+inch	0		tawnya humidified the bed .
+inch	1		the onslaught intensified .
+inch	1		anissa intensified the onslaught .
+inch	0		the mouse lignified .
+inch	0		tawnya lignified the mouse .
+inch	1		the shoe liquefied .
+inch	1		anissa liquefied the shoe .
+inch	0		the camera magnified .
+inch	1		candide magnified the camera .
+inch	0		the jet nitrified .
+inch	0		rosalinda nitrified the jet .
+inch	1		the apple ossified .
+inch	0		maggie ossified the apple .
+inch	1		the criminal petrified .
+inch	1		doe petrified the criminal .
+inch	1		the pencil purified .
+inch	1		rosalinda purified the pencil .
+inch	1		the camera putrefied .
+inch	1		tawnya putrefied the camera .
+inch	1		the tree silicified .
+inch	0		rosalinda silicified the tree .
+inch	1		the rug solidified .
+inch	1		maggie solidified the rug .
+inch	0		the book stratified .
+inch	1		mattias stratified the book .
+inch	1		the computer vitrified .
+inch	0		doe vitrified the computer .
+inch	1		the plant americanized .
+inch	1		mattias americanized the plant .
+inch	1		the sticker caramelized .
+inch	1		tawnya caramelized the sticker .
+inch	0		the criminal carbonized .
+inch	1		mattias carbonized the criminal .
+inch	1		the plane crystallized .
+inch	0		hamilton crystallized the plane .
+inch	1		the government decentralized .
+inch	1		josefa decentralized the government .
+inch	1		the rocket demagnetized .
+inch	1		hamilton demagnetized the rocket .
+inch	1		the people democratized .
+inch	0		candide democratized the people .
+inch	1		the cabin depressurized .
+inch	1		goose depressurized the cabin .
+inch	1		the plane destabilized .
+inch	1		prudy destabilized the plane .
+inch	0		the dog energized .
+inch	1		candide energized the dog .
+inch	0		the leader equalised .
+inch	1		goose equalised the leader .
+inch	1		the rocket fossilized .
+inch	1		hamilton fossilized the rocket .
+inch	1		the shoe gelatinized .
+inch	0		agathe gelatinized the shoe .
+inch	0		the jet glutenized .
+inch	0		hamilton glutenized the jet .
+inch	1		the ice harmonized .
+inch	0		tawnya harmonized the ice .
+inch	1		the pancake hybridized .
+inch	0		hamilton hybridized the pancake .
+inch	1		the rocket iodized .
+inch	0		anissa iodized the rocket .
+inch	1		the camera ionized .
+inch	0		tawnya ionized the camera .
+inch	0		the ball magnetized .
+inch	1		prudy magnetized the ball .
+inch	0		the ice neutralized .
+inch	1		goose neutralized the ice .
+inch	1		the lizard oxidized .
+inch	0		miles oxidized the lizard .
+inch	0		the people polarized .
+inch	1		anissa polarized the people .
+inch	0		the bicycle pulverized .
+inch	1		prudy pulverized the bicycle .
+inch	0		the pillow regularized .
+inch	1		agathe regularized the pillow .
+inch	1		the jet stabilized .
+inch	1		goose stabilized the jet .
+inch	1		the people unionized .
+inch	1		goose unionized the people .
+inch	1		the car vaporized .
+inch	1		armond vaporized the car .
+inch	0		the key volatilized .
+inch	0		agathe volatilized the key .
+inch	0		the room westernized .
+inch	1		prudy westernied the room .
+inch	1		the camera accelerated .
+inch	1		candide accelerated the camera .
+inch	1		the mouse agglomerated .
+inch	0		maggie agglomerated the mouse .
+inch	1		the glass ameliorated .
+inch	0		agathe ameliorated the glass .
+inch	1		the apple attenuated .
+inch	0		prudy attenuated the apple .
+inch	1		the dad coagulated .
+inch	0		tawnya coagulated the dad .
+inch	1		the toilet decelerated .
+inch	1		armond decelerated the toilet .
+inch	1		the rocket deescalated .
+inch	1		maggie deescalated the rocket .
+inch	1		the tree degenerated .
+inch	0		tawnya degenerated the tree .
+inch	1		the apple dessicated .
+inch	0		rosalinda desiccated the apple .
+inch	1		the baby deteriorated .
+inch	0		goose deteriorated the baby .
+inch	1		the cap detonated .
+inch	1		goose detonated the cap .
+inch	1		the vase disintegrated .
+inch	0		mattias disintegrated the vase .
+inch	1		the owner dissipated .
+inch	0		agathe dissipated the owner .
+inch	1		the pirate evaporated .
+inch	0		candide evaporated the pirate .
+inch	1		the card federated .
+inch	0		anissa federated the card .
+inch	0		the apple granulated .
+inch	0		armond granulated the apple .
+inch	0		the egg incubated .
+inch	1		doe incubated the egg .
+inch	1		the plane levitated .
+inch	1		agathe levitated the plane .
+inch	1		the bee macerated .
+inch	0		anissa macerated the bee .
+inch	1		the plane operated .
+inch	1		mattias operated the plane .
+inch	0		the vase proliferated .
+inch	1		maggie proliferated the vase .
+inch	1		the people propagated .
+inch	0		miles propagated the people .
+inch	0		the mouse ulcerated .
+inch	0		candide ulcerated the mouse .
+inch	1		the camera vibrated .
+inch	1		armond vibrated the camera .
+inch	1		the dog cheered .
+inch	0		agathe cheered the dog .
+inch	0		the ice delighted .
+inch	1		mattias delighted the ice .
+inch	0		the sun enthused .
+inch	1		josefa enthused the sun .
+inch	1		the bed gladdened .
+inch	0		prudy gladdened the bed .
+inch	1		the charger grieved .
+inch	0		goose grieved the charger .
+inch	1		the whale maddened .
+inch	0		mattias maddened the whale .
+inch	0		the tree obsessed .
+inch	0		doe obsessed the tree .
+inch	0		the bull puzzled .
+inch	0		doe puzzled the bull .
+inch	1		the dad saddened .
+inch	0		hamilton saddened the dad .
+inch	1		the mouse sickened .
+inch	0		armond sickened the mouse .
+inch	0		the charger thrilled .
+inch	0		tawnya thrilled the charger .
+inch	0		the helicopter tired .
+inch	0		rosalinda tired the helicopter .
+inch	0		the rocket wearied .
+inch	0		maggie wearied the rocket .
+inch	0		the rug wored .
+inch	0		tawnya wored the rug .
+inch	1		candide fed the apple to me .
+inch	1		they gave the vase to me .
+inch	1		hamilton leased the apple to me .
+inch	1		candide lent the carpet to me .
+inch	1		hamilton loaned the toothpaste to me .
+inch	1		tawnya passed the hall to me .
+inch	0		hamilton paid the pirate to me .
+inch	0		they peddled the book to me .
+inch	0		they refuned the helicopter to me .
+inch	0		they rendered the helicopter to me .
+inch	1		they rented the plane to me .
+inch	0		they repaid the car to me .
+inch	1		armond sold the keyboard to me .
+inch	1		tawnya served the shoe to me .
+inch	1		candide traded the jet to me .
+inch	1		they administered the flower to me .
+inch	0		hamilton contributed the computer to me .
+inch	0		they disbursed the sticker to me .
+inch	0		goose distributed the card to me .
+inch	1		hamilton donated the plane to me .
+inch	1		doe extended the pancake to me .
+inch	1		they forfeited the shoe to me .
+inch	1		mattias proffered the carpet to me .
+inch	1		candide referred the lizard to me .
+inch	1		maggie reimbursed the camera to me .
+inch	1		josefa relinquished the keyboard to me .
+inch	0		maggie remitted the bull to me .
+inch	0		they restored the vase to me .
+inch	1		they returned the vase to me .
+inch	1		mattias sacrificed the cap to me .
+inch	1		they submitted the plane to me .
+inch	1		they surrendered the helicopter to me .
+inch	1		they transferred the plant to me .
+inch	0		maggie advanced the bicycle to me .
+inch	1		prudy allocated the ball to me .
+inch	1		they allotted the car to me .
+inch	1		candide assigned the owner to me .
+inch	1		prudy awarded the mouse to me .
+inch	1		they bequeathed the glass to me .
+inch	1		they ceded the toilet to me .
+inch	1		they conceded the rug to me .
+inch	0		they extended the computer to me .
+inch	0		agathe granted the stamp to me .
+inch	1		they guaranteed the card to me .
+inch	1		hamilton issued the bull to me .
+inch	1		they left the bed to me .
+inch	1		maggie offered the pillow to me .
+inch	0		prudy lit the stamp to me .
+inch	1		miles promised the ball to me .
+inch	0		they voted the keyboard to me .
+inch	1		miles willed the camera to me .
+inch	1		they yielded the dad to me .
+inch	0		the owner chipped .
+inch	1		doe chipped the owner .
+inch	0		the mouse clipped .
+inch	0		goose clipped the mouse .
+inch	0		the rug cut .
+inch	0		armond cut the rug .
+inch	0		the sun hacked .
+inch	1		goose hacked the sun .
+inch	0		the whale hewed .
+inch	0		goose hewed the whale .
+inch	0		the stamp sawed .
+inch	1		doe sawed the stamp .
+inch	0		the carpet scraped .
+inch	1		tawnya scraped the carpet .
+inch	0		the book scratched .
+inch	1		prudy scratched the book .
+inch	0		the toothpaste slashed .
+inch	1		rosalinda slashed the toothpaste .
+inch	0		the sticker snipped .
+inch	1		goose snipped the sticker .
+inch	0		the mouse bored .
+inch	1		maggie bored the mouse .
+inch	0		the toilet bruised .
+inch	1		tawnya bruised the toilet .
+inch	1		the jet carved .
+inch	1		tawnya carved the jet .
+inch	0		the ball chopped .
+inch	1		prudy chopped the ball .
+inch	0		the pillow cropped .
+inch	1		candide cropped the pillow .
+inch	0		the pencil crushed .
+inch	1		candide crushed the pencil .
+inch	0		the rocket cubed .
+inch	1		doe cubed the rocket .
+inch	0		the owner dented .
+inch	1		prudy dented the owner .
+inch	0		the toilet diced .
+inch	1		josefa diced the toilet .
+inch	1		the dad drilled .
+inch	1		armond drilled the dad .
+inch	0		the shoe filed .
+inch	1		doe filed the shoe .
+inch	0		the carpet filled .
+inch	1		candide filled the carpet .
+inch	0		the camera gashed .
+inch	1		tawnya gashed the camera .
+inch	0		the rug gouged .
+inch	1		anissa gouged the rug .
+inch	0		the hall grated .
+inch	1		hamilton grated the hall .
+inch	0		the bull grinded .
+inch	1		armond grinded the bull .
+inch	0		the book mangled .
+inch	1		tawnya mangled the book .
+inch	0		the pill mashed .
+inch	1		hamilton mashed the pill .
+inch	0		the dad minced .
+inch	1		maggie minced the dad .
+inch	0		the shoe mowed .
+inch	1		agathe mowed the shoe .
+inch	0		the ball nicked .
+inch	1		prudy nicked the ball .
+inch	0		the pill notched .
+inch	1		candide notched the pill .
+inch	1		the vase perforated .
+inch	0		miles perforated the vase .
+inch	1		the card pulverized .
+inch	0		anissa pulverized the card .
+inch	0		the toothpaste punched .
+inch	1		goose punched the toothpaste .
+inch	0		the bull pruned .
+inch	1		tawnya pruned the bull .
+inch	0		the bed shredded .
+inch	1		josefa shredded the bed .
+inch	0		the lizard sliced .
+inch	1		hamilton sliced the lizard .
+inch	1		the hall split .
+inch	1		armond split the hall .
+inch	0		the bed speared .
+inch	1		tawnya speared the bed .
+inch	0		the owner squashed .
+inch	1		miles squashed the owner .
+inch	0		the bee squished .
+inch	1		tawnya squished the bee .
+inch	0		the pillow banged .
+inch	1		doe banged the pillow .
+inch	0		the apple bashed .
+inch	1		goose bashed the apple .
+inch	0		the dad battered .
+inch	1		maggie battered the dad .
+inch	0		the pirate beat .
+inch	1		prudy beat the pirate .
+inch	0		the pillow bumped .
+inch	1		hamilton bumped the pillow .
+inch	0		the carpet butted .
+inch	1		agathe butted the carpet .
+inch	1		the mouse dashed .
+inch	0		armond dashed the mouse .
+inch	1		the criminal drummed .
+inch	0		anissa drummed the criminal .
+inch	0		the rocket hammered .
+inch	1		doe hammered the rocket .
+inch	0		the book hit .
+inch	1		mattias hit the book .
+inch	1		the card kicked .
+inch	1		candide kicked the card .
+inch	1		the bed kicked .
+inch	1		candide kicked the bed .
+inch	0		the helicopter lavished .
+inch	1		goose lavished the helicopter .
+inch	0		the plant pounded .
+inch	1		armond pounded the plant .
+inch	0		the shoe rapped .
+inch	1		maggie rapped the shoe .
+inch	0		the rug slapped .
+inch	1		hamilton slapped the rug .
+inch	0		the helicopter smacked .
+inch	1		armond smacked the helicopter .
+inch	0		the keyboard smashed .
+inch	1		doe smashed the keyboard .
+inch	0		the ice struck .
+inch	1		maggie struck the ice .
+inch	0		the vase tamed .
+inch	1		tawnya tamed the vase .
+inch	0		the bicycle tapped .
+inch	1		josefa tapped the bicycle .
+inch	0		the baby thumped .
+inch	1		tawnya thumped the baby .
+inch	0		the stamp thwacked .
+inch	1		tawnya thwacked the stamp .
+inch	0		the disease whacked .
+inch	1		rosalinda whacked the disease .
+inch	0		the cap bit .
+inch	1		armond bit the cap .
+inch	1		the stamp clawed .
+inch	1		rosalinda clawed the stamp .
+inch	0		the computer pawed .
+inch	1		tawnya pawed the computer .
+inch	0		the disease pecked .
+inch	1		mattias pecked the disease .
+inch	0		the rug punched .
+inch	1		armond punched the rug .
+inch	0		the ice scratched .
+inch	1		tawnya scratched the ice .
+inch	0		the whale shot .
+inch	1		prudy shot the whale .
+inch	0		the rug slugged .
+inch	1		anissa slugged the rug .
+inch	0		the lizard stabbed .
+inch	1		josefa stabbed the lizard .
+inch	0		the carpet swatted .
+inch	1		prudy swatted the carpet .
+inch	1		the key swiped .
+inch	1		anissa swiped the key .
+inch	0		the lion belted .
+inch	1		prudy belted the lion .
+inch	0		the sun birched .
+inch	1		candide birched the sun .
+inch	0		the cat bludgeoned .
+inch	1		rosalinda bludgeoned the cat .
+inch	0		the stamp bonked .
+inch	1		goose bonked the stamp .
+inch	0		the keyboard brained .
+inch	0		candide brained the keyboard .
+inch	0		the sun caned .
+inch	1		doe caned the sun .
+inch	0		the hall clobbered .
+inch	1		anissa clobbered the hall .
+inch	0		the leader clubbed .
+inch	1		anissa clubbed the leader .
+inch	0		the cat coned .
+inch	1		hamilton coned the cat .
+inch	0		the pirate coshed .
+inch	1		prudy coshed the pirate .
+inch	0		the charger cudgeled .
+inch	1		miles cudgeled the charger .
+inch	0		the rocket cuffed .
+inch	1		josefa cuffed the rocket .
+inch	0		the toilet flogged .
+inch	1		tawnya flogged the toilet .
+inch	0		the car knifed .
+inch	1		rosalinda knifed the car .
+inch	0		the pancake paddled .
+inch	1		maggie paddled the pancake .
+inch	0		the helicopter paddywhacked .
+inch	1		tawnya paddywhacked the helicopter .
+inch	0		the toilet pummeled .
+inch	1		josefa pummeled the toilet .
+inch	0		the mouse socked .
+inch	1		candide socked the mouse .
+inch	0		the bed spanked .
+inch	1		armond spanked the bed .
+inch	0		the ice strapped .
+inch	1		agathe strapped the ice .
+inch	0		the plane thrashed .
+inch	1		tawnya thrashed the plane .
+inch	0		the sticker truncheoned .
+inch	1		agathe truncheoned the sticker .
+inch	0		the owner walloped .
+inch	1		maggie walloped the owner .
+inch	0		the toilet whipped .
+inch	1		anissa whipped the toilet .
+inch	0		the rocket whisked .
+inch	1		anissa whisked the rocket .
+inch	0		the stamp caressed .
+inch	1		anissa caressed the stamp .
+inch	0		the criminal grazed .
+inch	1		josefa grazed the criminal .
+inch	0		the plane kissed .
+inch	1		rosalinda kisded the plane .
+inch	0		the pancake licked .
+inch	1		josefa licked the pancake .
+inch	0		the toilet nudged .
+inch	1		armond nudged the toilet .
+inch	0		the owner patted .
+inch	1		josefa patted the owner .
+inch	0		the bicycle pecked .
+inch	1		prudy pecked the bicycle .
+inch	0		the apple pinched .
+inch	1		prudy pinched the apple .
+inch	0		the pill prodded .
+inch	1		hamilton prodded the pill .
+inch	0		the pancake stung .
+inch	1		goose stung the pancake .
+inch	0		the plant stroked .
+inch	1		josefa stroked the plant .
+inch	1		the bed tickled .
+inch	1		anissa tickled the bed .
+inch	0		the disease touched .
+inch	1		doe touched the disease .
+inch	0		the pencil annihilated .
+inch	1		armond annihilated the pencil .
+inch	0		the stamp blitzed .
+inch	1		josefa blitzed the stamp .
+inch	0		the plant decimated .
+inch	1		agathe decimated the plant .
+inch	0		the hall demolished .
+inch	1		mattias demolished the hall .
+inch	0		the keyboard destroyed .
+inch	1		tawnya destroyed the keyboard .
+inch	0		the pancake devastated .
+inch	1		goose devastated the pancake .
+inch	0		the dog exterminated .
+inch	1		maggie exterminated the dog .
+inch	0		the computer extirpated .
+inch	1		mattias extirpated the computer .
+inch	0		the vase obliterated .
+inch	1		josefa obliterated the vase .
+inch	0		the ice ravaged .
+inch	1		tawnya ravaged the ice .
+inch	0		the carpet razed .
+inch	1		tawnya razed the carpet .
+inch	0		the whale ruined .
+inch	1		doe ruined the whale .
+inch	0		the vase wasted .
+inch	1		josefa wasted the vase .
+inch	0		the rug wrecked .
+inch	1		candide wrecked the rug .
+inch	0		the sun assassinated .
+inch	1		armond assassinated the sun .
+inch	0		the toilet butchered .
+inch	1		miles butchered the toilet .
+inch	0		the toothpaste dispatched .
+inch	1		rosalinda dispatched the toothpaste .
+inch	0		the disease eliminated .
+inch	1		candide eliminated the disease .
+inch	0		the key executed .
+inch	1		agathe executed the key .
+inch	0		the mouse immolated .
+inch	1		anissa immolated the mouse .
+inch	0		the rocket killed .
+inch	1		goose killed the rocket .
+inch	0		the stamp liquidated .
+inch	1		rosalinda liquidated the stamp .
+inch	0		the bicycle massacred .
+inch	1		doe massacred the bicycle .
+inch	0		the tree murdered .
+inch	1		josefa murdered the tree .
+inch	0		the bull slaughtered .
+inch	1		tawnya slaughtered the bull .
+inch	0		the rug slayed .
+inch	1		candide slayed the rug .
+inch	0		the camera crucified .
+inch	1		josefa crucified the camera .
+inch	0		the criminal electrocuted .
+inch	1		goose electrocuted the criminal .
+inch	0		the dog garrotted .
+inch	1		anissa garrotted the dog .
+inch	1		the book hung .
+inch	1		miles hung the book .
+inch	0		the criminal knifed .
+inch	1		maggie knifed the criminal .
+inch	0		the whale poisoned .
+inch	1		tawnya poisoned the whale .
+inch	0		the rocket shot .
+inch	1		miles shot the rocket .
+inch	0		the keyboard smothered .
+inch	1		rosalinda smothered the keyboard .
+inch	0		the lizard stabbed .
+inch	1		josefa stabbed the lizard .
+inch	0		the charger stranged .
+inch	1		candide strangled the charger .
+inch	1		the cat appeared .
+inch	0		doe appeared the cat .
+inch	1		the sun arose .
+inch	0		armond arose the sun .
+inch	1		the rocket awoke .
+inch	1		doe awoke the rocket .
+inch	1		the rug came .
+inch	0		armond came the rug .
+inch	1		the charger dawned .
+inch	0		armond dawned the charger .
+inch	1		the sun emanated .
+inch	0		candide emanated the sun .
+inch	1		the shoe emerged .
+inch	0		tawnya emerged the shoe .
+inch	1		the pill erupted .
+inch	0		agathe erupted the pill .
+inch	1		the pill evolved .
+inch	0		prudy evolved the pill .
+inch	1		the key flowed .
+inch	0		doe flowed the key .
+inch	1		the flower gushed .
+inch	0		candide gushed the flower .
+inch	0		the pirate issued .
+inch	1		rosalinda issued the pirate .
+inch	1		the lizard materialized .
+inch	1		josefa materialized the lizard .
+inch	1		the cat plopped .
+inch	0		rosalinda plopped the cat .
+inch	0		the pencil resulted .
+inch	0		candide resulted the pencil .
+inch	1		the helicopter rose .
+inch	1		miles rose the helicopter .
+inch	0		the card stole .
+inch	1		anissa stole the card .
+inch	1		the hall stemmed .
+inch	0		agathe stemmed the hall .
+inch	0		the card streamed .
+inch	0		mattias streamed the card .
+inch	0		the computer supervened .
+inch	0		agathe supervened the computer .
+inch	1		the disease surged .
+inch	0		hamilton surged the disease .
+inch	0		the charger was .
+inch	2		armond was the charger .
+inch	1		the bee died .
+inch	0		mattias died the bee .
+inch	1		the camera disappeared .
+inch	0		anissa disappeared the camera .
+inch	1		the bee expired .
+inch	0		josefa expired the bee .
+inch	1		the keyboard lapsed .
+inch	0		armond lapsed the keyboard .
+inch	1		the plant perished .
+inch	0		josefa perished the plant .
+inch	1		the glass vanied .
+inch	0		tawnya vanied the glass .
+inch	1		the toilet ensued .
+inch	0		rosalinda ensued the toilet .
+inch	1		the cat eventuated .
+inch	0		prudy eventuated the cat .
+inch	0		the sticker happened .
+inch	0		candide happened the sticker .
+inch	0		the car occurred .
+inch	0		maggie occurred the car .
+inch	0		the pencil recurred .
+inch	0		armond recurred the pencil .
+inch	0		the whale transpied .
+inch	0		anissa transpied the whale .
