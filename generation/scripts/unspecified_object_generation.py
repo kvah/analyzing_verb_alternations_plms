@@ -33,7 +33,6 @@ for line in lines:
     else:
         continue
 
-
 default_conjugator = mlconjug3.Conjugator(language='en')
 
 unspecified_sentences = []
