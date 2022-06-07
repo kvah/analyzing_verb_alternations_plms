@@ -1,0 +1,926 @@
+dat	1	michael passed the salt to the person across the table .
+dat	1	michael passed the person across the table the salt .
+dat	1	christopher passed a letter to the person across the table .
+dat	1	christopher passed the person across the table a letter .
+dat	1	christopher sent the salt to the lawyer .
+dat	1	christopher sent the lawyer the salt .
+dat	1	michael sent a letter to the lawyer .
+dat	1	michael sent the lawyer a letter .
+dat	1	nicole assigned a project to the employee .
+dat	1	nicole assigned the employee a project .
+dat	1	elizabeth assigned a gold star to the student .
+dat	1	elizabeth assigned the student a gold star .
+dat	1	jessica assigned a task to the employee .
+dat	1	jessica assigned the employee a task .
+dat	1	michael awarded a project to the employee .
+dat	1	michael awarded the employee a project .
+dat	1	jessica awarded a gold star to the employee .
+dat	1	jessica awarded the employee a gold star .
+dat	1	michael awarded a task to the employee .
+dat	1	michael awarded the employee a task .
+dat	1	jason shipped a letter to the client .
+dat	1	jason shipped the client a letter .
+dat	1	jason shipped a package to the client .
+dat	1	jason shipped the client a package .
+dat	1	michael posted a letter to the recipient .
+dat	1	michael posted the recipient a letter .
+dat	1	christopher posted a package to the client .
+dat	1	christopher posted the client a package .
+dat	1	nicole chucked the ball to the other team .
+dat	1	nicole chucked the other team the ball .
+dat	1	christopher chucked the stick to the most valuable player .
+dat	1	christopher chucked the most valuable player the stick .
+dat	1	michael chucked the frisbee to the other team .
+dat	1	michael chucked the other team the frisbee .
+dat	1	elizabeth flung the ball to the goalie .
+dat	1	elizabeth flung the goalie the ball .
+dat	1	nicole flung the stick to the other team .
+dat	1	nicole flung the other team the stick .
+dat	1	christopher flung the frisbee to the goalie .
+dat	1	christopher flung the goalie the frisbee .
+dat	1	michael tossed the ball to the other team .
+dat	1	michael tossed the other team the ball .
+dat	1	christopher tossed the stick to the other team .
+dat	1	christopher tossed the other team the stick .
+dat	1	michael tossed the frisbee to the other team .
+dat	1	michael tossed the other team the frisbee .
+dat	1	nicole threw the ball to the goalie .
+dat	1	nicole threw the goalie the ball .
+dat	1	christopher threw the stick to the goalie .
+dat	1	christopher threw the goalie the stick .
+dat	1	jessica threw the frisbee to the goalie .
+dat	1	jessica threw the goalie the frisbee .
+dat	1	nicole tossed the ball to the other team .
+dat	1	nicole tossed the other team the ball .
+dat	1	nicole tossed the stick to the most valuable player .
+dat	1	nicole tossed the most valuable player the stick .
+dat	1	jessica tossed the frisbee to the goalie .
+dat	1	jessica tossed the goalie the frisbee .
+dat	1	jason kicked the ball to the most valuable player .
+dat	1	jason kicked the most valuable player the ball .
+dat	1	jason kicked the stick to the goalie .
+dat	1	jason kicked the goalie the stick .
+dat	1	michael kicked the frisbee to the goalie .
+dat	1	michael kicked the goalie the frisbee .
+dat	1	elizabeth read a story to the class .
+dat	1	elizabeth read the class a story .
+dat	1	nicole read a book to the students .
+dat	1	nicole read the students a book .
+dat	1	jason told a secret to the little girl .
+dat	1	jason told the little girl a secret .
+dat	1	jessica told a story to the little girl .
+dat	1	jessica told the little girl a story .
+dat	1	jason taught a new technique to the class .
+dat	1	jason taught the class a new technique .
+dat	1	elizabeth taught a lesson to the class .
+dat	1	elizabeth taught the class a lesson .
+dat	1	jason explained the issue to the mechanic .
+dat	0	jason explained the mechanic the issue .
+dat	1	jessica explained the solution to the client .
+dat	0	jessica explained the client the solution .
+dat	1	elizabeth illustrated the issue to the team .
+dat	0	elizabeth illustrated the team the issue .
+dat	1	nicole illustrated the solution to the team .
+dat	0	nicole illustrated the team the solution .
+dat	1	nicole demonstrated the issue to the client .
+dat	0	nicole demonstrated the client the issue .
+dat	1	elizabeth demonstrated the solution to the mechanic .
+dat	0	elizabeth demonstrated the mechanic the solution .
+dat	1	jason donated a statue to the university .
+dat	0	jason donated the university a statue .
+dat	1	jason donated a hundred dollars to the museum .
+dat	0	jason donated the museum a hundred dollars .
+dat	1	jessica contributed a statue to the university .
+dat	0	jessica contributed the university a statue .
+dat	1	nicole contributed a hundred dollars to the university .
+dat	0	nicole contributed the university a hundred dollars .
+dat	1	jessica delivered the message to the client .
+dat	0	jessica delivered the client the message .
+dat	1	elizabeth delivered the letter to the client .
+dat	0	elizabeth delivered the client the letter .
+dat	1	jessica conveyed the message to the client .
+dat	0	jessica conveyed the client the message .
+dat	1	elizabeth conveyed the letter to the recipient .
+dat	0	elizabeth conveyed the recipient the letter .
+dat	1	christopher restored the painting to its place .
+dat	0	christopher restored its place the painting .
+dat	1	jason restored the car to its place .
+dat	0	jason restored its place the car .
+dat	1	jason returned the painting to its place .
+dat	0	jason returned its place the painting .
+dat	1	nicole returned the car to its owner .
+dat	0	nicole returned its owner the car .
+dat	1	nicole announced the committee 's decision to the shareholders .
+dat	0	nicole announced the shareholders the committee 's decision .
+dat	1	michael announced the result to the shareholders .
+dat	0	michael announced the shareholders the result .
+dat	1	christopher declared the committee 's decision to the investors .
+dat	0	christopher declared the investors the committee 's decision .
+dat	1	christopher declared the result to the shareholders .
+dat	0	christopher declared the shareholders the result .
+dat	1	nicole revealed the committee 's decision to the investors .
+dat	0	nicole revealed the investors the committee 's decision .
+dat	1	jessica revealed the result to the shareholders .
+dat	0	jessica revealed the shareholders the result .
+dat	1	jason reported the committee 's decision to the investors .
+dat	0	jason reported the investors the committee 's decision .
+dat	1	christopher reported the result to the investors .
+dat	0	christopher reported the investors the result .
+dat	1	michael mentioned a solution to susan .
+dat	0	michael mentioned susan a solution .
+dat	1	michael mentioned an idea to david .
+dat	0	michael mentioned david an idea .
+dat	1	jessica suggested a solution to john .
+dat	0	jessica suggested john a solution .
+dat	1	jason suggested an idea to john .
+dat	0	jason suggested john an idea .
+dat	1	jessica proposed a solution to kelly .
+dat	0	jessica proposed kelly a solution .
+dat	1	christopher proposed an idea to rebecca .
+dat	0	christopher proposed rebecca an idea .
+dat	1	nicole expressed the concern to rebecca .
+dat	0	nicole expressed rebecca the concern .
+dat	1	jessica expressed the news to john .
+dat	0	jessica expressed john the news .
+dat	1	michael broadcasted the concern to david .
+dat	0	michael broadcasted david the concern .
+dat	1	michael broadcasted the news to david .
+dat	0	michael broadcasted david the news .
+dat	0	the television cost a hundred dollars to John .
+dat	1	the television cost John a hundred dollars .
+dat	0	the television cost an arm and a leg to John .
+dat	1	the television cost John an arm and a leg .
+dat	0	michael wished a safe trip to james .
+dat	1	michael wished james a safe trip .
+dat	0	nicole wished the best to rebecca .
+dat	1	nicole wished rebecca the best .
+dat	0	jessica guaranteed respect to rebecca .
+dat	1	jessica guaranteed rebecca respect .
+dat	0	michael guaranteed a generous reward to john .
+dat	1	michael guaranteed john a generous reward .
+dat	0	christopher guaranteed access to the archives to david .
+dat	1	christopher guaranteed david access to the archives .
+dat	0	nicole accorded respect to james .
+dat	1	nicole accorded james respect .
+dat	0	christopher accorded a generous reward to susan .
+dat	1	christopher accorded susan a generous reward .
+dat	0	jason accorded access to the archives to susan .
+dat	1	jason accorded susan access to the archives .
+dat	0	jessica refused respect to david .
+dat	1	jessica refused david respect .
+dat	0	jessica refused a generous reward to susan .
+dat	1	jessica refused susan a generous reward .
+dat	0	nicole refused access to the archives to kelly .
+dat	1	nicole refused kelly access to the archives .
+dat	0	jason saved a piece of pie to rebecca .
+dat	1	jason saved rebecca a piece of pie .
+dat	0	jason saved a spot to david .
+dat	1	jason saved david a spot .
+dat	0	christopher saved a thousand dollars to kelly .
+dat	1	christopher saved kelly a thousand dollars .
+dat	0	nicole appointed king to rebecca .
+dat	1	nicole appointed rebecca king .
+dat	0	elizabeth appointed the leader to rebecca .
+dat	1	elizabeth appointed rebecca the leader .
+dat	0	elizabeth appointed the winner to rebecca .
+dat	1	elizabeth appointed rebecca the winner .
+dat	0	jessica appointed the most valuable player to rebecca .
+dat	1	jessica appointed rebecca the most valuable player .
+dat	0	nicole appointed the CEO to kelly .
+dat	1	nicole appointed kelly the CEO .
+dat	0	jason elected king to rebecca .
+dat	1	jason elected rebecca king .
+dat	0	nicole elected the leader to david .
+dat	1	nicole elected david the leader .
+dat	0	jessica elected the winner to rebecca .
+dat	1	jessica elected rebecca the winner .
+dat	0	elizabeth elected the most valuable player to kelly .
+dat	1	elizabeth elected kelly the most valuable player .
+dat	0	jason elected the CEO to kelly .
+dat	1	jason elected kelly the CEO .
+dat	0	michael crowned king to kelly .
+dat	1	michael crowned kelly king .
+dat	0	michael crowned the leader to james .
+dat	1	michael crowned james the leader .
+dat	0	nicole crowned the winner to rebecca .
+dat	1	nicole crowned rebecca the winner .
+dat	0	jason crowned the most valuable player to susan .
+dat	1	jason crowned susan the most valuable player .
+dat	0	nicole crowned the CEO to james .
+dat	1	nicole crowned james the CEO .
+dat	0	christopher pronounced king to james .
+dat	1	christopher pronounced james king .
+dat	0	nicole pronounced the leader to john .
+dat	1	nicole pronounced john the leader .
+dat	0	elizabeth pronounced the winner to james .
+dat	1	elizabeth pronounced james the winner .
+dat	0	christopher pronounced the most valuable player to kelly .
+dat	1	christopher pronounced kelly the most valuable player .
+dat	0	michael pronounced the CEO to john .
+dat	1	michael pronounced john the CEO .
+dat	0	jessica made king to kelly .
+dat	1	jessica made kelly king .
+dat	0	nicole made the leader to susan .
+dat	1	nicole made susan the leader .
+dat	0	michael made the winner to david .
+dat	1	michael made david the winner .
+dat	0	elizabeth made the most valuable player to susan .
+dat	1	elizabeth made susan the most valuable player .
+dat	0	nicole made the CEO to john .
+dat	1	nicole made john the CEO .
+dat	0	nicole dubbed king to rebecca .
+dat	1	nicole dubbed rebecca king .
+dat	0	elizabeth dubbed the leader to susan .
+dat	1	elizabeth dubbed susan the leader .
+dat	0	nicole dubbed the winner to john .
+dat	1	nicole dubbed john the winner .
+dat	0	jessica dubbed the most valuable player to susan .
+dat	1	jessica dubbed susan the most valuable player .
+dat	0	christopher dubbed the CEO to susan .
+dat	1	christopher dubbed susan the CEO .
+dat	0	jessica named king to john .
+dat	1	jessica named john king .
+dat	0	christopher named the leader to james .
+dat	1	christopher named james the leader .
+dat	0	jessica named the winner to susan .
+dat	1	jessica named susan the winner .
+dat	0	nicole named the most valuable player to rebecca .
+dat	1	nicole named rebecca the most valuable player .
+dat	0	nicole named the CEO to john .
+dat	1	nicole named john the CEO .
+dat	0	jason considered a hero to david .
+dat	1	jason considered david a hero .
+dat	0	christopher considered a loser to david .
+dat	1	christopher considered david a loser .
+dat	0	michael considered the greatest athlete to susan .
+dat	1	michael considered susan the greatest athlete .
+dat	0	jessica considered a criminal to susan .
+dat	1	jessica considered susan a criminal .
+dat	0	michael considered the best to john .
+dat	1	michael considered john the best .
+dat	0	elizabeth considered the most valuable player to john .
+dat	1	elizabeth considered john the most valuable player .
+dat	0	elizabeth deemed a hero to susan .
+dat	1	elizabeth deemed susan a hero .
+dat	0	jessica deemed a loser to rebecca .
+dat	1	jessica deemed rebecca a loser .
+dat	0	elizabeth deemed the greatest athlete to john .
+dat	1	elizabeth deemed john the greatest athlete .
+dat	0	nicole deemed a criminal to kelly .
+dat	1	nicole deemed kelly a criminal .
+dat	0	jason deemed the best to rebecca .
+dat	1	jason deemed rebecca the best .
+dat	0	jason deemed the most valuable player to kelly .
+dat	1	jason deemed kelly the most valuable player .
+dat	0	michael fancied a hero to david .
+dat	1	michael fancied david a hero .
+dat	0	jessica fancied a loser to kelly .
+dat	1	jessica fancied kelly a loser .
+dat	0	michael fancied the greatest athlete to rebecca .
+dat	1	michael fancied rebecca the greatest athlete .
+dat	0	christopher fancied a criminal to kelly .
+dat	1	christopher fancied kelly a criminal .
+dat	0	christopher fancied the best to kelly .
+dat	1	christopher fancied kelly the best .
+dat	0	jessica fancied the most valuable player to john .
+dat	1	jessica fancied john the most valuable player .
+dat	0	jessica judged a hero to kelly .
+dat	1	jessica judged kelly a hero .
+dat	0	elizabeth judged a loser to kelly .
+dat	1	elizabeth judged kelly a loser .
+dat	0	jason judged the greatest athlete to john .
+dat	1	jason judged john the greatest athlete .
+dat	0	jessica judged a criminal to susan .
+dat	1	jessica judged susan a criminal .
+dat	0	michael judged the best to rebecca .
+dat	1	michael judged rebecca the best .
+dat	0	jason judged the most valuable player to james .
+dat	1	jason judged james the most valuable player .
+dat	0	jessica found a hero to rebecca .
+dat	1	jessica found rebecca a hero .
+dat	0	christopher found a loser to rebecca .
+dat	1	christopher found rebecca a loser .
+dat	0	christopher found the greatest athlete to james .
+dat	1	christopher found james the greatest athlete .
+dat	0	nicole found a criminal to susan .
+dat	1	nicole found susan a criminal .
+dat	0	nicole found the best to james .
+dat	1	nicole found james the best .
+dat	0	christopher found the most valuable player to john .
+dat	1	christopher found john the most valuable player .
+dat	0	nicole proclaimed a hero to james .
+dat	1	nicole proclaimed james a hero .
+dat	0	michael proclaimed a loser to rebecca .
+dat	1	michael proclaimed rebecca a loser .
+dat	0	nicole proclaimed the greatest athlete to rebecca .
+dat	1	nicole proclaimed rebecca the greatest athlete .
+dat	0	jessica proclaimed a criminal to david .
+dat	1	jessica proclaimed david a criminal .
+dat	0	jason proclaimed the best to james .
+dat	1	jason proclaimed james the best .
+dat	0	michael proclaimed the most valuable player to james .
+dat	1	michael proclaimed james the most valuable player .
+dat	0	jason thought a hero to john .
+dat	1	jason thought john a hero .
+dat	0	elizabeth thought a loser to kelly .
+dat	1	elizabeth thought kelly a loser .
+dat	0	jason thought the greatest athlete to john .
+dat	1	jason thought john the greatest athlete .
+dat	0	michael thought a criminal to rebecca .
+dat	1	michael thought rebecca a criminal .
+dat	0	michael thought the best to david .
+dat	1	michael thought david the best .
+dat	0	jason thought the most valuable player to john .
+dat	1	jason thought john the most valuable player .
+dat	0	elizabeth labeled a hero to john .
+dat	1	elizabeth labeled john a hero .
+dat	0	jessica labeled a loser to john .
+dat	1	jessica labeled john a loser .
+dat	0	elizabeth labeled the greatest athlete to kelly .
+dat	1	elizabeth labeled kelly the greatest athlete .
+dat	0	elizabeth labeled a criminal to john .
+dat	1	elizabeth labeled john a criminal .
+dat	0	elizabeth labeled the best to susan .
+dat	1	elizabeth labeled susan the best .
+dat	0	jessica labeled the most valuable player to david .
+dat	1	jessica labeled david the most valuable player .
+dat	0	elizabeth ruled a hero to susan .
+dat	1	elizabeth ruled susan a hero .
+dat	0	christopher ruled a loser to john .
+dat	1	christopher ruled john a loser .
+dat	0	elizabeth ruled the greatest athlete to james .
+dat	1	elizabeth ruled james the greatest athlete .
+dat	0	elizabeth ruled a criminal to john .
+dat	1	elizabeth ruled john a criminal .
+dat	0	jessica ruled the best to james .
+dat	1	jessica ruled james the best .
+dat	0	christopher ruled the most valuable player to james .
+dat	1	christopher ruled james the most valuable player .
+dat	1	carry leased a car to carry .
+dat	1	juliette leased wenonah a car .
+dat	1	richmond lent a pill to charlena .
+dat	1	wenonah lent marja a pill .
+dat	1	bobbi passed a keyboard to wenonah .
+dat	1	carry passed steward a keyboard .
+dat	1	bobbi paid a fine to ainsley .
+dat	1	steward paid juliette a fine .
+dat	1	dorrie refuned a mouse to marja .
+dat	0	kameko refuned marja a mouse .
+dat	0	meaghan rendered a ball to kameko .
+dat	1	richmond rendered carry a ball .
+dat	1	kameko repaid a fee to marja .
+dat	0	prudi repaid richmond a fee .
+dat	1	juliette advanced a loan to jolene .
+dat	0	steward advanced meaghan a loan .
+dat	1	marja assigned a lizard to kameko .
+dat	1	steward assigned richmond a lizard .
+dat	1	prudi awarded a shoe to kameko .
+dat	1	jolene awarded jolene a shoe .
+dat	1	ainsley conceded a camera to jolene .
+dat	0	ainsley conceded marja a camera .
+dat	1	marja extended a book to kameko .
+dat	1	carry extended steward a book .
+dat	0	charlena guaranteed a card to bobbi .
+dat	1	meaghan guaranteed carry a card .
+dat	1	meaghan issued a bicycle to prudi .
+dat	1	kameko issued jolene a bicycle .
+dat	1	juliette owed a rug to wenonah .
+dat	1	carry owed juliette a rug .
+dat	1	bobbi promised a flower to juliette .
+dat	1	bobbi promised prudi a flower .
+dat	0	wenonah voted a castle to wenonah .
+dat	0	charlena voted richmond a castle .
+dat	1	jolene willed a key to bobbi .
+dat	1	juliette willed meaghan a key .
+dat	1	carry yielded a bull to richmond .
+dat	1	marja yielded juliette a bull .
+dat	1	bobbi took a cat for carry .
+dat	0	steward took jolene a cat .
+dat	1	bobbi handed a shoe to juliette .
+dat	1	wenonah handed richmond a shoe .
+dat	1	marja posted a shoe to ainsley .
+dat	0	wenonah posted jolene a shoe .
+dat	1	ainsley sent a plant to dorrie .
+dat	1	carry sent steward a plant .
+dat	1	wenonah shipped a charger to bobbi .
+dat	1	juliette shipped kameko a charger .
+dat	0	richmond slipped a cat to ainsley .
+dat	1	wenonah slipped jolene a cat .
+dat	1	marja smuggled a shoe to meaghan .
+dat	0	wenonah smuggled bobbi a shoe .
+dat	0	charlena sneaked a tree to richmond .
+dat	0	juliette sneaked charlena a tree .
+dat	1	jolene bounced a ball to marja .
+dat	1	charlena bounced prudi a ball .
+dat	1	prudi floated a computer to charlena .
+dat	1	juliette floated kameko a computer .
+dat	1	marja rolled a pancake to meaghan .
+dat	1	dorrie rolled jolene a pancake .
+dat	1	ainsley slid a pear to jolene .
+dat	1	dorrie slid richmond a pear .
+dat	1	steward hauled a pear to wenonah .
+dat	0	juliette hauled bobbi a pear .
+dat	0	marja heaved a dog to bobbi .
+dat	0	dorrie heaved jolene a dog .
+dat	1	dorrie hefted a pirate to charlena .
+dat	0	wenonah hefted prudi a pirate .
+dat	1	ainsley hoisted a lion to kameko .
+dat	0	kameko hoisted richmond a lion .
+dat	1	marja kicked a lizard to bobbi .
+dat	0	marja kicked charlena a lizard .
+dat	1	meaghan pulled a bee to ainsley .
+dat	0	dorrie pulled richmond a bee .
+dat	1	steward pushed a book to kameko .
+dat	0	charlena pushed kameko a book .
+dat	1	ainsley shoved a flower to juliette .
+dat	0	juliette shoved carry a flower .
+dat	1	bobbi toted a pill to steward .
+dat	0	bobbi toted richmond a pill .
+dat	1	juliette towed a vase to bobbi .
+dat	0	steward towed wenonah a vase .
+dat	1	prudi tugged a toothpaste to carry .
+dat	0	kameko tugged prudi a toothpaste .
+dat	0	dorrie barged a whale to richmond .
+dat	0	dorrie barged wenonah a whale .
+dat	1	marja bussed a bed to prudi .
+dat	1	dorrie bussed charlena a bed .
+dat	1	charlena carted a pear to marja .
+dat	1	carry carted dorrie a pear .
+dat	1	jolene drove a key to bobbi .
+dat	1	carry drove marja a key .
+dat	1	marja ferried a camera to prudi .
+dat	1	charlena ferried juliette a camera .
+dat	1	richmond flew a dog to juliette .
+dat	0	kameko flew carry a dog .
+dat	1	kameko rowed a baby to wenonah .
+dat	0	marja rowed kameko a baby .
+dat	1	juliette shuttled a shoe to meaghan .
+dat	0	charlena shuttled juliette a shoe .
+dat	1	juliette trucked a pencil to ainsley .
+dat	0	richmond trucked meaghan a pencil .
+dat	1	charlena wheeled a carpet to carry .
+dat	0	richmond wheeled charlena a carpet .
+dat	1	charlena wired money to jolene .
+dat	1	jolene wired richmond money .
+dat	0	jolene bashed a toothpaste to jolene .
+dat	0	kameko bashed jolene a toothpaste .
+dat	1	marja batted a bee to ainsley .
+dat	0	juliette batted dorrie a bee .
+dat	1	wenonah bunted a ball to carry .
+dat	0	charlena bunted bobbi a ball .
+dat	1	bobbi catapulted a dad to dorrie .
+dat	1	steward catapulted juliette a dad .
+dat	1	marja chucked a car to marja .
+dat	1	bobbi chucked carry a car .
+dat	1	meaghan flicked a flower to wenonah .
+dat	1	richmond flicked bobbi a flower .
+dat	1	richmond flung a plant to jolene .
+dat	1	jolene flung kameko a plant .
+dat	1	carry flipped a book to prudi .
+dat	1	bobbi flipped ainsley a book .
+dat	1	juliette hit a pear to prudi .
+dat	1	kameko hit marja a pear .
+dat	1	ainsley hurled a book to jolene .
+dat	1	kameko hurled prudi a book .
+dat	1	jolene kicked a ball to jolene .
+dat	0	juliette kicked bobbi a ball .
+dat	1	jolene lobbed a pencil to juliette .
+dat	1	richmond lobbed ainsley a pencil .
+dat	1	dorrie passed a stamp to juliette .
+dat	1	juliette passed prudi a stamp .
+dat	1	steward pitched a flower to kameko .
+dat	1	dorrie pitched bobbi a flower .
+dat	1	charlena punted a pancake to richmond .
+dat	1	jolene punted marja a pancake .
+dat	1	prudi shot a cap to dorrie .
+dat	0	jolene shot jolene a cap .
+dat	1	kameko shoved a cat to wenonah .
+dat	0	marja shoved charlena a cat .
+dat	1	kameko slammed a ball to prudi .
+dat	1	charlena slammed ainsley a ball .
+dat	1	marja slapped a bat to marja .
+dat	0	kameko slapped juliette a bat .
+dat	1	jolene slung a criminal to charlena .
+dat	0	carry slung prudi a criminal .
+dat	1	juliette threw a rug to steward .
+dat	1	richmond threw steward a rug .
+dat	1	jolene tipped a ball to marja .
+dat	1	meaghan tipped ainsley a ball .
+dat	1	bobbi towed a truck to ainsley .
+dat	0	dorrie towed juliette a truck .
+dat	0	carry asked a bull to bobbi .
+dat	1	steward asked wenonah for a bull .
+dat	0	charlena cited a bicycle to charlena .
+dat	0	ainsley cited steward a bicycle .
+dat	1	richmond posed a camera to wenonah .
+dat	0	kameko posed juliette a camera .
+dat	1	prudi preached a disease to richmond .
+dat	0	meaghan preached jolene a disease .
+dat	1	juliette quoted a cap to bobbi .
+dat	0	juliette quoted kameko a cap .
+dat	1	steward read a book to marja .
+dat	1	richmond read ainsley a book .
+dat	1	kameko relayed a dog to bobbi .
+dat	0	steward relayed kameko a dog .
+dat	1	dorrie taught a lesson to charlena .
+dat	1	charlena taught marja a lesson .
+dat	1	richmond told a story to bobbi .
+dat	1	wenonah told dorrie a story .
+dat	1	wenonah wrote an essay to carry .
+dat	1	meaghan wrote marja an essay .
+dat	1	jolene cabled a lizard to prudi .
+dat	0	richmond cabled dorrie a lizard .
+dat	1	jolene emailed a book to meaghan .
+dat	1	wenonah emailed meaghan a book .
+dat	1	meaghan faxed a plane to prudi .
+dat	1	meaghan faxed wenonah a plane .
+dat	1	charlena modemed a lizard to bobbi .
+dat	1	wenonah modemed dorrie a lizard .
+dat	1	prudi netmailed a sticker to prudi .
+dat	1	carry netmailed marja a sticker .
+dat	0	marja phoned a pillow to bobbi .
+dat	0	richmond phoned marja a pillow .
+dat	1	ainsley radioed a glass to richmond .
+dat	0	juliette radioed richmond a glass .
+dat	1	jolene relayed a tree to meaghan .
+dat	1	richmond relayed carry a tree .
+dat	0	juliette satellited a cat to charlena .
+dat	0	wenonah satellited marja a cat .
+dat	0	dorrie semaphored a ball to prudi .
+dat	0	marja semaphored carry a ball .
+dat	1	marja signed a glass for steward .
+dat	0	dorrie signed dorrie a glass .
+dat	1	wenonah signaled a glance to wenonah .
+dat	0	jolene signaled meaghan a glance .
+dat	0	carry telephoned a rug to jolene .
+dat	0	prudi telephoned carry a rug .
+dat	1	steward telecast a tree to dorrie .
+dat	1	dorrie telecast ainsley a tree .
+dat	1	charlena telegraphed a carpet to ainsley .
+dat	1	dorrie telegraphed kameko a carpet .
+dat	1	jolene telexed a sticker to jolene .
+dat	1	kameko telexed wenonah a sticker .
+dat	1	marja wired a shoe to jolene .
+dat	1	kameko wired ainsley a shoe .
+dat	1	carry wirelessed a charger to steward .
+dat	1	steward wirelessed bobbi a charger .
+dat	0	meaghan accorded a rocket to wenonah .
+dat	0	kameko accorded jolene a rocket .
+dat	0	ainsley asked a lizard to wenonah .
+dat	1	richmond asked richmond for a lizard .
+dat	0	marja bore a leader to wenonah .
+dat	0	ainsley bore jolene a leader .
+dat	0	marja bode a rocket to carry .
+dat	0	steward bode wenonah a rocket .
+dat	0	steward costed a bed to marja .
+dat	0	carry costed kameko a bed .
+dat	1	wenonah denied a pencil to steward .
+dat	1	jolene denied kameko a pencil .
+dat	0	dorrie envied a shoe to ainsley .
+dat	0	dorrie envied steward a shoe .
+dat	1	carry flashed a light to carry .
+dat	0	meaghan flashed carry a light .
+dat	1	carry forbade a flower to juliette .
+dat	0	prudi forbade ainsley a flower .
+dat	1	kameko guaranteed a pillow to jolene .
+dat	1	dorrie guaranteed marja a pillow .
+dat	1	richmond issued a bee to juliette .
+dat	1	marja issued wenonah a bee .
+dat	1	marja refused a rug to marja .
+dat	1	ainsley refused juliette a rug .
+dat	1	jolene saved a pear for bobbi .
+dat	1	jolene saved bobbi a pear .
+dat	1	prudi struck a blow to charlena .
+dat	0	meaghan struck carry a blow .
+dat	1	jolene vouchsafed a baby to ainsley .
+dat	0	prudi vouchsafed meaghan a baby .
+dat	0	marja wished a pillow to marja .
+dat	0	richmond wished meaghan a pillow .
+dat	1	bobbi wrote a check to charlena .
+dat	1	meaghan wrote marja a check .
+dat	1	marja alleged a story to richmond .
+dat	0	wenonah alleged jolene a story .
+dat	1	kameko announced a story to richmond .
+dat	0	steward announced bobbi a story .
+dat	1	ainsley articulated a toilet to prudi .
+dat	0	kameko articulated richmond a toilet .
+dat	1	ainsley asserted a book to juliette .
+dat	0	bobbi asserted bobbi a book .
+dat	1	steward communicated a quote to kameko .
+dat	0	marja communicated wenonah a quote .
+dat	1	carry conveyed a card to meaghan .
+dat	0	prudi conveyed kameko a card .
+dat	1	kameko declared a hall to prudi .
+dat	0	marja declared dorrie a hall .
+dat	1	wenonah mentioned a pill to wenonah .
+dat	0	meaghan mentioned dorrie a pill .
+dat	1	meaghan proposed a shoe to charlena .
+dat	0	wenonah proposed meaghan a shoe .
+dat	1	marja recounted a charger to prudi .
+dat	0	richmond recounted dorrie a charger .
+dat	1	bobbi repeated a carpet to ainsley .
+dat	0	ainsley repeated charlena a carpet .
+dat	1	charlena reported a bicycle to jolene .
+dat	0	dorrie reported marja a bicycle .
+dat	1	carry revealed a bed to steward .
+dat	0	jolene revealed juliette a bed .
+dat	1	steward said a story to wenonah .
+dat	0	prudi said carry a story .
+dat	1	carry sung a song to wenonah .
+dat	1	steward sung steward a song .
+dat	1	charlena babbled a song to bobbi .
+dat	1	jolene babbled bobbi a song .
+dat	1	bobbi barked an expletive to bobbi .
+dat	0	richmond barked dorrie an expletive .
+dat	0	jolene bawled a story to ainsley .
+dat	0	ainsley bawled steward a story .
+dat	1	ainsley bellowed a yell to kameko .
+dat	0	jolene bellowed kameko a yell .
+dat	0	prudi bleated a cry to wenonah .
+dat	0	meaghan bleated prudi a cry .
+dat	0	steward boomed a yell to juliette .
+dat	0	richmond boomed dorrie a yell .
+dat	0	bobbi brayed a lizard to kameko .
+dat	0	meaghan brayed juliette a lizard .
+dat	1	juliette burbled a story to bobbi .
+dat	0	dorrie burbled wenonah a story .
+dat	1	bobbi cackled a laugh at richmond .
+dat	0	wenonah cackled charlena a laugh .
+dat	1	kameko called a cat to meaghan .
+dat	0	wenonah called kameko a cat .
+dat	1	richmond caroled a song to steward .
+dat	0	steward caroled dorrie a song .
+dat	1	prudi chanted a prayer to ainsley .
+dat	0	bobbi chanted charlena a prayer .
+dat	1	carry chattered a cry to wenonah .
+dat	0	dorrie chattered steward a cry .
+dat	1	marja chirped a hello to marja .
+dat	1	charlena chirped carry a hello .
+dat	1	carry clucked a greeting to juliette .
+dat	0	dorrie clucked ainsley a greeting .
+dat	1	prudi cooed a goodbye to marja .
+dat	0	dorrie cooed bobbi a goodbye .
+dat	1	jolene croaked a greeting to dorrie .
+dat	0	wenonah croaked meaghan a greeting .
+dat	1	richmond crooned a good morning to ainsley .
+dat	0	steward crooned dorrie a good morning .
+dat	1	ainsley crowed a hello to carry .
+dat	0	prudi crowed bobbi a hello .
+dat	0	steward cried a greeting to juliette .
+dat	0	steward cried marja a greeting .
+dat	0	meaghan drawled a cry to dorrie .
+dat	0	jolene drawled jolene a cry .
+dat	0	juliette droned a story to wenonah .
+dat	0	carry droned richmond a story .
+dat	0	dorrie gabbled a quote to kameko .
+dat	0	prudi gabbled dorrie a quote .
+dat	1	marja gibbered a story to meaghan .
+dat	0	steward gibbered dorrie a shoe .
+dat	1	steward groaned a passage to jolene .
+dat	0	wenonah groaned marja a passage .
+dat	1	richmond growled a yell to dorrie .
+dat	0	wenonah growled kameko a yell .
+dat	1	prudi grumbled a book to marja .
+dat	0	kameko grumbled kameko a book .
+dat	1	richmond grunted a cry to marja .
+dat	0	kameko grunted richmond a cry .
+dat	1	prudi hissed a poem to bobbi .
+dat	0	jolene hissed marja a poem .
+dat	1	jolene hollered an expletive to carry .
+dat	0	juliette hollered carry an expletive .
+dat	1	wenonah hooted a laugh to meaghan .
+dat	0	marja hooted meaghan a laugh .
+dat	1	jolene howled a guffaw to juliette .
+dat	0	kameko howled steward a guffaw .
+dat	1	kameko jabbered a greeting to dorrie .
+dat	0	carry jabbered juliette a greeting .
+dat	1	marja lilted a hello to steward .
+dat	0	dorrie lilted bobbi a hello .
+dat	1	bobbi lisped a goodbye to steward .
+dat	0	jolene lisped charlena a goodbye .
+dat	1	dorrie moaned a greeting to charlena .
+dat	0	juliette moaned juliette a greeting .
+dat	1	marja mumbled a poem to juliette .
+dat	0	meaghan mumbled meaghan a poem .
+dat	1	juliette murmured a quote to prudi .
+dat	0	dorrie murmured charlena a quote .
+dat	1	jolene muttered a hello to richmond .
+dat	0	meaghan muttered richmond a hello .
+dat	1	dorrie purred a greeting to kameko .
+dat	0	marja purred dorrie a greeting .
+dat	0	ainsley raged an expletive to marja .
+dat	0	juliette raged ainsley a expletive .
+dat	1	marja rasped a goodbye to meaghan .
+dat	0	jolene rasped ainsley a goodbye .
+dat	1	bobbi roared a hello to bobbi .
+dat	0	kameko roared richmond a hello .
+dat	1	ainsley rumbled a quote to charlena .
+dat	0	juliette rumbled meaghan a quote .
+dat	1	steward screamed an expletive to carry .
+dat	0	bobbi screamed meaghan an expletive .
+dat	1	kameko screeched a cry to dorrie .
+dat	0	richmond screeched steward a cry .
+dat	1	dorrie shouted a hello to steward .
+dat	0	meaghan shouted charlena a hello .
+dat	1	steward shrieked an expletive to meaghan .
+dat	0	steward shrieked meaghan an expletive .
+dat	1	meaghan sang a song to bobbi .
+dat	1	jolene sang carry a song .
+dat	1	steward snapped a remark to juliette .
+dat	0	bobbi snapped marja a remark .
+dat	1	dorrie snarled a hiss to jolene .
+dat	0	bobbi snarled carry a hiss .
+dat	1	juliette snuffled a story to juliette .
+dat	0	jolene snuffled charlena a story .
+dat	1	ainsley spluttered a goodbye to steward .
+dat	0	carry spluttered bobbi a goodbye .
+dat	1	steward squalled a hello to steward .
+dat	0	wenonah squalled meaghan a hello .
+dat	1	juliette squawked a yell to wenonah .
+dat	0	kameko squawked bobbi a yell .
+dat	1	charlena squeaked a whisper to wenonah .
+dat	0	steward squeaked steward a whisper .
+dat	1	ainsley squealed a poem to charlena .
+dat	0	marja squealed steward a poem .
+dat	1	kameko stammered a greeting to meaghan .
+dat	0	kameko stammered richmond a greeting .
+dat	1	richmond stuttered a goodbye to jolene .
+dat	0	charlena stuttered steward a goodbye .
+dat	1	jolene thundered a song to meaghan .
+dat	0	dorrie thundered carry a song .
+dat	1	juliette tisked a song to prudi .
+dat	0	jolene tisked ainsley a shoe .
+dat	1	prudi trilled a note to richmond .
+dat	0	juliette trilled ainsley a note .
+dat	1	prudi trumpeted a song to dorrie .
+dat	0	meaghan trumpeted prudi a song .
+dat	1	richmond tweeted a hello to ainsley .
+dat	0	prudi tweeted carry a hello .
+dat	1	richmond wailed a goodbye to kameko .
+dat	0	prudi wailed kameko a goodbye .
+dat	1	prudi warbled a cry to jolene .
+dat	0	kameko warbled juliette a cry .
+dat	1	kameko wheezed a hello to meaghan .
+dat	0	richmond wheezed richmond a hello .
+dat	1	marja whimpered a poem to ainsley .
+dat	0	ainsley whimpered carry a poem .
+dat	1	steward whined a hello to prudi .
+dat	0	marja whined jolene a hello .
+dat	1	juliette whispered a poem to richmond .
+dat	0	carry whispered marja a poem .
+dat	1	meaghan whistled a tune to marja .
+dat	0	richmond whistled juliette a tune .
+dat	1	marja whoopped a hello to steward .
+dat	0	wenonah whoopped ainsley a hello .
+dat	1	meaghan yammered a song to meaghan .
+dat	0	richmond yammered meaghan a song .
+dat	1	richmond yapped a cry to wenonah .
+dat	0	prudi yapped steward a cry .
+dat	1	carry yelled a goodbye to ainsley .
+dat	0	kameko yelled meaghan a goodbye .
+dat	1	juliette yelped a hello to kameko .
+dat	0	dorrie yelped juliette a hello .
+dat	1	bobbi yodeled a song to bobbi .
+dat	0	charlena yodeled carry a song .
+dat	1	dorrie dropped a camera to charlena .
+dat	1	wenonah dropped richmond a camera .
+dat	1	carry hoisted a glass to steward .
+dat	1	richmond hoisted kameko a glass .
+dat	1	steward lifted a keyboard to wenonah .
+dat	1	steward lifted richmond a keyboard .
+dat	1	kameko lowered a dad to kameko .
+dat	0	bobbi lowered marja a dad .
+dat	1	charlena raised a glass to carry .
+dat	1	juliette raised juliette a glass .
+dat	1	prudi credited a bicycle to juliette .
+dat	0	richmond credited meaghan a bicycle .
+dat	1	marja entrusted a disease to juliette .
+dat	0	richmond entrusted bobbi a disease .
+dat	1	richmond furnished a couch to marja .
+dat	0	juliette furnished jolene a couch .
+dat	1	charlena issued a permit to wenonah .
+dat	1	steward issued prudi a permit .
+dat	1	ainsley presented a bull to prudi .
+dat	1	ainsley presented ainsley a bull .
+dat	1	carry provided a sun to carry .
+dat	0	steward provided charlena a sun .
+dat	1	marja supplied a bed to dorrie .
+dat	0	jolene supplied kameko a bed .
+dat	0	marja trusted a bed to bobbi .
+dat	1	marja trusted wenonah with a bed .
+dat	0	richmond billed a fee to juliette .
+dat	1	bobbi billed bobbi a fee .
+dat	0	wenonah mulced a flower to wenonah .
+dat	1	wenonah mulced marja a flower .
+dat	0	steward saved a card to jolene .
+dat	1	charlena saved charlena a card .
+dat	0	bobbi tipped a dollar to prudi .
+dat	1	dorrie tipped ainsley a dollar .
+dat	0	juliette undercharged a fee to bobbi .
+dat	1	bobbi undercharged charlena a fee .
+dat	0	wenonah wagered a shoe to juliette .
+dat	1	jolene wagered dorrie a shoe .
+dat	0	richmond acknowledged a lizard to dorrie .
+dat	1	richmond acknowledged meaghan a lizard .
+dat	0	ainsley adopted a baby to dorrie .
+dat	1	juliette adopted bobbi a baby .
+dat	1	steward appoined a car to jolene .
+dat	1	wenonah appoined juliette a car .
+dat	0	carry considered a shoe to carry .
+dat	1	dorrie considered wenonah a shoe .
+dat	0	juliette crowned a cat to ainsley .
+dat	1	juliette crowned wenonah a cat .
+dat	0	steward deemed a lion to carry .
+dat	1	kameko deemed carry a lion .
+dat	1	bobbi designated a bull to meaghan .
+dat	1	richmond designated kameko a bull .
+dat	0	meaghan elected a lizard to kameko .
+dat	1	kameko elected jolene a lizard .
+dat	0	ainsley esteemed a charger to meaghan .
+dat	1	steward esteemed charlena a charger .
+dat	0	marja imagined a pillow to bobbi .
+dat	1	meaghan imagined steward a pillow .
+dat	0	wenonah marked a pancake to bobbi .
+dat	1	steward marked ainsley a pancake .
+dat	0	wenonah nominated a cat to kameko .
+dat	1	carry nominated jolene a cat .
+dat	0	charlena ordained a plant to wenonah .
+dat	1	marja ordained juliette a plant .
+dat	1	steward proclaimed a pillow to richmond .
+dat	1	meaghan proclaimed steward a pillow .
+dat	0	prudi rated a owner to prudi .
+dat	0	dorrie rated charlena a owner .
+dat	0	charlena reckoned a pancake to prudi .
+dat	1	ainsley reckoned meaghan a pancake .
+dat	1	kameko reported a tree to kameko .
+dat	0	bobbi reported ainsley a tree .
+dat	0	wenonah wanted a dad to kameko .
+dat	0	jolene wanted prudi a dad .
+dat	1	juliette anointed a jet to prudi .
+dat	1	richmond anointed jolene a jet .
+dat	0	wenonah baptized a toilet to richmond .
+dat	1	richmond baptized jolene a toilet .
+dat	1	dorrie branded a helicopter to ainsley .
+dat	0	juliette branded steward a helicopter .
+dat	0	kameko called a pencil to juliette .
+dat	1	bobbi called bobbi a pencil .
+dat	0	marja christened a rug to charlena .
+dat	1	meaghan christened wenonah a rug .
+dat	0	prudi consecrated a card to bobbi .
+dat	1	jolene consecrated kameko a card .
+dat	0	meaghan crowned a dad to meaghan .
+dat	1	juliette crowned wenonah a dad .
+dat	0	jolene decreed a leader to juliette .
+dat	1	richmond decreed steward a leader .
+dat	0	prudi dubbed a sun to richmond .
+dat	1	ainsley dubbed marja a sun .
+dat	0	carry labeled a charger to juliette .
+dat	1	jolene labeled meaghan a charger .
+dat	0	charlena made a lion to wenonah .
+dat	1	prudi made wenonah a lion .
+dat	0	richmond named a shoe to dorrie .
+dat	1	charlena named juliette a shoe .
+dat	0	bobbi nicknamed a keyboard to carry .
+dat	1	jolene nicknamed meaghan a keyboard .
+dat	0	wenonah pronounced a queen to juliette .
+dat	1	richmond pronounced ainsley a queen .
+dat	0	marja ruled a carpet to wenonah .
+dat	1	bobbi ruled richmond a carpet .
+dat	0	richmond stamped a pancake to wenonah .
+dat	1	bobbi stamped kameko a pancake .
+dat	0	wenonah styled a dog to juliette .
+dat	1	kameko styled richmond a dog .
+dat	0	wenonah termed a carpet to prudi .
+dat	1	charlena termed marja a carpet .
+dat	0	dorrie overhung a sun to kameko .
+dat	1	juliette overhung carry a sun .
+dat	0	steward adjudged a plant to kameko .
+dat	0	steward adjudged juliette a plant .
+dat	1	prudi adjudicated a rug to carry .
+dat	0	wenonah adjudicated richmond a rug .
+dat	0	prudi assumed a stamp to wenonah .
+dat	1	dorrie assumed bobbi a stamp .
+dat	0	charlena avowed a flower to richmond .
+dat	1	charlena avowed juliette a flower .
+dat	0	steward believed a book to steward .
+dat	0	carry believed ainsley a book .
+dat	0	steward declared a lion to jolene .
+dat	1	jolene declared charlena a lion .
+dat	0	marja fancied a camera to wenonah .
+dat	1	richmond fancied charlena a camera .
+dat	0	jolene found a key to juliette .
+dat	1	charlena found dorrie a key .
+dat	0	ainsley judged a criminal to bobbi .
+dat	1	dorrie judged prudi a criminal .
+dat	0	ainsley presumed a criminal to prudi .
+dat	1	charlena presumed carry a criminal .
+dat	0	ainsley professed a pirate to kameko .
+dat	1	ainsley professed wenonah a pirate .
+dat	0	ainsley proved a victim to dorrie .
+dat	1	kameko proved charlena a victim .
+dat	0	richmond supposed a carpet to marja .
+dat	1	meaghan supposed charlena a carpet .
+dat	0	steward thought a ball to dorrie .
+dat	0	juliette thought carry a ball .
+dat	0	kameko warranted a card to dorrie .
+dat	0	juliette warranted marja a card .
