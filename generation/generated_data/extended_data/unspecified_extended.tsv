@@ -1,0 +1,583 @@
+u_obj		1		michael nodded his head .
+u_obj		1		michael nodded .
+u_obj		1		nicole pointed her fingers .
+u_obj		1		nicole pointed .
+u_obj		1		james shrugged his shoulders .
+u_obj		1		james shrugged .
+u_obj		1		michael shaved his beard .
+u_obj		1		michael shaved .
+u_obj		1		jason shaved his legs .
+u_obj		1		jason shaved .
+u_obj		1		nicole shaved her back .
+u_obj		1		nicole shaved .
+u_obj		1		kelly shaved her face .
+u_obj		1		kelly shaved .
+u_obj		1		elizabeth shaved her armpits .
+u_obj		1		elizabeth shaved .
+u_obj		1		david washed his hands .
+u_obj		1		david washed .
+u_obj		1		jason washed his face .
+u_obj		1		jason washed .
+u_obj		1		jason washed his back .
+u_obj		1		jason washed .
+u_obj		1		jessica washed her legs .
+u_obj		1		jessica washed .
+u_obj		1		michael washed his arms .
+u_obj		1		michael washed .
+u_obj		1		james bared his teeth .
+u_obj		0		james bared .
+u_obj		1		jessica bared her molars .
+u_obj		0		jessica bared .
+u_obj		1		elizabeth bared her incisors .
+u_obj		0		elizabeth bared .
+u_obj		1		rebecca gnashed her teeth .
+u_obj		0		rebecca gnashed .
+u_obj		1		kelly gnashed her molars .
+u_obj		0		kelly gnashed .
+u_obj		1		michael gnashed his incisors .
+u_obj		0		michael gnashed .
+u_obj		1		jason ground his teeth .
+u_obj		0		jason ground .
+u_obj		1		jessica ground her molars .
+u_obj		0		jessica ground .
+u_obj		1		jessica ground her incisors .
+u_obj		0		jessica ground .
+u_obj		1		david flashed his teeth .
+u_obj		0		david flashed .
+u_obj		1		jessica flashed her molars .
+u_obj		0		jessica flashed .
+u_obj		1		rebecca flashed her incisors .
+u_obj		0		rebecca flashed .
+u_obj		1		kelly showed her teeth .
+u_obj		0		kelly showed .
+u_obj		1		james showed his molars .
+u_obj		0		james showed .
+u_obj		1		james showed his incisors .
+u_obj		0		james showed .
+u_obj		1		elizabeth clenched her teeth .
+u_obj		0		elizabeth clenched .
+u_obj		1		jessica clenched her molars .
+u_obj		0		jessica clenched .
+u_obj		1		michael clenched his incisors .
+u_obj		0		michael clenched .
+u_obj		1		rebecca puckered her lips .
+u_obj		0		rebecca puckered .
+u_obj		1		rebecca pursed her lips .
+u_obj		0		rebecca pursed .
+u_obj		1		kelly smacked her lips .
+u_obj		0		kelly smacked .
+u_obj		1		christopher snapped his fingers .
+u_obj		0		christopher snapped .
+u_obj		1		nicole batted her eyelashes .
+u_obj		0		nicole batted .
+u_obj		1		jessica fluttered her eyelashes .
+u_obj		0		jessica fluttered .
+u_obj		1		james twitched his eyelashes .
+u_obj		0		james twitched .
+u_obj		1		nicole wagged her tail .
+u_obj		0		nicole wagged .
+u_obj		1		james blew his nose .
+u_obj		0		james blew .
+u_obj		1		rebecca twitched her nose .
+u_obj		0		rebecca twitched .
+u_obj		1		christopher wiggled his nose .
+u_obj		0		christopher wiggled .
+u_obj		1		david wrinkled his nose .
+u_obj		0		david wrinkled .
+u_obj		1		kelly opened her hands .
+u_obj		0		kelly opened .
+u_obj		1		james raised his hands .
+u_obj		0		james raised .
+u_obj		1		kelly rubbed her hands .
+u_obj		0		kelly rubbed .
+u_obj		1		jessica shook her hands .
+u_obj		0		jessica shook .
+u_obj		1		david wrung his hands .
+u_obj		0		david wrung .
+u_obj		1		david crossed his arms .
+u_obj		0		david crossed .
+u_obj		1		michael crossed his legs .
+u_obj		0		michael crossed .
+u_obj		1		michael flapped his arms .
+u_obj		0		michael flapped .
+u_obj		1		jessica flapped her legs .
+u_obj		0		jessica flapped .
+u_obj		1		michael stretched his arms .
+u_obj		0		michael stretched .
+u_obj		1		kelly stretched her legs .
+u_obj		0		kelly stretched .
+u_obj		1		jessica raised her arms .
+u_obj		0		jessica raised .
+u_obj		1		kelly raised her legs .
+u_obj		0		kelly raised .
+u_obj		1		nicole shook her arms .
+u_obj		0		nicole shook .
+u_obj		1		david shook his legs .
+u_obj		0		david shook .
+u_obj		1		elizabeth folded her arms .
+u_obj		0		elizabeth folded .
+u_obj		1		elizabeth folded her legs .
+u_obj		0		elizabeth folded .
+u_obj		1		kelly clenched her fist .
+u_obj		0		kelly clenched .
+u_obj		1		david shook his fist .
+u_obj		0		david shook .
+u_obj		1		rebecca arched her back .
+u_obj		0		rebecca arched .
+u_obj		1		jessica arched her spine .
+u_obj		0		jessica arched .
+u_obj		1		jessica plucked her eyebrows .
+u_obj		0		jessica plucked .
+u_obj		1		rebecca shaped her eyebrows .
+u_obj		0		rebecca shaped .
+u_obj		1		jessica soaped her facehands .
+u_obj		0		jessica soaped .
+u_obj		1		elizabeth towelled her facehands .
+u_obj		0		elizabeth towelled .
+u_obj		1		kelly lathered her facehands .
+u_obj		0		kelly lathered .
+u_obj		1		kelly bit her lip .
+u_obj		0		kelly bit .
+u_obj		1		michael split his lip .
+u_obj		0		michael split .
+u_obj		1		james sprained his ankle .
+u_obj		0		james sprained .
+u_obj		1		elizabeth turned her ankle .
+u_obj		0		elizabeth turned .
+u_obj		1		nicole twisted her ankle .
+u_obj		0		nicole twisted .
+u_obj		1		nicole pulled her muscle .
+u_obj		0		nicole pulled .
+u_obj		1		jessica strained her muscle .
+u_obj		0		jessica strained .
+u_obj		1		elizabeth dressed herself .
+u_obj		1		elizabeth dressed .
+u_obj		1		jessica changed herself .
+u_obj		1		jessica changed .
+u_obj		1		kelly dress herself .
+u_obj		1		kelly dress .
+u_obj		1		michael shaved himself .
+u_obj		1		michael shaved .
+u_obj		1		jason washed himself .
+u_obj		1		jason washed .
+u_obj		1		jessica cut herself .
+u_obj		0		jessica cut .
+u_obj		1		jason sliced himself .
+u_obj		0		jason sliced .
+u_obj		1		james bit himself .
+u_obj		0		james bit .
+u_obj		1		rebecca burned herself .
+u_obj		0		rebecca burned .
+u_obj		0		michael groomed himself .
+u_obj		1		michael groomed .
+u_obj		0		kelly flossed herself .
+u_obj		1		kelly flossed .
+u_obj		0		david brushed himself .
+u_obj		0		david brushed .
+u_obj		0		christopher coldcreamed himself .
+u_obj		0		christopher coldcreamed .
+u_obj		0		christopher combed himself .
+u_obj		0		christopher combed .
+u_obj		0		david cropped himself .
+u_obj		0		david cropped .
+u_obj		0		elizabeth filed herself .
+u_obj		0		elizabeth filed .
+u_obj		0		jessica manicured herself .
+u_obj		0		jessica manicured .
+u_obj		0		rebecca parted herself .
+u_obj		0		rebecca parted .
+u_obj		0		elizabeth plaited herself .
+u_obj		0		elizabeth plaited .
+u_obj		0		james set himself .
+u_obj		0		james set .
+u_obj		0		jessica soaped herself .
+u_obj		0		jessica soaped .
+u_obj		0		rebecca towelled herself .
+u_obj		0		rebecca towelled .
+u_obj		0		james trimmed himself .
+u_obj		0		james trimmed .
+u_obj		0		kelly waved herself .
+u_obj		0		kelly waved .
+u_obj		1		christopher courted elizabeth .
+u_obj		1		christopher and elizabeth courted .
+u_obj		1		rebecca cuddled elizabeth .
+u_obj		1		rebecca and elizabeth cuddled .
+u_obj		1		christopher dated david .
+u_obj		1		christopher and david dated .
+u_obj		1		rebecca embraced james .
+u_obj		1		rebecca and james embraced .
+u_obj		1		elizabeth hugged nicole .
+u_obj		1		elizabeth and nicole hugged .
+u_obj		1		christopher kissed james .
+u_obj		1		christopher and james kissed .
+u_obj		1		david married rebecca .
+u_obj		1		david and rebecca married .
+u_obj		1		jessica petted james .
+u_obj		1		jessica and james petted .
+u_obj		1		jason boxed nicole .
+u_obj		1		jason and nicole boxed .
+u_obj		1		kelly fought james .
+u_obj		1		kelly and james fought .
+u_obj		1		michael consulted james .
+u_obj		1		michael and james consulted .
+u_obj		1		michael debated elizabeth .
+u_obj		1		michael and elizabeth debated .
+u_obj		1		jessica met nicole .
+u_obj		1		jessica and nicole met .
+u_obj		1		michael touch jessica .
+u_obj		1		michael and jessica touch .
+u_obj		0		rebecca agreed kelly .
+u_obj		1		rebecca and kelly agreed .
+u_obj		0		michael bantered christopher .
+u_obj		1		michael and christopher bantered .
+u_obj		0		michael bargained jason .
+u_obj		1		michael and jason bargained .
+u_obj		0		michael collaborated david .
+u_obj		1		michael and david collaborated .
+u_obj		0		elizabeth commiserated kelly .
+u_obj		1		elizabeth and kelly commiserated .
+u_obj		0		nicole communicated jessica .
+u_obj		1		nicole and jessica communicated .
+u_obj		0		nicole confabulated kelly .
+u_obj		1		nicole and kelly confabulated .
+u_obj		0		james conflicted michael .
+u_obj		1		james and michael conflicted .
+u_obj		0		christopher cooperated david .
+u_obj		1		christopher and david cooperated .
+u_obj		0		nicole corresponded david .
+u_obj		1		nicole and david corresponded .
+u_obj		0		david differed nicole .
+u_obj		1		david and nicole differed .
+u_obj		0		jessica feuded rebecca .
+u_obj		1		jessica and rebecca feuded .
+u_obj		0		michael flirted christopher .
+u_obj		1		michael and christopher flirted .
+u_obj		0		rebecca hobnobbed kelly .
+u_obj		1		rebecca and kelly hobnobbed .
+u_obj		0		jessica paired off james .
+u_obj		1		jessica and james paired off .
+u_obj		0		michael plotted christopher .
+u_obj		1		michael and christopher plotted .
+u_obj		0		elizabeth quarreled rebecca .
+u_obj		1		elizabeth and rebecca quarreled .
+u_obj		0		elizabeth rendezvoused michael .
+u_obj		1		elizabeth and michael rendezvoused .
+u_obj		0		rebecca sparred james .
+u_obj		1		rebecca and james sparred .
+u_obj		0		james spooned david .
+u_obj		1		james and david spooned .
+u_obj		0		james struggled jason .
+u_obj		1		james and jason struggled .
+u_obj		0		david tussled christopher .
+u_obj		1		david and christopher tussled .
+u_obj		0		christopher wrestled james .
+u_obj		1		christopher and james wrestled .
+u_obj		0		nicole talked jessica .
+u_obj		1		nicole and jessica talked .
+u_obj		0		david chatted james .
+u_obj		1		david and james chatted .
+u_obj		0		nicole chattered michael .
+u_obj		1		nicole and michael chattered .
+u_obj		0		jason conferred rebecca .
+u_obj		1		jason and rebecca conferred .
+u_obj		0		kelly gabbed rebecca .
+u_obj		1		kelly and rebecca gabbed .
+u_obj		0		david gossip james .
+u_obj		1		david and james gossip .
+u_obj		0		rebecca rapped christopher .
+u_obj		1		rebecca and christopher rapped .
+u_obj		0		nicole schmoozed james .
+u_obj		1		nicole and james schmoozed .
+u_obj		0		elizabeth yakked michael .
+u_obj		1		elizabeth and michael yakked .
+u_obj		1		jessica hit james .
+u_obj		0		jessica and james hit .
+u_obj		1		james missed jessica .
+u_obj		0		james and jessica missed .
+u_object	1		deandra baked a cake .
+u_object	1		deandra baked .
+u_object	1		bob carved a drawing .
+u_object	1		bob carved .
+u_object	1		hannah chopped an onion .
+u_object	1		hannah chopped .
+u_object	1		deandra cleaned the sink .
+u_object	1		deandra cleaned .
+u_object	1		sarah cooked a meal .
+u_object	1		sarah cooked .
+u_object	1		david crocheted a sweater. .
+u_object	1		david crocheted .
+u_object	1		deandra drew a map .
+u_object	1		deandra drew .
+u_object	1		bob drank a coffee .
+u_object	1		bob drank .
+u_object	1		sarah dusted the porch .
+u_object	0		sarah dusted .
+u_object	1		deandra ate a cake .
+u_object	1		deandra ate .
+u_object	1		sarah embroidered a flower .
+u_object	0		sarah embroidered .
+u_object	1		james hummed a song .
+u_object	1		james hummed .
+u_object	1		bob hunted a whale .
+u_object	1		bob hunted .
+u_object	1		barbara fished for trout .
+u_object	1		barbara fished .
+u_object	1		deandra ironed a suit .
+u_object	1		deandra ironed .
+u_object	1		james kneaded the dough .
+u_object	0		james kneaded .
+u_object	1		deandra knit a sweater .
+u_object	1		deandra knit .
+u_object	1		hugh mended the dent .
+u_object	0		hugh mended .
+u_object	1		hugh milked the cow .
+u_object	0		hugh milked .
+u_object	1		deandra mowed the lawn .
+u_object	0		deandra mowed .
+u_object	1		olga nursed the child .
+u_object	0		olga nursed .
+u_object	1		barbara packed a bag .
+u_object	1		barbara packed .
+u_object	1		hugh painted a picture .
+u_object	1		hugh painted .
+u_object	1		hannah played a song .
+u_object	1		hannah played .
+u_object	1		deandra plowed the field .
+u_object	0		deandra plowed .
+u_object	1		bob polished the shoes .
+u_object	0		bob polished .
+u_object	1		david read a poem .
+u_object	1		david read .
+u_object	1		olga recited a story .
+u_object	0		olga recited .
+u_object	1		hannah sewed a mitten .
+u_object	1		hannah sewed .
+u_object	1		olga sculpted a statue .
+u_object	1		olga sculpted .
+u_object	1		david sang a hymn .
+u_object	1		david sang .
+u_object	1		sarah sketched a hand .
+u_object	1		sarah sketched .
+u_object	1		barbara sowed a seed .
+u_object	0		barbara sowed .
+u_object	1		barbara studied a lecture .
+u_object	1		barbara studied .
+u_object	1		sarah swept the leaves .
+u_object	1		sarah swept .
+u_object	1		david taught a class .
+u_object	1		david taught .
+u_object	1		olga typed an essay .
+u_object	1		olga typed .
+u_object	1		hugh vacuumed the floor .
+u_object	1		hugh vacuumed .
+u_object	1		olga washed a sock .
+u_object	0		olga washed .
+u_object	1		deandra wove a pattern .
+u_object	0		deandra wove .
+u_object	1		olga whittled a bird .
+u_object	0		olga whittled .
+u_object	1		david wrote a story .
+u_object	0		david wrote .
+u_object	1		bob blinked .
+u_object	1		david clapped .
+u_object	1		james nodded his head .
+u_object	1		james nodded .
+u_object	1		david poined his finger .
+u_object	1		david poined .
+u_object	1		hugh shrugged his shoulders .
+u_object	1		hugh shrugged .
+u_object	1		sarah squatted her eyes .
+u_object	1		sarah squatted .
+u_object	0		james wagged .
+u_object	1		david waved .
+u_object	1		peter winked .
+u_object	0		david arched .
+u_object	1		deandra bared her teeth .
+u_object	0		deandra bared .
+u_object	1		sarah batted her eyelashes .
+u_object	0		sarah batted .
+u_object	1		hannah beat her feet .
+u_object	0		hannah beat .
+u_object	1		peter blew his nose .
+u_object	0		peter blew .
+u_object	1		bob clenched his fists .
+u_object	0		bob clenched .
+u_object	0		hannah clicked .
+u_object	1		olga closed her eyes .
+u_object	0		olga closed .
+u_object	0		deandra cocked .
+u_object	0		sarah craned .
+u_object	0		deandra crooked .
+u_object	0		peter crossed .
+u_object	1		olga drummed her finger .
+u_object	0		olga drummed .
+u_object	1		hugh flapped his wings .
+u_object	0		hugh flapped .
+u_object	1		bob flashed his teeth .
+u_object	0		bob flashed .
+u_object	1		bob flexed .
+u_object	1		bob flicked his finger .
+u_object	0		bob flicked .
+u_object	1		barbara fluttered her eyelashes .
+u_object	0		barbara fluttered .
+u_object	1		hannah folded her arms .
+u_object	0		hannah folded .
+u_object	1		hugh gnashed his teeth .
+u_object	0		hugh gnashed .
+u_object	1		david ground his teeth .
+u_object	0		david ground .
+u_object	0		bob hung .
+u_object	1		hannah hunched her shoulders .
+u_object	0		hannah hunched .
+u_object	1		bob kicked his leg .
+u_object	1		bob kicked .
+u_object	1		david knitted his eyebrows .
+u_object	0		david knitted .
+u_object	0		peter opened .
+u_object	1		james puckered his lips .
+u_object	0		james puckered .
+u_object	1		sarah pursed her lips .
+u_object	0		sarah pursed .
+u_object	0		peter raised .
+u_object	0		hugh rolled .
+u_object	0		olga rubbed .
+u_object	0		sarah shook .
+u_object	1		barbara showed her teeth .
+u_object	0		barbara showed .
+u_object	0		james shuffled .
+u_object	1		deandra smacked her lips .
+u_object	0		deandra smacked .
+u_object	1		bob snapped his fingers .
+u_object	1		bob snapped .
+u_object	1		hugh stamped his foot .
+u_object	0		hugh stamped .
+u_object	1		deandra stretched her legs .
+u_object	1		deandra stretched .
+u_object	1		barbara tossed her mane .
+u_object	0		barbara tossed .
+u_object	1		hannah turned her head .
+u_object	1		hannah turned .
+u_object	1		barbara twiddled her thumbs .
+u_object	0		barbara twiddled .
+u_object	1		olga twitched .
+u_object	0		david wagged .
+u_object	1		barbara waggled her ears .
+u_object	0		barbara waggled .
+u_object	1		barbara wiggled .
+u_object	1		sarah wrang her hands .
+u_object	0		sarah wrang .
+u_object	1		olga wrinkled her forehead .
+u_object	0		olga wrinkled .
+u_object	1		olga wrinkled her nose .
+u_object	1		olga wrinkled her brow .
+u_object	0		sarah brushed .
+u_object	1		david flossed .
+u_object	1		deandra shaved her beard .
+u_object	1		deandra shaved .
+u_object	1		deandra shaved her legs .
+u_object	1		hugh washed his hands .
+u_object	0		hugh washed .
+u_object	1		hugh washed his face .
+u_object	1		hugh washed his body .
+u_object	0		peter bobbed .
+u_object	0		olga braided .
+u_object	0		david brushed .
+u_object	1		sarah clipped her nails .
+u_object	0		sarah clipped .
+u_object	1		david cold creamed his face .
+u_object	0		david cold creamed .
+u_object	0		james combed .
+u_object	1		hannah conditioned .
+u_object	0		david crimped .
+u_object	0		sarah cropped .
+u_object	0		sarah curled .
+u_object	0		hannah cut .
+u_object	0		sarah dyed .
+u_object	0		james filed .
+u_object	1		sarah hennaed her hair .
+u_object	0		sarah hennaed .
+u_object	0		peter lathered .
+u_object	0		hugh manicured .
+u_object	1		olga parted her hair .
+u_object	0		olga parted .
+u_object	0		deandra permed .
+u_object	0		peter plaited .
+u_object	0		sarah plucked .
+u_object	0		hannah powdered .
+u_object	0		barbara rinsed .
+u_object	0		james rouged .
+u_object	0		peter set .
+u_object	1		hugh shampooed his hair .
+u_object	1		hugh shampooed .
+u_object	1		james soaped his hands .
+u_object	0		james soaped .
+u_object	1		james soaped his body .
+u_object	1		deandra talced her body .
+u_object	0		deandra talced .
+u_object	1		olga teased her hair .
+u_object	0		olga teased .
+u_object	1		peter toweled his face .
+u_object	0		peter toweled .
+u_object	1		peter toweled his hands .
+u_object	0		deandra trimmed .
+u_object	0		hannah waved .
+u_object	1		hannah barked her shin .
+u_object	0		hannah barked .
+u_object	1		peter bit his lip .
+u_object	0		peter bit .
+u_object	0		deandra bumped .
+u_object	1		barbara burned her leg .
+u_object	0		barbara burned .
+u_object	1		barbara burned her arm .
+u_object	0		barbara broke .
+u_object	0		hugh bruised .
+u_object	0		olga chipped .
+u_object	0		olga cut .
+u_object	0		peter fractured .
+u_object	0		hugh hurt .
+u_object	0		hannah injured .
+u_object	1		hannah nicked her chin .
+u_object	0		hannah nicked .
+u_object	1		hannah nicked her leg .
+u_object	0		bob pricked .
+u_object	0		sarah pulled .
+u_object	1		peter ruptured his spleen .
+u_object	0		peter ruptured .
+u_object	0		peter scalded .
+u_object	1		peter scratched his chin .
+u_object	0		peter scratched .
+u_object	1		james skinned his knee .
+u_object	0		james skinned .
+u_object	1		hannah split her lip .
+u_object	0		hannah split .
+u_object	1		barbara sprained her ankle .
+u_object	0		barbara sprained .
+u_object	1		barbara sprained her back .
+u_object	1		barbara sprained her knee .
+u_object	1		barbara sprained her wrist .
+u_object	0		hannah strained .
+u_object	1		peter stubbed his toe .
+u_object	0		peter stubbed .
+u_object	1		deandra turned her ankle .
+u_object	0		deandra turned .
+u_object	1		deandra twisted her ankle .
+u_object	0		deandra twisted .
+u_object	1		deandra bathed .
+u_object	1		bob changed himself .
+u_object	1		bob changed .
+u_object	1		david disrobed .
+u_object	1		hugh dressed himself .
+u_object	1		hugh dressed .
+u_object	1		peter exercised .
+u_object	0		deandra preened .
+u_object	0		bob primped .
+u_object	1		sarah shaved herself .
+u_object	1		sarah shaved .
+u_object	0		hugh showered himself .
+u_object	1		hugh showered .
+u_object	1		barbara stripped .
+u_object	1		david undressed .
+u_object	1		sarah washed herself .
+u_object	1		sarah washed .
+u_object	1		hannah groomed herself .
+u_object	0		hannah groomed .

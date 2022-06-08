@@ -1,0 +1,642 @@
+dat,1,Ainsley fed a bee to Prudi.
+dat,1,Dorrie fed Marja a bee.
+dat,1,Charlena gave a computer to Ainsley.
+dat,1,Jolene gave Richmond a computer.
+dat,1,Carry leased a car to Carry.
+dat,1,Juliette leased Wenonah a car.
+dat,1,Richmond lent a pill to Charlena.
+dat,1,Wenonah lent Marja a pill.
+dat,1,Jolene loaned a bull to Kameko.
+dat,1,Steward loaned Juliette a bull.
+dat,1,Bobbi passed a keyboard to Wenonah.
+dat,1,Carry passed Steward a keyboard.
+dat,1,Bobbi paid a fine to Ainsley.
+dat,1,Steward paid Juliette a fine.
+dat,1,Marja peddled a rug to Meaghan.
+dat,0,Richmond peddled Jolene a rug.
+dat,1,Dorrie refuned a mouse to Marja.
+dat,0,Kameko refuned Marja a mouse.
+dat,0,Meaghan rendered a ball to Kameko.
+dat,1,Richmond rendered Carry a ball.
+dat,1,Steward rented a car for Carry.
+dat,1,Dorrie rented Bobbi a car.
+dat,1,Kameko repaid a fee to Marja.
+dat,0,Prudi repaid Richmond a fee.
+dat,1,Ainsley sold a cat to Dorrie.
+dat,1,Meaghan sold Peter a cat.
+dat,1,Richmond served a meal to Charlena.
+dat,1,Juliette served Carry a meal.
+dat,1,Charlena traded a plant to Wenonah.
+dat,0,Wenonah traded Jolene a plant.
+dat,1,Juliette advanced a loan to Jolene.
+dat,0,Steward advanced Meaghan a loan.
+dat,1,Kameko allocated a cap to Meaghan.
+dat,1,Meaghan allocated Charlena a cap.
+dat,1,Dorrie allotted a bee to Jolene.
+dat,1,Dorrie allotted Bobbi a bee.
+dat,1,Marja assigned a lizard to Kameko.
+dat,1,Steward assigned Richmond a lizard.
+dat,1,Prudi awarded a shoe to Kameko.
+dat,1,Jolene awarded Jolene a shoe.
+dat,1,Jolene bequeathed a tree to Kameko.
+dat,1,Kameko bequeathed Dorrie a tree.
+dat,1,Steward ceded a castle to Kameko.
+dat,1,Wenonah ceded Charlena a castle.
+dat,1,Ainsley conceded a camera to Jolene.
+dat,0,Ainsley conceded Marja a camera.
+dat,1,Marja extended a book to Kameko.
+dat,1,Carry extended Steward a book.
+dat,1,Juliette granted ice to Kameko.
+dat,1,Charlena granted Prudi ice.
+dat,0,Charlena guaranteed a card to Bobbi.
+dat,1,Meaghan guaranteed Carry a card.
+dat,1,Meaghan issued a bicycle to Prudi.
+dat,1,Kameko issued Jolene a bicycle.
+dat,1,Kameko left a ball to Carry.
+dat,1,Marja left Kameko a ball.
+dat,1,Prudi offered a bed to Charlena.
+dat,1,Wenonah offered Marja a bed.
+dat,1,Juliette owed a rug to Wenonah.
+dat,1,Carry owed Juliette a rug.
+dat,1,Bobbi promised a flower to Juliette.
+dat,1,Bobbi promised Prudi a flower.
+dat,0,Wenonah voted a castle to Wenonah.
+dat,0,Charlena voted Richmond a castle.
+dat,1,Jolene willed a key to Bobbi.
+dat,1,Juliette willed Meaghan a key.
+dat,1,Carry yielded a bull to Richmond.
+dat,1,Marja yielded Juliette a bull.
+dat,1,Charlena brought a pin to Dorrie.
+dat,1,Richmond brought Wenonah a pin.
+dat,1,Bobbi took a cat for Carry.
+dat,0,Steward took Jolene a cat.
+dat,1,Meaghan forwarded a lizard to Charlena.
+dat,1,Charlena forwarded Juliette a lizard.
+dat,1,Bobbi handed a shoe to Juliette.
+dat,1,Wenonah handed Richmond a shoe.
+dat,1,Prudi mailed a pill to Wenonah.
+dat,1,Jolene mailed Richmond a pill.
+dat,1,Marja posted a shoe to Ainsley.
+dat,0,Wenonah posted Jolene a shoe.
+dat,1,Ainsley sent a plant to Dorrie.
+dat,1,Carry sent Steward a plant.
+dat,1,Wenonah shipped a charger to Bobbi.
+dat,1,Juliette shipped Kameko a charger.
+dat,0,Richmond slipped a cat to Ainsley.
+dat,1,Wenonah slipped Jolene a cat.
+dat,1,Marja smuggled a shoe to Meaghan.
+dat,0,Wenonah smuggled Bobbi a shoe.
+dat,0,Charlena sneaked a tree to Richmond.
+dat,0,Juliette sneaked Charlena a tree.
+dat,1,Jolene bounced a ball to Marja.
+dat,1,Charlena bounced Prudi a ball.
+dat,1,Prudi floated a computer to Charlena.
+dat,1,Juliette floated Kameko a computer.
+dat,1,Marja rolled a pancake to Meaghan.
+dat,1,Dorrie rolled Jolene a pancake.
+dat,1,Ainsley slid a pear to Jolene.
+dat,1,Dorrie slid Richmond a pear.
+dat,1,Juliette carried ice to Bobbi.
+dat,0,Carry carried Jolene ice.
+dat,1,Bobbi dragged a bag to Steward.
+dat,0,Dorrie dragged Bobbi a bag.
+dat,1,Steward hauled a pear to Wenonah.
+dat,0,Juliette hauled Bobbi a pear.
+dat,0,Marja heaved a dog to Bobbi.
+dat,0,Dorrie heaved Jolene a dog.
+dat,1,Dorrie hefted a pirate to Charlena.
+dat,0,Wenonah hefted Prudi a pirate.
+dat,1,Ainsley hoisted a lion to Kameko.
+dat,0,Kameko hoisted Richmond a lion.
+dat,1,Marja kicked a lizard to Bobbi.
+dat,0,Marja kicked Charlena a lizard.
+dat,1,Prudi lugged a lizard to Ainsley.
+dat,0,Meaghan lugged Dorrie a lizard.
+dat,1,Meaghan pulled a bee to Ainsley.
+dat,0,Dorrie pulled Richmond a bee.
+dat,1,Steward pushed a book to Kameko.
+dat,0,Charlena pushed Kameko a book.
+dat,1,Jolene schlepped a glass to Marja.
+dat,0,Ainsley schlepped Jolene a glass.
+dat,1,Ainsley shoved a flower to Juliette.
+dat,0,Juliette shoved Carry a flower.
+dat,1,Bobbi toted a pill to Steward.
+dat,0,Bobbi toted Richmond a pill.
+dat,1,Juliette towed a vase to Bobbi.
+dat,0,Steward towed Wenonah a vase.
+dat,1,Prudi tugged a toothpaste to Carry.
+dat,0,Kameko tugged Prudi a toothpaste.
+dat,0,Dorrie barged a whale to Richmond.
+dat,0,Dorrie barged Wenonah a whale.
+dat,1,Marja bussed a bed to Prudi.
+dat,1,Dorrie bussed Charlena a bed.
+dat,1,Charlena carted a pear to Marja.
+dat,1,Carry carted Dorrie a pear.
+dat,1,Jolene drove a key to Bobbi.
+dat,1,Carry drove Marja a key.
+dat,1,Marja ferried a camera to Prudi.
+dat,1,Charlena ferried Juliette a camera.
+dat,1,Richmond flew a dog to Juliette.
+dat,0,Kameko flew Carry a dog.
+dat,1,Kameko rowed a baby to Wenonah.
+dat,0,Marja rowed Kameko a baby.
+dat,1,Juliette shuttled a shoe to Meaghan.
+dat,0,Charlena shuttled Juliette a shoe.
+dat,1,Juliette trucked a pencil to Ainsley.
+dat,0,Richmond trucked Meaghan a pencil.
+dat,1,Charlena wheeled a carpet to Carry.
+dat,0,Richmond wheeled Charlena a carpet.
+dat,1,Charlena wired money to Jolene.
+dat,1,Jolene wired Richmond money.
+dat,0,Jolene bashed a toothpaste to Jolene.
+dat,0,Kameko bashed Jolene a toothpaste.
+dat,1,Marja batted a bee to Ainsley.
+dat,0,Juliette batted Dorrie a bee.
+dat,1,Wenonah bunted a ball to Carry.
+dat,0,Charlena bunted Bobbi a ball.
+dat,1,Bobbi catapulted a dad to Dorrie.
+dat,1,Steward catapulted Juliette a dad.
+dat,1,Marja chucked a car to Marja.
+dat,1,Bobbi chucked Carry a car.
+dat,1,Meaghan flicked a flower to Wenonah.
+dat,1,Richmond flicked Bobbi a flower.
+dat,1,Richmond flung a plant to Jolene.
+dat,1,Jolene flung Kameko a plant.
+dat,1,Carry flipped a book to Prudi.
+dat,1,Bobbi flipped Ainsley a book.
+dat,1,Juliette hit a pear to Prudi.
+dat,1,Kameko hit Marja a pear.
+dat,1,Ainsley hurled a book to Jolene.
+dat,1,Kameko hurled Prudi a book.
+dat,1,Jolene kicked a ball to Jolene.
+dat,0,Juliette kicked Bobbi a ball.
+dat,1,Jolene lobbed a pencil to Juliette.
+dat,1,Richmond lobbed Ainsley a pencil.
+dat,1,Dorrie passed a stamp to Juliette.
+dat,1,Juliette passed Prudi a stamp.
+dat,1,Steward pitched a flower to Kameko.
+dat,1,Dorrie pitched Bobbi a flower.
+dat,1,Charlena punted a pancake to Richmond.
+dat,1,Jolene punted Marja a pancake.
+dat,1,Prudi shot a cap to Dorrie.
+dat,0,Jolene shot Jolene a cap.
+dat,1,Kameko shoved a cat to Wenonah.
+dat,0,Marja shoved Charlena a cat.
+dat,1,Kameko slammed a ball to Prudi.
+dat,1,Charlena slammed Ainsley a ball.
+dat,1,Marja slapped a bat to Marja.
+dat,0,Kameko slapped Juliette a bat.
+dat,1,Jolene slung a criminal to Charlena.
+dat,0,Carry slung Prudi a criminal.
+dat,1,Juliette threw a rug to Steward.
+dat,1,Richmond threw Steward a rug.
+dat,1,Jolene tipped a ball to Marja.
+dat,1,Meaghan tipped Ainsley a ball.
+dat,1,Bobbi towed a truck to Ainsley.
+dat,0,Dorrie towed Juliette a truck.
+dat,0,Carry asked a bull to Bobbi.
+dat,1,Steward asked Wenonah for a bull.
+dat,0,Charlena cited a bicycle to Charlena.
+dat,0,Ainsley cited Steward a bicycle.
+dat,1,Richmond posed a camera to Wenonah.
+dat,0,Kameko posed Juliette a camera.
+dat,1,Prudi preached a disease to Richmond.
+dat,0,Meaghan preached Jolene a disease.
+dat,1,Juliette quoted a cap to Bobbi.
+dat,0,Juliette quoted Kameko a cap.
+dat,1,Steward read a book to Marja.
+dat,1,Richmond read Ainsley a book.
+dat,1,Kameko relayed a dog to Bobbi.
+dat,0,Steward relayed Kameko a dog.
+dat,1,Kameko showed a book to Dorrie.
+dat,1,Ainsley showed Jolene a book.
+dat,1,Dorrie taught a lesson to Charlena.
+dat,1,Charlena taught Marja a lesson.
+dat,1,Richmond told a story to Bobbi.
+dat,1,Wenonah told Dorrie a story.
+dat,1,Wenonah wrote an essay to Carry.
+dat,1,Meaghan wrote Marja an essay.
+dat,1,Jolene cabled a lizard to Prudi.
+dat,0,Richmond cabled Dorrie a lizard.
+dat,1,Jolene emailed a book to Meaghan.
+dat,1,Wenonah emailed Meaghan a book.
+dat,1,Meaghan faxed a plane to Prudi.
+dat,1,Meaghan faxed Wenonah a plane.
+dat,1,Charlena modemed a lizard to Bobbi.
+dat,1,Wenonah modemed Dorrie a lizard.
+dat,1,Prudi netmailed a sticker to Prudi.
+dat,1,Carry netmailed Marja a sticker.
+dat,0,Marja phoned a pillow to Bobbi.
+dat,0,Richmond phoned Marja a pillow.
+dat,1,Ainsley radioed a glass to Richmond.
+dat,0,Juliette radioed Richmond a glass.
+dat,1,Jolene relayed a tree to Meaghan.
+dat,1,Richmond relayed Carry a tree.
+dat,0,Juliette satellited a cat to Charlena.
+dat,0,Wenonah satellited Marja a cat.
+dat,0,Dorrie semaphored a ball to Prudi.
+dat,0,Marja semaphored Carry a ball.
+dat,1,Marja signed a glass for Steward.
+dat,0,Dorrie signed Dorrie a glass.
+dat,1,Wenonah signaled a glance to Wenonah.
+dat,0,Jolene signaled Meaghan a glance.
+dat,0,Carry telephoned a rug to Jolene.
+dat,0,Prudi telephoned Carry a rug.
+dat,1,Steward telecast a tree to Dorrie.
+dat,1,Dorrie telecast Ainsley a tree.
+dat,1,Charlena telegraphed a carpet to Ainsley.
+dat,1,Dorrie telegraphed Kameko a carpet.
+dat,1,Jolene telexed a sticker to Jolene.
+dat,1,Kameko telexed Wenonah a sticker.
+dat,1,Marja wired a shoe to Jolene.
+dat,1,Kameko wired Ainsley a shoe.
+dat,1,Carry wirelessed a charger to Steward.
+dat,1,Steward wirelessed Bobbi a charger.
+dat,0,Meaghan accorded a rocket to Wenonah.
+dat,0,Kameko accorded Jolene a rocket.
+dat,0,Ainsley asked a lizard to Wenonah.
+dat,1,Richmond asked Richmond for a lizard.
+dat,0,Marja bore a leader to Wenonah.
+dat,0,Ainsley bore Jolene a leader.
+dat,0,Dorrie begrudged a key to Meaghan.
+dat,0,Ainsley begrudged Prudi a key.
+dat,0,Marja bode a rocket to Carry.
+dat,0,Steward bode Wenonah a rocket.
+dat,0,Steward costed a bed to Marja.
+dat,0,Carry costed Kameko a bed.
+dat,1,Wenonah denied a pencil to Steward.
+dat,1,Jolene denied Kameko a pencil.
+dat,0,Dorrie envied a shoe to Ainsley.
+dat,0,Dorrie envied Steward a shoe.
+dat,1,Carry flashed a light to Carry.
+dat,0,Meaghan flashed Carry a light.
+dat,1,Carry forbade a flower to Juliette.
+dat,0,Prudi forbade Ainsley a flower.
+dat,0,Bobbi forgave a computer to Dorrie.
+dat,0,Dorrie forgave Charlena a computer.
+dat,1,Kameko guaranteed a pillow to Jolene.
+dat,1,Dorrie guaranteed Marja a pillow.
+dat,1,Richmond issued a bee to Juliette.
+dat,1,Marja issued Wenonah a bee.
+dat,1,Marja refused a rug to Marja.
+dat,1,Ainsley refused Juliette a rug.
+dat,1,Jolene saved a pear for Bobbi.
+dat,1,Jolene saved Bobbi a pear.
+dat,1,Dorrie spared a bed for Carry.
+dat,1,Bobbi spared Kameko a bed.
+dat,1,Prudi struck a blow to Charlena.
+dat,0,Meaghan struck Carry a blow.
+dat,1,Jolene vouchsafed a baby to Ainsley.
+dat,0,Prudi vouchsafed Meaghan a baby.
+dat,0,Marja wished a pillow to Marja.
+dat,0,Richmond wished Meaghan a pillow.
+dat,1,Bobbi wrote a check to Charlena.
+dat,1,Meaghan wrote Marja a check.
+dat,0,Kameko admitted a bicycle to Jolene.
+dat,0,Dorrie admitted Wenonah a bicycle.
+dat,1,Marja alleged a story to Richmond.
+dat,0,Wenonah alleged Jolene a story.
+dat,1,Kameko announced a story to Richmond.
+dat,0,Steward announced Bobbi a story.
+dat,1,Ainsley articulated a toilet to Prudi.
+dat,0,Kameko articulated Richmond a toilet.
+dat,1,Ainsley asserted a book to Juliette.
+dat,0,Bobbi asserted Bobbi a book.
+dat,1,Steward communicated a quote to Kameko.
+dat,0,Marja communicated Wenonah a quote.
+dat,1,Charlena confessed a cap to Richmond.
+dat,0,Charlena confessed Juliette a cap.
+dat,1,Carry conveyed a card to Meaghan.
+dat,0,Prudi conveyed Kameko a card.
+dat,1,Kameko declared a hall to Prudi.
+dat,0,Marja declared Dorrie a hall.
+dat,1,Wenonah mentioned a pill to Wenonah.
+dat,0,Meaghan mentioned Dorrie a pill.
+dat,1,Meaghan proposed a shoe to Charlena.
+dat,0,Wenonah proposed Meaghan a shoe.
+dat,1,Marja recounted a charger to Prudi.
+dat,0,Richmond recounted Dorrie a charger.
+dat,1,Bobbi repeated a carpet to Ainsley.
+dat,0,Ainsley repeated Charlena a carpet.
+dat,1,Charlena reported a bicycle to Jolene.
+dat,0,Dorrie reported Marja a bicycle.
+dat,1,Carry revealed a bed to Steward.
+dat,0,Jolene revealed Juliette a bed.
+dat,1,Steward said a story to Wenonah.
+dat,0,Prudi said Carry a story.
+dat,1,Carry sung a song to Wenonah.
+dat,1,Steward sung Steward a song.
+dat,1,Charlena babbled a song to Bobbi.
+dat,1,Jolene babbled Bobbi a song.
+dat,1,Bobbi barked an expletive to Bobbi.
+dat,0,Richmond barked Dorrie an expletive.
+dat,0,Jolene bawled a story to Ainsley.
+dat,0,Ainsley bawled Steward a story.
+dat,1,Ainsley bellowed a yell to Kameko.
+dat,0,Jolene bellowed Kameko a yell.
+dat,0,Prudi bleated a cry to Wenonah.
+dat,0,Meaghan bleated Prudi a cry.
+dat,0,Steward boomed a yell to Juliette.
+dat,0,Richmond boomed Dorrie a yell.
+dat,0,Bobbi brayed a lizard to Kameko.
+dat,0,Meaghan brayed Juliette a lizard.
+dat,1,Juliette burbled a story to Bobbi.
+dat,0,Dorrie burbled Wenonah a story.
+dat,1,Bobbi cackled a laugh at Richmond.
+dat,0,Wenonah cackled Charlena a laugh.
+dat,1,Kameko called a cat to Meaghan.
+dat,0,Wenonah called Kameko a cat.
+dat,1,Richmond caroled a song to Steward.
+dat,0,Steward caroled Dorrie a song.
+dat,1,Prudi chanted a prayer to Ainsley.
+dat,0,Bobbi chanted Charlena a prayer.
+dat,1,Carry chattered a cry to Wenonah.
+dat,0,Dorrie chattered Steward a cry.
+dat,1,Marja chirped a hello to Marja.
+dat,1,Charlena chirped Carry a hello.
+dat,1,Carry clucked a greeting to Juliette.
+dat,0,Dorrie clucked Ainsley a greeting.
+dat,1,Prudi cooed a goodbye to Marja.
+dat,0,Dorrie cooed Bobbi a goodbye.
+dat,1,Jolene croaked a greeting to Dorrie.
+dat,0,Wenonah croaked Meaghan a greeting.
+dat,1,Richmond crooned a good morning to Ainsley.
+dat,0,Steward crooned Dorrie a good morning.
+dat,1,Ainsley crowed a hello to Carry.
+dat,0,Prudi crowed Bobbi a hello.
+dat,0,Steward cried a greeting to Juliette.
+dat,0,Steward cried Marja a greeting.
+dat,0,Meaghan drawled a cry to Dorrie.
+dat,0,Jolene drawled Jolene a cry.
+dat,0,Juliette droned a story to Wenonah.
+dat,0,Carry droned Richmond a story.
+dat,0,Dorrie gabbled a quote to Kameko.
+dat,0,Prudi gabbled Dorrie a quote.
+dat,1,Marja gibbered a story to Meaghan.
+dat,0,Steward gibbered Dorrie a shoe.
+dat,1,Steward groaned a passage to Jolene.
+dat,0,Wenonah groaned Marja a passage.
+dat,1,Richmond growled a yell to Dorrie.
+dat,0,Wenonah growled Kameko a yell.
+dat,1,Prudi grumbled a book to Marja.
+dat,0,Kameko grumbled Kameko a book.
+dat,1,Richmond grunted a cry to Marja.
+dat,0,Kameko grunted Richmond a cry.
+dat,1,Prudi hissed a poem to Bobbi.
+dat,0,Jolene hissed Marja a poem.
+dat,1,Jolene hollered an expletive to Carry.
+dat,0,Juliette hollered Carry an expletive.
+dat,1,Wenonah hooted a laugh to Meaghan.
+dat,0,Marja hooted Meaghan a laugh.
+dat,1,Jolene howled a guffaw to Juliette.
+dat,0,Kameko howled Steward a guffaw.
+dat,1,Kameko jabbered a greeting to Dorrie.
+dat,0,Carry jabbered Juliette a greeting.
+dat,1,Marja lilted a hello to Steward.
+dat,0,Dorrie lilted Bobbi a hello.
+dat,1,Bobbi lisped a goodbye to Steward.
+dat,0,Jolene lisped Charlena a goodbye.
+dat,1,Dorrie moaned a greeting to Charlena.
+dat,0,Juliette moaned Juliette a greeting.
+dat,1,Marja mumbled a poem to Juliette.
+dat,0,Meaghan mumbled Meaghan a poem.
+dat,1,Juliette murmured a quote to Prudi.
+dat,0,Dorrie murmured Charlena a quote.
+dat,1,Jolene muttered a hello to Richmond.
+dat,0,Meaghan muttered Richmond a hello.
+dat,1,Dorrie purred a greeting to Kameko.
+dat,0,Marja purred Dorrie a greeting.
+dat,0,Ainsley raged an expletive to Marja.
+dat,0,Juliette raged Ainsley a expletive.
+dat,1,Marja rasped a goodbye to Meaghan.
+dat,0,Jolene rasped Ainsley a goodbye.
+dat,1,Bobbi roared a hello to Bobbi.
+dat,0,Kameko roared Richmond a hello.
+dat,1,Ainsley rumbled a quote to Charlena.
+dat,0,Juliette rumbled Meaghan a quote.
+dat,1,Steward screamed an expletive to Carry.
+dat,0,Bobbi screamed Meaghan an expletive.
+dat,1,Kameko screeched a cry to Dorrie.
+dat,0,Richmond screeched Steward a cry.
+dat,1,Dorrie shouted a hello to Steward.
+dat,0,Meaghan shouted Charlena a hello.
+dat,1,Steward shrieked an expletive to Meaghan.
+dat,0,Steward shrieked Meaghan an expletive.
+dat,1,Meaghan sang a song to Bobbi.
+dat,1,Jolene sang Carry a song.
+dat,1,Steward snapped a remark to Juliette.
+dat,0,Bobbi snapped Marja a remark.
+dat,1,Dorrie snarled a hiss to Jolene.
+dat,0,Bobbi snarled Carry a hiss.
+dat,1,Juliette snuffled a story to Juliette.
+dat,0,Jolene snuffled Charlena a story.
+dat,1,Ainsley spluttered a goodbye to Steward.
+dat,0,Carry spluttered Bobbi a goodbye.
+dat,1,Steward squalled a hello to Steward.
+dat,0,Wenonah squalled Meaghan a hello.
+dat,1,Juliette squawked a yell to Wenonah.
+dat,0,Kameko squawked Bobbi a yell.
+dat,1,Charlena squeaked a whisper to Wenonah.
+dat,0,Steward squeaked Steward a whisper.
+dat,1,Ainsley squealed a poem to Charlena.
+dat,0,Marja squealed Steward a poem.
+dat,1,Kameko stammered a greeting to Meaghan.
+dat,0,Kameko stammered Richmond a greeting.
+dat,1,Richmond stuttered a goodbye to Jolene.
+dat,0,Charlena stuttered Steward a goodbye.
+dat,1,Jolene thundered a song to Meaghan.
+dat,0,Dorrie thundered Carry a song.
+dat,1,Juliette tisked a song to Prudi.
+dat,0,Jolene tisked Ainsley a shoe.
+dat,1,Prudi trilled a note to Richmond.
+dat,0,Juliette trilled Ainsley a note.
+dat,1,Prudi trumpeted a song to Dorrie.
+dat,0,Meaghan trumpeted Prudi a song.
+dat,1,Richmond tweeted a hello to Ainsley.
+dat,0,Prudi tweeted Carry a hello.
+dat,1,Richmond wailed a goodbye to Kameko.
+dat,0,Prudi wailed Kameko a goodbye.
+dat,1,Prudi warbled a cry to Jolene.
+dat,0,Kameko warbled Juliette a cry.
+dat,1,Kameko wheezed a hello to Meaghan.
+dat,0,Richmond wheezed Richmond a hello.
+dat,1,Marja whimpered a poem to Ainsley.
+dat,0,Ainsley whimpered Carry a poem.
+dat,1,Steward whined a hello to Prudi.
+dat,0,Marja whined Jolene a hello.
+dat,1,Juliette whispered a poem to Richmond.
+dat,0,Carry whispered Marja a poem.
+dat,1,Meaghan whistled a tune to Marja.
+dat,0,Richmond whistled Juliette a tune.
+dat,1,Marja whoopped a hello to Steward.
+dat,0,Wenonah whoopped Ainsley a hello.
+dat,1,Meaghan yammered a song to Meaghan.
+dat,0,Richmond yammered Meaghan a song.
+dat,1,Richmond yapped a cry to Wenonah.
+dat,0,Prudi yapped Steward a cry.
+dat,1,Carry yelled a goodbye to Ainsley.
+dat,0,Kameko yelled Meaghan a goodbye.
+dat,1,Juliette yelped a hello to Kameko.
+dat,0,Dorrie yelped Juliette a hello.
+dat,1,Bobbi yodeled a song to Bobbi.
+dat,0,Charlena yodeled Carry a song.
+dat,1,Dorrie dropped a camera to Charlena.
+dat,1,Wenonah dropped Richmond a camera.
+dat,1,Carry hoisted a glass to Steward.
+dat,1,Richmond hoisted Kameko a glass.
+dat,1,Steward lifted a keyboard to Wenonah.
+dat,1,Steward lifted Richmond a keyboard.
+dat,1,Kameko lowered a dad to Kameko.
+dat,0,Bobbi lowered Marja a dad.
+dat,1,Charlena raised a glass to Carry.
+dat,1,Juliette raised Juliette a glass.
+dat,1,Prudi credited a bicycle to Juliette.
+dat,0,Richmond credited Meaghan a bicycle.
+dat,1,Marja entrusted a disease to Juliette.
+dat,0,Richmond entrusted Bobbi a disease.
+dat,1,Richmond furnished a couch to Marja.
+dat,0,Juliette furnished Jolene a couch.
+dat,1,Charlena issued a permit to Wenonah.
+dat,1,Steward issued Prudi a permit.
+dat,1,Juliette left a shoe to Kameko.
+dat,1,Juliette left Prudi a shoe.
+dat,1,Ainsley presented a bull to Prudi.
+dat,1,Ainsley presented Ainsley a bull.
+dat,1,Carry provided a sun to Carry.
+dat,0,Steward provided Charlena a sun.
+dat,1,Kameko served a bull to Wenonah.
+dat,1,Charlena served Jolene a bull.
+dat,1,Marja supplied a bed to Dorrie.
+dat,0,Jolene supplied Kameko a bed.
+dat,0,Marja trusted a bed to Bobbi.
+dat,1,Marja trusted Wenonah with a bed.
+dat,0,Ainsley bet a pill to Juliette.
+dat,1,Juliette bet Prudi a pill.
+dat,0,Richmond billed a fee to Juliette.
+dat,1,Bobbi billed Bobbi a fee.
+dat,1,Marja charged a key to Marja.
+dat,1,Charlena charged Dorrie a key.
+dat,0,Steward fined a bull to Dorrie.
+dat,1,Meaghan fined Marja a bull.
+dat,0,Wenonah mulced a flower to Wenonah.
+dat,1,Wenonah mulced Marja a flower.
+dat,0,Bobbi overcharged a fine to Marja.
+dat,1,Charlena overcharged Ainsley a fine.
+dat,0,Steward saved a card to Jolene.
+dat,1,Charlena saved Charlena a card.
+dat,0,Juliette spared a cap to Juliette.
+dat,1,Juliette spared Carry a cap.
+dat,0,Dorrie taxed a pancake to Richmond.
+dat,1,Bobbi taxed Bobbi a pancake.
+dat,0,Bobbi tipped a dollar to Prudi.
+dat,1,Dorrie tipped Ainsley a dollar.
+dat,0,Juliette undercharged a fee to Bobbi.
+dat,1,Bobbi undercharged Charlena a fee.
+dat,0,Wenonah wagered a shoe to Juliette.
+dat,1,Jolene wagered Dorrie a shoe.
+dat,0,Richmond acknowledged a lizard to Dorrie.
+dat,1,Richmond acknowledged Meaghan a lizard.
+dat,0,Ainsley adopted a baby to Dorrie.
+dat,1,Juliette adopted Bobbi a baby.
+dat,1,Steward appoined a car to Jolene.
+dat,1,Wenonah appoined Juliette a car.
+dat,0,Carry considered a shoe to Carry.
+dat,1,Dorrie considered Wenonah a shoe.
+dat,0,Juliette crowned a cat to Ainsley.
+dat,1,Juliette crowned Wenonah a cat.
+dat,0,Steward deemed a lion to Carry.
+dat,1,Kameko deemed Carry a lion.
+dat,1,Bobbi designated a bull to Meaghan.
+dat,1,Richmond designated Kameko a bull.
+dat,0,Meaghan elected a lizard to Kameko.
+dat,1,Kameko elected Jolene a lizard.
+dat,0,Ainsley esteemed a charger to Meaghan.
+dat,1,Steward esteemed Charlena a charger.
+dat,0,Marja imagined a pillow to Bobbi.
+dat,1,Meaghan imagined Steward a pillow.
+dat,0,Wenonah marked a pancake to Bobbi.
+dat,1,Steward marked Ainsley a pancake.
+dat,0,Wenonah nominated a cat to Kameko.
+dat,1,Carry nominated Jolene a cat.
+dat,0,Charlena ordained a plant to Wenonah.
+dat,1,Marja ordained Juliette a plant.
+dat,1,Steward proclaimed a pillow to Richmond.
+dat,1,Meaghan proclaimed Steward a pillow.
+dat,0,Prudi rated a owner to Prudi.
+dat,0,Dorrie rated Charlena a owner.
+dat,0,Charlena reckoned a pancake to Prudi.
+dat,1,Ainsley reckoned Meaghan a pancake.
+dat,1,Kameko reported a tree to Kameko.
+dat,0,Bobbi reported Ainsley a tree.
+dat,0,Wenonah wanted a dad to Kameko.
+dat,0,Jolene wanted Prudi a dad.
+dat,1,Juliette anointed a jet to Prudi.
+dat,1,Richmond anointed Jolene a jet.
+dat,0,Wenonah baptized a toilet to Richmond.
+dat,1,Richmond baptized Jolene a toilet.
+dat,1,Dorrie branded a helicopter to Ainsley.
+dat,0,Juliette branded Steward a helicopter.
+dat,0,Kameko called a pencil to Juliette.
+dat,1,Bobbi called Bobbi a pencil.
+dat,0,Marja christened a rug to Charlena.
+dat,1,Meaghan christened Wenonah a rug.
+dat,0,Prudi consecrated a card to Bobbi.
+dat,1,Jolene consecrated Kameko a card.
+dat,0,Meaghan crowned a dad to Meaghan.
+dat,1,Juliette crowned Wenonah a dad.
+dat,0,Jolene decreed a leader to Juliette.
+dat,1,Richmond decreed Steward a leader.
+dat,0,Prudi dubbed a sun to Richmond.
+dat,1,Ainsley dubbed Marja a sun.
+dat,0,Carry labeled a charger to Juliette.
+dat,1,Jolene labeled Meaghan a charger.
+dat,0,Charlena made a lion to Wenonah.
+dat,1,Prudi made Wenonah a lion.
+dat,0,Richmond named a shoe to Dorrie.
+dat,1,Charlena named Juliette a shoe.
+dat,0,Bobbi nicknamed a keyboard to Carry.
+dat,1,Jolene nicknamed Meaghan a keyboard.
+dat,0,Wenonah pronounced a queen to Juliette.
+dat,1,Richmond pronounced Ainsley a queen.
+dat,0,Marja ruled a carpet to Wenonah.
+dat,1,Bobbi ruled Richmond a carpet.
+dat,0,Richmond stamped a pancake to Wenonah.
+dat,1,Bobbi stamped Kameko a pancake.
+dat,0,Wenonah styled a dog to Juliette.
+dat,1,Kameko styled Richmond a dog.
+dat,0,Wenonah termed a carpet to Prudi.
+dat,1,Charlena termed Marja a carpet.
+dat,0,Dorrie overhung a sun to Kameko.
+dat,1,Juliette overhung Carry a sun.
+dat,0,Steward adjudged a plant to Kameko.
+dat,0,Steward adjudged Juliette a plant.
+dat,1,Prudi adjudicated a rug to Carry.
+dat,0,Wenonah adjudicated Richmond a rug.
+dat,0,Prudi assumed a stamp to Wenonah.
+dat,1,Dorrie assumed Bobbi a stamp.
+dat,0,Charlena avowed a flower to Richmond.
+dat,1,Charlena avowed Juliette a flower.
+dat,0,Steward believed a book to Steward.
+dat,0,Carry believed Ainsley a book.
+dat,0,Jolene confessed a joke to Carry.
+dat,1,Richmond confessed Ainsley a joke.
+dat,0,Steward declared a lion to Jolene.
+dat,1,Jolene declared Charlena a lion.
+dat,0,Marja fancied a camera to Wenonah.
+dat,1,Richmond fancied Charlena a camera.
+dat,0,Jolene found a key to Juliette.
+dat,1,Charlena found Dorrie a key.
+dat,0,Ainsley judged a criminal to Bobbi.
+dat,1,Dorrie judged Prudi a criminal.
+dat,0,Ainsley presumed a criminal to Prudi.
+dat,1,Charlena presumed Carry a criminal.
+dat,0,Ainsley professed a pirate to Kameko.
+dat,1,Ainsley professed Wenonah a pirate.
+dat,0,Ainsley proved a victim to Dorrie.
+dat,1,Kameko proved Charlena a victim.
+dat,0,Richmond supposed a carpet to Marja.
+dat,1,Meaghan supposed Charlena a carpet.
+dat,0,Steward thought a ball to Dorrie.
+dat,0,Juliette thought Carry a ball.
+dat,0,Kameko warranted a card to Dorrie.
+dat,0,Juliette warranted Marja a card.
