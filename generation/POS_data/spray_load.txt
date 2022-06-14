@@ -1,0 +1,8 @@
+-sprayload
+Brush, cram, crowd, cultivate, dab, daub, drape, drizzle, dust, hang, heap, inject, jam, load, mound, pack, pile, plant, plaster, prick, pump, rub, scatter, seed, settle, sew, shower, slather, smear, smudge, sow, spatter, splash, splatter, spray, spread, sprinkle, spritz, squirt, stack, stick, stock, strew, string, stuff, swab, vest, wash, wrap
+
+-withonly
+Adorn, anoint, bandage, bathe, bestrew, bind, blanket, block, blot, bombard, carpet, choke, cloak, clog, clutter, coat, contaminate, cover, dam, dapple, deck, decorate, deluge, dirty, douse, dot, drench, edge, embellish, emblazon, encircle, encrust, endow, enrich, entangle, face, festoon, fill, fleck, flood, frame, garland, garnish, imbue, impregnate, infect, inlay, interlace, interlard, interleave, intersperse, interweave, inundate, lard, lash, line, literal, mask, mottle, ornament, pad, pave, plate, plug, pollute, replenish, repopulate, riddle, ring, ripple, robe, saturate, season, shroud, smother, soak, soil, speckle, splotch, spot, staff, stain, stipple, stop up, stud, suffuse, surround, swaddle, swathe, taint, tile, trim, veil, vein, wreathe
+
+-locprep
+Arrange, immerse, install, lodge, mount, place, position, put, set, situate, sling, dangle, lay, lean, perch, rest, sit, stand, suspend, bang, channel, dip, dump, funnel, hammer, ladle, pound, push, rake, ram, scoop, scrape, shake, shovel, siphon, spoon, squeeze, squish, squash, sweep, tuck, wad, wedge, wipe, wring, drop, hoist, lift, lower, raise, dribble drip, pour, slop, slosh, spew, spill, spurt, coil, curl, loop, roll, spin, twirl, twist, whirl, wind

@@ -1,0 +1,358 @@
+dat	1		michael passed the salt to the person across the table .
+dat	1		michael passed the person across the table the salt .
+dat	1		christopher passed a letter to the person across the table .
+dat	1		christopher passed the person across the table a letter .
+dat	1		christopher sent the salt to the lawyer .
+dat	1		christopher sent the lawyer the salt .
+dat	1		michael sent a letter to the lawyer .
+dat	1		michael sent the lawyer a letter .
+dat	1		nicole assigned a project to the employee .
+dat	1		nicole assigned the employee a project .
+dat	1		elizabeth assigned a gold star to the student .
+dat	1		elizabeth assigned the student a gold star .
+dat	1		jessica assigned a task to the employee .
+dat	1		jessica assigned the employee a task .
+dat	1		michael awarded a project to the employee .
+dat	1		michael awarded the employee a project .
+dat	1		jessica awarded a gold star to the employee .
+dat	1		jessica awarded the employee a gold star .
+dat	1		michael awarded a task to the employee .
+dat	1		michael awarded the employee a task .
+dat	1		jason shipped a letter to the client .
+dat	1		jason shipped the client a letter .
+dat	1		jason shipped a package to the client .
+dat	1		jason shipped the client a package .
+dat	1		michael posted a letter to the recipient .
+dat	1		michael posted the recipient a letter .
+dat	1		christopher posted a package to the client .
+dat	1		christopher posted the client a package .
+dat	1		nicole chucked the ball to the other team .
+dat	1		nicole chucked the other team the ball .
+dat	1		christopher chucked the stick to the most valuable player .
+dat	1		christopher chucked the most valuable player the stick .
+dat	1		michael chucked the frisbee to the other team .
+dat	1		michael chucked the other team the frisbee .
+dat	1		elizabeth flung the ball to the goalie .
+dat	1		elizabeth flung the goalie the ball .
+dat	1		nicole flung the stick to the other team .
+dat	1		nicole flung the other team the stick .
+dat	1		christopher flung the frisbee to the goalie .
+dat	1		christopher flung the goalie the frisbee .
+dat	1		michael tossed the ball to the other team .
+dat	1		michael tossed the other team the ball .
+dat	1		christopher tossed the stick to the other team .
+dat	1		christopher tossed the other team the stick .
+dat	1		michael tossed the frisbee to the other team .
+dat	1		michael tossed the other team the frisbee .
+dat	1		nicole threw the ball to the goalie .
+dat	1		nicole threw the goalie the ball .
+dat	1		christopher threw the stick to the goalie .
+dat	1		christopher threw the goalie the stick .
+dat	1		jessica threw the frisbee to the goalie .
+dat	1		jessica threw the goalie the frisbee .
+dat	1		nicole tossed the ball to the other team .
+dat	1		nicole tossed the other team the ball .
+dat	1		nicole tossed the stick to the most valuable player .
+dat	1		nicole tossed the most valuable player the stick .
+dat	1		jessica tossed the frisbee to the goalie .
+dat	1		jessica tossed the goalie the frisbee .
+dat	1		jason kicked the ball to the most valuable player .
+dat	1		jason kicked the most valuable player the ball .
+dat	1		jason kicked the stick to the goalie .
+dat	1		jason kicked the goalie the stick .
+dat	1		michael kicked the frisbee to the goalie .
+dat	1		michael kicked the goalie the frisbee .
+dat	1		elizabeth read a story to the class .
+dat	1		elizabeth read the class a story .
+dat	1		nicole read a book to the students .
+dat	1		nicole read the students a book .
+dat	1		jason told a secret to the little girl .
+dat	1		jason told the little girl a secret .
+dat	1		jessica told a story to the little girl .
+dat	1		jessica told the little girl a story .
+dat	1		jason taught a new technique to the class .
+dat	1		jason taught the class a new technique .
+dat	1		elizabeth taught a lesson to the class .
+dat	1		elizabeth taught the class a lesson .
+dat	1		jason explained the issue to the mechanic .
+dat	0		jason explained the mechanic the issue .
+dat	1		jessica explained the solution to the client .
+dat	0		jessica explained the client the solution .
+dat	1		elizabeth illustrated the issue to the team .
+dat	0		elizabeth illustrated the team the issue .
+dat	1		nicole illustrated the solution to the team .
+dat	0		nicole illustrated the team the solution .
+dat	1		nicole demonstrated the issue to the client .
+dat	0		nicole demonstrated the client the issue .
+dat	1		elizabeth demonstrated the solution to the mechanic .
+dat	0		elizabeth demonstrated the mechanic the solution .
+dat	1		jason donated a statue to the university .
+dat	0		jason donated the university a statue .
+dat	1		jason donated a hundred dollars to the museum .
+dat	0		jason donated the museum a hundred dollars .
+dat	1		jessica contributed a statue to the university .
+dat	0		jessica contributed the university a statue .
+dat	1		nicole contributed a hundred dollars to the university .
+dat	0		nicole contributed the university a hundred dollars .
+dat	1		jessica delivered the message to the client .
+dat	0		jessica delivered the client the message .
+dat	1		elizabeth delivered the letter to the client .
+dat	0		elizabeth delivered the client the letter .
+dat	1		jessica conveyed the message to the client .
+dat	0		jessica conveyed the client the message .
+dat	1		elizabeth conveyed the letter to the recipient .
+dat	0		elizabeth conveyed the recipient the letter .
+dat	1		christopher restored the painting to its place .
+dat	0		christopher restored its place the painting .
+dat	1		jason restored the car to its place .
+dat	0		jason restored its place the car .
+dat	1		jason returned the painting to its place .
+dat	0		jason returned its place the painting .
+dat	1		nicole returned the car to its owner .
+dat	0		nicole returned its owner the car .
+dat	1		nicole announced the committee 's decision to the shareholders .
+dat	0		nicole announced the shareholders the committee 's decision .
+dat	1		michael announced the result to the shareholders .
+dat	0		michael announced the shareholders the result .
+dat	1		christopher declared the committee 's decision to the investors .
+dat	0		christopher declared the investors the committee 's decision .
+dat	1		christopher declared the result to the shareholders .
+dat	0		christopher declared the shareholders the result .
+dat	1		nicole revealed the committee 's decision to the investors .
+dat	0		nicole revealed the investors the committee 's decision .
+dat	1		jessica revealed the result to the shareholders .
+dat	0		jessica revealed the shareholders the result .
+dat	1		jason reported the committee 's decision to the investors .
+dat	0		jason reported the investors the committee 's decision .
+dat	1		christopher reported the result to the investors .
+dat	0		christopher reported the investors the result .
+dat	1		michael mentioned a solution to susan .
+dat	0		michael mentioned susan a solution .
+dat	1		michael mentioned an idea to david .
+dat	0		michael mentioned david an idea .
+dat	1		jessica suggested a solution to john .
+dat	0		jessica suggested john a solution .
+dat	1		jason suggested an idea to john .
+dat	0		jason suggested john an idea .
+dat	1		jessica proposed a solution to kelly .
+dat	0		jessica proposed kelly a solution .
+dat	1		christopher proposed an idea to rebecca .
+dat	0		christopher proposed rebecca an idea .
+dat	1		nicole expressed the concern to rebecca .
+dat	0		nicole expressed rebecca the concern .
+dat	1		jessica expressed the news to john .
+dat	0		jessica expressed john the news .
+dat	1		michael broadcasted the concern to david .
+dat	0		michael broadcasted david the concern .
+dat	1		michael broadcasted the news to david .
+dat	0		michael broadcasted david the news .
+dat	0		the television cost a hundred dollars to John .
+dat	1		the television cost John a hundred dollars .
+dat	0		the television cost an arm and a leg to John .
+dat	1		the television cost John an arm and a leg .
+dat	0		michael wished a safe trip to james .
+dat	1		michael wished james a safe trip .
+dat	0		nicole wished the best to rebecca .
+dat	1		nicole wished rebecca the best .
+dat	0		jessica guaranteed respect to rebecca .
+dat	1		jessica guaranteed rebecca respect .
+dat	0		michael guaranteed a generous reward to john .
+dat	1		michael guaranteed john a generous reward .
+dat	0		christopher guaranteed access to the archives to david .
+dat	1		christopher guaranteed david access to the archives .
+dat	0		nicole accorded respect to james .
+dat	1		nicole accorded james respect .
+dat	0		christopher accorded a generous reward to susan .
+dat	1		christopher accorded susan a generous reward .
+dat	0		jason accorded access to the archives to susan .
+dat	1		jason accorded susan access to the archives .
+dat	0		jessica refused respect to david .
+dat	1		jessica refused david respect .
+dat	0		jessica refused a generous reward to susan .
+dat	1		jessica refused susan a generous reward .
+dat	0		nicole refused access to the archives to kelly .
+dat	1		nicole refused kelly access to the archives .
+dat	0		jason saved a piece of pie to rebecca .
+dat	1		jason saved rebecca a piece of pie .
+dat	0		jason saved a spot to david .
+dat	1		jason saved david a spot .
+dat	0		christopher saved a thousand dollars to kelly .
+dat	1		christopher saved kelly a thousand dollars .
+dat	0		nicole appointed king to rebecca .
+dat	1		nicole appointed rebecca king .
+dat	0		elizabeth appointed the leader to rebecca .
+dat	1		elizabeth appointed rebecca the leader .
+dat	0		elizabeth appointed the winner to rebecca .
+dat	1		elizabeth appointed rebecca the winner .
+dat	0		jessica appointed the most valuable player to rebecca .
+dat	1		jessica appointed rebecca the most valuable player .
+dat	0		nicole appointed the CEO to kelly .
+dat	1		nicole appointed kelly the CEO .
+dat	0		jason elected king to rebecca .
+dat	1		jason elected rebecca king .
+dat	0		nicole elected the leader to david .
+dat	1		nicole elected david the leader .
+dat	0		jessica elected the winner to rebecca .
+dat	1		jessica elected rebecca the winner .
+dat	0		elizabeth elected the most valuable player to kelly .
+dat	1		elizabeth elected kelly the most valuable player .
+dat	0		jason elected the CEO to kelly .
+dat	1		jason elected kelly the CEO .
+dat	0		michael crowned king to kelly .
+dat	1		michael crowned kelly king .
+dat	0		michael crowned the leader to james .
+dat	1		michael crowned james the leader .
+dat	0		nicole crowned the winner to rebecca .
+dat	1		nicole crowned rebecca the winner .
+dat	0		jason crowned the most valuable player to susan .
+dat	1		jason crowned susan the most valuable player .
+dat	0		nicole crowned the CEO to james .
+dat	1		nicole crowned james the CEO .
+dat	0		christopher pronounced king to james .
+dat	1		christopher pronounced james king .
+dat	0		nicole pronounced the leader to john .
+dat	1		nicole pronounced john the leader .
+dat	0		elizabeth pronounced the winner to james .
+dat	1		elizabeth pronounced james the winner .
+dat	0		christopher pronounced the most valuable player to kelly .
+dat	1		christopher pronounced kelly the most valuable player .
+dat	0		michael pronounced the CEO to john .
+dat	1		michael pronounced john the CEO .
+dat	0		jessica made king to kelly .
+dat	1		jessica made kelly king .
+dat	0		nicole made the leader to susan .
+dat	1		nicole made susan the leader .
+dat	0		michael made the winner to david .
+dat	1		michael made david the winner .
+dat	0		elizabeth made the most valuable player to susan .
+dat	1		elizabeth made susan the most valuable player .
+dat	0		nicole made the CEO to john .
+dat	1		nicole made john the CEO .
+dat	0		nicole dubbed king to rebecca .
+dat	1		nicole dubbed rebecca king .
+dat	0		elizabeth dubbed the leader to susan .
+dat	1		elizabeth dubbed susan the leader .
+dat	0		nicole dubbed the winner to john .
+dat	1		nicole dubbed john the winner .
+dat	0		jessica dubbed the most valuable player to susan .
+dat	1		jessica dubbed susan the most valuable player .
+dat	0		christopher dubbed the CEO to susan .
+dat	1		christopher dubbed susan the CEO .
+dat	0		jessica named king to john .
+dat	1		jessica named john king .
+dat	0		christopher named the leader to james .
+dat	1		christopher named james the leader .
+dat	0		jessica named the winner to susan .
+dat	1		jessica named susan the winner .
+dat	0		nicole named the most valuable player to rebecca .
+dat	1		nicole named rebecca the most valuable player .
+dat	0		nicole named the CEO to john .
+dat	1		nicole named john the CEO .
+dat	0		jason considered a hero to david .
+dat	1		jason considered david a hero .
+dat	0		christopher considered a loser to david .
+dat	1		christopher considered david a loser .
+dat	0		michael considered the greatest athlete to susan .
+dat	1		michael considered susan the greatest athlete .
+dat	0		jessica considered a criminal to susan .
+dat	1		jessica considered susan a criminal .
+dat	0		michael considered the best to john .
+dat	1		michael considered john the best .
+dat	0		elizabeth considered the most valuable player to john .
+dat	1		elizabeth considered john the most valuable player .
+dat	0		elizabeth deemed a hero to susan .
+dat	1		elizabeth deemed susan a hero .
+dat	0		jessica deemed a loser to rebecca .
+dat	1		jessica deemed rebecca a loser .
+dat	0		elizabeth deemed the greatest athlete to john .
+dat	1		elizabeth deemed john the greatest athlete .
+dat	0		nicole deemed a criminal to kelly .
+dat	1		nicole deemed kelly a criminal .
+dat	0		jason deemed the best to rebecca .
+dat	1		jason deemed rebecca the best .
+dat	0		jason deemed the most valuable player to kelly .
+dat	1		jason deemed kelly the most valuable player .
+dat	0		michael fancied a hero to david .
+dat	1		michael fancied david a hero .
+dat	0		jessica fancied a loser to kelly .
+dat	1		jessica fancied kelly a loser .
+dat	0		michael fancied the greatest athlete to rebecca .
+dat	1		michael fancied rebecca the greatest athlete .
+dat	0		christopher fancied a criminal to kelly .
+dat	1		christopher fancied kelly a criminal .
+dat	0		christopher fancied the best to kelly .
+dat	1		christopher fancied kelly the best .
+dat	0		jessica fancied the most valuable player to john .
+dat	1		jessica fancied john the most valuable player .
+dat	0		jessica judged a hero to kelly .
+dat	1		jessica judged kelly a hero .
+dat	0		elizabeth judged a loser to kelly .
+dat	1		elizabeth judged kelly a loser .
+dat	0		jason judged the greatest athlete to john .
+dat	1		jason judged john the greatest athlete .
+dat	0		jessica judged a criminal to susan .
+dat	1		jessica judged susan a criminal .
+dat	0		michael judged the best to rebecca .
+dat	1		michael judged rebecca the best .
+dat	0		jason judged the most valuable player to james .
+dat	1		jason judged james the most valuable player .
+dat	0		jessica found a hero to rebecca .
+dat	1		jessica found rebecca a hero .
+dat	0		christopher found a loser to rebecca .
+dat	1		christopher found rebecca a loser .
+dat	0		christopher found the greatest athlete to james .
+dat	1		christopher found james the greatest athlete .
+dat	0		nicole found a criminal to susan .
+dat	1		nicole found susan a criminal .
+dat	0		nicole found the best to james .
+dat	1		nicole found james the best .
+dat	0		christopher found the most valuable player to john .
+dat	1		christopher found john the most valuable player .
+dat	0		nicole proclaimed a hero to james .
+dat	1		nicole proclaimed james a hero .
+dat	0		michael proclaimed a loser to rebecca .
+dat	1		michael proclaimed rebecca a loser .
+dat	0		nicole proclaimed the greatest athlete to rebecca .
+dat	1		nicole proclaimed rebecca the greatest athlete .
+dat	0		jessica proclaimed a criminal to david .
+dat	1		jessica proclaimed david a criminal .
+dat	0		jason proclaimed the best to james .
+dat	1		jason proclaimed james the best .
+dat	0		michael proclaimed the most valuable player to james .
+dat	1		michael proclaimed james the most valuable player .
+dat	0		jason thought a hero to john .
+dat	1		jason thought john a hero .
+dat	0		elizabeth thought a loser to kelly .
+dat	1		elizabeth thought kelly a loser .
+dat	0		jason thought the greatest athlete to john .
+dat	1		jason thought john the greatest athlete .
+dat	0		michael thought a criminal to rebecca .
+dat	1		michael thought rebecca a criminal .
+dat	0		michael thought the best to david .
+dat	1		michael thought david the best .
+dat	0		jason thought the most valuable player to john .
+dat	1		jason thought john the most valuable player .
+dat	0		elizabeth labeled a hero to john .
+dat	1		elizabeth labeled john a hero .
+dat	0		jessica labeled a loser to john .
+dat	1		jessica labeled john a loser .
+dat	0		elizabeth labeled the greatest athlete to kelly .
+dat	1		elizabeth labeled kelly the greatest athlete .
+dat	0		elizabeth labeled a criminal to john .
+dat	1		elizabeth labeled john a criminal .
+dat	0		elizabeth labeled the best to susan .
+dat	1		elizabeth labeled susan the best .
+dat	0		jessica labeled the most valuable player to david .
+dat	1		jessica labeled david the most valuable player .
+dat	0		elizabeth ruled a hero to susan .
+dat	1		elizabeth ruled susan a hero .
+dat	0		christopher ruled a loser to john .
+dat	1		christopher ruled john a loser .
+dat	0		elizabeth ruled the greatest athlete to james .
+dat	1		elizabeth ruled james the greatest athlete .
+dat	0		elizabeth ruled a criminal to john .
+dat	1		elizabeth ruled john a criminal .
+dat	0		jessica ruled the best to james .
+dat	1		jessica ruled james the best .
+dat	0		christopher ruled the most valuable player to james .
+dat	1		christopher ruled james the most valuable player .

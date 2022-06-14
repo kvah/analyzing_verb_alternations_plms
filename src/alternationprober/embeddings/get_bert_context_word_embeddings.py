@@ -47,17 +47,24 @@ def get_sentences(verb:str, sentence_df:pd.DataFrame) -> List[str]:
     ----------
     verb : str
         Verb, as from the LAVA dataset.
-    sentence_df: pd.Series
+    sentence_df: pd.DataFrame
         pandas DataFrame containing sentences from FAVA
 
     Returns
     -------
     sentences : List[str]
-        The list of sentences from FAVA containing the input verb
+        The list of grammatical sentences from FAVA containing the input verb.
     """ 
-    # Regex string to check whether input verb exists in sentence
-    contains_verb = sentence_df[sentence_df['sentence'].str.contains(rf'.*\s{verb}\s.*')]
-    sentences = contains_verb['sentence'].to_list()
+    # Mask to check whether input verb exists in sentence using regex.
+    contains_verb_mask = sentence_df['sentence'].str.contains(rf'.*\s{verb}\s.*')
+
+    # Mask to check whether sentence is grammatical
+    grammatical_mask = sentence_df['label'] == 1
+
+    combined_mask = contains_verb_mask & grammatical_mask
+
+    sentences = sentence_df[combined_mask]['sentence'].to_list()
+
     return sentences
 
 def find_verb_indices(verb_ids: Tensor, token_ids: Tensor) -> List[int]:

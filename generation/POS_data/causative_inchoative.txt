@@ -1,0 +1,74 @@
+-roll
+Bounce, drift, drop, float, glide, move, roll, slide, swing, coil, revolved, rotate, spin, turn, twirl, twist, whirl, wind
+
+-break
+Break, chip, crack, crash, crush, fracture, rip, shatter, smash, snap, splinter, split, tear
+
+-bend
+Bend, crease, crinkle, crumple, fold, rumple, wrinkle
+
+-change
+Abate, advance, age, air, alter, atrophy, awake, balance, blast, blur, burn, burst, capsize, change, char, chill, clog, close, collapse, coolant, compress, condense, contract, corrode, crumble, decompose, decrease, deflate, defrost, degrade, diminish, dissolve, distend, divide, double, drain, ease, enlarge, expand, explode, fade, fill, flood, fray, freeze, frost, fuse, grow, halt, heal, heat, hush, ignite, improve, increase, inflate, kindle, light, loop, mature, melt, multiply, overturn, pop, quadruple, rekindle, reopen, reproduce, rupture, scorch, scar, short, shortcircuit, shrink, shrivel, singe, sink, soak, splay, spout, steep, stretch, submerge, subside, taper, thaw, tilt, tire, topple, triple, unfold, vary, warp
+
+-zero
+Blunt, clear, clean, cool, crisp, dim, dirty, double, dry, dull, empty, even, firm, level, loose, below, muddy, narrow, open, pale, quiet, round, shut, slack, slim, slow, smooth, sober, sour, steady, tame, tense, thin, triple, warm
+
+-change of color
+Blacken, brown, crimson, gray, green, purple, redden, silver, tan, whiten, yellow
+
+-en
+Awaken, brighten, broaden, cheapen, coarsen, dampen, darken, deepen, fatten, flatten, freshen, gladden, harden, hasten, heighten, lengthen, lessen, lighten, loosen, moisten, neaten, quicken, ripen, roughen, sharpen, shorten, sicken, slacken, smarten, soften, steepen, stiffen, straighten, strengthen, sweeten, thicken, tighten, toughen, waken, weaken, widen, worsen
+
+-ify
+Acetify, acidify, alkalify, calcify, carbonify, dehumidify, emulsify, fructify, gasify, humidify, intensify, lignify, liquefy, magnify, nitrify, ossify, petrify, purify, putrefy, silicify, solidify, stratify, vitrify  
+
+-ize
+Americanize, caramelize, carbonize, crystallize, decentralize, demagnetize, democratize, depressurize, destabilize, energize, equalize, fossilize, gelatinize, glutenize, harmonize, hybridize, iodize, ionize, magnetize, neutralize, oxidize, polarize, pulverize, regularize, stabilize, unionize, vaporize, volatilize, westernize 
+
+-ate
+Accelerate, agglomerate, ameliorate, attenuate, coagulate, decelerate, deescalate, degenerate, desiccate, deteriorate, detonate, disintegrate, dissipate, evaporate, federate, granulate, incubate, levitate, macerate, operate, proliferate, propagate, ulcerate, vibrate
+
+-amuse type psych verbs
+Cheer, delight, enthuse, gladden, grieve, madden, obsess, puzzle, sadden, sicken, thrill, tire, weary, worry
+
+-give
+Feed, give, lease, lend, loan, pass, pay, peddle, refund, render, rent, repay, sell, serve, trade
+
+-contribute
+Administer, contribute, disburse, distribute, donate, extend, forfeit, proffer, refer, reimburse, relinquish, remit, restore, return, sacrifice, submit, surrender, transfer
+
+-future
+Advance, allocate, allot, assign, award, bequeath, cede, concede, extend, grant, guarantee, issue, leave, offer, owe, promise, vote, will, yield
+
+-cut
+Chip, clip, cut, hack, hew, saw, scrape, scratch, slash, snip, bore, bruise, carve, chop, crop, crush, cube, dent, dice, drill, file, fillet, gash, gouge, grate, grind, mangle, mash, mince, mow, nick, notch, perforate, pulverize, punch, prune, shred, slice, split, spear, squash, squish
+
+-hit
+Bang, bash, batter, beat, bump, butt, dash, drum, hammer, hit, kick, kick, lash, pound, rap, slap, smack, smash, strike, tamp, tap, thump, thwack, whack
+
+-swat
+Bite, claw, paw, peck, punch, scratch, shoot, slug, stab, swat, swipe
+
+-spank
+Belt, birch, bludgeon, bonk, brain, cane, clobber, club, conk, cosh, cudgel, cuff, flog, knife, paddle, paddywhack, pummel, sock, spank, strap, thrash, truncheon, wallop, whip, whisk
+
+-touch
+Caress, graze, kiss lick, nudge, pat, peck, pinch, prod, sting, stroke, tickle, touch
+
+-destroy
+Annihilate, blitz, decimate, demolish, destroy, devastate, exterminate, extirpate, obliterate, ravage, raze, ruin, waste, wreck
+
+-murder
+Assassinate, butcher, dispatch, eliminate, execute, immolate, kill, liquidate, massacre, murder, slaughter, slay
+
+-poison
+Crucify, electrocute, garrotte, hang, knife, poison, shoot, smother, stab, strangle
+
+-appear
+Appear, arise, awake, come, dawn, emanate, emerge, erupt, evolve, flow, gush, issue, materialize, plop, result, rise steal, stem, stream, supervene, surge, wax
+
+-disappear
+Die, disappear, expire, lapse, perish, vanish
+
+-occurrence
+Ensue, eventuate, happen, occur, recur, transpire 
