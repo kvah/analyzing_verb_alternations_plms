@@ -162,7 +162,13 @@ def run_experiment_for_alternation_df(
         predictions = classifier.predict(X_test)
 
         # Iterate over instances and collect true vs. predictions for each alternation.
-        for verb, true_label, prediction in zip(verbs_test, Y_test, predictions):
+        for i in range(len(Y_test)):
+            
+            verb = Y_test.index[i]
+            true_label = Y_test[i]
+            prediction = predictions[i]
+
+            print(verb, true_label, prediction)
 
             # Start to build up a dictinoary for this instance.
             result_dict = {"verb": verb, "fold": fold}
