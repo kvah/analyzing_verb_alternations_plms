@@ -6,7 +6,7 @@ This Repository contains the `alternation_prober` package and related resources.
 `alternation_prober` is used in experiments for Ling 575 "Analyzing Neural Language Models"
 in Spring of 2022.
 
-## Report Description
+## Description
 
 [Probing for Understanding of English Verb Classes and Alternations in Large Language Models](https://github.com/kvah/ling-575-analyzing-nn-group/blob/main/bert_verb_alternations.pdf)
 
