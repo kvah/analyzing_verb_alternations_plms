@@ -3,7 +3,7 @@
 Collaborators: David Yi, Jiayu Han, Jimmy Bruno, Peter Zukerman
 
 This Repository contains the `alternation_prober` package and related resources.
-`alternation_prober` is used in our experiments for Ling 575 ["Analyzing Neural Language Models"](https://www.shane.st/teaching/575/spr22/index.html)
+`alternation_prober` is used in our experiments for Ling 575 [Analyzing Neural Language Models](https://www.shane.st/teaching/575/spr22/index.html)
 in Spring of 2022.
 
 ## Description
