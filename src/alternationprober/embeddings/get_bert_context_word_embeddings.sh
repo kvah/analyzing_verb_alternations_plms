@@ -4,4 +4,5 @@ conda env create -n 575nn --file ~/ling-575-analyzing-nn-group/conda_environment
 conda activate 575nn
 pip install -e ~/ling-575-analyzing-nn-group
 
-python get_bert_context_word_embeddings.py
+python get_bert_context_word_embeddings.py \
+    --model_name bert-base-uncased

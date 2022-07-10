@@ -19,6 +19,9 @@ embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
 :date: 5/1/2022
 """
 
+import sys 
+import argparse 
+
 from pathlib import Path
 from typing import List, Dict
 
@@ -36,8 +39,26 @@ from alternationprober.constants import (
 )
 
 PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE.parent.mkdir(parents=True, exist_ok=True)
-EMBEDDING_SIZE = 768
-NUM_LAYERS = 12
+
+# These models happen to have the number of layers and embedding shapes, but this is not always true
+MODEL_PARAMS = {
+    'bert-base-uncased': {
+        'num_layers': 12,
+        'embedding_size': 768
+    },
+    'roberta-base': {
+        'num_layers': 12,
+        'embedding_size': 768
+    },
+    'google/electra-base-discriminator': {
+        'num_layers': 12,
+        'embedding_size': 768
+    },
+    'microsoft/deberta-base': {
+        'num_layers': 12,
+        'embedding_size': 768
+    },
+}
 
 def get_sentences(verb:str, sentence_df:pd.DataFrame) -> List[str]:
     """
@@ -60,9 +81,7 @@ def get_sentences(verb:str, sentence_df:pd.DataFrame) -> List[str]:
 
     # Mask to check whether sentence is grammatical
     grammatical_mask = sentence_df['label'] == 1
-
     combined_mask = contains_verb_mask & grammatical_mask
-
     sentences = sentence_df[combined_mask]['sentence'].to_list()
 
     return sentences
@@ -93,16 +112,15 @@ def get_verb_embedding(verb:str, verb_to_sentences:Dict, model:AutoModel, tokeni
     """
     inputs = tokenizer(verb_to_sentences[verb], padding=True, return_tensors="pt")
     outputs = model(**inputs, output_hidden_states=True)
+    sentences = verb_to_sentences[verb]
 
-    verb_ids = tokenizer(verb, padding=False)['input_ids'][1:-1]
-    verb_ids = torch.tensor(verb_ids)
     # Get position of wordpiece tokens corresponding to the verb
-    verb_positions = [find_verb_indices(verb_ids, token_ids) for token_ids in inputs['input_ids']]
+    verb_positions = get_indices(verb, sentences, inputs)
 
     # The hidden state at index 0 is the output embedding 
     hidden_states = outputs['hidden_states'][1:]
     
-    mean_embeddings = torch.empty(0, EMBEDDING_SIZE)
+    mean_embeddings = torch.empty(0, hidden_states[0].shape[-1])
 
     for layer_idx in range(len(hidden_states)):
         layer_embedding = hidden_states[layer_idx]
@@ -118,6 +136,38 @@ def get_verb_embedding(verb:str, verb_to_sentences:Dict, model:AutoModel, tokeni
         mean_embeddings = torch.cat((mean_embeddings, mean_embedding))
     
     return mean_embeddings
+
+def get_indices(word, sentences, encoded_inputs):
+
+    all_indices = []
+    for i in range(len(sentences)):
+
+        sentence = sentences[i]
+        word_to_indices = []
+        for word_id in encoded_inputs.word_ids(i):
+            if word_id is not None:
+                start, end = encoded_inputs[i].word_to_tokens(word_id)
+                if start == end - 1:
+                    tokens = [start]
+                else:
+                    tokens = [start, end-1]
+                if len(word_to_indices) == 0 or word_to_indices[-1] != tokens:
+                    word_to_indices.append(tokens)
+        
+        tokens = sentence.split(' ')
+        if len(word.split(' ')) == 1:
+            word_pos = tokens.index(word)
+            verb_indices = word_to_indices[word_pos]
+        else:
+            first_word = word.split(' ')[0]
+            first_index = tokens.index(first_word)
+
+            word_pos = word_to_indices[first_index:first_index+len(word.split(' '))]
+            verb_indices = [x for xs in word_pos for x in xs]
+
+        all_indices.append(verb_indices)
+
+    return all_indices
 
 def main():
     """
@@ -151,12 +201,16 @@ def main():
         verb: get_sentences(verb=verb, sentence_df=fava_df) 
         for verb in verbs
     }
-    model = AutoModel.from_pretrained("bert-base-uncased")
-    tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+
+    model_name = args.model_name
+    model_params = MODEL_PARAMS[model_name]
+    model = AutoModel.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     print(f'Creating contextual embeddings for {len(verbs)} verbs')
     # Shape: (|V|, 12, 768)
-    verb_embeddings = torch.empty(0, NUM_LAYERS, EMBEDDING_SIZE)
+    verb_embeddings = torch.empty(0, model_params['num_layers'], model_params['embedding_size'])
+
     for verb in tqdm(verbs):
         verb_embedding = get_verb_embedding(
             verb=verb, 
@@ -169,7 +223,12 @@ def main():
 
     verb_embeddings = verb_embeddings.detach().numpy()
     np.save(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE, verb_embeddings)
-    print(f'Context embeddings saved to: {PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE}')
+    print(f'Context embeddings saved to: {PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE} for {model_name}')
 
 if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(description="Extract embeddings from specified pretrained language model")
+    parser.add_argument("--model_name", type=str, default='bert-base-uncased')
+    args = parser.parse_args(sys.argv[1:])
+
     main()
