@@ -22,7 +22,7 @@ from typing import List
 
 from alternationprober.constants import (
     PATH_TO_BERT_WORD_EMBEDDINGS_FILE,
-    PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE,
+    PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR,
     PATH_TO_LAVA_DIR,
     PATH_TO_LAVA_VOCAB,
     PATH_TO_RESULTS_DIRECTORY,
@@ -168,8 +168,6 @@ def run_experiment_for_alternation_df(
             true_label = Y_test[i]
             prediction = predictions[i]
 
-            print(verb, true_label, prediction)
-
             # Start to build up a dictinoary for this instance.
             result_dict = {"verb": verb, "fold": fold}
 
@@ -222,21 +220,33 @@ def main():
         help="whether to use contextual bert embeddings instead of static wordpiece embeddings",
         action="store_true"
     )
+    parser.add_argument(
+        "--model_name", 
+        type=str,
+        choices=['bert-base-uncased', 'roberta-base', 'google/electra-base-discriminator', 'microsoft/deberta-base'], 
+        default='bert-base-uncased',
+        required=False
+    )
     args = parser.parse_args()
 
     alternation_csv = PATH_TO_LAVA_DIR / 'verb_frames.csv'
     alternation_df = pd.read_csv(alternation_csv, index_col='verb')
 
-    args.output_directory.mkdir(parents=True, exist_ok=True)
+    model_name = args.model_name
+    if '/' in model_name:
+        model_name = model_name.split('/')[1]
+    output_dir = args.output_directory / model_name
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     if args.use_context_embeddings:
         try:
-            # Load context word embeddings.
-            layer_embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE, allow_pickle=True)
+            # Load context word embeddings
+            embedding_path = PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR / f'{model_name}.npy'
+            layer_embeddings = np.load(embedding_path, allow_pickle=True)
         except FileNotFoundError as e:
             message = f"""
-            {PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE} not found.  
-            Execute 'get_bert_context_word_embeddings` before continuing.
+            {embedding_path} not found.  
+            Execute 'get_bert_context_word_embeddings --model_name {model_name}` before continuing.
             """
             raise FileNotFoundError(message) from e
     
@@ -250,13 +260,12 @@ def main():
             Execute 'get_bert_word_embeddings` before continuing.
             """
             raise FileNotFoundError(message) from e
-
-
+         
     if args.use_context_embeddings:
         # Loop over each context layer
         for i in range(layer_embeddings.shape[1]):
             word_embeddings = layer_embeddings[:, i, :]
-            print(f'Layer {i+1}')
+            print(f'{model_name} Layer {i+1}')
             for frame in alternation_df.columns:
                 frame_df = alternation_df[[frame]]
                 # Remove verbs with missing values
@@ -264,7 +273,7 @@ def main():
                 print('----------------------------------------')
                 print(f"running experiment on {frame}")
                 run_experiment_for_alternation_df(
-                    frame_df, frame, args.output_directory, word_embeddings, layer=i+1
+                    frame_df, frame, output_dir, word_embeddings, layer=i+1
                 )
             print('\n')
     else:
@@ -273,7 +282,7 @@ def main():
             # Remove verbs with missing values
             frame_df = frame_df[frame_df[frame] != 'x'].astype(int)
             print(f"running experiment on {frame}")
-            run_experiment_for_alternation_df(frame_df, frame, args.output_directory, word_embeddings)
+            run_experiment_for_alternation_df(frame_df, frame, output_dir, word_embeddings)
 
 
 if __name__ == "__main__":

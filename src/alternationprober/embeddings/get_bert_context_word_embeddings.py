@@ -1,18 +1,18 @@
 """
-Script to get contextual word-embeddings out of Bert-family Models.
+Script to get contextual word-embeddings out of Pretrained Encoder Models.
 
-Contextual Word-embeddings from bert-base-uncased for the LaVa dataset
+Extracty contextual Word-embeddings from a specified pretrain model for the LaVa dataset
 Input sentences used to create contextual embeddings are from FAVA
-will be written to ``PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE`` as an
+will be written to ``PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR`` as an
 (|V|, 12, 768) dimensional nd-array.
 
 Load the file with:
 
 ```
 import numpy as np
-from alternationprober.constants import PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE
+from alternationprober.constants import PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR
 
-embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
+embeddings = np.load(PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR / f'{model_name}.npy')
 ```
 
 :author: David Yi
@@ -20,7 +20,8 @@ embeddings = np.load(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE)
 """
 
 import sys 
-import argparse 
+import argparse
+import json
 
 from pathlib import Path
 from typing import List, Dict
@@ -33,12 +34,13 @@ import torch
 from tqdm import tqdm
 
 from alternationprober.constants import (
-    PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE,
+    PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR,
     PATH_TO_LAVA_FILE,
-    PATH_TO_FAVA_DIR
+    PATH_TO_FAVA_DIR,
+    PATH_TO_LAVA_VOCAB
 )
 
-PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE.parent.mkdir(parents=True, exist_ok=True)
+PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR.mkdir(parents=True, exist_ok=True)
 
 # These models happen to have the number of layers and embedding shapes, but this is not always true
 MODEL_PARAMS = {
@@ -171,7 +173,7 @@ def get_indices(word, sentences, encoded_inputs):
 
 def main():
     """
-    Extract word-level contextual embeddings from ``bert-base-uncased`` for the verbs in lava
+    Extract word-level contextual embeddings from args.model_name for the verbs in lava
     using the sentences in FAVA as input sentences
     """
     # Load LaVa
@@ -222,13 +224,27 @@ def main():
         verb_embeddings = torch.cat((verb_embeddings, verb_embedding))
 
     verb_embeddings = verb_embeddings.detach().numpy()
-    np.save(PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE, verb_embeddings)
-    print(f'Context embeddings saved to: {PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE} for {model_name}')
+
+    if '/' in model_name:
+        model_name = model_name.split('/')[1]
+    embedding_file_path = PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR / f'{model_name}.npy'
+    np.save(embedding_file_path, verb_embeddings)
+    print(f'Context embeddings saved to: {embedding_file_path} for {model_name}')
+
+    vocab_to_idx = {verb:i for i, verb in enumerate(verbs)}
+    with PATH_TO_LAVA_VOCAB.open("w") as f:
+        json.dump(vocab_to_idx, f, indent=4, sort_keys=True)
+    print(f"Vocabulary mapping file crated at {PATH_TO_LAVA_VOCAB}.")
 
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Extract embeddings from specified pretrained language model")
-    parser.add_argument("--model_name", type=str, default='bert-base-uncased')
-    args = parser.parse_args(sys.argv[1:])
+    parser.add_argument(
+        "--model_name", 
+        type=str,
+        choices=['bert-base-uncased', 'roberta-base', 'google/electra-base-discriminator', 'microsoft/deberta-base'], 
+        default='bert-base-uncased'
+    )
+    args = parser.parse_args()
 
     main()

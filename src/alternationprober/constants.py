@@ -28,8 +28,9 @@ PATH_TO_FAVA_DIR = _DATA_DIR / "fava" / "verb_classes_public"
 PATH_TO_BERT_WORD_EMBEDDINGS_FILE = (
     _DATA_DIR / "embeddings" / "bert-word-embeddings-lava.npy"
 )
-PATH_TO_BERT_CONTEXT_WORD_EMBEDDINGS_FILE = (
-    _DATA_DIR / "embeddings" / "bert-context-word-embeddings.npy"
+
+PATH_TO_CONTEXT_WORD_EMBEDDINGS_DIR = (
+    _DATA_DIR / "embeddings" / "context"
 )
 
 PATH_TO_LAVA_VOCAB = _DATA_DIR / "embeddings" / "bert-word-embeddings-lava-vocab.json"
