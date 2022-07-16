@@ -1,0 +1,3609 @@
+alternation	label	sentence	pred_label
+dat	1.0	jason fed the casserole to the children .	1
+dat	1.0	jason fed the children the casserole .	1
+dat	1.0	nicole fed the meal to the guests .	1
+dat	1.0	nicole fed the guests the meal .	1
+dat	1.0	elizabeth served the casserole to the family .	0
+dat	1.0	elizabeth served the family the casserole .	0
+dat	1.0	christopher served the meal to the family .	1
+dat	1.0	christopher served the family the meal .	1
+dat	1.0	john gave a gift to the little boy .	1
+dat	1.0	john gave the little boy a gift .	1
+dat	1.0	john gave a surprise to the family .	0
+dat	1.0	john gave the family a surprise .	0
+dat	1.0	john gave a puppy to the little boy .	1
+dat	1.0	john gave the little boy a puppy .	1
+dat	1.0	john gave a book to his wife .	1
+dat	1.0	john gave his wife a book .	1
+dat	1.0	john gave a plate of food to the little boy .	0
+dat	1.0	john gave the little boy a plate of food .	0
+dat	1.0	john left a gift to the family .	1
+dat	1.0	john left the family a gift .	0
+dat	1.0	john left a surprise to the family .	0
+dat	1.0	john left the family a surprise .	0
+dat	1.0	john left a puppy to the little boy .	0
+dat	1.0	john left the little boy a puppy .	0
+dat	1.0	john left a book to the little boy .	1
+dat	1.0	john left the little boy a book .	0
+dat	1.0	john left a plate of food to his wife .	0
+dat	1.0	john left his wife a plate of food .	0
+dat	1.0	john brought a gift to the family .	1
+dat	1.0	john brought the family a gift .	1
+dat	1.0	john brought a surprise to his wife .	0
+dat	1.0	john brought his wife a surprise .	0
+dat	1.0	john brought a puppy to the little boy .	1
+dat	1.0	john brought the little boy a puppy .	0
+dat	1.0	john brought a book to his wife .	1
+dat	1.0	john brought his wife a book .	1
+dat	1.0	john brought a plate of food to his wife .	0
+dat	1.0	john brought his wife a plate of food .	1
+dat	1.0	jason sold a book to the customer .	1
+dat	1.0	jason sold the customer a book .	1
+dat	1.0	jessica sold a computer to the mother .	1
+dat	1.0	jessica sold the mother a computer .	1
+dat	1.0	christopher sold a car to the sales clerk .	1
+dat	1.0	christopher sold the sales clerk a car .	1
+dat	1.0	elizabeth traded a book to the mother .	1
+dat	1.0	elizabeth traded the mother a book .	1
+dat	1.0	michael traded a computer to the mother .	0
+dat	1.0	michael traded the mother a computer .	1
+dat	1.0	nicole traded a car to the mother .	0
+dat	1.0	nicole traded the mother a car .	1
+dat	1.0	christopher peddled a book to the mother .	1
+dat	1.0	christopher peddled the mother a book .	1
+dat	1.0	jason peddled a computer to the customer .	1
+dat	1.0	jason peddled the customer a computer .	1
+dat	1.0	christopher peddled a car to the sales clerk .	0
+dat	1.0	christopher peddled the sales clerk a car .	0
+dat	1.0	jason offered a book to the sales clerk .	1
+dat	1.0	jason offered the sales clerk a book .	1
+dat	1.0	michael offered a computer to the customer .	1
+dat	1.0	michael offered the customer a computer .	1
+dat	1.0	christopher offered a car to the sales clerk .	1
+dat	1.0	christopher offered the sales clerk a car .	1
+dat	1.0	michael rented a car to the tenant .	0
+dat	1.0	michael rented the tenant a car .	0
+dat	1.0	jessica rented an apartment to the tenant .	0
+dat	1.0	jessica rented the tenant an apartment .	0
+dat	1.0	elizabeth loaned a car to the defendant .	1
+dat	1.0	elizabeth loaned the defendant a car .	1
+dat	1.0	jessica loaned an apartment to the defendant .	0
+dat	1.0	jessica loaned the defendant an apartment .	1
+dat	1.0	jason allotted a plot of land to the children .	1
+dat	1.0	jason allotted the children a plot of land .	1
+dat	1.0	jessica allotted the property to the family lawer .	0
+dat	1.0	jessica allotted the family lawer the property .	0
+dat	1.0	elizabeth allotted the art collection to the client .	0
+dat	1.0	elizabeth allotted the client the art collection .	0
+dat	1.0	christopher allotted the mansion to the family lawer .	0
+dat	1.0	christopher allotted the family lawer the mansion .	0
+dat	1.0	nicole bequeathed a plot of land to the children .	0
+dat	1.0	nicole bequeathed the children a plot of land .	1
+dat	1.0	jessica bequeathed the property to the children .	1
+dat	1.0	jessica bequeathed the children the property .	0
+dat	1.0	nicole bequeathed the art collection to the client .	0
+dat	1.0	nicole bequeathed the client the art collection .	0
+dat	1.0	jessica bequeathed the mansion to the family lawer .	0
+dat	1.0	jessica bequeathed the family lawer the mansion .	0
+dat	1.0	michael ceded a plot of land to the children .	1
+dat	1.0	michael ceded the children a plot of land .	1
+dat	1.0	elizabeth ceded the property to the children .	1
+dat	1.0	elizabeth ceded the children the property .	1
+dat	1.0	christopher ceded the art collection to the client .	0
+dat	1.0	christopher ceded the client the art collection .	0
+dat	1.0	christopher ceded the mansion to the client .	1
+dat	1.0	christopher ceded the client the mansion .	0
+dat	1.0	jessica granted a plot of land to the client .	0
+dat	1.0	jessica granted the client a plot of land .	0
+dat	1.0	elizabeth granted the property to the client .	0
+dat	1.0	elizabeth granted the client the property .	0
+dat	1.0	jason granted the art collection to the client .	0
+dat	1.0	jason granted the client the art collection .	0
+dat	1.0	jason granted the mansion to the family lawer .	0
+dat	1.0	jason granted the family lawer the mansion .	0
+dat	1.0	michael allocated a plot of land to the children .	1
+dat	1.0	michael allocated the children a plot of land .	1
+dat	1.0	jason allocated the property to the children .	1
+dat	1.0	jason allocated the children the property .	0
+dat	1.0	jessica allocated the art collection to the family lawer .	0
+dat	1.0	jessica allocated the family lawer the art collection .	0
+dat	1.0	michael allocated the mansion to the client .	0
+dat	1.0	michael allocated the client the mansion .	0
+dat	1.0	jason forwarded a letter to the recipient .	1
+dat	1.0	jason forwarded the recipient a letter .	1
+dat	1.0	nicole forwarded a package to the client .	1
+dat	1.0	nicole forwarded the client a package .	1
+dat	1.0	christopher forwarded an email to the recipient .	1
+dat	1.0	christopher forwarded the recipient an email .	1
+dat	1.0	elizabeth mailed a letter to the client .	1
+dat	1.0	elizabeth mailed the client a letter .	1
+dat	1.0	jessica mailed a package to the recipient .	1
+dat	1.0	jessica mailed the recipient a package .	1
+dat	1.0	jessica mailed an email to the recipient .	1
+dat	1.0	jessica mailed the recipient an email .	1
+dat	1.0	nicole carried a package to the family .	1
+dat	1.0	nicole carried the family a package .	1
+dat	1.0	christopher carried the sofa to the family .	1
+dat	1.0	christopher carried the family the sofa .	0
+dat	1.0	michael carried the bags to the new tenants .	1
+dat	1.0	michael carried the new tenants the bags .	0
+dat	1.0	nicole schlepped a package to the new tenants .	0
+dat	1.0	nicole schlepped the new tenants a package .	0
+dat	1.0	jessica schlepped the sofa to the new tenants .	0
+dat	1.0	jessica schlepped the new tenants the sofa .	0
+dat	1.0	michael schlepped the bags to the new tenants .	0
+dat	1.0	michael schlepped the new tenants the bags .	0
+dat	1.0	elizabeth lugged a package to the family .	0
+dat	1.0	elizabeth lugged the family a package .	0
+dat	1.0	jason lugged the sofa to the family .	0
+dat	1.0	jason lugged the family the sofa .	0
+dat	1.0	nicole lugged the bags to the new tenants .	0
+dat	1.0	nicole lugged the new tenants the bags .	0
+dat	1.0	elizabeth dragged a package to the family .	1
+dat	1.0	elizabeth dragged the family a package .	1
+dat	1.0	elizabeth dragged the sofa to the new tenants .	1
+dat	1.0	elizabeth dragged the new tenants the sofa .	0
+dat	1.0	nicole dragged the bags to the family .	1
+dat	1.0	nicole dragged the family the bags .	1
+dat	1.0	elizabeth showed a photo to the audience .	1
+dat	1.0	elizabeth showed the audience a photo .	1
+dat	1.0	christopher showed a new technique to the attendees .	1
+dat	1.0	christopher showed the attendees a new technique .	1
+dat	1.0	christopher addressed a letter to the recipient .	1
+dat	0.0	christopher addressed the recipient a letter .	1
+dat	1.0	elizabeth addressed a speech to the audience .	1
+dat	0.0	elizabeth addressed the audience a speech .	0
+dat	1.0	jason recited a letter to the audience .	1
+dat	0.0	jason recited the audience a letter .	1
+dat	1.0	nicole recited a speech to the audience .	1
+dat	0.0	nicole recited the audience a speech .	1
+dat	1.0	jason admitted the crime to the authorities .	1
+dat	0.0	jason admitted the authorities the crime .	0
+dat	1.0	jessica admitted the error to the authorities .	1
+dat	0.0	jessica admitted the authorities the error .	0
+dat	1.0	elizabeth confessed the crime to the authorities .	1
+dat	0.0	elizabeth confessed the authorities the crime .	1
+dat	1.0	christopher confessed the error to the authorities .	1
+dat	0.0	christopher confessed the authorities the error .	0
+dat	1.0	elizabeth distributed the medications to the children .	1
+dat	0.0	elizabeth distributed the children the medications .	0
+dat	1.0	christopher distributed the tests to the children .	1
+dat	0.0	christopher distributed the children the tests .	0
+dat	1.0	christopher administered the medications to the children .	1
+dat	0.0	christopher administered the children the medications .	1
+dat	1.0	christopher administered the tests to the children .	1
+dat	0.0	christopher administered the children the tests .	1
+dat	0.0	michael begrudged her success to Alice .	1
+dat	1.0	michael begrudged Alice her success .	1
+dat	0.0	nicole begrudged her beauty to Alice .	0
+dat	1.0	nicole begrudged Alice her beauty .	1
+dat	0.0	michael begrudged her privilege to Alice .	0
+dat	1.0	michael begrudged Alice her privilege .	0
+dat	0.0	nicole forgave her success to Alice .	1
+dat	1.0	nicole forgave Alice her success .	1
+dat	0.0	jason forgave her beauty to Alice .	1
+dat	1.0	jason forgave Alice her beauty .	1
+dat	0.0	jessica forgave her privilege to Alice .	1
+dat	1.0	jessica forgave Alice her privilege .	1
+dat	0.0	christopher charged a thousand dollars to rebecca .	1
+dat	1.0	christopher charged rebecca a thousand dollars .	1
+dat	0.0	michael charged a large sum to james .	1
+dat	1.0	michael charged james a large sum .	1
+dat	0.0	jason charged a week 's salary to james .	1
+dat	1.0	jason charged james a week 's salary .	1
+dat	0.0	elizabeth charged 20 pounds to john .	0
+dat	1.0	elizabeth charged john 20 pounds .	1
+dat	0.0	michael overcharged a thousand dollars to john .	0
+dat	1.0	michael overcharged john a thousand dollars .	1
+dat	0.0	michael overcharged a large sum to james .	0
+dat	1.0	michael overcharged james a large sum .	1
+dat	0.0	michael overcharged a week 's salary to susan .	1
+dat	1.0	michael overcharged susan a week 's salary .	1
+dat	0.0	christopher overcharged 20 pounds to james .	0
+dat	1.0	christopher overcharged james 20 pounds .	1
+dat	0.0	jason bet a thousand dollars to david .	1
+dat	1.0	jason bet david a thousand dollars .	1
+dat	0.0	jason bet a large sum to rebecca .	0
+dat	1.0	jason bet rebecca a large sum .	1
+dat	0.0	nicole bet a week 's salary to rebecca .	1
+dat	1.0	nicole bet rebecca a week 's salary .	1
+dat	0.0	nicole bet 20 pounds to john .	0
+dat	1.0	nicole bet john 20 pounds .	0
+dat	0.0	michael spared a thousand dollars to james .	1
+dat	1.0	michael spared james a thousand dollars .	1
+dat	0.0	elizabeth spared a large sum to kelly .	0
+dat	1.0	elizabeth spared kelly a large sum .	1
+dat	0.0	christopher spared a week 's salary to james .	0
+dat	1.0	christopher spared james a week 's salary .	1
+dat	0.0	elizabeth spared 20 pounds to james .	0
+dat	1.0	elizabeth spared james 20 pounds .	1
+dat	0.0	jessica fined a thousand dollars to kelly .	1
+dat	1.0	jessica fined kelly a thousand dollars .	1
+dat	0.0	jason fined a large sum to kelly .	0
+dat	1.0	jason fined kelly a large sum .	1
+dat	0.0	nicole fined a week 's salary to kelly .	1
+dat	1.0	nicole fined kelly a week 's salary .	1
+dat	0.0	jessica fined 20 pounds to rebecca .	1
+dat	1.0	jessica fined rebecca 20 pounds .	1
+dat	0.0	michael taxed a thousand dollars to james .	0
+dat	1.0	michael taxed james a thousand dollars .	1
+dat	0.0	jason taxed a large sum to james .	0
+dat	1.0	jason taxed james a large sum .	1
+dat	0.0	michael taxed a week 's salary to david .	0
+dat	1.0	michael taxed david a week 's salary .	1
+dat	0.0	elizabeth taxed 20 pounds to kelly .	0
+dat	1.0	elizabeth taxed kelly 20 pounds .	1
+inch	1.0	elizabeth dropped the ball .	1
+inch	1.0	the ball dropped .	1
+inch	1.0	david dropped the platter .	1
+inch	1.0	the platter dropped .	1
+inch	1.0	jessica dropped the vase .	1
+inch	1.0	the vase dropped .	1
+inch	1.0	michael dropped computer .	0
+inch	1.0	computer dropped .	0
+inch	1.0	david tipped over the ball .	1
+inch	1.0	the ball tipped over .	1
+inch	1.0	nicole tipped over the platter .	1
+inch	1.0	the platter tipped over .	1
+inch	1.0	michael tipped over the vase .	1
+inch	1.0	the vase tipped over .	1
+inch	1.0	rebecca tipped over computer .	0
+inch	1.0	computer tipped over .	0
+inch	1.0	nicole rolled the ball .	1
+inch	1.0	the ball rolled .	1
+inch	1.0	jessica rolled the wheel .	1
+inch	1.0	the wheel rolled .	1
+inch	1.0	rebecca moved the car .	1
+inch	1.0	the car moved .	1
+inch	1.0	david moved the bicycle .	1
+inch	1.0	the bicycle moved .	1
+inch	1.0	rebecca moved the truck .	1
+inch	1.0	the truck moved .	1
+inch	1.0	jessica moved the boat .	1
+inch	1.0	the boat moved .	1
+inch	1.0	nicole moved the ship .	1
+inch	1.0	the ship moved .	1
+inch	1.0	michael moved the plane .	1
+inch	1.0	the plane moved .	1
+inch	1.0	jason moved the cart .	1
+inch	1.0	the cart moved .	1
+inch	1.0	jason maneuvered the car .	1
+inch	1.0	the car maneuvered .	1
+inch	1.0	nicole maneuvered the bicycle .	1
+inch	1.0	the bicycle maneuvered .	0
+inch	1.0	jessica maneuvered the truck .	1
+inch	1.0	the truck maneuvered .	1
+inch	1.0	elizabeth maneuvered the boat .	1
+inch	1.0	the boat maneuvered .	1
+inch	1.0	nicole maneuvered the ship .	1
+inch	1.0	the ship maneuvered .	1
+inch	1.0	nicole maneuvered the plane .	1
+inch	1.0	the plane maneuvered .	1
+inch	1.0	rebecca maneuvered the cart .	1
+inch	1.0	the cart maneuvered .	1
+inch	1.0	jessica crashed the car .	1
+inch	1.0	the car crashed .	1
+inch	1.0	elizabeth crashed the bicycle .	1
+inch	1.0	the bicycle crashed .	1
+inch	1.0	nicole crashed the truck .	1
+inch	1.0	the truck crashed .	1
+inch	1.0	jessica crashed the boat .	1
+inch	1.0	the boat crashed .	1
+inch	1.0	michael crashed the ship .	1
+inch	1.0	the ship crashed .	1
+inch	1.0	rebecca crashed the plane .	1
+inch	1.0	the plane crashed .	1
+inch	1.0	james crashed the cart .	1
+inch	1.0	the cart crashed .	1
+inch	1.0	kelly stopped the car .	1
+inch	1.0	the car stopped .	1
+inch	1.0	michael stopped the bicycle .	1
+inch	1.0	the bicycle stopped .	1
+inch	1.0	rebecca stopped the truck .	1
+inch	1.0	the truck stopped .	1
+inch	1.0	jason stopped the boat .	1
+inch	1.0	the boat stopped .	1
+inch	1.0	jason stopped the ship .	1
+inch	1.0	the ship stopped .	1
+inch	1.0	james stopped the plane .	1
+inch	1.0	the plane stopped .	1
+inch	1.0	michael stopped the cart .	1
+inch	1.0	the cart stopped .	1
+inch	1.0	david slowed the car .	1
+inch	1.0	the car slowed .	1
+inch	1.0	jessica slowed the bicycle .	1
+inch	1.0	the bicycle slowed .	1
+inch	1.0	kelly slowed the truck .	1
+inch	1.0	the truck slowed .	1
+inch	1.0	jason slowed the boat .	1
+inch	1.0	the boat slowed .	1
+inch	1.0	christopher slowed the ship .	1
+inch	1.0	the ship slowed .	1
+inch	1.0	christopher slowed the plane .	1
+inch	1.0	the plane slowed .	1
+inch	1.0	christopher slowed the cart .	1
+inch	1.0	the cart slowed .	1
+inch	1.0	nicole accelerated the car .	1
+inch	1.0	the car accelerated .	1
+inch	1.0	rebecca accelerated the bicycle .	1
+inch	1.0	the bicycle accelerated .	1
+inch	1.0	james accelerated the truck .	1
+inch	1.0	the truck accelerated .	1
+inch	1.0	elizabeth accelerated the boat .	1
+inch	1.0	the boat accelerated .	1
+inch	1.0	elizabeth accelerated the ship .	1
+inch	1.0	the ship accelerated .	1
+inch	1.0	nicole accelerated the plane .	1
+inch	1.0	the plane accelerated .	1
+inch	1.0	nicole accelerated the cart .	1
+inch	1.0	the cart accelerated .	1
+inch	1.0	michael melted the ice .	1
+inch	1.0	the ice melted .	1
+inch	1.0	christopher melted the chocolate .	1
+inch	1.0	the chocolate melted .	0
+inch	1.0	michael melted the plastic .	1
+inch	1.0	the plastic melted .	1
+inch	1.0	michael melted the ice cream .	1
+inch	1.0	the ice cream melted .	1
+inch	1.0	david melted the popsicle .	1
+inch	1.0	the popsicle melted .	1
+inch	1.0	kelly bounced the ball .	1
+inch	1.0	the ball bounced .	1
+inch	1.0	nicole bounced the balloon .	1
+inch	1.0	the balloon bounced .	1
+inch	1.0	david turned the sculpture .	1
+inch	1.0	the sculpture turned .	1
+inch	1.0	michael turned the sofa .	1
+inch	1.0	the sofa turned .	1
+inch	1.0	christopher turned the image .	1
+inch	1.0	the image turned .	1
+inch	1.0	elizabeth condensed the alcohol .	1
+inch	1.0	the alcohol condensed .	1
+inch	1.0	david condensed the water .	1
+inch	1.0	the water condensed .	1
+inch	1.0	rebecca condensed the solution .	1
+inch	1.0	the solution condensed .	1
+inch	1.0	christopher folded the paper .	1
+inch	1.0	the paper folded .	1
+inch	1.0	nicole folded the sheet .	1
+inch	1.0	the sheet folded .	1
+inch	1.0	kelly folded the poster .	1
+inch	1.0	the poster folded .	0
+inch	1.0	david folded the leaf .	1
+inch	1.0	the leaf folded .	0
+inch	1.0	kelly folded the foil .	0
+inch	1.0	the foil folded .	0
+inch	1.0	michael wrinkled the paper .	1
+inch	1.0	the paper wrinkled .	1
+inch	1.0	rebecca wrinkled the sheet .	1
+inch	1.0	the sheet wrinkled .	1
+inch	1.0	david wrinkled the poster .	1
+inch	1.0	the poster wrinkled .	1
+inch	1.0	nicole wrinkled the leaf .	1
+inch	1.0	the leaf wrinkled .	1
+inch	1.0	nicole wrinkled the foil .	0
+inch	1.0	the foil wrinkled .	1
+inch	1.0	david crumpled the paper .	1
+inch	1.0	the paper crumpled .	1
+inch	1.0	jessica crumpled the sheet .	1
+inch	1.0	the sheet crumpled .	1
+inch	1.0	james crumpled the poster .	1
+inch	1.0	the poster crumpled .	1
+inch	1.0	james crumpled the leaf .	1
+inch	1.0	the leaf crumpled .	1
+inch	1.0	jessica crumpled the foil .	1
+inch	1.0	the foil crumpled .	1
+inch	1.0	michael frayed the paper .	1
+inch	1.0	the paper frayed .	1
+inch	1.0	david frayed the sheet .	1
+inch	1.0	the sheet frayed .	1
+inch	1.0	elizabeth frayed the poster .	1
+inch	1.0	the poster frayed .	1
+inch	1.0	james frayed the leaf .	1
+inch	1.0	the leaf frayed .	1
+inch	1.0	james frayed the foil .	1
+inch	1.0	the foil frayed .	1
+inch	1.0	christopher stretched the paper .	1
+inch	1.0	the paper stretched .	1
+inch	1.0	rebecca stretched the sheet .	1
+inch	1.0	the sheet stretched .	1
+inch	1.0	james stretched the poster .	1
+inch	1.0	the poster stretched .	1
+inch	1.0	kelly stretched the leaf .	1
+inch	1.0	the leaf stretched .	1
+inch	1.0	david stretched the foil .	1
+inch	1.0	the foil stretched .	1
+inch	1.0	christopher unfolded the paper .	1
+inch	1.0	the paper unfolded .	1
+inch	1.0	david unfolded the sheet .	1
+inch	1.0	the sheet unfolded .	1
+inch	1.0	michael unfolded the poster .	1
+inch	1.0	the poster unfolded .	1
+inch	1.0	michael unfolded the leaf .	1
+inch	1.0	the leaf unfolded .	1
+inch	1.0	elizabeth unfolded the foil .	1
+inch	1.0	the foil unfolded .	0
+inch	1.0	christopher flattened the paper .	1
+inch	1.0	the paper flattened .	1
+inch	1.0	jason flattened the sheet .	1
+inch	1.0	the sheet flattened .	1
+inch	1.0	david flattened the poster .	1
+inch	1.0	the poster flattened .	0
+inch	1.0	kelly flattened the leaf .	1
+inch	1.0	the leaf flattened .	1
+inch	1.0	kelly flattened the foil .	1
+inch	1.0	the foil flattened .	1
+inch	1.0	david smoothed the paper .	1
+inch	1.0	the paper smoothed .	1
+inch	1.0	jason smoothed the sheet .	1
+inch	1.0	the sheet smoothed .	0
+inch	1.0	rebecca smoothed the poster .	1
+inch	1.0	the poster smoothed .	0
+inch	1.0	jason smoothed the leaf .	1
+inch	1.0	the leaf smoothed .	1
+inch	1.0	david smoothed the foil .	1
+inch	1.0	the foil smoothed .	0
+inch	1.0	james darkened the lights .	1
+inch	1.0	the lights darkened .	1
+inch	1.0	james darkened the room .	1
+inch	1.0	the room darkened .	1
+inch	1.0	james darkened the image .	1
+inch	1.0	the image darkened .	1
+inch	1.0	rebecca darkened the picture .	1
+inch	1.0	the picture darkened .	1
+inch	1.0	michael brightened the lights .	1
+inch	1.0	the lights brightened .	1
+inch	1.0	michael brightened the room .	1
+inch	1.0	the room brightened .	1
+inch	1.0	james brightened the image .	1
+inch	1.0	the image brightened .	1
+inch	1.0	james brightened the picture .	1
+inch	1.0	the picture brightened .	1
+inch	1.0	rebecca dimmed the lights .	1
+inch	1.0	the lights dimmed .	1
+inch	1.0	elizabeth dimmed the room .	1
+inch	1.0	the room dimmed .	1
+inch	1.0	david dimmed the image .	1
+inch	1.0	the image dimmed .	1
+inch	1.0	rebecca dimmed the picture .	1
+inch	1.0	the picture dimmed .	1
+inch	1.0	jason loosened the knot .	1
+inch	1.0	the knot loosened .	1
+inch	1.0	jason loosened the belt .	1
+inch	1.0	the belt loosened .	1
+inch	1.0	david loosened the grip .	1
+inch	1.0	the grip loosened .	1
+inch	1.0	rebecca tightened the knot .	1
+inch	1.0	the knot tightened .	1
+inch	1.0	christopher tightened the belt .	1
+inch	1.0	the belt tightened .	1
+inch	1.0	rebecca tightened the grip .	1
+inch	1.0	the grip tightened .	1
+inch	1.0	elizabeth dried the cloth .	1
+inch	1.0	the cloth dried .	1
+inch	1.0	rebecca dried the clothes .	1
+inch	1.0	the clothes dried .	0
+inch	1.0	david dried the plant .	1
+inch	1.0	the plant dried .	1
+inch	1.0	nicole dried the grass .	1
+inch	1.0	the grass dried .	1
+inch	1.0	michael dampened the cloth .	1
+inch	1.0	the cloth dampened .	1
+inch	1.0	elizabeth dampened the clothes .	1
+inch	1.0	the clothes dampened .	1
+inch	1.0	nicole dampened the plant .	1
+inch	1.0	the plant dampened .	1
+inch	1.0	rebecca dampened the grass .	1
+inch	1.0	the grass dampened .	1
+inch	1.0	jason destroyed the evidence .	1
+inch	0.0	the evidence destroyed .	1
+inch	1.0	david harvested the crops .	1
+inch	0.0	the crops harvested .	1
+inch	1.0	rebecca harvested the tomatoes .	1
+inch	0.0	the tomatoes harvested .	1
+inch	1.0	rebecca harvested the oranges .	1
+inch	0.0	the oranges harvested .	1
+inch	1.0	nicole cut the apple .	1
+inch	0.0	the apple cut .	0
+inch	1.0	nicole cut the onion .	1
+inch	0.0	the onion cut .	1
+inch	1.0	kelly cut the garlic .	1
+inch	0.0	the garlic cut .	1
+inch	1.0	kelly cut the tomato .	1
+inch	0.0	the tomato cut .	1
+inch	1.0	kelly chopped the apple .	1
+inch	0.0	the apple chopped .	1
+inch	1.0	christopher chopped the onion .	1
+inch	0.0	the onion chopped .	1
+inch	1.0	michael chopped the garlic .	1
+inch	0.0	the garlic chopped .	1
+inch	1.0	jason chopped the tomato .	1
+inch	0.0	the tomato chopped .	1
+inch	1.0	elizabeth peeled the apple .	1
+inch	0.0	the apple peeled .	1
+inch	1.0	nicole peeled the onion .	1
+inch	0.0	the onion peeled .	1
+inch	1.0	nicole peeled the garlic .	1
+inch	0.0	the garlic peeled .	1
+inch	1.0	michael peeled the tomato .	1
+inch	0.0	the tomato peeled .	1
+inch	1.0	david minced the apple .	1
+inch	0.0	the apple minced .	1
+inch	1.0	jason minced the onion .	1
+inch	0.0	the onion minced .	1
+inch	1.0	nicole minced the garlic .	1
+inch	0.0	the garlic minced .	1
+inch	1.0	jason minced the tomato .	1
+inch	0.0	the tomato minced .	1
+inch	1.0	jessica deposited the cash .	0
+inch	0.0	the cash deposited .	0
+inch	1.0	jessica deposited the money .	0
+inch	0.0	the money deposited .	0
+inch	1.0	james deposited the funds .	0
+inch	0.0	the funds deposited .	0
+inch	1.0	kelly withdrew the cash .	1
+inch	0.0	the cash withdrew .	0
+inch	1.0	jason withdrew the money .	1
+inch	0.0	the money withdrew .	1
+inch	1.0	jessica withdrew the funds .	1
+inch	0.0	the funds withdrew .	1
+inch	1.0	james saved the cash .	0
+inch	0.0	the cash saved .	0
+inch	1.0	jessica saved the money .	1
+inch	0.0	the money saved .	0
+inch	1.0	jason saved the funds .	1
+inch	0.0	the funds saved .	0
+inch	1.0	nicole collected the cash .	0
+inch	0.0	the cash collected .	0
+inch	1.0	michael collected the money .	1
+inch	0.0	the money collected .	0
+inch	1.0	rebecca collected the funds .	1
+inch	0.0	the funds collected .	0
+inch	1.0	rebecca recounted the story .	1
+inch	0.0	the story recounted .	0
+inch	1.0	elizabeth recounted the book .	1
+inch	0.0	the book recounted .	0
+inch	1.0	christopher recounted the anecdote .	1
+inch	0.0	the anecdote recounted .	0
+inch	1.0	rebecca recounted the article .	1
+inch	0.0	the article recounted .	0
+inch	1.0	jason recounted the chapter .	1
+inch	0.0	the chapter recounted .	0
+inch	1.0	rebecca recounted the letter .	1
+inch	0.0	the letter recounted .	0
+inch	1.0	kelly wrote the story .	1
+inch	0.0	the story wrote .	0
+inch	1.0	christopher wrote the book .	1
+inch	0.0	the book wrote .	0
+inch	1.0	christopher wrote the anecdote .	0
+inch	0.0	the anecdote wrote .	0
+inch	1.0	jason wrote the article .	1
+inch	0.0	the article wrote .	0
+inch	1.0	elizabeth wrote the chapter .	1
+inch	0.0	the chapter wrote .	0
+inch	1.0	kelly wrote the letter .	1
+inch	0.0	the letter wrote .	0
+inch	1.0	jason read the story .	1
+inch	0.0	the story read .	0
+inch	1.0	kelly read the book .	1
+inch	0.0	the book read .	0
+inch	1.0	david read the anecdote .	0
+inch	0.0	the anecdote read .	0
+inch	1.0	jason read the article .	1
+inch	0.0	the article read .	0
+inch	1.0	elizabeth read the chapter .	1
+inch	0.0	the chapter read .	0
+inch	1.0	jason read the letter .	1
+inch	0.0	the letter read .	0
+inch	1.0	elizabeth edited the story .	1
+inch	0.0	the story edited .	0
+inch	1.0	jessica edited the book .	1
+inch	0.0	the book edited .	0
+inch	1.0	jason edited the anecdote .	1
+inch	0.0	the anecdote edited .	1
+inch	1.0	jason edited the article .	1
+inch	0.0	the article edited .	0
+inch	1.0	david edited the chapter .	1
+inch	0.0	the chapter edited .	0
+inch	1.0	rebecca edited the letter .	1
+inch	0.0	the letter edited .	0
+inch	1.0	james skimmed the story .	1
+inch	0.0	the story skimmed .	0
+inch	1.0	james skimmed the book .	1
+inch	0.0	the book skimmed .	0
+inch	1.0	christopher skimmed the anecdote .	1
+inch	0.0	the anecdote skimmed .	0
+inch	1.0	kelly skimmed the article .	1
+inch	0.0	the article skimmed .	0
+inch	1.0	david skimmed the chapter .	1
+inch	0.0	the chapter skimmed .	0
+inch	1.0	christopher skimmed the letter .	1
+inch	0.0	the letter skimmed .	0
+inch	1.0	jason revealed the secret .	1
+inch	0.0	the secret revealed .	0
+inch	1.0	michael revealed the mistake .	1
+inch	0.0	the mistake revealed .	0
+inch	1.0	david revealed the results .	1
+inch	0.0	the results revealed .	0
+inch	1.0	jessica revealed the outcome .	1
+inch	0.0	the outcome revealed .	0
+inch	1.0	michael revealed the mess .	1
+inch	0.0	the mess revealed .	0
+inch	1.0	christopher revealed the disaster .	1
+inch	0.0	the disaster revealed .	0
+inch	1.0	michael concealed the secret .	1
+inch	0.0	the secret concealed .	0
+inch	1.0	rebecca concealed the mistake .	1
+inch	0.0	the mistake concealed .	0
+inch	1.0	nicole concealed the results .	0
+inch	0.0	the results concealed .	0
+inch	1.0	elizabeth concealed the outcome .	0
+inch	0.0	the outcome concealed .	0
+inch	1.0	michael concealed the mess .	1
+inch	0.0	the mess concealed .	0
+inch	1.0	christopher concealed the disaster .	0
+inch	0.0	the disaster concealed .	0
+inch	1.0	david covered up the secret .	1
+inch	0.0	the secret covered up .	0
+inch	1.0	christopher covered up the mistake .	1
+inch	0.0	the mistake covered up .	0
+inch	1.0	kelly covered up the results .	1
+inch	0.0	the results covered up .	0
+inch	1.0	jason covered up the outcome .	1
+inch	0.0	the outcome covered up .	0
+inch	1.0	jessica covered up the mess .	1
+inch	0.0	the mess covered up .	0
+inch	1.0	kelly covered up the disaster .	1
+inch	0.0	the disaster covered up .	0
+inch	1.0	david uncovered the secret .	1
+inch	0.0	the secret uncovered .	0
+inch	1.0	david uncovered the mistake .	1
+inch	0.0	the mistake uncovered .	0
+inch	1.0	jessica uncovered the results .	1
+inch	0.0	the results uncovered .	0
+inch	1.0	james uncovered the outcome .	1
+inch	0.0	the outcome uncovered .	0
+inch	1.0	david uncovered the mess .	1
+inch	0.0	the mess uncovered .	0
+inch	1.0	nicole uncovered the disaster .	1
+inch	0.0	the disaster uncovered .	0
+inch	1.0	kelly drank the liquid .	1
+inch	0.0	the liquid drank .	0
+inch	1.0	kelly drank the water .	1
+inch	0.0	the water drank .	0
+inch	1.0	jessica drank the vodka .	1
+inch	0.0	the vodka drank .	0
+inch	1.0	david drank the beer .	1
+inch	0.0	the beer drank .	0
+inch	1.0	michael drank the juice .	1
+inch	0.0	the juice drank .	0
+inch	1.0	david chugged the liquid .	1
+inch	0.0	the liquid chugged .	1
+inch	1.0	michael chugged the water .	1
+inch	0.0	the water chugged .	1
+inch	1.0	jessica chugged the vodka .	1
+inch	0.0	the vodka chugged .	1
+inch	1.0	rebecca chugged the beer .	1
+inch	0.0	the beer chugged .	1
+inch	1.0	david chugged the juice .	1
+inch	0.0	the juice chugged .	1
+inch	1.0	james swallowed the liquid .	1
+inch	0.0	the liquid swallowed .	1
+inch	1.0	kelly swallowed the water .	1
+inch	0.0	the water swallowed .	1
+inch	1.0	michael swallowed the vodka .	1
+inch	0.0	the vodka swallowed .	0
+inch	1.0	elizabeth swallowed the beer .	1
+inch	0.0	the beer swallowed .	0
+inch	1.0	james swallowed the juice .	1
+inch	0.0	the juice swallowed .	1
+inch	1.0	michael wasted the liquid .	1
+inch	0.0	the liquid wasted .	0
+inch	1.0	elizabeth wasted the water .	0
+inch	0.0	the water wasted .	0
+inch	1.0	david wasted the vodka .	0
+inch	0.0	the vodka wasted .	0
+inch	1.0	rebecca wasted the beer .	1
+inch	0.0	the beer wasted .	0
+inch	1.0	kelly wasted the juice .	1
+inch	0.0	the juice wasted .	0
+spray	1.0	christopher crammed the fruit into the truck .	1
+spray	1.0	christopher crammed the truck with the fruit .	1
+spray	1.0	david crammed the fruit into the train .	1
+spray	1.0	david crammed the train with the fruit .	1
+spray	1.0	elizabeth crammed the fruit into the boat .	1
+spray	1.0	elizabeth crammed the boat with the fruit .	1
+spray	1.0	nicole crammed the fruit into the trunk .	1
+spray	1.0	nicole crammed the trunk with the fruit .	1
+spray	1.0	michael crammed the fruit into the cabinet .	1
+spray	1.0	michael crammed the cabinet with the fruit .	1
+spray	1.0	jessica crammed the melons into the truck .	1
+spray	1.0	jessica crammed the truck with the melons .	1
+spray	1.0	rebecca crammed the melons into the train .	1
+spray	1.0	rebecca crammed the train with the melons .	1
+spray	1.0	jason crammed the melons into the boat .	1
+spray	1.0	jason crammed the boat with the melons .	1
+spray	1.0	jessica crammed the melons into the trunk .	1
+spray	1.0	jessica crammed the trunk with the melons .	1
+spray	1.0	christopher crammed the melons into the cabinet .	1
+spray	1.0	christopher crammed the cabinet with the melons .	1
+spray	1.0	david crammed the boxes into the truck .	1
+spray	1.0	david crammed the truck with the boxes .	1
+spray	1.0	elizabeth crammed the boxes into the train .	1
+spray	1.0	elizabeth crammed the train with the boxes .	1
+spray	1.0	david crammed the boxes into the boat .	1
+spray	1.0	david crammed the boat with the boxes .	1
+spray	1.0	jessica crammed the boxes into the trunk .	1
+spray	1.0	jessica crammed the trunk with the boxes .	1
+spray	1.0	nicole crammed the boxes into the cabinet .	1
+spray	1.0	nicole crammed the cabinet with the boxes .	1
+spray	1.0	david crammed the packages into the truck .	1
+spray	1.0	david crammed the truck with the packages .	1
+spray	1.0	jessica crammed the packages into the train .	1
+spray	1.0	jessica crammed the train with the packages .	1
+spray	1.0	nicole crammed the packages into the boat .	1
+spray	1.0	nicole crammed the boat with the packages .	1
+spray	1.0	christopher crammed the packages into the trunk .	1
+spray	1.0	christopher crammed the trunk with the packages .	1
+spray	1.0	jessica crammed the packages into the cabinet .	1
+spray	1.0	jessica crammed the cabinet with the packages .	1
+spray	1.0	kelly crammed the cargo into the truck .	1
+spray	1.0	kelly crammed the truck with the cargo .	1
+spray	1.0	christopher crammed the cargo into the train .	1
+spray	1.0	christopher crammed the train with the cargo .	1
+spray	1.0	michael crammed the cargo into the boat .	1
+spray	1.0	michael crammed the boat with the cargo .	1
+spray	1.0	kelly crammed the cargo into the trunk .	1
+spray	1.0	kelly crammed the trunk with the cargo .	1
+spray	1.0	michael crammed the cargo into the cabinet .	1
+spray	1.0	michael crammed the cabinet with the cargo .	1
+spray	1.0	kelly loaded the fruit into the truck .	1
+spray	1.0	kelly loaded the truck with the fruit .	1
+spray	1.0	jason loaded the fruit into the train .	1
+spray	1.0	jason loaded the train with the fruit .	1
+spray	1.0	rebecca loaded the fruit into the boat .	1
+spray	1.0	rebecca loaded the boat with the fruit .	1
+spray	1.0	kelly loaded the fruit into the trunk .	1
+spray	1.0	kelly loaded the trunk with the fruit .	1
+spray	1.0	michael loaded the fruit into the cabinet .	1
+spray	1.0	michael loaded the cabinet with the fruit .	1
+spray	1.0	jason loaded the melons into the truck .	1
+spray	1.0	jason loaded the truck with the melons .	1
+spray	1.0	david loaded the melons into the train .	1
+spray	1.0	david loaded the train with the melons .	1
+spray	1.0	david loaded the melons into the boat .	1
+spray	1.0	david loaded the boat with the melons .	1
+spray	1.0	david loaded the melons into the trunk .	1
+spray	1.0	david loaded the trunk with the melons .	1
+spray	1.0	nicole loaded the melons into the cabinet .	1
+spray	1.0	nicole loaded the cabinet with the melons .	1
+spray	1.0	jason loaded the boxes into the truck .	1
+spray	1.0	jason loaded the truck with the boxes .	1
+spray	1.0	david loaded the boxes into the train .	1
+spray	1.0	david loaded the train with the boxes .	1
+spray	1.0	nicole loaded the boxes into the boat .	1
+spray	1.0	nicole loaded the boat with the boxes .	1
+spray	1.0	jessica loaded the boxes into the trunk .	1
+spray	1.0	jessica loaded the trunk with the boxes .	1
+spray	1.0	nicole loaded the boxes into the cabinet .	1
+spray	1.0	nicole loaded the cabinet with the boxes .	1
+spray	1.0	david loaded the packages into the truck .	1
+spray	1.0	david loaded the truck with the packages .	1
+spray	1.0	david loaded the packages into the train .	1
+spray	1.0	david loaded the train with the packages .	1
+spray	1.0	elizabeth loaded the packages into the boat .	1
+spray	1.0	elizabeth loaded the boat with the packages .	1
+spray	1.0	david loaded the packages into the trunk .	1
+spray	1.0	david loaded the trunk with the packages .	1
+spray	1.0	nicole loaded the packages into the cabinet .	1
+spray	1.0	nicole loaded the cabinet with the packages .	1
+spray	1.0	michael loaded the cargo into the truck .	1
+spray	1.0	michael loaded the truck with the cargo .	1
+spray	1.0	nicole loaded the cargo into the train .	1
+spray	1.0	nicole loaded the train with the cargo .	1
+spray	1.0	nicole loaded the cargo into the boat .	1
+spray	1.0	nicole loaded the boat with the cargo .	1
+spray	1.0	rebecca loaded the cargo into the trunk .	1
+spray	1.0	rebecca loaded the trunk with the cargo .	1
+spray	1.0	nicole loaded the cargo into the cabinet .	1
+spray	1.0	nicole loaded the cabinet with the cargo .	1
+spray	1.0	jessica injected the medicine into the patient .	1
+spray	1.0	jessica injected the patient with the medicine .	1
+spray	1.0	jessica splashed paint onto the paper .	1
+spray	1.0	jessica splashed the paper with paint .	1
+spray	1.0	michael splashed paint onto the painting .	1
+spray	1.0	michael splashed the painting with paint .	1
+spray	1.0	michael splashed paint onto the letterthe cloth .	0
+spray	1.0	michael splashed the letterthe cloth with paint .	1
+spray	1.0	nicole splashed water onto the paper .	1
+spray	1.0	nicole splashed the paper with water .	1
+spray	1.0	elizabeth splashed water onto the painting .	1
+spray	1.0	elizabeth splashed the painting with water .	1
+spray	1.0	michael splashed water onto the letterthe cloth .	1
+spray	1.0	michael splashed the letterthe cloth with water .	1
+spray	1.0	jessica splashed perfume onto the paper .	1
+spray	1.0	jessica splashed the paper with perfume .	1
+spray	1.0	michael splashed perfume onto the painting .	1
+spray	1.0	michael splashed the painting with perfume .	1
+spray	1.0	elizabeth splashed perfume onto the letterthe cloth .	0
+spray	1.0	elizabeth splashed the letterthe cloth with perfume .	1
+spray	1.0	nicole splashed alcohol onto the paper .	1
+spray	1.0	nicole splashed the paper with alcohol .	1
+spray	1.0	michael splashed alcohol onto the painting .	1
+spray	1.0	michael splashed the painting with alcohol .	1
+spray	1.0	rebecca splashed alcohol onto the letterthe cloth .	1
+spray	1.0	rebecca splashed the letterthe cloth with alcohol .	1
+spray	1.0	rebecca splashed fire retardant onto the paper .	1
+spray	1.0	rebecca splashed the paper with fire retardant .	1
+spray	1.0	nicole splashed fire retardant onto the painting .	1
+spray	1.0	nicole splashed the painting with fire retardant .	1
+spray	1.0	jason splashed fire retardant onto the letterthe cloth .	1
+spray	1.0	jason splashed the letterthe cloth with fire retardant .	1
+spray	1.0	nicole splashed cleanser onto the paper .	1
+spray	1.0	nicole splashed the paper with cleanser .	1
+spray	1.0	kelly splashed cleanser onto the painting .	1
+spray	1.0	kelly splashed the painting with cleanser .	1
+spray	1.0	rebecca splashed cleanser onto the letterthe cloth .	1
+spray	1.0	rebecca splashed the letterthe cloth with cleanser .	1
+spray	1.0	david splattered paint onto the paper .	1
+spray	1.0	david splattered the paper with paint .	1
+spray	1.0	jason splattered paint onto the painting .	1
+spray	1.0	jason splattered the painting with paint .	1
+spray	1.0	michael splattered paint onto the letterthe cloth .	1
+spray	1.0	michael splattered the letterthe cloth with paint .	1
+spray	1.0	christopher splattered water onto the paper .	1
+spray	1.0	christopher splattered the paper with water .	1
+spray	1.0	jessica splattered water onto the painting .	1
+spray	1.0	jessica splattered the painting with water .	1
+spray	1.0	michael splattered water onto the letterthe cloth .	1
+spray	1.0	michael splattered the letterthe cloth with water .	1
+spray	1.0	elizabeth splattered perfume onto the paper .	1
+spray	1.0	elizabeth splattered the paper with perfume .	1
+spray	1.0	nicole splattered perfume onto the painting .	1
+spray	1.0	nicole splattered the painting with perfume .	1
+spray	1.0	jessica splattered perfume onto the letterthe cloth .	1
+spray	1.0	jessica splattered the letterthe cloth with perfume .	1
+spray	1.0	michael splattered alcohol onto the paper .	1
+spray	1.0	michael splattered the paper with alcohol .	1
+spray	1.0	jason splattered alcohol onto the painting .	1
+spray	1.0	jason splattered the painting with alcohol .	1
+spray	1.0	james splattered alcohol onto the letterthe cloth .	1
+spray	1.0	james splattered the letterthe cloth with alcohol .	1
+spray	1.0	rebecca splattered fire retardant onto the paper .	1
+spray	1.0	rebecca splattered the paper with fire retardant .	1
+spray	1.0	michael splattered fire retardant onto the painting .	1
+spray	1.0	michael splattered the painting with fire retardant .	1
+spray	1.0	jason splattered fire retardant onto the letterthe cloth .	1
+spray	1.0	jason splattered the letterthe cloth with fire retardant .	1
+spray	1.0	kelly splattered cleanser onto the paper .	0
+spray	1.0	kelly splattered the paper with cleanser .	1
+spray	1.0	elizabeth splattered cleanser onto the painting .	1
+spray	1.0	elizabeth splattered the painting with cleanser .	1
+spray	1.0	jason splattered cleanser onto the letterthe cloth .	1
+spray	1.0	jason splattered the letterthe cloth with cleanser .	1
+spray	1.0	christopher spritzed paint onto the paper .	0
+spray	1.0	christopher spritzed the paper with paint .	1
+spray	1.0	elizabeth spritzed paint onto the painting .	0
+spray	1.0	elizabeth spritzed the painting with paint .	1
+spray	1.0	kelly spritzed paint onto the letterthe cloth .	0
+spray	1.0	kelly spritzed the letterthe cloth with paint .	1
+spray	1.0	rebecca spritzed water onto the paper .	0
+spray	1.0	rebecca spritzed the paper with water .	1
+spray	1.0	elizabeth spritzed water onto the painting .	1
+spray	1.0	elizabeth spritzed the painting with water .	1
+spray	1.0	elizabeth spritzed water onto the letterthe cloth .	1
+spray	1.0	elizabeth spritzed the letterthe cloth with water .	1
+spray	1.0	kelly spritzed perfume onto the paper .	0
+spray	1.0	kelly spritzed the paper with perfume .	1
+spray	1.0	david spritzed perfume onto the painting .	1
+spray	1.0	david spritzed the painting with perfume .	1
+spray	1.0	james spritzed perfume onto the letterthe cloth .	0
+spray	1.0	james spritzed the letterthe cloth with perfume .	1
+spray	1.0	michael spritzed alcohol onto the paper .	1
+spray	1.0	michael spritzed the paper with alcohol .	1
+spray	1.0	jason spritzed alcohol onto the painting .	1
+spray	1.0	jason spritzed the painting with alcohol .	1
+spray	1.0	jessica spritzed alcohol onto the letterthe cloth .	1
+spray	1.0	jessica spritzed the letterthe cloth with alcohol .	1
+spray	1.0	jason spritzed fire retardant onto the paper .	1
+spray	1.0	jason spritzed the paper with fire retardant .	1
+spray	1.0	james spritzed fire retardant onto the painting .	0
+spray	1.0	james spritzed the painting with fire retardant .	0
+spray	1.0	james spritzed fire retardant onto the letterthe cloth .	0
+spray	1.0	james spritzed the letterthe cloth with fire retardant .	1
+spray	1.0	david spritzed cleanser onto the paper .	0
+spray	1.0	david spritzed the paper with cleanser .	0
+spray	1.0	david spritzed cleanser onto the painting .	0
+spray	1.0	david spritzed the painting with cleanser .	1
+spray	1.0	james spritzed cleanser onto the letterthe cloth .	0
+spray	1.0	james spritzed the letterthe cloth with cleanser .	0
+spray	1.0	nicole pumped paint onto the paper .	1
+spray	1.0	nicole pumped the paper with paint .	1
+spray	1.0	david pumped paint onto the painting .	0
+spray	1.0	david pumped the painting with paint .	1
+spray	1.0	james pumped paint onto the letterthe cloth .	0
+spray	1.0	james pumped the letterthe cloth with paint .	1
+spray	1.0	nicole pumped water onto the paper .	1
+spray	1.0	nicole pumped the paper with water .	1
+spray	1.0	jessica pumped water onto the painting .	1
+spray	1.0	jessica pumped the painting with water .	1
+spray	1.0	jason pumped water onto the letterthe cloth .	1
+spray	1.0	jason pumped the letterthe cloth with water .	1
+spray	1.0	michael pumped perfume onto the paper .	1
+spray	1.0	michael pumped the paper with perfume .	1
+spray	1.0	elizabeth pumped perfume onto the painting .	1
+spray	1.0	elizabeth pumped the painting with perfume .	1
+spray	1.0	nicole pumped perfume onto the letterthe cloth .	1
+spray	1.0	nicole pumped the letterthe cloth with perfume .	1
+spray	1.0	elizabeth pumped alcohol onto the paper .	0
+spray	1.0	elizabeth pumped the paper with alcohol .	1
+spray	1.0	elizabeth pumped alcohol onto the painting .	1
+spray	1.0	elizabeth pumped the painting with alcohol .	1
+spray	1.0	jason pumped alcohol onto the letterthe cloth .	1
+spray	1.0	jason pumped the letterthe cloth with alcohol .	1
+spray	1.0	nicole pumped fire retardant onto the paper .	1
+spray	1.0	nicole pumped the paper with fire retardant .	1
+spray	1.0	david pumped fire retardant onto the painting .	1
+spray	1.0	david pumped the painting with fire retardant .	1
+spray	1.0	nicole pumped fire retardant onto the letterthe cloth .	1
+spray	1.0	nicole pumped the letterthe cloth with fire retardant .	1
+spray	1.0	elizabeth pumped cleanser onto the paper .	1
+spray	1.0	elizabeth pumped the paper with cleanser .	0
+spray	1.0	jason pumped cleanser onto the painting .	1
+spray	1.0	jason pumped the painting with cleanser .	1
+spray	1.0	michael pumped cleanser onto the letterthe cloth .	1
+spray	1.0	michael pumped the letterthe cloth with cleanser .	0
+spray	1.0	christopher sprinkled paint onto the paper .	1
+spray	1.0	christopher sprinkled the paper with paint .	1
+spray	1.0	jessica sprinkled paint onto the painting .	1
+spray	1.0	jessica sprinkled the painting with paint .	1
+spray	1.0	jessica sprinkled paint onto the letterthe cloth .	0
+spray	1.0	jessica sprinkled the letterthe cloth with paint .	1
+spray	1.0	rebecca sprinkled water onto the paper .	1
+spray	1.0	rebecca sprinkled the paper with water .	1
+spray	1.0	jason sprinkled water onto the painting .	1
+spray	1.0	jason sprinkled the painting with water .	1
+spray	1.0	michael sprinkled water onto the letterthe cloth .	1
+spray	1.0	michael sprinkled the letterthe cloth with water .	1
+spray	1.0	james sprinkled perfume onto the paper .	1
+spray	1.0	james sprinkled the paper with perfume .	1
+spray	1.0	christopher sprinkled perfume onto the painting .	1
+spray	1.0	christopher sprinkled the painting with perfume .	1
+spray	1.0	james sprinkled perfume onto the letterthe cloth .	1
+spray	1.0	james sprinkled the letterthe cloth with perfume .	1
+spray	1.0	james sprinkled alcohol onto the paper .	1
+spray	1.0	james sprinkled the paper with alcohol .	1
+spray	1.0	rebecca sprinkled alcohol onto the painting .	1
+spray	1.0	rebecca sprinkled the painting with alcohol .	1
+spray	1.0	david sprinkled alcohol onto the letterthe cloth .	1
+spray	1.0	david sprinkled the letterthe cloth with alcohol .	1
+spray	1.0	david sprinkled fire retardant onto the paper .	1
+spray	1.0	david sprinkled the paper with fire retardant .	1
+spray	1.0	david sprinkled fire retardant onto the painting .	1
+spray	1.0	david sprinkled the painting with fire retardant .	1
+spray	1.0	david sprinkled fire retardant onto the letterthe cloth .	1
+spray	1.0	david sprinkled the letterthe cloth with fire retardant .	1
+spray	1.0	james sprinkled cleanser onto the paper .	0
+spray	1.0	james sprinkled the paper with cleanser .	0
+spray	1.0	jason sprinkled cleanser onto the painting .	1
+spray	1.0	jason sprinkled the painting with cleanser .	1
+spray	1.0	rebecca sprinkled cleanser onto the letterthe cloth .	0
+spray	1.0	rebecca sprinkled the letterthe cloth with cleanser .	1
+spray	1.0	jessica rubbed paint onto the paper .	1
+spray	1.0	jessica rubbed the paper with paint .	1
+spray	1.0	christopher rubbed paint onto the painting .	1
+spray	1.0	christopher rubbed the painting with paint .	1
+spray	1.0	nicole rubbed paint onto the letterthe cloth .	0
+spray	1.0	nicole rubbed the letterthe cloth with paint .	1
+spray	1.0	james rubbed water onto the paper .	0
+spray	1.0	james rubbed the paper with water .	0
+spray	1.0	elizabeth rubbed water onto the painting .	0
+spray	1.0	elizabeth rubbed the painting with water .	1
+spray	1.0	james rubbed water onto the letterthe cloth .	0
+spray	1.0	james rubbed the letterthe cloth with water .	0
+spray	1.0	elizabeth rubbed perfume onto the paper .	0
+spray	1.0	elizabeth rubbed the paper with perfume .	0
+spray	1.0	rebecca rubbed perfume onto the painting .	1
+spray	1.0	rebecca rubbed the painting with perfume .	1
+spray	1.0	james rubbed perfume onto the letterthe cloth .	0
+spray	1.0	james rubbed the letterthe cloth with perfume .	1
+spray	1.0	kelly rubbed alcohol onto the paper .	0
+spray	1.0	kelly rubbed the paper with alcohol .	1
+spray	1.0	rebecca rubbed alcohol onto the painting .	1
+spray	1.0	rebecca rubbed the painting with alcohol .	1
+spray	1.0	rebecca rubbed alcohol onto the letterthe cloth .	0
+spray	1.0	rebecca rubbed the letterthe cloth with alcohol .	1
+spray	1.0	rebecca rubbed fire retardant onto the paper .	1
+spray	1.0	rebecca rubbed the paper with fire retardant .	1
+spray	1.0	nicole rubbed fire retardant onto the painting .	1
+spray	1.0	nicole rubbed the painting with fire retardant .	1
+spray	1.0	elizabeth rubbed fire retardant onto the letterthe cloth .	1
+spray	1.0	elizabeth rubbed the letterthe cloth with fire retardant .	1
+spray	1.0	elizabeth rubbed cleanser onto the paper .	0
+spray	1.0	elizabeth rubbed the paper with cleanser .	0
+spray	1.0	kelly rubbed cleanser onto the painting .	0
+spray	1.0	kelly rubbed the painting with cleanser .	1
+spray	1.0	jessica rubbed cleanser onto the letterthe cloth .	1
+spray	1.0	jessica rubbed the letterthe cloth with cleanser .	1
+spray	1.0	james squirted paint onto the paper .	1
+spray	1.0	james squirted the paper with paint .	1
+spray	1.0	elizabeth squirted paint onto the painting .	0
+spray	1.0	elizabeth squirted the painting with paint .	1
+spray	1.0	kelly squirted paint onto the letterthe cloth .	0
+spray	1.0	kelly squirted the letterthe cloth with paint .	1
+spray	1.0	jason squirted water onto the paper .	1
+spray	1.0	jason squirted the paper with water .	1
+spray	1.0	michael squirted water onto the painting .	1
+spray	1.0	michael squirted the painting with water .	1
+spray	1.0	nicole squirted water onto the letterthe cloth .	1
+spray	1.0	nicole squirted the letterthe cloth with water .	1
+spray	1.0	nicole squirted perfume onto the paper .	1
+spray	1.0	nicole squirted the paper with perfume .	1
+spray	1.0	kelly squirted perfume onto the painting .	1
+spray	1.0	kelly squirted the painting with perfume .	1
+spray	1.0	jason squirted perfume onto the letterthe cloth .	1
+spray	1.0	jason squirted the letterthe cloth with perfume .	1
+spray	1.0	nicole squirted alcohol onto the paper .	1
+spray	1.0	nicole squirted the paper with alcohol .	1
+spray	1.0	christopher squirted alcohol onto the painting .	1
+spray	1.0	christopher squirted the painting with alcohol .	1
+spray	1.0	james squirted alcohol onto the letterthe cloth .	1
+spray	1.0	james squirted the letterthe cloth with alcohol .	1
+spray	1.0	elizabeth squirted fire retardant onto the paper .	1
+spray	1.0	elizabeth squirted the paper with fire retardant .	1
+spray	1.0	michael squirted fire retardant onto the painting .	1
+spray	1.0	michael squirted the painting with fire retardant .	1
+spray	1.0	rebecca squirted fire retardant onto the letterthe cloth .	1
+spray	1.0	rebecca squirted the letterthe cloth with fire retardant .	1
+spray	1.0	rebecca squirted cleanser onto the paper .	0
+spray	1.0	rebecca squirted the paper with cleanser .	0
+spray	1.0	michael squirted cleanser onto the painting .	1
+spray	1.0	michael squirted the painting with cleanser .	1
+spray	1.0	jason squirted cleanser onto the letterthe cloth .	1
+spray	1.0	jason squirted the letterthe cloth with cleanser .	0
+spray	1.0	elizabeth hung the blanket over the bed .	1
+spray	1.0	elizabeth hung the bed with the blanket .	0
+spray	1.0	jessica hung the blanket over the armchair .	1
+spray	1.0	jessica hung the armchair with the blanket .	0
+spray	1.0	rebecca hung the blanket over the couch .	1
+spray	1.0	rebecca hung the couch with the blanket .	0
+spray	1.0	christopher hung the towel over the bed .	1
+spray	1.0	christopher hung the bed with the towel .	0
+spray	1.0	david hung the towel over the armchair .	1
+spray	1.0	david hung the armchair with the towel .	0
+spray	1.0	nicole hung the towel over the couch .	0
+spray	1.0	nicole hung the couch with the towel .	0
+spray	1.0	rebecca hung the bedspread over the bed .	1
+spray	1.0	rebecca hung the bed with the bedspread .	0
+spray	1.0	elizabeth hung the bedspread over the armchair .	1
+spray	1.0	elizabeth hung the armchair with the bedspread .	0
+spray	1.0	kelly hung the bedspread over the couch .	1
+spray	1.0	kelly hung the couch with the bedspread .	0
+spray	1.0	christopher draped the blanket over the bed .	1
+spray	1.0	christopher draped the bed with the blanket .	1
+spray	1.0	nicole draped the blanket over the armchair .	1
+spray	1.0	nicole draped the armchair with the blanket .	1
+spray	1.0	nicole draped the blanket over the couch .	1
+spray	1.0	nicole draped the couch with the blanket .	1
+spray	1.0	james draped the towel over the bed .	1
+spray	1.0	james draped the bed with the towel .	0
+spray	1.0	jessica draped the towel over the armchair .	1
+spray	1.0	jessica draped the armchair with the towel .	1
+spray	1.0	elizabeth draped the towel over the couch .	1
+spray	1.0	elizabeth draped the couch with the towel .	1
+spray	1.0	jason draped the bedspread over the bed .	1
+spray	1.0	jason draped the bed with the bedspread .	0
+spray	1.0	michael draped the bedspread over the armchair .	1
+spray	1.0	michael draped the armchair with the bedspread .	0
+spray	1.0	kelly draped the bedspread over the couch .	1
+spray	1.0	kelly draped the couch with the bedspread .	0
+spray	0.0	david adorned flowers on the city .	0
+spray	1.0	david adorned the city with flowers .	1
+spray	0.0	kelly adorned flowers on the kingdom .	0
+spray	1.0	kelly adorned the kingdom with flowers .	1
+spray	0.0	kelly adorned flowers on the palace .	1
+spray	1.0	kelly adorned the palace with flowers .	1
+spray	0.0	james adorned flowers on the theater .	0
+spray	1.0	james adorned the theater with flowers .	1
+spray	0.0	kelly adorned flowers on the staircase .	1
+spray	1.0	kelly adorned the staircase with flowers .	1
+spray	0.0	nicole adorned gems on the city .	0
+spray	1.0	nicole adorned the city with gems .	1
+spray	0.0	rebecca adorned gems on the kingdom .	0
+spray	1.0	rebecca adorned the kingdom with gems .	1
+spray	0.0	elizabeth adorned gems on the palace .	0
+spray	1.0	elizabeth adorned the palace with gems .	1
+spray	0.0	kelly adorned gems on the theater .	0
+spray	1.0	kelly adorned the theater with gems .	1
+spray	0.0	james adorned gems on the staircase .	0
+spray	1.0	james adorned the staircase with gems .	1
+spray	0.0	christopher adorned decorations on the city .	0
+spray	1.0	christopher adorned the city with decorations .	1
+spray	0.0	nicole adorned decorations on the kingdom .	0
+spray	1.0	nicole adorned the kingdom with decorations .	1
+spray	0.0	james adorned decorations on the palace .	0
+spray	1.0	james adorned the palace with decorations .	1
+spray	0.0	james adorned decorations on the theater .	0
+spray	1.0	james adorned the theater with decorations .	1
+spray	0.0	david adorned decorations on the staircase .	0
+spray	1.0	david adorned the staircase with decorations .	1
+spray	0.0	james adorned christmas lights on the city .	0
+spray	1.0	james adorned the city with christmas lights .	1
+spray	0.0	jessica adorned christmas lights on the kingdom .	0
+spray	1.0	jessica adorned the kingdom with christmas lights .	1
+spray	0.0	kelly adorned christmas lights on the palace .	1
+spray	1.0	kelly adorned the palace with christmas lights .	1
+spray	0.0	david adorned christmas lights on the theater .	0
+spray	1.0	david adorned the theater with christmas lights .	1
+spray	0.0	kelly adorned christmas lights on the staircase .	0
+spray	1.0	kelly adorned the staircase with christmas lights .	1
+spray	0.0	david adorned streamers on the city .	0
+spray	1.0	david adorned the city with streamers .	1
+spray	0.0	kelly adorned streamers on the kingdom .	0
+spray	1.0	kelly adorned the kingdom with streamers .	1
+spray	0.0	james adorned streamers on the palace .	0
+spray	1.0	james adorned the palace with streamers .	1
+spray	0.0	elizabeth adorned streamers on the theater .	0
+spray	1.0	elizabeth adorned the theater with streamers .	1
+spray	0.0	christopher adorned streamers on the staircase .	0
+spray	1.0	christopher adorned the staircase with streamers .	1
+spray	0.0	jason decorated flowers on the city .	0
+spray	1.0	jason decorated the city with flowers .	1
+spray	0.0	michael decorated flowers on the kingdom .	0
+spray	1.0	michael decorated the kingdom with flowers .	1
+spray	0.0	david decorated flowers on the palace .	0
+spray	1.0	david decorated the palace with flowers .	1
+spray	0.0	elizabeth decorated flowers on the theater .	1
+spray	1.0	elizabeth decorated the theater with flowers .	1
+spray	0.0	jason decorated flowers on the staircase .	1
+spray	1.0	jason decorated the staircase with flowers .	1
+spray	0.0	james decorated gems on the city .	0
+spray	1.0	james decorated the city with gems .	1
+spray	0.0	nicole decorated gems on the kingdom .	0
+spray	1.0	nicole decorated the kingdom with gems .	1
+spray	0.0	jason decorated gems on the palace .	0
+spray	1.0	jason decorated the palace with gems .	1
+spray	0.0	christopher decorated gems on the theater .	0
+spray	1.0	christopher decorated the theater with gems .	1
+spray	0.0	nicole decorated gems on the staircase .	0
+spray	1.0	nicole decorated the staircase with gems .	1
+spray	0.0	christopher decorated decorations on the city .	0
+spray	1.0	christopher decorated the city with decorations .	1
+spray	0.0	elizabeth decorated decorations on the kingdom .	0
+spray	1.0	elizabeth decorated the kingdom with decorations .	0
+spray	0.0	kelly decorated decorations on the palace .	0
+spray	1.0	kelly decorated the palace with decorations .	1
+spray	0.0	jessica decorated decorations on the theater .	0
+spray	1.0	jessica decorated the theater with decorations .	1
+spray	0.0	michael decorated decorations on the staircase .	0
+spray	1.0	michael decorated the staircase with decorations .	1
+spray	0.0	james decorated christmas lights on the city .	0
+spray	1.0	james decorated the city with christmas lights .	1
+spray	0.0	rebecca decorated christmas lights on the kingdom .	1
+spray	1.0	rebecca decorated the kingdom with christmas lights .	1
+spray	0.0	jason decorated christmas lights on the palace .	1
+spray	1.0	jason decorated the palace with christmas lights .	1
+spray	0.0	nicole decorated christmas lights on the theater .	1
+spray	1.0	nicole decorated the theater with christmas lights .	1
+spray	0.0	jessica decorated christmas lights on the staircase .	1
+spray	1.0	jessica decorated the staircase with christmas lights .	1
+spray	0.0	david decorated streamers on the city .	0
+spray	1.0	david decorated the city with streamers .	1
+spray	0.0	kelly decorated streamers on the kingdom .	0
+spray	1.0	kelly decorated the kingdom with streamers .	1
+spray	0.0	kelly decorated streamers on the palace .	0
+spray	1.0	kelly decorated the palace with streamers .	1
+spray	0.0	jason decorated streamers on the theater .	0
+spray	1.0	jason decorated the theater with streamers .	1
+spray	0.0	christopher decorated streamers on the staircase .	0
+spray	1.0	christopher decorated the staircase with streamers .	1
+spray	0.0	kelly festooned flowers on the city .	1
+spray	1.0	kelly festooned the city with flowers .	1
+spray	0.0	jason festooned flowers on the kingdom .	1
+spray	1.0	jason festooned the kingdom with flowers .	1
+spray	0.0	david festooned flowers on the palace .	1
+spray	1.0	david festooned the palace with flowers .	1
+spray	0.0	christopher festooned flowers on the theater .	1
+spray	1.0	christopher festooned the theater with flowers .	1
+spray	0.0	kelly festooned flowers on the staircase .	1
+spray	1.0	kelly festooned the staircase with flowers .	1
+spray	0.0	james festooned gems on the city .	0
+spray	1.0	james festooned the city with gems .	1
+spray	0.0	kelly festooned gems on the kingdom .	1
+spray	1.0	kelly festooned the kingdom with gems .	1
+spray	0.0	christopher festooned gems on the palace .	0
+spray	1.0	christopher festooned the palace with gems .	1
+spray	0.0	christopher festooned gems on the theater .	0
+spray	1.0	christopher festooned the theater with gems .	1
+spray	0.0	jessica festooned gems on the staircase .	1
+spray	1.0	jessica festooned the staircase with gems .	1
+spray	0.0	rebecca festooned decorations on the city .	1
+spray	1.0	rebecca festooned the city with decorations .	1
+spray	0.0	michael festooned decorations on the kingdom .	0
+spray	1.0	michael festooned the kingdom with decorations .	1
+spray	0.0	david festooned decorations on the palace .	0
+spray	1.0	david festooned the palace with decorations .	1
+spray	0.0	james festooned decorations on the theater .	0
+spray	1.0	james festooned the theater with decorations .	1
+spray	0.0	jessica festooned decorations on the staircase .	0
+spray	1.0	jessica festooned the staircase with decorations .	1
+spray	0.0	kelly festooned christmas lights on the city .	1
+spray	1.0	kelly festooned the city with christmas lights .	1
+spray	0.0	james festooned christmas lights on the kingdom .	1
+spray	1.0	james festooned the kingdom with christmas lights .	1
+spray	0.0	christopher festooned christmas lights on the palace .	1
+spray	1.0	christopher festooned the palace with christmas lights .	1
+spray	0.0	james festooned christmas lights on the theater .	0
+spray	1.0	james festooned the theater with christmas lights .	1
+spray	0.0	kelly festooned christmas lights on the staircase .	1
+spray	1.0	kelly festooned the staircase with christmas lights .	1
+spray	0.0	christopher festooned streamers on the city .	0
+spray	1.0	christopher festooned the city with streamers .	1
+spray	0.0	david festooned streamers on the kingdom .	1
+spray	1.0	david festooned the kingdom with streamers .	1
+spray	0.0	elizabeth festooned streamers on the palace .	0
+spray	1.0	elizabeth festooned the palace with streamers .	1
+spray	0.0	elizabeth festooned streamers on the theater .	0
+spray	1.0	elizabeth festooned the theater with streamers .	1
+spray	0.0	christopher festooned streamers on the staircase .	1
+spray	1.0	christopher festooned the staircase with streamers .	1
+spray	0.0	kelly garnished flowers on the city .	1
+spray	1.0	kelly garnished the city with flowers .	1
+spray	0.0	elizabeth garnished flowers on the kingdom .	1
+spray	1.0	elizabeth garnished the kingdom with flowers .	1
+spray	0.0	nicole garnished flowers on the palace .	1
+spray	1.0	nicole garnished the palace with flowers .	1
+spray	0.0	james garnished flowers on the theater .	1
+spray	1.0	james garnished the theater with flowers .	1
+spray	0.0	james garnished flowers on the staircase .	1
+spray	1.0	james garnished the staircase with flowers .	1
+spray	0.0	rebecca garnished gems on the city .	1
+spray	1.0	rebecca garnished the city with gems .	1
+spray	0.0	rebecca garnished gems on the kingdom .	1
+spray	1.0	rebecca garnished the kingdom with gems .	1
+spray	0.0	david garnished gems on the palace .	0
+spray	1.0	david garnished the palace with gems .	1
+spray	0.0	michael garnished gems on the theater .	0
+spray	1.0	michael garnished the theater with gems .	1
+spray	0.0	elizabeth garnished gems on the staircase .	1
+spray	1.0	elizabeth garnished the staircase with gems .	1
+spray	0.0	david garnished decorations on the city .	0
+spray	1.0	david garnished the city with decorations .	1
+spray	0.0	michael garnished decorations on the kingdom .	0
+spray	1.0	michael garnished the kingdom with decorations .	1
+spray	0.0	christopher garnished decorations on the palace .	0
+spray	1.0	christopher garnished the palace with decorations .	1
+spray	0.0	michael garnished decorations on the theater .	0
+spray	1.0	michael garnished the theater with decorations .	1
+spray	0.0	elizabeth garnished decorations on the staircase .	1
+spray	1.0	elizabeth garnished the staircase with decorations .	1
+spray	0.0	elizabeth garnished christmas lights on the city .	1
+spray	1.0	elizabeth garnished the city with christmas lights .	1
+spray	0.0	kelly garnished christmas lights on the kingdom .	1
+spray	1.0	kelly garnished the kingdom with christmas lights .	1
+spray	0.0	michael garnished christmas lights on the palace .	1
+spray	1.0	michael garnished the palace with christmas lights .	1
+spray	0.0	rebecca garnished christmas lights on the theater .	1
+spray	1.0	rebecca garnished the theater with christmas lights .	1
+spray	0.0	david garnished christmas lights on the staircase .	1
+spray	1.0	david garnished the staircase with christmas lights .	1
+spray	0.0	christopher garnished streamers on the city .	0
+spray	1.0	christopher garnished the city with streamers .	1
+spray	0.0	rebecca garnished streamers on the kingdom .	1
+spray	1.0	rebecca garnished the kingdom with streamers .	1
+spray	0.0	kelly garnished streamers on the palace .	1
+spray	1.0	kelly garnished the palace with streamers .	1
+spray	0.0	kelly garnished streamers on the theater .	0
+spray	1.0	kelly garnished the theater with streamers .	1
+spray	0.0	christopher garnished streamers on the staircase .	1
+spray	1.0	christopher garnished the staircase with streamers .	1
+spray	0.0	david ornamented flowers on the city .	0
+spray	1.0	david ornamented the city with flowers .	1
+spray	0.0	jessica ornamented flowers on the kingdom .	0
+spray	1.0	jessica ornamented the kingdom with flowers .	1
+spray	0.0	rebecca ornamented flowers on the palace .	0
+spray	1.0	rebecca ornamented the palace with flowers .	1
+spray	0.0	christopher ornamented flowers on the theater .	0
+spray	1.0	christopher ornamented the theater with flowers .	1
+spray	0.0	james ornamented flowers on the staircase .	0
+spray	1.0	james ornamented the staircase with flowers .	1
+spray	0.0	james ornamented gems on the city .	0
+spray	1.0	james ornamented the city with gems .	1
+spray	0.0	elizabeth ornamented gems on the kingdom .	0
+spray	1.0	elizabeth ornamented the kingdom with gems .	1
+spray	0.0	david ornamented gems on the palace .	0
+spray	1.0	david ornamented the palace with gems .	1
+spray	0.0	jason ornamented gems on the theater .	0
+spray	1.0	jason ornamented the theater with gems .	1
+spray	0.0	rebecca ornamented gems on the staircase .	0
+spray	1.0	rebecca ornamented the staircase with gems .	1
+spray	0.0	david ornamented decorations on the city .	0
+spray	1.0	david ornamented the city with decorations .	1
+spray	0.0	rebecca ornamented decorations on the kingdom .	0
+spray	1.0	rebecca ornamented the kingdom with decorations .	1
+spray	0.0	kelly ornamented decorations on the palace .	0
+spray	1.0	kelly ornamented the palace with decorations .	1
+spray	0.0	jessica ornamented decorations on the theater .	0
+spray	1.0	jessica ornamented the theater with decorations .	1
+spray	0.0	kelly ornamented decorations on the staircase .	0
+spray	1.0	kelly ornamented the staircase with decorations .	1
+spray	0.0	james ornamented christmas lights on the city .	0
+spray	1.0	james ornamented the city with christmas lights .	1
+spray	0.0	elizabeth ornamented christmas lights on the kingdom .	0
+spray	1.0	elizabeth ornamented the kingdom with christmas lights .	1
+spray	0.0	david ornamented christmas lights on the palace .	0
+spray	1.0	david ornamented the palace with christmas lights .	1
+spray	0.0	jason ornamented christmas lights on the theater .	0
+spray	1.0	jason ornamented the theater with christmas lights .	1
+spray	0.0	christopher ornamented christmas lights on the staircase .	0
+spray	1.0	christopher ornamented the staircase with christmas lights .	1
+spray	0.0	david ornamented streamers on the city .	0
+spray	1.0	david ornamented the city with streamers .	1
+spray	0.0	james ornamented streamers on the kingdom .	0
+spray	1.0	james ornamented the kingdom with streamers .	0
+spray	0.0	jason ornamented streamers on the palace .	0
+spray	1.0	jason ornamented the palace with streamers .	1
+spray	0.0	james ornamented streamers on the theater .	0
+spray	1.0	james ornamented the theater with streamers .	0
+spray	0.0	elizabeth ornamented streamers on the staircase .	0
+spray	1.0	elizabeth ornamented the staircase with streamers .	0
+spray	0.0	jessica ringed flowers on the city .	0
+spray	1.0	jessica ringed the city with flowers .	1
+spray	0.0	rebecca ringed flowers on the kingdom .	1
+spray	1.0	rebecca ringed the kingdom with flowers .	1
+spray	0.0	james ringed flowers on the palace .	1
+spray	1.0	james ringed the palace with flowers .	1
+spray	0.0	elizabeth ringed flowers on the theater .	1
+spray	1.0	elizabeth ringed the theater with flowers .	1
+spray	0.0	michael ringed flowers on the staircase .	1
+spray	1.0	michael ringed the staircase with flowers .	1
+spray	0.0	rebecca ringed gems on the city .	0
+spray	1.0	rebecca ringed the city with gems .	1
+spray	0.0	rebecca ringed gems on the kingdom .	0
+spray	1.0	rebecca ringed the kingdom with gems .	1
+spray	0.0	michael ringed gems on the palace .	0
+spray	1.0	michael ringed the palace with gems .	1
+spray	0.0	jessica ringed gems on the theater .	0
+spray	1.0	jessica ringed the theater with gems .	1
+spray	0.0	david ringed gems on the staircase .	1
+spray	1.0	david ringed the staircase with gems .	1
+spray	0.0	jessica ringed decorations on the city .	1
+spray	1.0	jessica ringed the city with decorations .	1
+spray	0.0	nicole ringed decorations on the kingdom .	1
+spray	1.0	nicole ringed the kingdom with decorations .	1
+spray	0.0	kelly ringed decorations on the palace .	1
+spray	1.0	kelly ringed the palace with decorations .	1
+spray	0.0	christopher ringed decorations on the theater .	0
+spray	1.0	christopher ringed the theater with decorations .	1
+spray	0.0	david ringed decorations on the staircase .	1
+spray	1.0	david ringed the staircase with decorations .	1
+spray	0.0	kelly ringed christmas lights on the city .	1
+spray	1.0	kelly ringed the city with christmas lights .	1
+spray	0.0	christopher ringed christmas lights on the kingdom .	0
+spray	1.0	christopher ringed the kingdom with christmas lights .	1
+spray	0.0	jason ringed christmas lights on the palace .	1
+spray	1.0	jason ringed the palace with christmas lights .	1
+spray	0.0	jessica ringed christmas lights on the theater .	1
+spray	1.0	jessica ringed the theater with christmas lights .	1
+spray	0.0	nicole ringed christmas lights on the staircase .	1
+spray	1.0	nicole ringed the staircase with christmas lights .	1
+spray	0.0	david ringed streamers on the city .	0
+spray	1.0	david ringed the city with streamers .	1
+spray	0.0	elizabeth ringed streamers on the kingdom .	0
+spray	1.0	elizabeth ringed the kingdom with streamers .	1
+spray	0.0	kelly ringed streamers on the palace .	0
+spray	1.0	kelly ringed the palace with streamers .	1
+spray	0.0	jason ringed streamers on the theater .	0
+spray	1.0	jason ringed the theater with streamers .	1
+spray	0.0	jason ringed streamers on the staircase .	1
+spray	1.0	jason ringed the staircase with streamers .	1
+spray	0.0	nicole wreathed flowers on the city .	1
+spray	1.0	nicole wreathed the city with flowers .	1
+spray	0.0	james wreathed flowers on the kingdom .	0
+spray	1.0	james wreathed the kingdom with flowers .	1
+spray	0.0	elizabeth wreathed flowers on the palace .	1
+spray	1.0	elizabeth wreathed the palace with flowers .	1
+spray	0.0	kelly wreathed flowers on the theater .	1
+spray	1.0	kelly wreathed the theater with flowers .	1
+spray	0.0	jason wreathed flowers on the staircase .	1
+spray	1.0	jason wreathed the staircase with flowers .	1
+spray	0.0	christopher wreathed gems on the city .	0
+spray	1.0	christopher wreathed the city with gems .	1
+spray	0.0	jessica wreathed gems on the kingdom .	0
+spray	1.0	jessica wreathed the kingdom with gems .	1
+spray	0.0	elizabeth wreathed gems on the palace .	0
+spray	1.0	elizabeth wreathed the palace with gems .	1
+spray	0.0	elizabeth wreathed gems on the theater .	0
+spray	1.0	elizabeth wreathed the theater with gems .	1
+spray	0.0	jessica wreathed gems on the staircase .	1
+spray	1.0	jessica wreathed the staircase with gems .	1
+spray	0.0	james wreathed decorations on the city .	0
+spray	1.0	james wreathed the city with decorations .	1
+spray	0.0	jason wreathed decorations on the kingdom .	1
+spray	1.0	jason wreathed the kingdom with decorations .	1
+spray	0.0	james wreathed decorations on the palace .	0
+spray	1.0	james wreathed the palace with decorations .	1
+spray	0.0	david wreathed decorations on the theater .	0
+spray	1.0	david wreathed the theater with decorations .	1
+spray	0.0	rebecca wreathed decorations on the staircase .	1
+spray	1.0	rebecca wreathed the staircase with decorations .	1
+spray	0.0	jason wreathed christmas lights on the city .	1
+spray	1.0	jason wreathed the city with christmas lights .	1
+spray	0.0	rebecca wreathed christmas lights on the kingdom .	1
+spray	1.0	rebecca wreathed the kingdom with christmas lights .	1
+spray	0.0	kelly wreathed christmas lights on the palace .	1
+spray	1.0	kelly wreathed the palace with christmas lights .	1
+spray	0.0	kelly wreathed christmas lights on the theater .	1
+spray	1.0	kelly wreathed the theater with christmas lights .	1
+spray	0.0	rebecca wreathed christmas lights on the staircase .	1
+spray	1.0	rebecca wreathed the staircase with christmas lights .	1
+spray	0.0	david wreathed streamers on the city .	0
+spray	1.0	david wreathed the city with streamers .	1
+spray	0.0	rebecca wreathed streamers on the kingdom .	1
+spray	1.0	rebecca wreathed the kingdom with streamers .	1
+spray	0.0	elizabeth wreathed streamers on the palace .	0
+spray	1.0	elizabeth wreathed the palace with streamers .	1
+spray	0.0	rebecca wreathed streamers on the theater .	0
+spray	1.0	rebecca wreathed the theater with streamers .	1
+spray	0.0	michael wreathed streamers on the staircase .	1
+spray	1.0	michael wreathed the staircase with streamers .	1
+spray	0.0	james shrouded fog over the coastline .	0
+spray	1.0	james shrouded the coastline with fog .	1
+spray	0.0	michael shrouded fog into the coastline .	0
+spray	1.0	michael shrouded the coastline with fog .	1
+spray	0.0	christopher shrouded fog over the forest .	1
+spray	1.0	christopher shrouded the forest with fog .	1
+spray	0.0	jessica shrouded fog into the forest .	0
+spray	1.0	jessica shrouded the forest with fog .	1
+spray	0.0	michael shrouded fog over the town .	1
+spray	1.0	michael shrouded the town with fog .	1
+spray	0.0	rebecca shrouded fog into the town .	0
+spray	1.0	rebecca shrouded the town with fog .	1
+spray	0.0	elizabeth shrouded fog over the village .	1
+spray	1.0	elizabeth shrouded the village with fog .	1
+spray	0.0	christopher shrouded fog into the village .	0
+spray	1.0	christopher shrouded the village with fog .	1
+spray	0.0	christopher shrouded mist over the coastline .	1
+spray	1.0	christopher shrouded the coastline with mist .	1
+spray	0.0	michael shrouded mist into the coastline .	0
+spray	1.0	michael shrouded the coastline with mist .	1
+spray	0.0	nicole shrouded mist over the forest .	1
+spray	1.0	nicole shrouded the forest with mist .	1
+spray	0.0	david shrouded mist into the forest .	0
+spray	1.0	david shrouded the forest with mist .	1
+spray	0.0	jason shrouded mist over the town .	1
+spray	1.0	jason shrouded the town with mist .	1
+spray	0.0	kelly shrouded mist into the town .	0
+spray	1.0	kelly shrouded the town with mist .	1
+spray	0.0	jason shrouded mist over the village .	1
+spray	1.0	jason shrouded the village with mist .	1
+spray	0.0	rebecca shrouded mist into the village .	1
+spray	1.0	rebecca shrouded the village with mist .	1
+spray	0.0	jessica shrouded smog over the coastline .	1
+spray	1.0	jessica shrouded the coastline with smog .	1
+spray	0.0	james shrouded smog into the coastline .	0
+spray	1.0	james shrouded the coastline with smog .	1
+spray	0.0	michael shrouded smog over the forest .	1
+spray	1.0	michael shrouded the forest with smog .	1
+spray	0.0	kelly shrouded smog into the forest .	1
+spray	1.0	kelly shrouded the forest with smog .	1
+spray	0.0	jessica shrouded smog over the town .	1
+spray	1.0	jessica shrouded the town with smog .	1
+spray	0.0	kelly shrouded smog into the town .	1
+spray	1.0	kelly shrouded the town with smog .	1
+spray	0.0	elizabeth shrouded smog over the village .	1
+spray	1.0	elizabeth shrouded the village with smog .	1
+spray	0.0	jessica shrouded smog into the village .	1
+spray	1.0	jessica shrouded the village with smog .	1
+spray	0.0	james shrouded gloom over the coastline .	0
+spray	1.0	james shrouded the coastline with gloom .	1
+spray	0.0	elizabeth shrouded gloom into the coastline .	0
+spray	1.0	elizabeth shrouded the coastline with gloom .	1
+spray	0.0	rebecca shrouded gloom over the forest .	0
+spray	1.0	rebecca shrouded the forest with gloom .	1
+spray	0.0	nicole shrouded gloom into the forest .	0
+spray	1.0	nicole shrouded the forest with gloom .	1
+spray	0.0	kelly shrouded gloom over the town .	1
+spray	1.0	kelly shrouded the town with gloom .	1
+spray	0.0	jessica shrouded gloom into the town .	0
+spray	1.0	jessica shrouded the town with gloom .	1
+spray	0.0	jason shrouded gloom over the village .	0
+spray	1.0	jason shrouded the village with gloom .	1
+spray	0.0	david shrouded gloom into the village .	0
+spray	1.0	david shrouded the village with gloom .	1
+spray	0.0	kelly shrouded clouds over the coastline .	1
+spray	1.0	kelly shrouded the coastline with clouds .	1
+spray	0.0	kelly shrouded clouds into the coastline .	1
+spray	1.0	kelly shrouded the coastline with clouds .	1
+spray	0.0	kelly shrouded clouds over the forest .	1
+spray	1.0	kelly shrouded the forest with clouds .	1
+spray	0.0	james shrouded clouds into the forest .	0
+spray	1.0	james shrouded the forest with clouds .	1
+spray	0.0	david shrouded clouds over the town .	1
+spray	1.0	david shrouded the town with clouds .	1
+spray	0.0	david shrouded clouds into the town .	0
+spray	1.0	david shrouded the town with clouds .	1
+spray	0.0	rebecca shrouded clouds over the village .	1
+spray	1.0	rebecca shrouded the village with clouds .	1
+spray	0.0	kelly shrouded clouds into the village .	1
+spray	1.0	kelly shrouded the village with clouds .	1
+spray	0.0	kelly veiled fog over the coastline .	1
+spray	1.0	kelly veiled the coastline with fog .	1
+spray	0.0	kelly veiled fog into the coastline .	1
+spray	1.0	kelly veiled the coastline with fog .	1
+spray	0.0	michael veiled fog over the forest .	0
+spray	1.0	michael veiled the forest with fog .	1
+spray	0.0	jessica veiled fog into the forest .	0
+spray	1.0	jessica veiled the forest with fog .	1
+spray	0.0	elizabeth veiled fog over the town .	0
+spray	1.0	elizabeth veiled the town with fog .	1
+spray	0.0	elizabeth veiled fog into the town .	0
+spray	1.0	elizabeth veiled the town with fog .	1
+spray	0.0	kelly veiled fog over the village .	1
+spray	1.0	kelly veiled the village with fog .	1
+spray	0.0	christopher veiled fog into the village .	1
+spray	1.0	christopher veiled the village with fog .	1
+spray	0.0	rebecca veiled mist over the coastline .	0
+spray	1.0	rebecca veiled the coastline with mist .	1
+spray	0.0	michael veiled mist into the coastline .	0
+spray	1.0	michael veiled the coastline with mist .	1
+spray	0.0	michael veiled mist over the forest .	0
+spray	1.0	michael veiled the forest with mist .	1
+spray	0.0	christopher veiled mist into the forest .	1
+spray	1.0	christopher veiled the forest with mist .	1
+spray	0.0	rebecca veiled mist over the town .	0
+spray	1.0	rebecca veiled the town with mist .	1
+spray	0.0	kelly veiled mist into the town .	1
+spray	1.0	kelly veiled the town with mist .	1
+spray	0.0	nicole veiled mist over the village .	1
+spray	1.0	nicole veiled the village with mist .	1
+spray	0.0	kelly veiled mist into the village .	1
+spray	1.0	kelly veiled the village with mist .	1
+spray	0.0	rebecca veiled smog over the coastline .	1
+spray	1.0	rebecca veiled the coastline with smog .	1
+spray	0.0	michael veiled smog into the coastline .	0
+spray	1.0	michael veiled the coastline with smog .	1
+spray	0.0	jason veiled smog over the forest .	0
+spray	1.0	jason veiled the forest with smog .	1
+spray	0.0	michael veiled smog into the forest .	0
+spray	1.0	michael veiled the forest with smog .	1
+spray	0.0	jason veiled smog over the town .	1
+spray	1.0	jason veiled the town with smog .	1
+spray	0.0	james veiled smog into the town .	0
+spray	1.0	james veiled the town with smog .	1
+spray	0.0	elizabeth veiled smog over the village .	0
+spray	1.0	elizabeth veiled the village with smog .	1
+spray	0.0	jason veiled smog into the village .	1
+spray	1.0	jason veiled the village with smog .	1
+spray	0.0	michael veiled gloom over the coastline .	0
+spray	1.0	michael veiled the coastline with gloom .	1
+spray	0.0	elizabeth veiled gloom into the coastline .	0
+spray	1.0	elizabeth veiled the coastline with gloom .	1
+spray	0.0	elizabeth veiled gloom over the forest .	0
+spray	1.0	elizabeth veiled the forest with gloom .	1
+spray	0.0	elizabeth veiled gloom into the forest .	0
+spray	1.0	elizabeth veiled the forest with gloom .	1
+spray	0.0	david veiled gloom over the town .	0
+spray	1.0	david veiled the town with gloom .	1
+spray	0.0	elizabeth veiled gloom into the town .	0
+spray	1.0	elizabeth veiled the town with gloom .	1
+spray	0.0	nicole veiled gloom over the village .	0
+spray	1.0	nicole veiled the village with gloom .	1
+spray	0.0	christopher veiled gloom into the village .	1
+spray	1.0	christopher veiled the village with gloom .	1
+spray	0.0	nicole veiled clouds over the coastline .	0
+spray	1.0	nicole veiled the coastline with clouds .	1
+spray	0.0	nicole veiled clouds into the coastline .	0
+spray	1.0	nicole veiled the coastline with clouds .	1
+spray	0.0	elizabeth veiled clouds over the forest .	0
+spray	1.0	elizabeth veiled the forest with clouds .	1
+spray	0.0	nicole veiled clouds into the forest .	1
+spray	1.0	nicole veiled the forest with clouds .	1
+spray	0.0	jessica veiled clouds over the town .	0
+spray	1.0	jessica veiled the town with clouds .	1
+spray	0.0	jason veiled clouds into the town .	1
+spray	1.0	jason veiled the town with clouds .	1
+spray	0.0	kelly veiled clouds over the village .	1
+spray	1.0	kelly veiled the village with clouds .	1
+spray	0.0	christopher veiled clouds into the village .	1
+spray	1.0	christopher veiled the village with clouds .	1
+spray	0.0	elizabeth encircled fog over the coastline .	1
+spray	1.0	elizabeth encircled the coastline with fog .	1
+spray	0.0	christopher encircled fog into the coastline .	0
+spray	1.0	christopher encircled the coastline with fog .	1
+spray	0.0	james encircled fog over the forest .	0
+spray	1.0	james encircled the forest with fog .	1
+spray	0.0	rebecca encircled fog into the forest .	0
+spray	1.0	rebecca encircled the forest with fog .	1
+spray	0.0	rebecca encircled fog over the town .	0
+spray	1.0	rebecca encircled the town with fog .	1
+spray	0.0	david encircled fog into the town .	0
+spray	1.0	david encircled the town with fog .	1
+spray	0.0	kelly encircled fog over the village .	0
+spray	1.0	kelly encircled the village with fog .	1
+spray	0.0	david encircled fog into the village .	0
+spray	1.0	david encircled the village with fog .	1
+spray	0.0	jessica encircled mist over the coastline .	0
+spray	1.0	jessica encircled the coastline with mist .	1
+spray	0.0	jason encircled mist into the coastline .	0
+spray	1.0	jason encircled the coastline with mist .	1
+spray	0.0	david encircled mist over the forest .	0
+spray	1.0	david encircled the forest with mist .	1
+spray	0.0	james encircled mist into the forest .	0
+spray	1.0	james encircled the forest with mist .	1
+spray	0.0	david encircled mist over the town .	0
+spray	1.0	david encircled the town with mist .	1
+spray	0.0	elizabeth encircled mist into the town .	0
+spray	1.0	elizabeth encircled the town with mist .	1
+spray	0.0	rebecca encircled mist over the village .	0
+spray	1.0	rebecca encircled the village with mist .	1
+spray	0.0	james encircled mist into the village .	0
+spray	1.0	james encircled the village with mist .	1
+spray	0.0	jason encircled smog over the coastline .	1
+spray	1.0	jason encircled the coastline with smog .	1
+spray	0.0	jason encircled smog into the coastline .	1
+spray	1.0	jason encircled the coastline with smog .	1
+spray	0.0	michael encircled smog over the forest .	0
+spray	1.0	michael encircled the forest with smog .	1
+spray	0.0	kelly encircled smog into the forest .	1
+spray	1.0	kelly encircled the forest with smog .	1
+spray	0.0	kelly encircled smog over the town .	0
+spray	1.0	kelly encircled the town with smog .	1
+spray	0.0	nicole encircled smog into the town .	1
+spray	1.0	nicole encircled the town with smog .	1
+spray	0.0	elizabeth encircled smog over the village .	1
+spray	1.0	elizabeth encircled the village with smog .	1
+spray	0.0	elizabeth encircled smog into the village .	0
+spray	1.0	elizabeth encircled the village with smog .	1
+spray	0.0	kelly encircled gloom over the coastline .	0
+spray	1.0	kelly encircled the coastline with gloom .	1
+spray	0.0	rebecca encircled gloom into the coastline .	0
+spray	1.0	rebecca encircled the coastline with gloom .	1
+spray	0.0	elizabeth encircled gloom over the forest .	0
+spray	1.0	elizabeth encircled the forest with gloom .	1
+spray	0.0	jason encircled gloom into the forest .	0
+spray	1.0	jason encircled the forest with gloom .	1
+spray	0.0	christopher encircled gloom over the town .	0
+spray	1.0	christopher encircled the town with gloom .	1
+spray	0.0	elizabeth encircled gloom into the town .	0
+spray	1.0	elizabeth encircled the town with gloom .	1
+spray	0.0	nicole encircled gloom over the village .	0
+spray	1.0	nicole encircled the village with gloom .	1
+spray	0.0	jason encircled gloom into the village .	0
+spray	1.0	jason encircled the village with gloom .	1
+spray	0.0	jason encircled clouds over the coastline .	0
+spray	1.0	jason encircled the coastline with clouds .	1
+spray	0.0	christopher encircled clouds into the coastline .	0
+spray	1.0	christopher encircled the coastline with clouds .	1
+spray	0.0	nicole encircled clouds over the forest .	0
+spray	1.0	nicole encircled the forest with clouds .	1
+spray	0.0	kelly encircled clouds into the forest .	0
+spray	1.0	kelly encircled the forest with clouds .	1
+spray	0.0	david encircled clouds over the town .	0
+spray	1.0	david encircled the town with clouds .	1
+spray	0.0	jason encircled clouds into the town .	0
+spray	1.0	jason encircled the town with clouds .	1
+spray	0.0	nicole encircled clouds over the village .	0
+spray	1.0	nicole encircled the village with clouds .	1
+spray	0.0	elizabeth encircled clouds into the village .	0
+spray	1.0	elizabeth encircled the village with clouds .	1
+spray	0.0	nicole surrounded fog over the coastline .	0
+spray	1.0	nicole surrounded the coastline with fog .	1
+spray	0.0	christopher surrounded fog into the coastline .	0
+spray	1.0	christopher surrounded the coastline with fog .	1
+spray	0.0	jason surrounded fog over the forest .	0
+spray	1.0	jason surrounded the forest with fog .	1
+spray	0.0	nicole surrounded fog into the forest .	0
+spray	1.0	nicole surrounded the forest with fog .	1
+spray	0.0	jason surrounded fog over the town .	0
+spray	1.0	jason surrounded the town with fog .	1
+spray	0.0	michael surrounded fog into the town .	0
+spray	1.0	michael surrounded the town with fog .	1
+spray	0.0	kelly surrounded fog over the village .	0
+spray	1.0	kelly surrounded the village with fog .	1
+spray	0.0	jessica surrounded fog into the village .	0
+spray	1.0	jessica surrounded the village with fog .	1
+spray	0.0	kelly surrounded mist over the coastline .	0
+spray	1.0	kelly surrounded the coastline with mist .	1
+spray	0.0	jessica surrounded mist into the coastline .	0
+spray	1.0	jessica surrounded the coastline with mist .	1
+spray	0.0	david surrounded mist over the forest .	0
+spray	1.0	david surrounded the forest with mist .	1
+spray	0.0	rebecca surrounded mist into the forest .	0
+spray	1.0	rebecca surrounded the forest with mist .	1
+spray	0.0	christopher surrounded mist over the town .	0
+spray	1.0	christopher surrounded the town with mist .	1
+spray	0.0	christopher surrounded mist into the town .	0
+spray	1.0	christopher surrounded the town with mist .	1
+spray	0.0	jason surrounded mist over the village .	0
+spray	1.0	jason surrounded the village with mist .	1
+spray	0.0	jessica surrounded mist into the village .	0
+spray	1.0	jessica surrounded the village with mist .	1
+spray	0.0	jessica surrounded smog over the coastline .	0
+spray	1.0	jessica surrounded the coastline with smog .	1
+spray	0.0	nicole surrounded smog into the coastline .	0
+spray	1.0	nicole surrounded the coastline with smog .	1
+spray	0.0	david surrounded smog over the forest .	0
+spray	1.0	david surrounded the forest with smog .	1
+spray	0.0	david surrounded smog into the forest .	0
+spray	1.0	david surrounded the forest with smog .	1
+spray	0.0	nicole surrounded smog over the town .	0
+spray	1.0	nicole surrounded the town with smog .	1
+spray	0.0	rebecca surrounded smog into the town .	0
+spray	1.0	rebecca surrounded the town with smog .	1
+spray	0.0	jessica surrounded smog over the village .	0
+spray	1.0	jessica surrounded the village with smog .	1
+spray	0.0	rebecca surrounded smog into the village .	0
+spray	1.0	rebecca surrounded the village with smog .	1
+spray	0.0	david surrounded gloom over the coastline .	0
+spray	1.0	david surrounded the coastline with gloom .	1
+spray	0.0	jason surrounded gloom into the coastline .	0
+spray	1.0	jason surrounded the coastline with gloom .	1
+spray	0.0	nicole surrounded gloom over the forest .	0
+spray	1.0	nicole surrounded the forest with gloom .	1
+spray	0.0	elizabeth surrounded gloom into the forest .	0
+spray	1.0	elizabeth surrounded the forest with gloom .	1
+spray	0.0	elizabeth surrounded gloom over the town .	0
+spray	1.0	elizabeth surrounded the town with gloom .	1
+spray	0.0	jessica surrounded gloom into the town .	0
+spray	1.0	jessica surrounded the town with gloom .	1
+spray	0.0	rebecca surrounded gloom over the village .	0
+spray	1.0	rebecca surrounded the village with gloom .	1
+spray	0.0	michael surrounded gloom into the village .	0
+spray	1.0	michael surrounded the village with gloom .	1
+spray	0.0	nicole surrounded clouds over the coastline .	0
+spray	1.0	nicole surrounded the coastline with clouds .	1
+spray	0.0	jessica surrounded clouds into the coastline .	0
+spray	1.0	jessica surrounded the coastline with clouds .	1
+spray	0.0	christopher surrounded clouds over the forest .	0
+spray	1.0	christopher surrounded the forest with clouds .	1
+spray	0.0	elizabeth surrounded clouds into the forest .	0
+spray	1.0	elizabeth surrounded the forest with clouds .	1
+spray	0.0	david surrounded clouds over the town .	0
+spray	1.0	david surrounded the town with clouds .	1
+spray	0.0	david surrounded clouds into the town .	0
+spray	1.0	david surrounded the town with clouds .	1
+spray	0.0	jessica surrounded clouds over the village .	0
+spray	1.0	jessica surrounded the village with clouds .	1
+spray	0.0	rebecca surrounded clouds into the village .	0
+spray	1.0	rebecca surrounded the village with clouds .	1
+spray	0.0	michael suffused fog over the coastline .	1
+spray	1.0	michael suffused the coastline with fog .	1
+spray	0.0	kelly suffused fog into the coastline .	1
+spray	1.0	kelly suffused the coastline with fog .	1
+spray	0.0	elizabeth suffused fog over the forest .	1
+spray	1.0	elizabeth suffused the forest with fog .	1
+spray	0.0	christopher suffused fog into the forest .	1
+spray	1.0	christopher suffused the forest with fog .	1
+spray	0.0	rebecca suffused fog over the town .	1
+spray	1.0	rebecca suffused the town with fog .	1
+spray	0.0	james suffused fog into the town .	1
+spray	1.0	james suffused the town with fog .	1
+spray	0.0	jessica suffused fog over the village .	1
+spray	1.0	jessica suffused the village with fog .	1
+spray	0.0	david suffused fog into the village .	1
+spray	1.0	david suffused the village with fog .	1
+spray	0.0	elizabeth suffused mist over the coastline .	1
+spray	1.0	elizabeth suffused the coastline with mist .	1
+spray	0.0	elizabeth suffused mist into the coastline .	0
+spray	1.0	elizabeth suffused the coastline with mist .	1
+spray	0.0	rebecca suffused mist over the forest .	1
+spray	1.0	rebecca suffused the forest with mist .	1
+spray	0.0	rebecca suffused mist into the forest .	1
+spray	1.0	rebecca suffused the forest with mist .	1
+spray	0.0	james suffused mist over the town .	1
+spray	1.0	james suffused the town with mist .	1
+spray	0.0	james suffused mist into the town .	1
+spray	1.0	james suffused the town with mist .	1
+spray	0.0	michael suffused mist over the village .	1
+spray	1.0	michael suffused the village with mist .	1
+spray	0.0	nicole suffused mist into the village .	1
+spray	1.0	nicole suffused the village with mist .	1
+spray	0.0	michael suffused smog over the coastline .	1
+spray	1.0	michael suffused the coastline with smog .	1
+spray	0.0	michael suffused smog into the coastline .	1
+spray	1.0	michael suffused the coastline with smog .	1
+spray	0.0	christopher suffused smog over the forest .	1
+spray	1.0	christopher suffused the forest with smog .	1
+spray	0.0	rebecca suffused smog into the forest .	1
+spray	1.0	rebecca suffused the forest with smog .	1
+spray	0.0	kelly suffused smog over the town .	1
+spray	1.0	kelly suffused the town with smog .	1
+spray	0.0	david suffused smog into the town .	1
+spray	1.0	david suffused the town with smog .	1
+spray	0.0	michael suffused smog over the village .	1
+spray	1.0	michael suffused the village with smog .	1
+spray	0.0	rebecca suffused smog into the village .	1
+spray	1.0	rebecca suffused the village with smog .	1
+spray	0.0	rebecca suffused gloom over the coastline .	1
+spray	1.0	rebecca suffused the coastline with gloom .	1
+spray	0.0	elizabeth suffused gloom into the coastline .	1
+spray	1.0	elizabeth suffused the coastline with gloom .	1
+spray	0.0	rebecca suffused gloom over the forest .	1
+spray	1.0	rebecca suffused the forest with gloom .	1
+spray	0.0	michael suffused gloom into the forest .	1
+spray	1.0	michael suffused the forest with gloom .	1
+spray	0.0	jason suffused gloom over the town .	1
+spray	1.0	jason suffused the town with gloom .	1
+spray	0.0	jason suffused gloom into the town .	1
+spray	1.0	jason suffused the town with gloom .	1
+spray	0.0	kelly suffused gloom over the village .	1
+spray	1.0	kelly suffused the village with gloom .	1
+spray	0.0	jason suffused gloom into the village .	1
+spray	1.0	jason suffused the village with gloom .	1
+spray	0.0	rebecca suffused clouds over the coastline .	1
+spray	1.0	rebecca suffused the coastline with clouds .	1
+spray	0.0	michael suffused clouds into the coastline .	1
+spray	1.0	michael suffused the coastline with clouds .	1
+spray	0.0	james suffused clouds over the forest .	1
+spray	1.0	james suffused the forest with clouds .	1
+spray	0.0	jason suffused clouds into the forest .	1
+spray	1.0	jason suffused the forest with clouds .	1
+spray	0.0	christopher suffused clouds over the town .	1
+spray	1.0	christopher suffused the town with clouds .	1
+spray	0.0	elizabeth suffused clouds into the town .	1
+spray	1.0	elizabeth suffused the town with clouds .	1
+spray	0.0	christopher suffused clouds over the village .	1
+spray	1.0	christopher suffused the village with clouds .	1
+spray	0.0	james suffused clouds into the village .	1
+spray	1.0	james suffused the village with clouds .	1
+spray	0.0	elizabeth blanketed pollen over the mountain .	1
+spray	1.0	elizabeth blanketed the mountain with pollen .	1
+spray	0.0	michael blanketed pollen on the mountain .	1
+spray	1.0	michael blanketed the mountain with pollen .	1
+spray	0.0	elizabeth blanketed pollen over the valley .	1
+spray	1.0	elizabeth blanketed the valley with pollen .	1
+spray	0.0	jason blanketed pollen on the valley .	1
+spray	1.0	jason blanketed the valley with pollen .	1
+spray	0.0	james blanketed pollen over forest floor .	0
+spray	1.0	james blanketed forest floor with pollen .	1
+spray	0.0	nicole blanketed pollen on forest floor .	0
+spray	1.0	nicole blanketed forest floor with pollen .	1
+spray	0.0	jessica blanketed snow over the mountain .	1
+spray	1.0	jessica blanketed the mountain with snow .	1
+spray	0.0	nicole blanketed snow on the mountain .	1
+spray	1.0	nicole blanketed the mountain with snow .	1
+spray	0.0	jessica blanketed snow over the valley .	1
+spray	1.0	jessica blanketed the valley with snow .	1
+spray	0.0	james blanketed snow on the valley .	0
+spray	1.0	james blanketed the valley with snow .	1
+spray	0.0	kelly blanketed snow over forest floor .	0
+spray	1.0	kelly blanketed forest floor with snow .	1
+spray	0.0	michael blanketed snow on forest floor .	0
+spray	1.0	michael blanketed forest floor with snow .	1
+spray	0.0	nicole blanketed pine cones over the mountain .	1
+spray	1.0	nicole blanketed the mountain with pine cones .	1
+spray	0.0	rebecca blanketed pine cones on the mountain .	1
+spray	1.0	rebecca blanketed the mountain with pine cones .	1
+spray	0.0	david blanketed pine cones over the valley .	1
+spray	1.0	david blanketed the valley with pine cones .	1
+spray	0.0	james blanketed pine cones on the valley .	1
+spray	1.0	james blanketed the valley with pine cones .	1
+spray	0.0	nicole blanketed pine cones over forest floor .	1
+spray	1.0	nicole blanketed forest floor with pine cones .	1
+spray	0.0	jason blanketed pine cones on forest floor .	1
+spray	1.0	jason blanketed forest floor with pine cones .	1
+spray	0.0	james littered pollen over the mountain .	1
+spray	1.0	james littered the mountain with pollen .	1
+spray	0.0	james littered pollen on the mountain .	1
+spray	1.0	james littered the mountain with pollen .	1
+spray	0.0	kelly littered pollen over the valley .	1
+spray	1.0	kelly littered the valley with pollen .	1
+spray	0.0	james littered pollen on the valley .	1
+spray	1.0	james littered the valley with pollen .	1
+spray	0.0	elizabeth littered pollen over forest floor .	1
+spray	1.0	elizabeth littered forest floor with pollen .	1
+spray	0.0	james littered pollen on forest floor .	0
+spray	1.0	james littered forest floor with pollen .	0
+spray	0.0	nicole littered snow over the mountain .	1
+spray	1.0	nicole littered the mountain with snow .	1
+spray	0.0	david littered snow on the mountain .	1
+spray	1.0	david littered the mountain with snow .	1
+spray	0.0	michael littered snow over the valley .	1
+spray	1.0	michael littered the valley with snow .	1
+spray	0.0	jason littered snow on the valley .	1
+spray	1.0	jason littered the valley with snow .	1
+spray	0.0	kelly littered snow over forest floor .	0
+spray	1.0	kelly littered forest floor with snow .	1
+spray	0.0	rebecca littered snow on forest floor .	0
+spray	1.0	rebecca littered forest floor with snow .	1
+spray	0.0	rebecca littered pine cones over the mountain .	1
+spray	1.0	rebecca littered the mountain with pine cones .	1
+spray	0.0	david littered pine cones on the mountain .	1
+spray	1.0	david littered the mountain with pine cones .	1
+spray	0.0	nicole littered pine cones over the valley .	1
+spray	1.0	nicole littered the valley with pine cones .	1
+spray	0.0	michael littered pine cones on the valley .	1
+spray	1.0	michael littered the valley with pine cones .	1
+spray	0.0	nicole littered pine cones over forest floor .	1
+spray	1.0	nicole littered forest floor with pine cones .	1
+spray	0.0	jessica littered pine cones on forest floor .	1
+spray	1.0	jessica littered forest floor with pine cones .	1
+spray	0.0	james contaminated sewage into the hospital .	0
+spray	1.0	james contaminated the hospital with sewage .	1
+spray	0.0	kelly contaminated sewage into the clinic .	0
+spray	1.0	kelly contaminated the clinic with sewage .	1
+spray	0.0	elizabeth contaminated sewage into the operating room .	0
+spray	1.0	elizabeth contaminated the operating room with sewage .	1
+spray	0.0	james contaminated sewage into the bathroom .	0
+spray	1.0	james contaminated the bathroom with sewage .	1
+spray	0.0	kelly contaminated mud into the hospital .	0
+spray	1.0	kelly contaminated the hospital with mud .	1
+spray	0.0	christopher contaminated mud into the clinic .	0
+spray	1.0	christopher contaminated the clinic with mud .	1
+spray	0.0	christopher contaminated mud into the operating room .	0
+spray	1.0	christopher contaminated the operating room with mud .	1
+spray	0.0	christopher contaminated mud into the bathroom .	0
+spray	1.0	christopher contaminated the bathroom with mud .	1
+spray	0.0	jessica contaminated waste into the hospital .	0
+spray	1.0	jessica contaminated the hospital with waste .	1
+spray	0.0	michael contaminated waste into the clinic .	1
+spray	1.0	michael contaminated the clinic with waste .	1
+spray	0.0	jason contaminated waste into the operating room .	0
+spray	1.0	jason contaminated the operating room with waste .	1
+spray	0.0	michael contaminated waste into the bathroom .	0
+spray	1.0	michael contaminated the bathroom with waste .	1
+spray	0.0	elizabeth contaminated muck into the hospital .	0
+spray	1.0	elizabeth contaminated the hospital with muck .	1
+spray	0.0	jessica contaminated muck into the clinic .	0
+spray	1.0	jessica contaminated the clinic with muck .	1
+spray	0.0	david contaminated muck into the operating room .	0
+spray	1.0	david contaminated the operating room with muck .	1
+spray	0.0	rebecca contaminated muck into the bathroom .	0
+spray	1.0	rebecca contaminated the bathroom with muck .	1
+spray	0.0	jason dirtied sewage into the hospital .	0
+spray	1.0	jason dirtied the hospital with sewage .	1
+spray	0.0	nicole dirtied sewage into the clinic .	0
+spray	1.0	nicole dirtied the clinic with sewage .	1
+spray	0.0	jessica dirtied sewage into the operating room .	0
+spray	1.0	jessica dirtied the operating room with sewage .	1
+spray	0.0	jessica dirtied sewage into the bathroom .	0
+spray	1.0	jessica dirtied the bathroom with sewage .	1
+spray	0.0	jessica dirtied mud into the hospital .	0
+spray	1.0	jessica dirtied the hospital with mud .	1
+spray	0.0	christopher dirtied mud into the clinic .	0
+spray	1.0	christopher dirtied the clinic with mud .	1
+spray	0.0	michael dirtied mud into the operating room .	0
+spray	1.0	michael dirtied the operating room with mud .	1
+spray	0.0	david dirtied mud into the bathroom .	0
+spray	1.0	david dirtied the bathroom with mud .	1
+spray	0.0	jason dirtied waste into the hospital .	0
+spray	1.0	jason dirtied the hospital with waste .	1
+spray	0.0	kelly dirtied waste into the clinic .	0
+spray	1.0	kelly dirtied the clinic with waste .	1
+spray	0.0	rebecca dirtied waste into the operating room .	0
+spray	1.0	rebecca dirtied the operating room with waste .	1
+spray	0.0	christopher dirtied waste into the bathroom .	0
+spray	1.0	christopher dirtied the bathroom with waste .	1
+spray	0.0	rebecca dirtied muck into the hospital .	0
+spray	1.0	rebecca dirtied the hospital with muck .	1
+spray	0.0	christopher dirtied muck into the clinic .	0
+spray	1.0	christopher dirtied the clinic with muck .	1
+spray	0.0	rebecca dirtied muck into the operating room .	0
+spray	1.0	rebecca dirtied the operating room with muck .	1
+spray	0.0	elizabeth dirtied muck into the bathroom .	0
+spray	1.0	elizabeth dirtied the bathroom with muck .	1
+spray	0.0	david polluted sewage into the hospital .	1
+spray	1.0	david polluted the hospital with sewage .	1
+spray	0.0	jason polluted sewage into the clinic .	1
+spray	1.0	jason polluted the clinic with sewage .	1
+spray	0.0	rebecca polluted sewage into the operating room .	1
+spray	1.0	rebecca polluted the operating room with sewage .	1
+spray	0.0	elizabeth polluted sewage into the bathroom .	0
+spray	1.0	elizabeth polluted the bathroom with sewage .	1
+spray	0.0	jason polluted mud into the hospital .	1
+spray	1.0	jason polluted the hospital with mud .	1
+spray	0.0	james polluted mud into the clinic .	1
+spray	1.0	james polluted the clinic with mud .	1
+spray	0.0	michael polluted mud into the operating room .	1
+spray	1.0	michael polluted the operating room with mud .	1
+spray	0.0	james polluted mud into the bathroom .	0
+spray	1.0	james polluted the bathroom with mud .	1
+spray	0.0	elizabeth polluted waste into the hospital .	0
+spray	1.0	elizabeth polluted the hospital with waste .	1
+spray	0.0	kelly polluted waste into the clinic .	1
+spray	1.0	kelly polluted the clinic with waste .	1
+spray	0.0	christopher polluted waste into the operating room .	1
+spray	1.0	christopher polluted the operating room with waste .	1
+spray	0.0	kelly polluted waste into the bathroom .	0
+spray	1.0	kelly polluted the bathroom with waste .	1
+spray	0.0	michael polluted muck into the hospital .	1
+spray	1.0	michael polluted the hospital with muck .	1
+spray	0.0	kelly polluted muck into the clinic .	1
+spray	1.0	kelly polluted the clinic with muck .	1
+spray	0.0	elizabeth polluted muck into the operating room .	1
+spray	1.0	elizabeth polluted the operating room with muck .	1
+spray	0.0	david polluted muck into the bathroom .	0
+spray	1.0	david polluted the bathroom with muck .	1
+spray	0.0	kelly soiled sewage into the hospital .	0
+spray	1.0	kelly soiled the hospital with sewage .	1
+spray	0.0	elizabeth soiled sewage into the clinic .	1
+spray	1.0	elizabeth soiled the clinic with sewage .	1
+spray	0.0	jessica soiled sewage into the operating room .	1
+spray	1.0	jessica soiled the operating room with sewage .	1
+spray	0.0	jason soiled sewage into the bathroom .	0
+spray	1.0	jason soiled the bathroom with sewage .	1
+spray	0.0	kelly soiled mud into the hospital .	0
+spray	1.0	kelly soiled the hospital with mud .	1
+spray	0.0	james soiled mud into the clinic .	0
+spray	1.0	james soiled the clinic with mud .	1
+spray	0.0	james soiled mud into the operating room .	0
+spray	1.0	james soiled the operating room with mud .	1
+spray	0.0	jason soiled mud into the bathroom .	0
+spray	1.0	jason soiled the bathroom with mud .	1
+spray	0.0	christopher soiled waste into the hospital .	0
+spray	1.0	christopher soiled the hospital with waste .	1
+spray	0.0	christopher soiled waste into the clinic .	1
+spray	1.0	christopher soiled the clinic with waste .	1
+spray	0.0	elizabeth soiled waste into the operating room .	1
+spray	1.0	elizabeth soiled the operating room with waste .	1
+spray	0.0	michael soiled waste into the bathroom .	0
+spray	1.0	michael soiled the bathroom with waste .	1
+spray	0.0	david soiled muck into the hospital .	0
+spray	1.0	david soiled the hospital with muck .	1
+spray	0.0	rebecca soiled muck into the clinic .	0
+spray	1.0	rebecca soiled the clinic with muck .	1
+spray	0.0	rebecca soiled muck into the operating room .	0
+spray	1.0	rebecca soiled the operating room with muck .	1
+spray	0.0	elizabeth soiled muck into the bathroom .	0
+spray	1.0	elizabeth soiled the bathroom with muck .	1
+spray	0.0	jason stained sewage into the hospital .	0
+spray	1.0	jason stained the hospital with sewage .	1
+spray	0.0	michael stained sewage into the clinic .	1
+spray	1.0	michael stained the clinic with sewage .	1
+spray	0.0	rebecca stained sewage into the operating room .	1
+spray	1.0	rebecca stained the operating room with sewage .	1
+spray	0.0	james stained sewage into the bathroom .	0
+spray	1.0	james stained the bathroom with sewage .	1
+spray	0.0	jessica stained mud into the hospital .	0
+spray	1.0	jessica stained the hospital with mud .	1
+spray	0.0	david stained mud into the clinic .	1
+spray	1.0	david stained the clinic with mud .	1
+spray	0.0	michael stained mud into the operating room .	0
+spray	1.0	michael stained the operating room with mud .	1
+spray	0.0	michael stained mud into the bathroom .	0
+spray	1.0	michael stained the bathroom with mud .	1
+spray	0.0	jason stained waste into the hospital .	1
+spray	1.0	jason stained the hospital with waste .	1
+spray	0.0	elizabeth stained waste into the clinic .	1
+spray	1.0	elizabeth stained the clinic with waste .	1
+spray	0.0	elizabeth stained waste into the operating room .	1
+spray	1.0	elizabeth stained the operating room with waste .	1
+spray	0.0	elizabeth stained waste into the bathroom .	0
+spray	1.0	elizabeth stained the bathroom with waste .	1
+spray	0.0	rebecca stained muck into the hospital .	0
+spray	1.0	rebecca stained the hospital with muck .	1
+spray	0.0	christopher stained muck into the clinic .	1
+spray	1.0	christopher stained the clinic with muck .	1
+spray	0.0	james stained muck into the operating room .	0
+spray	1.0	james stained the operating room with muck .	1
+spray	0.0	jason stained muck into the bathroom .	0
+spray	1.0	jason stained the bathroom with muck .	1
+spray	0.0	james tainted sewage into the hospital .	1
+spray	1.0	james tainted the hospital with sewage .	1
+spray	0.0	david tainted sewage into the clinic .	1
+spray	1.0	david tainted the clinic with sewage .	1
+spray	0.0	nicole tainted sewage into the operating room .	0
+spray	1.0	nicole tainted the operating room with sewage .	1
+spray	0.0	elizabeth tainted sewage into the bathroom .	0
+spray	1.0	elizabeth tainted the bathroom with sewage .	1
+spray	0.0	jason tainted mud into the hospital .	0
+spray	1.0	jason tainted the hospital with mud .	1
+spray	0.0	rebecca tainted mud into the clinic .	1
+spray	1.0	rebecca tainted the clinic with mud .	1
+spray	0.0	kelly tainted mud into the operating room .	1
+spray	1.0	kelly tainted the operating room with mud .	1
+spray	0.0	james tainted mud into the bathroom .	0
+spray	1.0	james tainted the bathroom with mud .	1
+spray	0.0	rebecca tainted waste into the hospital .	1
+spray	1.0	rebecca tainted the hospital with waste .	1
+spray	0.0	jessica tainted waste into the clinic .	1
+spray	1.0	jessica tainted the clinic with waste .	1
+spray	0.0	jason tainted waste into the operating room .	1
+spray	1.0	jason tainted the operating room with waste .	1
+spray	0.0	jessica tainted waste into the bathroom .	0
+spray	1.0	jessica tainted the bathroom with waste .	1
+spray	0.0	nicole tainted muck into the hospital .	0
+spray	1.0	nicole tainted the hospital with muck .	1
+spray	0.0	elizabeth tainted muck into the clinic .	0
+spray	1.0	elizabeth tainted the clinic with muck .	1
+spray	0.0	nicole tainted muck into the operating room .	1
+spray	1.0	nicole tainted the operating room with muck .	1
+spray	0.0	michael tainted muck into the bathroom .	0
+spray	1.0	michael tainted the bathroom with muck .	1
+spray	0.0	michael bandaged the rope around the criminal .	0
+spray	1.0	michael bandaged the criminal with the rope .	1
+spray	0.0	rebecca bandaged the rope around the prisoner .	0
+spray	1.0	rebecca bandaged the prisoner with the rope .	1
+spray	0.0	jessica bandaged the cloth around the criminal .	0
+spray	1.0	jessica bandaged the criminal with the cloth .	0
+spray	0.0	jessica bandaged the cloth around the prisoner .	0
+spray	1.0	jessica bandaged the prisoner with the cloth .	1
+spray	0.0	james bound the rope around the criminal .	0
+spray	1.0	james bound the criminal with the rope .	1
+spray	0.0	david bound the rope around the prisoner .	1
+spray	1.0	david bound the prisoner with the rope .	1
+spray	0.0	jessica bound the cloth around the criminal .	0
+spray	1.0	jessica bound the criminal with the cloth .	0
+spray	0.0	nicole bound the cloth around the prisoner .	0
+spray	1.0	nicole bound the prisoner with the cloth .	1
+spray	0.0	james choked the rope around the criminal .	0
+spray	1.0	james choked the criminal with the rope .	1
+spray	0.0	nicole choked the rope around the prisoner .	0
+spray	1.0	nicole choked the prisoner with the rope .	0
+spray	0.0	christopher choked the cloth around the criminal .	0
+spray	1.0	christopher choked the criminal with the cloth .	1
+spray	0.0	elizabeth choked the cloth around the prisoner .	0
+spray	1.0	elizabeth choked the prisoner with the cloth .	1
+spray	0.0	rebecca innundated the settlers into the colony .	1
+spray	1.0	rebecca innundated the colony with the settlers .	1
+spray	0.0	james innundated the settlers into the island .	1
+spray	1.0	james innundated the island with the settlers .	1
+spray	0.0	jason innundated the settlers into the business .	1
+spray	1.0	jason innundated the business with the settlers .	1
+spray	0.0	elizabeth innundated the employees into the colony .	1
+spray	1.0	elizabeth innundated the colony with the employees .	1
+spray	0.0	james innundated the employees into the island .	1
+spray	1.0	james innundated the island with the employees .	1
+spray	0.0	christopher innundated the employees into the business .	1
+spray	1.0	christopher innundated the business with the employees .	1
+spray	0.0	jessica innundated the workers into the colony .	1
+spray	1.0	jessica innundated the colony with the workers .	1
+spray	0.0	james innundated the workers into the island .	1
+spray	1.0	james innundated the island with the workers .	1
+spray	0.0	kelly innundated the workers into the business .	1
+spray	1.0	kelly innundated the business with the workers .	1
+spray	0.0	david repopulated the settlers into the colony .	1
+spray	1.0	david repopulated the colony with the settlers .	1
+spray	0.0	james repopulated the settlers into the island .	1
+spray	1.0	james repopulated the island with the settlers .	1
+spray	0.0	jason repopulated the settlers into the business .	1
+spray	1.0	jason repopulated the business with the settlers .	1
+spray	0.0	jessica repopulated the employees into the colony .	1
+spray	1.0	jessica repopulated the colony with the employees .	1
+spray	0.0	kelly repopulated the employees into the island .	1
+spray	1.0	kelly repopulated the island with the employees .	1
+spray	0.0	james repopulated the employees into the business .	1
+spray	1.0	james repopulated the business with the employees .	1
+spray	0.0	james repopulated the workers into the colony .	1
+spray	1.0	james repopulated the colony with the workers .	1
+spray	0.0	david repopulated the workers into the island .	1
+spray	1.0	david repopulated the island with the workers .	1
+spray	0.0	nicole repopulated the workers into the business .	1
+spray	1.0	nicole repopulated the business with the workers .	1
+spray	0.0	nicole replenished the settlers into the colony .	1
+spray	1.0	nicole replenished the colony with the settlers .	1
+spray	0.0	jessica replenished the settlers into the island .	0
+spray	1.0	jessica replenished the island with the settlers .	1
+spray	0.0	nicole replenished the settlers into the business .	1
+spray	1.0	nicole replenished the business with the settlers .	1
+spray	0.0	nicole replenished the employees into the colony .	1
+spray	1.0	nicole replenished the colony with the employees .	0
+spray	0.0	jason replenished the employees into the island .	1
+spray	1.0	jason replenished the island with the employees .	1
+spray	0.0	elizabeth replenished the employees into the business .	1
+spray	1.0	elizabeth replenished the business with the employees .	1
+spray	0.0	kelly replenished the workers into the colony .	1
+spray	1.0	kelly replenished the colony with the workers .	1
+spray	0.0	christopher replenished the workers into the island .	0
+spray	1.0	christopher replenished the island with the workers .	1
+spray	0.0	michael replenished the workers into the business .	1
+spray	1.0	michael replenished the business with the workers .	1
+spray	0.0	kelly saturated the settlers into the colony .	1
+spray	1.0	kelly saturated the colony with the settlers .	1
+spray	0.0	christopher saturated the settlers into the island .	1
+spray	1.0	christopher saturated the island with the settlers .	1
+spray	0.0	jason saturated the settlers into the business .	1
+spray	1.0	jason saturated the business with the settlers .	1
+spray	0.0	michael saturated the employees into the colony .	1
+spray	1.0	michael saturated the colony with the employees .	1
+spray	0.0	michael saturated the employees into the island .	1
+spray	1.0	michael saturated the island with the employees .	1
+spray	0.0	kelly saturated the employees into the business .	1
+spray	1.0	kelly saturated the business with the employees .	1
+spray	0.0	jessica saturated the workers into the colony .	1
+spray	1.0	jessica saturated the colony with the workers .	1
+spray	0.0	michael saturated the workers into the island .	1
+spray	1.0	michael saturated the island with the workers .	1
+spray	0.0	jason saturated the workers into the business .	1
+spray	1.0	jason saturated the business with the workers .	1
+spray	0.0	michael staffed the settlers into the colony .	1
+spray	1.0	michael staffed the colony with the settlers .	1
+spray	0.0	michael staffed the settlers into the island .	0
+spray	1.0	michael staffed the island with the settlers .	1
+spray	0.0	nicole staffed the settlers into the business .	1
+spray	1.0	nicole staffed the business with the settlers .	0
+spray	0.0	jason staffed the employees into the colony .	0
+spray	1.0	jason staffed the colony with the employees .	1
+spray	0.0	james staffed the employees into the island .	0
+spray	1.0	james staffed the island with the employees .	0
+spray	0.0	rebecca staffed the employees into the business .	0
+spray	1.0	rebecca staffed the business with the employees .	0
+spray	0.0	jessica staffed the workers into the colony .	1
+spray	1.0	jessica staffed the colony with the workers .	0
+spray	0.0	david staffed the workers into the island .	0
+spray	1.0	david staffed the island with the workers .	0
+spray	0.0	christopher staffed the workers into the business .	1
+spray	1.0	christopher staffed the business with the workers .	0
+spray	0.0	michael trimmed the concrete in the courtyard .	1
+spray	1.0	michael trimmed the courtyard with the concrete .	1
+spray	0.0	james trimmed the concrete in the garden .	0
+spray	1.0	james trimmed the garden with the concrete .	0
+spray	0.0	david trimmed the concrete in the driveway .	1
+spray	1.0	david trimmed the driveway with the concrete .	1
+spray	0.0	nicole trimmed the concrete in campsite .	0
+spray	1.0	nicole trimmed campsite with the concrete .	0
+spray	0.0	kelly trimmed the pebblesthe bricks in the courtyard .	1
+spray	1.0	kelly trimmed the courtyard with the pebblesthe bricks .	1
+spray	0.0	jessica trimmed the pebblesthe bricks in the garden .	1
+spray	1.0	jessica trimmed the garden with the pebblesthe bricks .	1
+spray	0.0	michael trimmed the pebblesthe bricks in the driveway .	1
+spray	1.0	michael trimmed the driveway with the pebblesthe bricks .	1
+spray	0.0	rebecca trimmed the pebblesthe bricks in campsite .	0
+spray	1.0	rebecca trimmed campsite with the pebblesthe bricks .	0
+spray	0.0	jason tiled the concrete in the courtyard .	1
+spray	1.0	jason tiled the courtyard with the concrete .	1
+spray	0.0	michael tiled the concrete in the garden .	0
+spray	1.0	michael tiled the garden with the concrete .	1
+spray	0.0	nicole tiled the concrete in the driveway .	1
+spray	1.0	nicole tiled the driveway with the concrete .	0
+spray	0.0	rebecca tiled the concrete in campsite .	0
+spray	1.0	rebecca tiled campsite with the concrete .	0
+spray	0.0	nicole tiled the pebblesthe bricks in the courtyard .	0
+spray	1.0	nicole tiled the courtyard with the pebblesthe bricks .	1
+spray	0.0	jessica tiled the pebblesthe bricks in the garden .	0
+spray	1.0	jessica tiled the garden with the pebblesthe bricks .	1
+spray	0.0	rebecca tiled the pebblesthe bricks in the driveway .	0
+spray	1.0	rebecca tiled the driveway with the pebblesthe bricks .	0
+spray	0.0	jessica tiled the pebblesthe bricks in campsite .	0
+spray	1.0	jessica tiled campsite with the pebblesthe bricks .	0
+spray	0.0	kelly paved the concrete in the courtyard .	1
+spray	1.0	kelly paved the courtyard with the concrete .	1
+spray	0.0	rebecca paved the concrete in the garden .	0
+spray	1.0	rebecca paved the garden with the concrete .	1
+spray	0.0	jason paved the concrete in the driveway .	1
+spray	1.0	jason paved the driveway with the concrete .	0
+spray	0.0	michael paved the concrete in campsite .	0
+spray	1.0	michael paved campsite with the concrete .	0
+spray	0.0	james paved the pebblesthe bricks in the courtyard .	0
+spray	1.0	james paved the courtyard with the pebblesthe bricks .	1
+spray	0.0	elizabeth paved the pebblesthe bricks in the garden .	0
+spray	1.0	elizabeth paved the garden with the pebblesthe bricks .	0
+spray	0.0	michael paved the pebblesthe bricks in the driveway .	0
+spray	1.0	michael paved the driveway with the pebblesthe bricks .	1
+spray	0.0	nicole paved the pebblesthe bricks in campsite .	0
+spray	1.0	nicole paved campsite with the pebblesthe bricks .	0
+spray	0.0	christopher edged the concrete in the courtyard .	1
+spray	1.0	christopher edged the courtyard with the concrete .	1
+spray	0.0	nicole edged the concrete in the garden .	1
+spray	1.0	nicole edged the garden with the concrete .	1
+spray	0.0	david edged the concrete in the driveway .	1
+spray	1.0	david edged the driveway with the concrete .	0
+spray	0.0	christopher edged the concrete in campsite .	0
+spray	1.0	christopher edged campsite with the concrete .	0
+spray	0.0	michael edged the pebblesthe bricks in the courtyard .	1
+spray	1.0	michael edged the courtyard with the pebblesthe bricks .	1
+spray	0.0	michael edged the pebblesthe bricks in the garden .	0
+spray	1.0	michael edged the garden with the pebblesthe bricks .	0
+spray	0.0	michael edged the pebblesthe bricks in the driveway .	1
+spray	1.0	michael edged the driveway with the pebblesthe bricks .	0
+spray	0.0	jessica edged the pebblesthe bricks in campsite .	0
+spray	1.0	jessica edged campsite with the pebblesthe bricks .	0
+spray	0.0	michael dotted the concrete in the courtyard .	1
+spray	1.0	michael dotted the courtyard with the concrete .	1
+spray	0.0	david dotted the concrete in the garden .	1
+spray	1.0	david dotted the garden with the concrete .	1
+spray	0.0	david dotted the concrete in the driveway .	1
+spray	1.0	david dotted the driveway with the concrete .	1
+spray	0.0	david dotted the concrete in campsite .	0
+spray	1.0	david dotted campsite with the concrete .	0
+spray	0.0	jessica dotted the pebblesthe bricks in the courtyard .	1
+spray	1.0	jessica dotted the courtyard with the pebblesthe bricks .	1
+spray	0.0	jason dotted the pebblesthe bricks in the garden .	0
+spray	1.0	jason dotted the garden with the pebblesthe bricks .	0
+spray	0.0	christopher dotted the pebblesthe bricks in the driveway .	1
+spray	1.0	christopher dotted the driveway with the pebblesthe bricks .	1
+spray	0.0	david dotted the pebblesthe bricks in campsite .	0
+spray	1.0	david dotted campsite with the pebblesthe bricks .	0
+spray	1.0	jason immersed the spy in the culture .	1
+spray	0.0	jason immersed the culture with the spy .	0
+spray	1.0	jason immersed the spy in the language .	1
+spray	0.0	jason immersed the language with the spy .	0
+spray	1.0	jason immersed the immigrant in the culture .	1
+spray	0.0	jason immersed the culture with the immigrant .	0
+spray	1.0	elizabeth immersed the immigrant in the language .	1
+spray	0.0	elizabeth immersed the language with the immigrant .	1
+spray	1.0	christopher situated the spy in the culture .	0
+spray	0.0	christopher situated the culture with the spy .	0
+spray	1.0	kelly situated the spy in the language .	1
+spray	0.0	kelly situated the language with the spy .	0
+spray	1.0	jessica situated the immigrant in the culture .	0
+spray	0.0	jessica situated the culture with the immigrant .	0
+spray	1.0	elizabeth situated the immigrant in the language .	1
+spray	0.0	elizabeth situated the language with the immigrant .	1
+spray	1.0	nicole dripped the milk from the spoon .	0
+spray	0.0	nicole dripped the spoon with the milk .	0
+spray	1.0	rebecca dripped the milk from the cup .	1
+spray	0.0	rebecca dripped the cup with the milk .	0
+spray	1.0	christopher dripped the milk from the ladle .	0
+spray	0.0	christopher dripped the ladle with the milk .	0
+spray	1.0	nicole dripped the milk from the spatula .	0
+spray	0.0	nicole dripped the spatula with the milk .	0
+spray	1.0	james dripped the soup from the spoon .	1
+spray	0.0	james dripped the spoon with the soup .	0
+spray	1.0	christopher dripped the soup from the cup .	1
+spray	0.0	christopher dripped the cup with the soup .	0
+spray	1.0	elizabeth dripped the soup from the ladle .	0
+spray	0.0	elizabeth dripped the ladle with the soup .	0
+spray	1.0	kelly dripped the soup from the spatula .	1
+spray	0.0	kelly dripped the spatula with the soup .	0
+spray	1.0	elizabeth dribbled the milk from the spoon .	1
+spray	0.0	elizabeth dribbled the spoon with the milk .	0
+spray	1.0	david dribbled the milk from the cup .	1
+spray	0.0	david dribbled the cup with the milk .	0
+spray	1.0	rebecca dribbled the milk from the ladle .	0
+spray	0.0	rebecca dribbled the ladle with the milk .	0
+spray	1.0	christopher dribbled the milk from the spatula .	0
+spray	0.0	christopher dribbled the spatula with the milk .	0
+spray	1.0	jason dribbled the soup from the spoon .	1
+spray	0.0	jason dribbled the spoon with the soup .	0
+spray	1.0	rebecca dribbled the soup from the cup .	1
+spray	0.0	rebecca dribbled the cup with the soup .	0
+spray	1.0	elizabeth dribbled the soup from the ladle .	0
+spray	0.0	elizabeth dribbled the ladle with the soup .	0
+spray	1.0	christopher dribbled the soup from the spatula .	1
+spray	0.0	christopher dribbled the spatula with the soup .	0
+spray	1.0	jason spilled the milk from the spoon .	1
+spray	0.0	jason spilled the spoon with the milk .	0
+spray	1.0	david spilled the milk from the cup .	1
+spray	0.0	david spilled the cup with the milk .	0
+spray	1.0	christopher spilled the milk from the ladle .	1
+spray	0.0	christopher spilled the ladle with the milk .	0
+spray	1.0	christopher spilled the milk from the spatula .	1
+spray	0.0	christopher spilled the spatula with the milk .	0
+spray	1.0	nicole spilled the soup from the spoon .	1
+spray	0.0	nicole spilled the spoon with the soup .	0
+spray	1.0	jason spilled the soup from the cup .	1
+spray	0.0	jason spilled the cup with the soup .	0
+spray	1.0	christopher spilled the soup from the ladle .	1
+spray	0.0	christopher spilled the ladle with the soup .	0
+spray	1.0	christopher spilled the soup from the spatula .	1
+spray	0.0	christopher spilled the spatula with the soup .	0
+spray	1.0	christopher spewed the water from the tube .	0
+spray	0.0	christopher spewed the tube with the water .	0
+spray	1.0	james spewed the water from the hose .	0
+spray	0.0	james spewed the hose with the water .	0
+spray	1.0	elizabeth spewed the soup from the tube .	1
+spray	0.0	elizabeth spewed the tube with the soup .	0
+spray	1.0	michael spewed the soup from the hose .	1
+spray	0.0	michael spewed the hose with the soup .	0
+spray	1.0	elizabeth spurted the water from the tube .	0
+spray	0.0	elizabeth spurted the tube with the water .	0
+spray	1.0	james spurted the water from the hose .	0
+spray	0.0	james spurted the hose with the water .	0
+spray	1.0	jason spurted the soup from the tube .	1
+spray	0.0	jason spurted the tube with the soup .	0
+spray	1.0	michael spurted the soup from the hose .	1
+spray	0.0	michael spurted the hose with the soup .	0
+spray	1.0	christopher shovelled the leaves into the box .	1
+spray	0.0	christopher shovelled the box with the leaves .	0
+spray	1.0	david shovelled the leaves into the bin .	1
+spray	0.0	david shovelled the bin with the leaves .	0
+spray	1.0	rebecca shovelled the leaves into the trashcan .	1
+spray	0.0	rebecca shovelled the trashcan with the leaves .	0
+spray	1.0	jason shovelled the leaves into the bag .	1
+spray	0.0	jason shovelled the bag with the leaves .	0
+spray	1.0	jason shovelled the dirt into the box .	1
+spray	0.0	jason shovelled the box with the dirt .	1
+spray	1.0	david shovelled the dirt into the bin .	1
+spray	0.0	david shovelled the bin with the dirt .	0
+spray	1.0	kelly shovelled the dirt into the trashcan .	1
+spray	0.0	kelly shovelled the trashcan with the dirt .	0
+spray	1.0	david shovelled the dirt into the bag .	1
+spray	0.0	david shovelled the bag with the dirt .	0
+spray	1.0	james shovelled the litter into the box .	1
+spray	0.0	james shovelled the box with the litter .	0
+spray	1.0	michael shovelled the litter into the bin .	1
+spray	0.0	michael shovelled the bin with the litter .	1
+spray	1.0	james shovelled the litter into the trashcan .	1
+spray	0.0	james shovelled the trashcan with the litter .	0
+spray	1.0	kelly shovelled the litter into the bag .	1
+spray	0.0	kelly shovelled the bag with the litter .	0
+spray	1.0	jessica scraped the leaves into the box .	1
+spray	0.0	jessica scraped the box with the leaves .	1
+spray	1.0	elizabeth scraped the leaves into the bin .	1
+spray	0.0	elizabeth scraped the bin with the leaves .	1
+spray	1.0	rebecca scraped the leaves into the trashcan .	1
+spray	0.0	rebecca scraped the trashcan with the leaves .	0
+spray	1.0	nicole scraped the leaves into the bag .	1
+spray	0.0	nicole scraped the bag with the leaves .	0
+spray	1.0	jessica scraped the dirt into the box .	1
+spray	0.0	jessica scraped the box with the dirt .	1
+spray	1.0	rebecca scraped the dirt into the bin .	1
+spray	0.0	rebecca scraped the bin with the dirt .	1
+spray	1.0	jason scraped the dirt into the trashcan .	1
+spray	0.0	jason scraped the trashcan with the dirt .	1
+spray	1.0	rebecca scraped the dirt into the bag .	1
+spray	0.0	rebecca scraped the bag with the dirt .	1
+spray	1.0	james scraped the litter into the box .	1
+spray	0.0	james scraped the box with the litter .	1
+spray	1.0	jessica scraped the litter into the bin .	1
+spray	0.0	jessica scraped the bin with the litter .	1
+spray	1.0	kelly scraped the litter into the trashcan .	1
+spray	0.0	kelly scraped the trashcan with the litter .	0
+spray	1.0	rebecca scraped the litter into the bag .	1
+spray	0.0	rebecca scraped the bag with the litter .	0
+spray	1.0	christopher raked the leaves into the box .	1
+spray	0.0	christopher raked the box with the leaves .	1
+spray	1.0	christopher raked the leaves into the bin .	1
+spray	0.0	christopher raked the bin with the leaves .	1
+spray	1.0	david raked the leaves into the trashcan .	1
+spray	0.0	david raked the trashcan with the leaves .	1
+spray	1.0	rebecca raked the leaves into the bag .	1
+spray	0.0	rebecca raked the bag with the leaves .	1
+spray	1.0	jason raked the dirt into the box .	1
+spray	0.0	jason raked the box with the dirt .	1
+spray	1.0	christopher raked the dirt into the bin .	1
+spray	0.0	christopher raked the bin with the dirt .	1
+spray	1.0	christopher raked the dirt into the trashcan .	1
+spray	0.0	christopher raked the trashcan with the dirt .	1
+spray	1.0	michael raked the dirt into the bag .	1
+spray	0.0	michael raked the bag with the dirt .	1
+spray	1.0	jason raked the litter into the box .	1
+spray	0.0	jason raked the box with the litter .	1
+spray	1.0	david raked the litter into the bin .	1
+spray	0.0	david raked the bin with the litter .	1
+spray	1.0	nicole raked the litter into the trashcan .	1
+spray	0.0	nicole raked the trashcan with the litter .	1
+spray	1.0	elizabeth raked the litter into the bag .	1
+spray	0.0	elizabeth raked the bag with the litter .	0
+spray	1.0	elizabeth swept the leaves into the box .	1
+spray	0.0	elizabeth swept the box with the leaves .	1
+spray	1.0	kelly swept the leaves into the bin .	1
+spray	0.0	kelly swept the bin with the leaves .	1
+spray	1.0	james swept the leaves into the trashcan .	1
+spray	0.0	james swept the trashcan with the leaves .	0
+spray	1.0	jason swept the leaves into the bag .	1
+spray	0.0	jason swept the bag with the leaves .	0
+spray	1.0	david swept the dirt into the box .	1
+spray	0.0	david swept the box with the dirt .	1
+spray	1.0	elizabeth swept the dirt into the bin .	1
+spray	0.0	elizabeth swept the bin with the dirt .	0
+spray	1.0	jessica swept the dirt into the trashcan .	1
+spray	0.0	jessica swept the trashcan with the dirt .	1
+spray	1.0	jessica swept the dirt into the bag .	1
+spray	0.0	jessica swept the bag with the dirt .	0
+spray	1.0	james swept the litter into the box .	1
+spray	0.0	james swept the box with the litter .	0
+spray	1.0	david swept the litter into the bin .	1
+spray	0.0	david swept the bin with the litter .	0
+spray	1.0	david swept the litter into the trashcan .	1
+spray	0.0	david swept the trashcan with the litter .	0
+spray	1.0	nicole swept the litter into the bag .	1
+spray	0.0	nicole swept the bag with the litter .	0
+spray	1.0	christopher coiled the yarn around the pole .	1
+spray	0.0	christopher coiled the pole with the yarn .	0
+spray	1.0	jason coiled the yarn around the railing .	1
+spray	0.0	jason coiled the railing with the yarn .	0
+spray	1.0	david coiled the yarn around the fence .	1
+spray	0.0	david coiled the fence with the yarn .	0
+spray	1.0	michael coiled the yarn around the hydrant .	1
+spray	0.0	michael coiled the hydrant with the yarn .	0
+spray	1.0	kelly coiled the thread around the pole .	1
+spray	0.0	kelly coiled the pole with the thread .	0
+spray	1.0	jason coiled the thread around the railing .	1
+spray	0.0	jason coiled the railing with the thread .	0
+spray	1.0	nicole coiled the thread around the fence .	1
+spray	0.0	nicole coiled the fence with the thread .	1
+spray	1.0	david coiled the thread around the hydrant .	1
+spray	0.0	david coiled the hydrant with the thread .	0
+spray	1.0	kelly coiled the scarf around the pole .	1
+spray	0.0	kelly coiled the pole with the scarf .	0
+spray	1.0	nicole coiled the scarf around the railing .	1
+spray	0.0	nicole coiled the railing with the scarf .	0
+spray	1.0	jason coiled the scarf around the fence .	1
+spray	0.0	jason coiled the fence with the scarf .	1
+spray	1.0	jessica coiled the scarf around the hydrant .	1
+spray	0.0	jessica coiled the hydrant with the scarf .	0
+spray	1.0	kelly coiled the rope around the pole .	0
+spray	0.0	kelly coiled the pole with the rope .	0
+spray	1.0	james coiled the rope around the railing .	1
+spray	0.0	james coiled the railing with the rope .	0
+spray	1.0	christopher coiled the rope around the fence .	1
+spray	0.0	christopher coiled the fence with the rope .	1
+spray	1.0	elizabeth coiled the rope around the hydrant .	1
+spray	0.0	elizabeth coiled the hydrant with the rope .	0
+spray	1.0	jason looped the yarn around the pole .	1
+spray	0.0	jason looped the pole with the yarn .	0
+spray	1.0	michael looped the yarn around the railing .	1
+spray	0.0	michael looped the railing with the yarn .	0
+spray	1.0	jessica looped the yarn around the fence .	1
+spray	0.0	jessica looped the fence with the yarn .	0
+spray	1.0	kelly looped the yarn around the hydrant .	1
+spray	0.0	kelly looped the hydrant with the yarn .	0
+spray	1.0	james looped the thread around the pole .	1
+spray	0.0	james looped the pole with the thread .	0
+spray	1.0	nicole looped the thread around the railing .	1
+spray	0.0	nicole looped the railing with the thread .	0
+spray	1.0	kelly looped the thread around the fence .	1
+spray	0.0	kelly looped the fence with the thread .	1
+spray	1.0	christopher looped the thread around the hydrant .	0
+spray	0.0	christopher looped the hydrant with the thread .	0
+spray	1.0	jason looped the scarf around the pole .	1
+spray	0.0	jason looped the pole with the scarf .	1
+spray	1.0	michael looped the scarf around the railing .	1
+spray	0.0	michael looped the railing with the scarf .	0
+spray	1.0	elizabeth looped the scarf around the fence .	1
+spray	0.0	elizabeth looped the fence with the scarf .	1
+spray	1.0	david looped the scarf around the hydrant .	1
+spray	0.0	david looped the hydrant with the scarf .	0
+spray	1.0	jason looped the rope around the pole .	1
+spray	0.0	jason looped the pole with the rope .	0
+spray	1.0	jason looped the rope around the railing .	1
+spray	0.0	jason looped the railing with the rope .	0
+spray	1.0	kelly looped the rope around the fence .	1
+spray	0.0	kelly looped the fence with the rope .	1
+spray	1.0	jessica looped the rope around the hydrant .	1
+spray	0.0	jessica looped the hydrant with the rope .	0
+spray	1.0	rebecca twisted the yarn around the pole .	1
+spray	0.0	rebecca twisted the pole with the yarn .	0
+spray	1.0	jessica twisted the yarn around the railing .	1
+spray	0.0	jessica twisted the railing with the yarn .	0
+spray	1.0	michael twisted the yarn around the fence .	1
+spray	0.0	michael twisted the fence with the yarn .	1
+spray	1.0	kelly twisted the yarn around the hydrant .	1
+spray	0.0	kelly twisted the hydrant with the yarn .	0
+spray	1.0	nicole twisted the thread around the pole .	1
+spray	0.0	nicole twisted the pole with the thread .	0
+spray	1.0	rebecca twisted the thread around the railing .	1
+spray	0.0	rebecca twisted the railing with the thread .	0
+spray	1.0	christopher twisted the thread around the fence .	1
+spray	0.0	christopher twisted the fence with the thread .	1
+spray	1.0	david twisted the thread around the hydrant .	1
+spray	0.0	david twisted the hydrant with the thread .	0
+spray	1.0	jason twisted the scarf around the pole .	1
+spray	0.0	jason twisted the pole with the scarf .	0
+spray	1.0	david twisted the scarf around the railing .	1
+spray	0.0	david twisted the railing with the scarf .	1
+spray	1.0	rebecca twisted the scarf around the fence .	1
+spray	0.0	rebecca twisted the fence with the scarf .	1
+spray	1.0	elizabeth twisted the scarf around the hydrant .	1
+spray	0.0	elizabeth twisted the hydrant with the scarf .	0
+spray	1.0	jessica twisted the rope around the pole .	0
+spray	0.0	jessica twisted the pole with the rope .	0
+spray	1.0	james twisted the rope around the railing .	1
+spray	0.0	james twisted the railing with the rope .	0
+spray	1.0	nicole twisted the rope around the fence .	1
+spray	0.0	nicole twisted the fence with the rope .	1
+spray	1.0	christopher twisted the rope around the hydrant .	0
+spray	0.0	christopher twisted the hydrant with the rope .	0
+spray	1.0	elizabeth wound the yarn around the pole .	1
+spray	0.0	elizabeth wound the pole with the yarn .	0
+spray	1.0	christopher wound the yarn around the railing .	1
+spray	0.0	christopher wound the railing with the yarn .	0
+spray	1.0	kelly wound the yarn around the fence .	1
+spray	0.0	kelly wound the fence with the yarn .	1
+spray	1.0	rebecca wound the yarn around the hydrant .	1
+spray	0.0	rebecca wound the hydrant with the yarn .	0
+spray	1.0	kelly wound the thread around the pole .	1
+spray	0.0	kelly wound the pole with the thread .	0
+spray	1.0	james wound the thread around the railing .	1
+spray	0.0	james wound the railing with the thread .	0
+spray	1.0	rebecca wound the thread around the fence .	1
+spray	0.0	rebecca wound the fence with the thread .	1
+spray	1.0	david wound the thread around the hydrant .	1
+spray	0.0	david wound the hydrant with the thread .	1
+spray	1.0	jason wound the scarf around the pole .	1
+spray	0.0	jason wound the pole with the scarf .	0
+spray	1.0	nicole wound the scarf around the railing .	1
+spray	0.0	nicole wound the railing with the scarf .	0
+spray	1.0	james wound the scarf around the fence .	1
+spray	0.0	james wound the fence with the scarf .	1
+spray	1.0	jessica wound the scarf around the hydrant .	1
+spray	0.0	jessica wound the hydrant with the scarf .	0
+spray	1.0	james wound the rope around the pole .	0
+spray	0.0	james wound the pole with the rope .	0
+spray	1.0	nicole wound the rope around the railing .	1
+spray	0.0	nicole wound the railing with the rope .	0
+spray	1.0	james wound the rope around the fence .	1
+spray	0.0	james wound the fence with the rope .	1
+spray	1.0	kelly wound the rope around the hydrant .	1
+spray	0.0	kelly wound the hydrant with the rope .	0
+there	1.0	an orchid thrived at the edge of the cliff .	1
+there	1.0	there thrived at the edge of the cliff an orchid .	1
+there	1.0	an orchid thrived on the mountain .	1
+there	1.0	there thrived on the mountain an orchid .	1
+there	1.0	a cactus thrived at the edge of the cliff .	1
+there	1.0	there thrived at the edge of the cliff a cactus .	1
+there	1.0	a cactus thrived on the mountain .	1
+there	1.0	there thrived on the mountain a cactus .	1
+there	1.0	a tree thrived at the edge of the cliff .	1
+there	1.0	there thrived at the edge of the cliff a tree .	1
+there	1.0	a tree thrived on the mountain .	1
+there	1.0	there thrived on the mountain a tree .	1
+there	1.0	several concerns remained in our minds .	1
+there	1.0	there remained in our minds several concerns .	1
+there	1.0	some hope remained in our minds .	0
+there	1.0	there remained in our minds some hope .	0
+there	1.0	several issues remained in our minds .	1
+there	1.0	there remained in our minds several issues .	0
+there	1.0	some questions remained in our minds .	0
+there	1.0	there remained in our minds some questions .	0
+there	1.0	several concerns persisted in our minds .	1
+there	1.0	there persisted in our minds several concerns .	0
+there	1.0	some hope persisted in our minds .	1
+there	1.0	there persisted in our minds some hope .	0
+there	1.0	several issues persisted in our minds .	1
+there	1.0	there persisted in our minds several issues .	0
+there	1.0	some questions persisted in our minds .	0
+there	1.0	there persisted in our minds some questions .	0
+there	1.0	two families dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff two families .	1
+there	1.0	two families dwelled in the house .	1
+there	1.0	there dwelled in the house two families .	1
+there	1.0	two families dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment two families .	0
+there	1.0	two families dwelled in the town .	1
+there	1.0	there dwelled in the town two families .	1
+there	1.0	a colony of ants dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants dwelled in the house .	1
+there	1.0	there dwelled in the house a colony of ants .	1
+there	1.0	a colony of ants dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment a colony of ants .	0
+there	1.0	a colony of ants dwelled in the town .	1
+there	1.0	there dwelled in the town a colony of ants .	1
+there	1.0	some bats dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff some bats .	1
+there	1.0	some bats dwelled in the house .	1
+there	1.0	there dwelled in the house some bats .	1
+there	1.0	some bats dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment some bats .	0
+there	1.0	some bats dwelled in the town .	1
+there	1.0	there dwelled in the town some bats .	1
+there	1.0	an indigenous group dwelled at the edge of the cliff .	1
+there	1.0	there dwelled at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group dwelled in the house .	1
+there	1.0	there dwelled in the house an indigenous group .	1
+there	1.0	an indigenous group dwelled in the apartment .	1
+there	1.0	there dwelled in the apartment an indigenous group .	1
+there	1.0	an indigenous group dwelled in the town .	1
+there	1.0	there dwelled in the town an indigenous group .	1
+there	1.0	two families lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff two families .	1
+there	1.0	two families lived in the house .	1
+there	1.0	there lived in the house two families .	0
+there	1.0	two families lived in the apartment .	1
+there	1.0	there lived in the apartment two families .	0
+there	1.0	two families lived in the town .	1
+there	1.0	there lived in the town two families .	1
+there	1.0	a colony of ants lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants lived in the house .	1
+there	1.0	there lived in the house a colony of ants .	1
+there	1.0	a colony of ants lived in the apartment .	1
+there	1.0	there lived in the apartment a colony of ants .	0
+there	1.0	a colony of ants lived in the town .	1
+there	1.0	there lived in the town a colony of ants .	1
+there	1.0	some bats lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff some bats .	1
+there	1.0	some bats lived in the house .	1
+there	1.0	there lived in the house some bats .	0
+there	1.0	some bats lived in the apartment .	1
+there	1.0	there lived in the apartment some bats .	0
+there	1.0	some bats lived in the town .	1
+there	1.0	there lived in the town some bats .	1
+there	1.0	an indigenous group lived at the edge of the cliff .	1
+there	1.0	there lived at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group lived in the house .	1
+there	1.0	there lived in the house an indigenous group .	1
+there	1.0	an indigenous group lived in the apartment .	1
+there	1.0	there lived in the apartment an indigenous group .	0
+there	1.0	an indigenous group lived in the town .	1
+there	1.0	there lived in the town an indigenous group .	1
+there	1.0	two families resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff two families .	1
+there	1.0	two families resided in the house .	1
+there	1.0	there resided in the house two families .	0
+there	1.0	two families resided in the apartment .	1
+there	1.0	there resided in the apartment two families .	0
+there	1.0	two families resided in the town .	1
+there	1.0	there resided in the town two families .	1
+there	1.0	a colony of ants resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants resided in the house .	1
+there	1.0	there resided in the house a colony of ants .	1
+there	1.0	a colony of ants resided in the apartment .	1
+there	1.0	there resided in the apartment a colony of ants .	0
+there	1.0	a colony of ants resided in the town .	1
+there	1.0	there resided in the town a colony of ants .	1
+there	1.0	some bats resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff some bats .	1
+there	1.0	some bats resided in the house .	1
+there	1.0	there resided in the house some bats .	0
+there	1.0	some bats resided in the apartment .	1
+there	1.0	there resided in the apartment some bats .	0
+there	1.0	some bats resided in the town .	1
+there	1.0	there resided in the town some bats .	0
+there	1.0	an indigenous group resided at the edge of the cliff .	1
+there	1.0	there resided at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group resided in the house .	1
+there	1.0	there resided in the house an indigenous group .	1
+there	1.0	an indigenous group resided in the apartment .	1
+there	1.0	there resided in the apartment an indigenous group .	0
+there	1.0	an indigenous group resided in the town .	1
+there	1.0	there resided in the town an indigenous group .	1
+there	1.0	two families settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff two families .	1
+there	1.0	two families settled in the house .	1
+there	1.0	there settled in the house two families .	0
+there	1.0	two families settled in the apartment .	1
+there	1.0	there settled in the apartment two families .	0
+there	1.0	two families settled in the town .	1
+there	1.0	there settled in the town two families .	0
+there	1.0	a colony of ants settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants settled in the house .	1
+there	1.0	there settled in the house a colony of ants .	0
+there	1.0	a colony of ants settled in the apartment .	1
+there	1.0	there settled in the apartment a colony of ants .	0
+there	1.0	a colony of ants settled in the town .	1
+there	1.0	there settled in the town a colony of ants .	1
+there	1.0	some bats settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff some bats .	1
+there	1.0	some bats settled in the house .	1
+there	1.0	there settled in the house some bats .	0
+there	1.0	some bats settled in the apartment .	1
+there	1.0	there settled in the apartment some bats .	0
+there	1.0	some bats settled in the town .	1
+there	1.0	there settled in the town some bats .	0
+there	1.0	an indigenous group settled at the edge of the cliff .	1
+there	1.0	there settled at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group settled in the house .	1
+there	1.0	there settled in the house an indigenous group .	0
+there	1.0	an indigenous group settled in the apartment .	1
+there	1.0	there settled in the apartment an indigenous group .	0
+there	1.0	an indigenous group settled in the town .	1
+there	1.0	there settled in the town an indigenous group .	1
+there	1.0	two families coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff two families .	0
+there	1.0	two families coexisted in the house .	1
+there	1.0	there coexisted in the house two families .	0
+there	1.0	two families coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment two families .	0
+there	1.0	two families coexisted in the town .	1
+there	1.0	there coexisted in the town two families .	0
+there	1.0	a colony of ants coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff a colony of ants .	1
+there	1.0	a colony of ants coexisted in the house .	1
+there	1.0	there coexisted in the house a colony of ants .	0
+there	1.0	a colony of ants coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment a colony of ants .	0
+there	1.0	a colony of ants coexisted in the town .	1
+there	1.0	there coexisted in the town a colony of ants .	0
+there	1.0	some bats coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff some bats .	0
+there	1.0	some bats coexisted in the house .	1
+there	1.0	there coexisted in the house some bats .	0
+there	1.0	some bats coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment some bats .	0
+there	1.0	some bats coexisted in the town .	1
+there	1.0	there coexisted in the town some bats .	0
+there	1.0	an indigenous group coexisted at the edge of the cliff .	1
+there	1.0	there coexisted at the edge of the cliff an indigenous group .	1
+there	1.0	an indigenous group coexisted in the house .	1
+there	1.0	there coexisted in the house an indigenous group .	0
+there	1.0	an indigenous group coexisted in the apartment .	1
+there	1.0	there coexisted in the apartment an indigenous group .	0
+there	1.0	an indigenous group coexisted in the town .	1
+there	1.0	there coexisted in the town an indigenous group .	1
+there	1.0	a boy kneeled next to the church .	1
+there	1.0	there kneeled next to the church a boy .	0
+there	1.0	a boy kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a boy .	0
+there	1.0	a boy kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a boy .	1
+there	1.0	a statue kneeled next to the church .	1
+there	1.0	there kneeled next to the church a statue .	0
+there	1.0	a statue kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a statue .	0
+there	1.0	a statue kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a statue .	1
+there	1.0	a dog kneeled next to the church .	1
+there	1.0	there kneeled next to the church a dog .	1
+there	1.0	a dog kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a dog .	0
+there	1.0	a dog kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a dog .	1
+there	1.0	a sparrow kneeled next to the church .	1
+there	1.0	there kneeled next to the church a sparrow .	1
+there	1.0	a sparrow kneeled in the plaza .	1
+there	1.0	there kneeled in the plaza a sparrow .	0
+there	1.0	a sparrow kneeled on the stoop .	1
+there	1.0	there kneeled on the stoop a sparrow .	1
+there	1.0	a boy squatted next to the church .	1
+there	1.0	there squatted next to the church a boy .	1
+there	1.0	a boy squatted in the plaza .	1
+there	1.0	there squatted in the plaza a boy .	1
+there	1.0	a boy squatted on the stoop .	1
+there	1.0	there squatted on the stoop a boy .	1
+there	1.0	a statue squatted next to the church .	1
+there	1.0	there squatted next to the church a statue .	1
+there	1.0	a statue squatted in the plaza .	1
+there	1.0	there squatted in the plaza a statue .	1
+there	1.0	a statue squatted on the stoop .	1
+there	1.0	there squatted on the stoop a statue .	1
+there	1.0	a dog squatted next to the church .	1
+there	1.0	there squatted next to the church a dog .	1
+there	1.0	a dog squatted in the plaza .	1
+there	1.0	there squatted in the plaza a dog .	1
+there	1.0	a dog squatted on the stoop .	1
+there	1.0	there squatted on the stoop a dog .	1
+there	1.0	a sparrow squatted next to the church .	1
+there	1.0	there squatted next to the church a sparrow .	1
+there	1.0	a sparrow squatted in the plaza .	1
+there	1.0	there squatted in the plaza a sparrow .	1
+there	1.0	a sparrow squatted on the stoop .	1
+there	1.0	there squatted on the stoop a sparrow .	1
+there	1.0	a boy stood next to the church .	1
+there	1.0	there stood next to the church a boy .	0
+there	1.0	a boy stood in the plaza .	1
+there	1.0	there stood in the plaza a boy .	1
+there	1.0	a boy stood on the stoop .	1
+there	1.0	there stood on the stoop a boy .	1
+there	1.0	a statue stood next to the church .	1
+there	1.0	there stood next to the church a statue .	0
+there	1.0	a statue stood in the plaza .	1
+there	1.0	there stood in the plaza a statue .	0
+there	1.0	a statue stood on the stoop .	1
+there	1.0	there stood on the stoop a statue .	1
+there	1.0	a dog stood next to the church .	1
+there	1.0	there stood next to the church a dog .	1
+there	1.0	a dog stood in the plaza .	1
+there	1.0	there stood in the plaza a dog .	0
+there	1.0	a dog stood on the stoop .	1
+there	1.0	there stood on the stoop a dog .	1
+there	1.0	a sparrow stood next to the church .	1
+there	1.0	there stood next to the church a sparrow .	1
+there	1.0	a sparrow stood in the plaza .	1
+there	1.0	there stood in the plaza a sparrow .	0
+there	1.0	a sparrow stood on the stoop .	1
+there	1.0	there stood on the stoop a sparrow .	1
+there	1.0	a boy perched next to the church .	1
+there	1.0	there perched next to the church a boy .	0
+there	1.0	a boy perched in the plaza .	1
+there	1.0	there perched in the plaza a boy .	0
+there	1.0	a boy perched on the stoop .	1
+there	1.0	there perched on the stoop a boy .	0
+there	1.0	a statue perched next to the church .	1
+there	1.0	there perched next to the church a statue .	0
+there	1.0	a statue perched in the plaza .	1
+there	1.0	there perched in the plaza a statue .	0
+there	1.0	a statue perched on the stoop .	1
+there	1.0	there perched on the stoop a statue .	0
+there	1.0	a dog perched next to the church .	1
+there	1.0	there perched next to the church a dog .	1
+there	1.0	a dog perched in the plaza .	1
+there	1.0	there perched in the plaza a dog .	0
+there	1.0	a dog perched on the stoop .	1
+there	1.0	there perched on the stoop a dog .	0
+there	1.0	a sparrow perched next to the church .	1
+there	1.0	there perched next to the church a sparrow .	1
+there	1.0	a sparrow perched in the plaza .	1
+there	1.0	there perched in the plaza a sparrow .	0
+there	1.0	a sparrow perched on the stoop .	1
+there	1.0	there perched on the stoop a sparrow .	0
+there	1.0	a flag dangled over the yard .	1
+there	1.0	there dangled over the yard a flag .	0
+there	1.0	a flag dangled from the tree .	1
+there	1.0	there dangled from the tree a flag .	1
+there	1.0	a sheet dangled over the yard .	1
+there	1.0	there dangled over the yard a sheet .	0
+there	1.0	a sheet dangled from the tree .	1
+there	1.0	there dangled from the tree a sheet .	1
+there	1.0	a clothes line dangled over the yard .	1
+there	1.0	there dangled over the yard a clothes line .	1
+there	1.0	a clothes line dangled from the tree .	1
+there	1.0	there dangled from the tree a clothes line .	1
+there	1.0	a flag hung over the yard .	1
+there	1.0	there hung over the yard a flag .	1
+there	1.0	a flag hung from the tree .	1
+there	1.0	there hung from the tree a flag .	1
+there	1.0	a sheet hung over the yard .	1
+there	1.0	there hung over the yard a sheet .	0
+there	1.0	a sheet hung from the tree .	1
+there	1.0	there hung from the tree a sheet .	0
+there	1.0	a clothes line hung over the yard .	1
+there	1.0	there hung over the yard a clothes line .	1
+there	1.0	a clothes line hung from the tree .	1
+there	1.0	there hung from the tree a clothes line .	1
+there	1.0	a flag swung over the yard .	1
+there	1.0	there swung over the yard a flag .	0
+there	1.0	a flag swung from the tree .	1
+there	1.0	there swung from the tree a flag .	1
+there	1.0	a sheet swung over the yard .	1
+there	1.0	there swung over the yard a sheet .	0
+there	1.0	a sheet swung from the tree .	1
+there	1.0	there swung from the tree a sheet .	0
+there	1.0	a clothes line swung over the yard .	1
+there	1.0	there swung over the yard a clothes line .	1
+there	1.0	a clothes line swung from the tree .	1
+there	1.0	there swung from the tree a clothes line .	1
+there	1.0	a path meandered through the town .	1
+there	1.0	there meandered through the town a path .	0
+there	1.0	a path meandered up the mountain .	1
+there	1.0	there meandered up the mountain a path .	1
+there	1.0	a path meandered over the prairie .	1
+there	1.0	there meandered over the prairie a path .	0
+there	1.0	a road meandered through the town .	1
+there	1.0	there meandered through the town a road .	0
+there	1.0	a road meandered up the mountain .	1
+there	1.0	there meandered up the mountain a road .	1
+there	1.0	a road meandered over the prairie .	1
+there	1.0	there meandered over the prairie a road .	0
+there	1.0	a telephone wire meandered through the town .	1
+there	1.0	there meandered through the town a telephone wire .	1
+there	1.0	a telephone wire meandered up the mountain .	1
+there	1.0	there meandered up the mountain a telephone wire .	1
+there	1.0	a telephone wire meandered over the prairie .	1
+there	1.0	there meandered over the prairie a telephone wire .	1
+there	1.0	a path twisted through the town .	1
+there	1.0	there twisted through the town a path .	1
+there	1.0	a path twisted up the mountain .	1
+there	1.0	there twisted up the mountain a path .	1
+there	1.0	a path twisted over the prairie .	1
+there	1.0	there twisted over the prairie a path .	1
+there	1.0	a road twisted through the town .	1
+there	1.0	there twisted through the town a road .	0
+there	1.0	a road twisted up the mountain .	1
+there	1.0	there twisted up the mountain a road .	1
+there	1.0	a road twisted over the prairie .	1
+there	1.0	there twisted over the prairie a road .	1
+there	1.0	a telephone wire twisted through the town .	1
+there	1.0	there twisted through the town a telephone wire .	1
+there	1.0	a telephone wire twisted up the mountain .	1
+there	1.0	there twisted up the mountain a telephone wire .	1
+there	1.0	a telephone wire twisted over the prairie .	1
+there	1.0	there twisted over the prairie a telephone wire .	1
+there	1.0	a path wandered through the town .	1
+there	1.0	there wandered through the town a path .	0
+there	1.0	a path wandered up the mountain .	1
+there	1.0	there wandered up the mountain a path .	0
+there	1.0	a path wandered over the prairie .	1
+there	1.0	there wandered over the prairie a path .	0
+there	1.0	a road wandered through the town .	1
+there	1.0	there wandered through the town a road .	0
+there	1.0	a road wandered up the mountain .	1
+there	1.0	there wandered up the mountain a road .	0
+there	1.0	a road wandered over the prairie .	1
+there	1.0	there wandered over the prairie a road .	0
+there	1.0	a telephone wire wandered through the town .	1
+there	1.0	there wandered through the town a telephone wire .	1
+there	1.0	a telephone wire wandered up the mountain .	1
+there	1.0	there wandered up the mountain a telephone wire .	1
+there	1.0	a telephone wire wandered over the prairie .	1
+there	1.0	there wandered over the prairie a telephone wire .	0
+there	1.0	a glass chipped in the yard .	1
+there	0.0	there chipped in the yard a glass .	1
+there	1.0	a glass chipped all over the ground .	1
+there	0.0	there chipped all over the ground a glass .	0
+there	1.0	a glass chipped on john 's head .	1
+there	0.0	there chipped on john 's head a glass .	0
+there	1.0	a bowl chipped in the yard .	1
+there	0.0	there chipped in the yard a bowl .	0
+there	1.0	a bowl chipped all over the ground .	1
+there	0.0	there chipped all over the ground a bowl .	0
+there	1.0	a bowl chipped on john 's head .	1
+there	0.0	there chipped on john 's head a bowl .	0
+there	1.0	a window chipped in the yard .	1
+there	0.0	there chipped in the yard a window .	1
+there	1.0	a window chipped all over the ground .	1
+there	0.0	there chipped all over the ground a window .	0
+there	1.0	a window chipped on john 's head .	1
+there	0.0	there chipped on john 's head a window .	0
+there	1.0	a glass shattered in the yard .	1
+there	0.0	there shattered in the yard a glass .	0
+there	1.0	a glass shattered all over the ground .	1
+there	0.0	there shattered all over the ground a glass .	0
+there	1.0	a glass shattered on john 's head .	1
+there	0.0	there shattered on john 's head a glass .	0
+there	1.0	a bowl shattered in the yard .	1
+there	0.0	there shattered in the yard a bowl .	0
+there	1.0	a bowl shattered all over the ground .	1
+there	0.0	there shattered all over the ground a bowl .	0
+there	1.0	a bowl shattered on john 's head .	1
+there	0.0	there shattered on john 's head a bowl .	0
+there	1.0	a window shattered in the yard .	1
+there	0.0	there shattered in the yard a window .	0
+there	1.0	a window shattered all over the ground .	1
+there	0.0	there shattered all over the ground a window .	0
+there	1.0	a window shattered on john 's head .	1
+there	0.0	there shattered on john 's head a window .	0
+there	1.0	a door closed on the second floor .	1
+there	0.0	there closed on the second floor a door .	0
+there	1.0	a door closed down the street .	1
+there	0.0	there closed down the street a door .	0
+there	1.0	a door closed in the next room .	1
+there	0.0	there closed in the next room a door .	0
+there	1.0	a window closed on the second floor .	1
+there	0.0	there closed on the second floor a window .	0
+there	1.0	a window closed down the street .	1
+there	0.0	there closed down the street a window .	0
+there	1.0	a window closed in the next room .	1
+there	0.0	there closed in the next room a window .	0
+there	1.0	a door shut on the second floor .	1
+there	0.0	there shut on the second floor a door .	0
+there	1.0	a door shut down the street .	1
+there	0.0	there shut down the street a door .	0
+there	1.0	a door shut in the next room .	1
+there	0.0	there shut in the next room a door .	0
+there	1.0	a window shut on the second floor .	1
+there	0.0	there shut on the second floor a window .	0
+there	1.0	a window shut down the street .	1
+there	0.0	there shut down the street a window .	0
+there	1.0	a window shut in the next room .	1
+there	0.0	there shut in the next room a window .	0
+there	1.0	a door opened on the second floor .	1
+there	0.0	there opened on the second floor a door .	0
+there	1.0	a door opened down the street .	1
+there	0.0	there opened down the street a door .	0
+there	1.0	a door opened in the next room .	1
+there	0.0	there opened in the next room a door .	0
+there	1.0	a window opened on the second floor .	1
+there	0.0	there opened on the second floor a window .	0
+there	1.0	a window opened down the street .	1
+there	0.0	there opened down the street a window .	1
+there	1.0	a window opened in the next room .	1
+there	0.0	there opened in the next room a window .	0
+there	1.0	a car slammed into the wall .	1
+there	0.0	there slammed into the wall a car .	0
+there	1.0	a car slammed into the pole .	1
+there	0.0	there slammed into the pole a car .	0
+there	1.0	a car slammed into the window .	1
+there	0.0	there slammed into the window a car .	0
+there	1.0	a bicycle slammed into the wall .	1
+there	0.0	there slammed into the wall a bicycle .	0
+there	1.0	a bicycle slammed into the pole .	1
+there	0.0	there slammed into the pole a bicycle .	0
+there	1.0	a bicycle slammed into the window .	1
+there	0.0	there slammed into the window a bicycle .	0
+there	1.0	a bird slammed into the wall .	1
+there	0.0	there slammed into the wall a bird .	0
+there	1.0	a bird slammed into the pole .	1
+there	0.0	there slammed into the pole a bird .	0
+there	1.0	a bird slammed into the window .	1
+there	0.0	there slammed into the window a bird .	0
+there	1.0	a car collided into the wall .	1
+there	0.0	there collided into the wall a car .	0
+there	1.0	a car collided into the pole .	1
+there	0.0	there collided into the pole a car .	0
+there	1.0	a car collided into the window .	1
+there	0.0	there collided into the window a car .	0
+there	1.0	a bicycle collided into the wall .	1
+there	0.0	there collided into the wall a bicycle .	0
+there	1.0	a bicycle collided into the pole .	1
+there	0.0	there collided into the pole a bicycle .	0
+there	1.0	a bicycle collided into the window .	1
+there	0.0	there collided into the window a bicycle .	0
+there	1.0	a bird collided into the wall .	1
+there	0.0	there collided into the wall a bird .	0
+there	1.0	a bird collided into the pole .	1
+there	0.0	there collided into the pole a bird .	0
+there	1.0	a bird collided into the window .	1
+there	0.0	there collided into the window a bird .	0
+there	1.0	a car bumped into the wall .	1
+there	0.0	there bumped into the wall a car .	0
+there	1.0	a car bumped into the pole .	1
+there	0.0	there bumped into the pole a car .	0
+there	1.0	a car bumped into the window .	1
+there	0.0	there bumped into the window a car .	0
+there	1.0	a bicycle bumped into the wall .	1
+there	0.0	there bumped into the wall a bicycle .	0
+there	1.0	a bicycle bumped into the pole .	1
+there	0.0	there bumped into the pole a bicycle .	0
+there	1.0	a bicycle bumped into the window .	1
+there	0.0	there bumped into the window a bicycle .	0
+there	1.0	a bird bumped into the wall .	1
+there	0.0	there bumped into the wall a bird .	0
+there	1.0	a bird bumped into the pole .	1
+there	0.0	there bumped into the pole a bird .	0
+there	1.0	a bird bumped into the window .	1
+there	0.0	there bumped into the window a bird .	0
+there	1.0	a teacher yelled at the children .	1
+there	0.0	there yelled at the children a teacher .	0
+there	1.0	a teacher yelled at the crowd .	1
+there	0.0	there yelled at the crowd a teacher .	0
+there	1.0	a teacher yelled at the pedestrians .	1
+there	0.0	there yelled at the pedestrians a teacher .	0
+there	1.0	a parent yelled at the children .	1
+there	0.0	there yelled at the children a parent .	0
+there	1.0	a parent yelled at the crowd .	1
+there	0.0	there yelled at the crowd a parent .	0
+there	1.0	a parent yelled at the pedestrians .	1
+there	0.0	there yelled at the pedestrians a parent .	0
+there	1.0	an old man yelled at the children .	1
+there	0.0	there yelled at the children an old man .	0
+there	1.0	an old man yelled at the crowd .	1
+there	0.0	there yelled at the crowd an old man .	0
+there	1.0	an old man yelled at the pedestrians .	1
+there	0.0	there yelled at the pedestrians an old man .	0
+there	1.0	a teacher hollered at the children .	1
+there	0.0	there hollered at the children a teacher .	0
+there	1.0	a teacher hollered at the crowd .	1
+there	0.0	there hollered at the crowd a teacher .	0
+there	1.0	a teacher hollered at the pedestrians .	1
+there	0.0	there hollered at the pedestrians a teacher .	0
+there	1.0	a parent hollered at the children .	1
+there	0.0	there hollered at the children a parent .	0
+there	1.0	a parent hollered at the crowd .	1
+there	0.0	there hollered at the crowd a parent .	0
+there	1.0	a parent hollered at the pedestrians .	1
+there	0.0	there hollered at the pedestrians a parent .	0
+there	1.0	an old man hollered at the children .	1
+there	0.0	there hollered at the children an old man .	0
+there	1.0	an old man hollered at the crowd .	1
+there	0.0	there hollered at the crowd an old man .	0
+there	1.0	an old man hollered at the pedestrians .	1
+there	0.0	there hollered at the pedestrians an old man .	0
+there	1.0	a teacher talked to the children .	1
+there	0.0	there talked to the children a teacher .	0
+there	1.0	a teacher talked to the crowd .	1
+there	0.0	there talked to the crowd a teacher .	0
+there	1.0	a teacher talked to the pedestrians .	1
+there	0.0	there talked to the pedestrians a teacher .	0
+there	1.0	a parent talked to the children .	1
+there	0.0	there talked to the children a parent .	0
+there	1.0	a parent talked to the crowd .	1
+there	0.0	there talked to the crowd a parent .	0
+there	1.0	a parent talked to the pedestrians .	1
+there	0.0	there talked to the pedestrians a parent .	0
+there	1.0	an old man talked to the children .	1
+there	0.0	there talked to the children an old man .	0
+there	1.0	an old man talked to the crowd .	1
+there	0.0	there talked to the crowd an old man .	0
+there	1.0	an old man talked to the pedestrians .	1
+there	0.0	there talked to the pedestrians an old man .	0
+there	1.0	a teacher lectured to the children .	1
+there	0.0	there lectured to the children a teacher .	0
+there	1.0	a teacher lectured to the crowd .	1
+there	0.0	there lectured to the crowd a teacher .	0
+there	1.0	a teacher lectured to the pedestrians .	1
+there	0.0	there lectured to the pedestrians a teacher .	0
+there	1.0	a parent lectured to the children .	1
+there	0.0	there lectured to the children a parent .	0
+there	1.0	a parent lectured to the crowd .	1
+there	0.0	there lectured to the crowd a parent .	0
+there	1.0	a parent lectured to the pedestrians .	1
+there	0.0	there lectured to the pedestrians a parent .	0
+there	1.0	an old man lectured to the children .	1
+there	0.0	there lectured to the children an old man .	0
+there	1.0	an old man lectured to the crowd .	1
+there	0.0	there lectured to the crowd an old man .	0
+there	1.0	an old man lectured to the pedestrians .	1
+there	0.0	there lectured to the pedestrians an old man .	0
+there	1.0	a teacher spoke to the children .	1
+there	0.0	there spoke to the children a teacher .	0
+there	1.0	a teacher spoke to the crowd .	1
+there	0.0	there spoke to the crowd a teacher .	0
+there	1.0	a teacher spoke to the pedestrians .	1
+there	0.0	there spoke to the pedestrians a teacher .	0
+there	1.0	a parent spoke to the children .	1
+there	0.0	there spoke to the children a parent .	0
+there	1.0	a parent spoke to the crowd .	1
+there	0.0	there spoke to the crowd a parent .	0
+there	1.0	a parent spoke to the pedestrians .	1
+there	0.0	there spoke to the pedestrians a parent .	0
+there	1.0	an old man spoke to the children .	1
+there	0.0	there spoke to the children an old man .	0
+there	1.0	an old man spoke to the crowd .	1
+there	0.0	there spoke to the crowd an old man .	0
+there	1.0	an old man spoke to the pedestrians .	1
+there	0.0	there spoke to the pedestrians an old man .	0
+there	1.0	a student agreed with the politician .	1
+there	0.0	there agreed with the politician a student .	0
+there	1.0	a student agreed with the police officer .	1
+there	0.0	there agreed with the police officer a student .	0
+there	1.0	a student agreed with the complaint .	1
+there	0.0	there agreed with the complaint a student .	0
+there	1.0	a protester agreed with the politician .	1
+there	0.0	there agreed with the politician a protester .	0
+there	1.0	a protester agreed with the police officer .	1
+there	0.0	there agreed with the police officer a protester .	0
+there	1.0	a protester agreed with the complaint .	1
+there	0.0	there agreed with the complaint a protester .	0
+there	1.0	a committee agreed with the politician .	1
+there	0.0	there agreed with the politician a committee .	0
+there	1.0	a committee agreed with the police officer .	1
+there	0.0	there agreed with the police officer a committee .	0
+there	1.0	a committee agreed with the complaint .	1
+there	0.0	there agreed with the complaint a committee .	0
+there	1.0	a student dealt with the politician .	0
+there	0.0	there dealt with the politician a student .	0
+there	1.0	a student dealt with the police officer .	0
+there	0.0	there dealt with the police officer a student .	0
+there	1.0	a student dealt with the complaint .	1
+there	0.0	there dealt with the complaint a student .	0
+there	1.0	a protester dealt with the politician .	1
+there	0.0	there dealt with the politician a protester .	0
+there	1.0	a protester dealt with the police officer .	1
+there	0.0	there dealt with the police officer a protester .	0
+there	1.0	a protester dealt with the complaint .	1
+there	0.0	there dealt with the complaint a protester .	0
+there	1.0	a committee dealt with the politician .	1
+there	0.0	there dealt with the politician a committee .	0
+there	1.0	a committee dealt with the police officer .	1
+there	0.0	there dealt with the police officer a committee .	0
+there	1.0	a committee dealt with the complaint .	1
+there	0.0	there dealt with the complaint a committee .	0
+there	1.0	a student disagreed with the politician .	0
+there	0.0	there disagreed with the politician a student .	0
+there	1.0	a student disagreed with the police officer .	1
+there	0.0	there disagreed with the police officer a student .	0
+there	1.0	a student disagreed with the complaint .	1
+there	0.0	there disagreed with the complaint a student .	0
+there	1.0	a protester disagreed with the politician .	1
+there	0.0	there disagreed with the politician a protester .	0
+there	1.0	a protester disagreed with the police officer .	1
+there	0.0	there disagreed with the police officer a protester .	0
+there	1.0	a protester disagreed with the complaint .	1
+there	0.0	there disagreed with the complaint a protester .	0
+there	1.0	a committee disagreed with the politician .	1
+there	0.0	there disagreed with the politician a committee .	0
+there	1.0	a committee disagreed with the police officer .	1
+there	0.0	there disagreed with the police officer a committee .	0
+there	1.0	a committee disagreed with the complaint .	1
+there	0.0	there disagreed with the complaint a committee .	0
+there	1.0	a little boy looked for evidence .	1
+there	0.0	there looked for evidence a little boy .	0
+there	1.0	a little boy looked for treasure .	1
+there	0.0	there looked for treasure a little boy .	0
+there	1.0	a little boy looked for the hidden children .	1
+there	0.0	there looked for the hidden children a little boy .	0
+there	1.0	an investigator looked for evidence .	1
+there	0.0	there looked for evidence an investigator .	0
+there	1.0	an investigator looked for treasure .	1
+there	0.0	there looked for treasure an investigator .	0
+there	1.0	an investigator looked for the hidden children .	1
+there	0.0	there looked for the hidden children an investigator .	0
+there	1.0	a scientist looked for evidence .	1
+there	0.0	there looked for evidence a scientist .	0
+there	1.0	a scientist looked for treasure .	1
+there	0.0	there looked for treasure a scientist .	0
+there	1.0	a scientist looked for the hidden children .	1
+there	0.0	there looked for the hidden children a scientist .	0
+there	1.0	a little boy searched for evidence .	1
+there	0.0	there searched for evidence a little boy .	0
+there	1.0	a little boy searched for treasure .	1
+there	0.0	there searched for treasure a little boy .	0
+there	1.0	a little boy searched for the hidden children .	1
+there	0.0	there searched for the hidden children a little boy .	0
+there	1.0	an investigator searched for evidence .	1
+there	0.0	there searched for evidence an investigator .	0
+there	1.0	an investigator searched for treasure .	1
+there	0.0	there searched for treasure an investigator .	0
+there	1.0	an investigator searched for the hidden children .	1
+there	0.0	there searched for the hidden children an investigator .	0
+there	1.0	a scientist searched for evidence .	1
+there	0.0	there searched for evidence a scientist .	0
+there	1.0	a scientist searched for treasure .	1
+there	0.0	there searched for treasure a scientist .	0
+there	1.0	a scientist searched for the hidden children .	1
+there	0.0	there searched for the hidden children a scientist .	0
+u_obj	1.0	michael blinked his eyes .	1
+u_obj	1.0	michael blinked .	0
+u_obj	1.0	kelly squinted her eyes .	1
+u_obj	1.0	kelly squinted .	1
+u_obj	1.0	david winked his eyes .	1
+u_obj	1.0	david winked .	0
+u_obj	1.0	elizabeth clapped her hands .	1
+u_obj	1.0	elizabeth clapped .	0
+u_obj	1.0	michael waved his hands .	1
+u_obj	1.0	michael waved .	1
+u_obj	1.0	jessica flexed her muscles .	1
+u_obj	1.0	jessica flexed .	0
+u_obj	1.0	jessica brushed her teeth .	1
+u_obj	1.0	jessica brushed .	1
+u_obj	1.0	kelly brushed her molars .	1
+u_obj	1.0	kelly brushed .	0
+u_obj	1.0	david flossed his teeth .	1
+u_obj	1.0	david flossed .	0
+u_obj	1.0	elizabeth flossed her molars .	1
+u_obj	1.0	elizabeth flossed .	1
+u_obj	1.0	michael crossed his eyes .	1
+u_obj	0.0	michael crossed .	0
+u_obj	1.0	david rolled his eyes .	1
+u_obj	0.0	david rolled .	0
+u_obj	1.0	james rubbed his eyes .	1
+u_obj	0.0	james rubbed .	0
+u_obj	1.0	rebecca opened her eyes .	1
+u_obj	0.0	rebecca opened .	0
+u_obj	1.0	rebecca shuffled her feet .	1
+u_obj	0.0	rebecca shuffled .	0
+u_obj	1.0	kelly trimmed her beard .	1
+u_obj	0.0	kelly trimmed .	0
+u_obj	1.0	kelly trimmed her bangs .	1
+u_obj	0.0	kelly trimmed .	0
+u_obj	1.0	michael arched his neck .	1
+u_obj	0.0	michael arched .	0
+u_obj	1.0	michael craned his neck .	1
+u_obj	0.0	michael craned .	0
+u_obj	1.0	jessica flexed her neck .	1
+u_obj	0.0	jessica flexed .	0
+u_obj	1.0	rebecca rubbed her neck .	1
+u_obj	0.0	rebecca rubbed .	0
+u_obj	1.0	michael crooked his finger .	1
+u_obj	0.0	michael crooked .	0
+u_obj	1.0	elizabeth wagged her finger .	1
+u_obj	0.0	elizabeth wagged .	0
+u_obj	1.0	james rubbed his finger .	1
+u_obj	0.0	james rubbed .	0
+u_obj	1.0	jason hung his head .	1
+u_obj	0.0	jason hung .	0
+u_obj	1.0	rebecca raised her head .	1
+u_obj	0.0	rebecca raised .	0
+u_obj	1.0	nicole rubbed her head .	1
+u_obj	0.0	nicole rubbed .	0
+u_obj	1.0	elizabeth shook her head .	1
+u_obj	0.0	elizabeth shook .	0
+u_obj	1.0	kelly cocked her head .	1
+u_obj	0.0	kelly cocked .	0
+u_obj	1.0	rebecca twitched her ears .	1
+u_obj	0.0	rebecca twitched .	0
+u_obj	1.0	elizabeth twitched her wings .	0
+u_obj	0.0	elizabeth twitched .	0
+u_obj	1.0	james wiggled his ears .	1
+u_obj	0.0	james wiggled .	0
+u_obj	1.0	rebecca wiggled her wings .	1
+u_obj	0.0	rebecca wiggled .	0
+u_obj	1.0	kelly raised her eyebrows .	1
+u_obj	0.0	kelly raised .	0
+u_obj	1.0	christopher clicked his heels .	1
+u_obj	0.0	christopher clicked .	0
+u_obj	1.0	michael clicked his tongue .	1
+u_obj	0.0	michael clicked .	0
+u_obj	1.0	nicole bobbed her hair .	1
+u_obj	0.0	nicole bobbed .	0
+u_obj	1.0	james braided his hair .	1
+u_obj	0.0	james braided .	1
+u_obj	1.0	elizabeth combed her hair .	1
+u_obj	0.0	elizabeth combed .	1
+u_obj	1.0	elizabeth conditioned her hair .	1
+u_obj	0.0	elizabeth conditioned .	0
+u_obj	1.0	jason crimped his hair .	1
+u_obj	0.0	jason crimped .	1
+u_obj	1.0	elizabeth cropped her hair .	1
+u_obj	0.0	elizabeth cropped .	0
+u_obj	1.0	elizabeth curled her hair .	1
+u_obj	0.0	elizabeth curled .	0
+u_obj	1.0	elizabeth cut her hair .	1
+u_obj	0.0	elizabeth cut .	0
+u_obj	1.0	kelly dyed her hair .	1
+u_obj	0.0	kelly dyed .	0
+u_obj	1.0	christopher lathered his hair .	1
+u_obj	0.0	christopher lathered .	0
+u_obj	1.0	jason permed his hair .	1
+u_obj	0.0	jason permed .	0
+u_obj	1.0	christopher plaited his hair .	1
+u_obj	0.0	christopher plaited .	0
+u_obj	1.0	james rinsed his hair .	1
+u_obj	0.0	james rinsed .	0
+u_obj	1.0	christopher set his hair .	0
+u_obj	0.0	christopher set .	0
+u_obj	1.0	jason waved his hair .	1
+u_obj	0.0	jason waved .	1
+u_obj	1.0	nicole plucked her hair .	1
+u_obj	0.0	nicole plucked .	0
+u_obj	1.0	rebecca manicured her nails .	1
+u_obj	0.0	rebecca manicured .	0
+u_obj	1.0	kelly manicured her toenails .	1
+u_obj	0.0	kelly manicured .	0
+u_obj	1.0	jason trimmed his nails .	1
+u_obj	0.0	jason trimmed .	0
+u_obj	1.0	jessica trimmed her toenails .	1
+u_obj	0.0	jessica trimmed .	0
+u_obj	1.0	kelly filed her nails .	1
+u_obj	0.0	kelly filed .	0
+u_obj	1.0	nicole filed her toenails .	1
+u_obj	0.0	nicole filed .	0
+u_obj	1.0	elizabeth coldcreamed her face .	1
+u_obj	0.0	elizabeth coldcreamed .	1
+u_obj	1.0	nicole coldcreamed her cheeks .	1
+u_obj	0.0	nicole coldcreamed .	1
+u_obj	1.0	nicole powdered her face .	1
+u_obj	0.0	nicole powdered .	1
+u_obj	1.0	christopher powdered his cheeks .	1
+u_obj	0.0	christopher powdered .	0
+u_obj	1.0	jason rinsed his face .	1
+u_obj	0.0	jason rinsed .	1
+u_obj	1.0	james rinsed his cheeks .	1
+u_obj	0.0	james rinsed .	0
+u_obj	1.0	christopher rouged his face .	1
+u_obj	0.0	christopher rouged .	0
+u_obj	1.0	james rouged his cheeks .	1
+u_obj	0.0	james rouged .	0
+u_obj	1.0	rebecca bumped her hand .	0
+u_obj	0.0	rebecca bumped .	0
+u_obj	1.0	christopher bumped his foot .	1
+u_obj	0.0	christopher bumped .	0
+u_obj	1.0	michael bumped his leg .	1
+u_obj	0.0	michael bumped .	0
+u_obj	1.0	david bumped his arm .	1
+u_obj	0.0	david bumped .	0
+u_obj	1.0	david bumped his shoulder .	1
+u_obj	0.0	david bumped .	0
+u_obj	1.0	jessica bumped her finger .	1
+u_obj	0.0	jessica bumped .	0
+u_obj	1.0	james broke his hand .	1
+u_obj	0.0	james broke .	0
+u_obj	1.0	jason broke his foot .	1
+u_obj	0.0	jason broke .	0
+u_obj	1.0	kelly broke her leg .	1
+u_obj	0.0	kelly broke .	0
+u_obj	1.0	rebecca broke her arm .	1
+u_obj	0.0	rebecca broke .	0
+u_obj	1.0	christopher broke his shoulder .	1
+u_obj	0.0	christopher broke .	0
+u_obj	1.0	jessica broke her finger .	1
+u_obj	0.0	jessica broke .	0
+u_obj	1.0	james bruised his hand .	1
+u_obj	0.0	james bruised .	0
+u_obj	1.0	jessica bruised her foot .	1
+u_obj	0.0	jessica bruised .	0
+u_obj	1.0	rebecca bruised her leg .	1
+u_obj	0.0	rebecca bruised .	0
+u_obj	1.0	jessica bruised her arm .	1
+u_obj	0.0	jessica bruised .	0
+u_obj	1.0	jason bruised his shoulder .	1
+u_obj	0.0	jason bruised .	0
+u_obj	1.0	jason bruised his finger .	1
+u_obj	0.0	jason bruised .	0
+u_obj	1.0	nicole cut her hand .	1
+u_obj	0.0	nicole cut .	0
+u_obj	1.0	james cut his foot .	1
+u_obj	0.0	james cut .	0
+u_obj	1.0	james cut his leg .	1
+u_obj	0.0	james cut .	0
+u_obj	1.0	jessica cut her arm .	1
+u_obj	0.0	jessica cut .	0
+u_obj	1.0	david cut his shoulder .	1
+u_obj	0.0	david cut .	0
+u_obj	1.0	james cut his finger .	1
+u_obj	0.0	james cut .	0
+u_obj	1.0	david fractured his hand .	1
+u_obj	0.0	david fractured .	0
+u_obj	1.0	rebecca fractured her foot .	1
+u_obj	0.0	rebecca fractured .	0
+u_obj	1.0	nicole fractured her leg .	1
+u_obj	0.0	nicole fractured .	0
+u_obj	1.0	elizabeth fractured her arm .	1
+u_obj	0.0	elizabeth fractured .	0
+u_obj	1.0	michael fractured his shoulder .	1
+u_obj	0.0	michael fractured .	0
+u_obj	1.0	nicole fractured her finger .	1
+u_obj	0.0	nicole fractured .	0
+u_obj	1.0	james hurt his hand .	0
+u_obj	0.0	james hurt .	0
+u_obj	1.0	kelly hurt her foot .	1
+u_obj	0.0	kelly hurt .	0
+u_obj	1.0	elizabeth hurt her leg .	1
+u_obj	0.0	elizabeth hurt .	0
+u_obj	1.0	michael hurt his arm .	1
+u_obj	0.0	michael hurt .	0
+u_obj	1.0	michael hurt his shoulder .	1
+u_obj	0.0	michael hurt .	0
+u_obj	1.0	james hurt his finger .	1
+u_obj	0.0	james hurt .	0
+u_obj	1.0	michael strained his hand .	1
+u_obj	0.0	michael strained .	0
+u_obj	1.0	david strained his foot .	1
+u_obj	0.0	david strained .	0
+u_obj	1.0	james strained his leg .	1
+u_obj	0.0	james strained .	0
+u_obj	1.0	nicole strained her arm .	1
+u_obj	0.0	nicole strained .	0
+u_obj	1.0	jessica strained her shoulder .	1
+u_obj	0.0	jessica strained .	0
+u_obj	1.0	michael strained his finger .	1
+u_obj	0.0	michael strained .	0
+u_obj	1.0	james chipped his tooth .	1
+u_obj	0.0	james chipped .	0
+u_obj	1.0	elizabeth broke her tooth .	1
+u_obj	0.0	elizabeth broke .	0
+u_obj	1.0	nicole pulled her tooth .	1
+u_obj	0.0	nicole pulled .	0
+u_obj	1.0	james pricked his finger .	1
+u_obj	0.0	james pricked .	0
+u_obj	1.0	rebecca bathed herself .	1
+u_obj	1.0	rebecca bathed .	1
+u_obj	1.0	kelly undressed herself .	1
+u_obj	1.0	kelly undressed .	1
+u_obj	1.0	elizabeth stripped herself .	1
+u_obj	1.0	elizabeth stripped .	0
+u_obj	1.0	christopher rinsed himself .	1
+u_obj	1.0	christopher rinsed .	0
+u_obj	1.0	jessica powdered herself .	1
+u_obj	0.0	jessica powdered .	0
+u_obj	1.0	jessica bumped herself .	0
+u_obj	0.0	jessica bumped .	0
+u_obj	1.0	rebecca hurt herself .	0
+u_obj	0.0	rebecca hurt .	0
+u_obj	1.0	nicole injured herself .	1
+u_obj	0.0	nicole injured .	0
+u_obj	1.0	elizabeth scalded herself .	1
+u_obj	0.0	elizabeth scalded .	0
+u_obj	0.0	kelly disrobed herself .	1
+u_obj	1.0	kelly disrobed .	0
+u_obj	0.0	david exercised himself .	0
+u_obj	1.0	david exercised .	0
+u_obj	0.0	james preened himself .	1
+u_obj	1.0	james preened .	1
+u_obj	0.0	michael primped himself .	0
+u_obj	1.0	michael primped .	0
+u_obj	0.0	jason brushed himself .	1
+u_obj	0.0	jason brushed .	1
+u_obj	0.0	rebecca bobbed herself .	0
+u_obj	0.0	rebecca bobbed .	0
+u_obj	0.0	elizabeth crimped herself .	1
+u_obj	0.0	elizabeth crimped .	1
+u_obj	0.0	jessica dyed herself .	1
+u_obj	0.0	jessica dyed .	1
+u_obj	0.0	david permed himself .	0
+u_obj	0.0	david permed .	0
+u_obj	0.0	jessica plucked herself .	0
+u_obj	0.0	jessica plucked .	0
+u_obj	0.0	kelly rouged herself .	1
+u_obj	0.0	kelly rouged .	0
+u_obj	1.0	james divorced christopher .	1
+u_obj	1.0	james and christopher divorced .	1
+u_obj	1.0	christopher nuzzled jason .	1
+u_obj	1.0	christopher and jason nuzzled .	1
+u_obj	1.0	nicole battled michael .	0
+u_obj	1.0	nicole and michael battled .	1
+u_obj	1.0	elizabeth bargained michael .	0
+u_obj	1.0	elizabeth and michael bargained .	0
+u_obj	1.0	rebecca bickered kelly .	0
+u_obj	1.0	rebecca and kelly bickered .	1
+u_obj	0.0	david argued james .	0
+u_obj	1.0	david and james argued .	1
+u_obj	0.0	nicole clashed jessica .	0
+u_obj	1.0	nicole and jessica clashed .	1
+u_obj	0.0	michael coexisted elizabeth .	0
+u_obj	1.0	michael and elizabeth coexisted .	1
+u_obj	0.0	michael competed kelly .	0
+u_obj	1.0	michael and kelly competed .	1
+u_obj	0.0	nicole consorted rebecca .	1
+u_obj	1.0	nicole and rebecca consorted .	1
+u_obj	0.0	kelly disagreed james .	0
+u_obj	1.0	kelly and james disagreed .	1
+u_obj	0.0	david duelled nicole .	0
+u_obj	1.0	david and nicole duelled .	1
+u_obj	0.0	david eloped james .	0
+u_obj	1.0	david and james eloped .	1
+u_obj	0.0	elizabeth haggled christopher .	0
+u_obj	1.0	elizabeth and christopher haggled .	1
+u_obj	0.0	kelly joked david .	0
+u_obj	1.0	kelly and david joked .	1
+u_obj	0.0	jason jousted michael .	0
+u_obj	1.0	jason and michael jousted .	1
+u_obj	0.0	rebecca mated christopher .	0
+u_obj	1.0	rebecca and christopher mated .	1
+u_obj	0.0	christopher necked michael .	0
+u_obj	1.0	christopher and michael necked .	1
+u_obj	0.0	james negotiated rebecca .	0
+u_obj	1.0	james and rebecca negotiated .	1
+u_obj	0.0	kelly quibbled jessica .	0
+u_obj	1.0	kelly and jessica quibbled .	1
+u_obj	0.0	david scuffled rebecca .	1
+u_obj	1.0	david and rebecca scuffled .	1
+u_obj	0.0	james squabbled jessica .	0
+u_obj	1.0	james and jessica squabbled .	1
+u_obj	0.0	michael wrangled jessica .	1
+u_obj	1.0	michael and jessica wrangled .	1
+u_obj	0.0	jessica spoke jason .	0
+u_obj	1.0	jessica and jason spoke .	1
+u_obj	0.0	james argued michael .	0
+u_obj	1.0	james and michael argued .	1
+u_obj	0.0	michael chitchatted kelly .	1
+u_obj	1.0	michael and kelly chitchatted .	1
+u_obj	0.0	david conversed michael .	0
+u_obj	1.0	david and michael conversed .	1
