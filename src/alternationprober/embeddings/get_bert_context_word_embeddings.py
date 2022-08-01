@@ -246,5 +246,4 @@ if __name__ == "__main__":
         default='bert-base-uncased'
     )
     args = parser.parse_args()
-
     main()
