@@ -13,14 +13,18 @@ import json
 import pandas as pd
 from pathlib import Path
 from alternationprober.embeddings.get_bert_sentence_embeddings import get_sent_embeddings
+
+import numpy as np
 from sklearn.dummy import DummyClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, matthews_corrcoef, confusion_matrix
+
 from typing import List
 
 from alternationprober.constants import (
     PATH_TO_FAVA_DIR,
     PATH_TO_RESULTS_DIRECTORY,
+    PATH_TO_SENTENCE_EMBEDDINGS_DIR
 )
 
 
@@ -34,18 +38,26 @@ def run_experiment_for_an_alternation(
     outputdir: ./ling-575-analyzing-nn-group/results/linear-probe-for-sentence-embeddings
     '''
 
-
     train = pd.read_csv(alternation_category / 'train.tsv', sep='\t+', names=['alternation', 'label', 'sentence'])
     dev = pd.read_csv(alternation_category / 'dev.tsv', sep='\t+', names=['alternation', 'label', 'sentence'])
     test = pd.read_csv(alternation_category / 'test.tsv', sep='\t+', names=['alternation', 'label', 'sentence'])
 
-    train_embeds, train_labels = get_sent_embeddings(alternation_category / 'train.tsv', model_name)
-    val_embeds, val_labels = get_sent_embeddings(alternation_category / 'dev.tsv', model_name)
-    test_embeds, test_labels = get_sent_embeddings(alternation_category / 'test.tsv', model_name)
+    if '/' in args.model_name:
+        model_name = args.model_name.split('/')[1]
+    else:
+        model_name = args.model_name
+
+    train_embeds = np.load(PATH_TO_SENTENCE_EMBEDDINGS_DIR / model_name / args.alternation / 'train.npy')
+    dev_embeds = np.load(PATH_TO_SENTENCE_EMBEDDINGS_DIR / model_name / args.alternation / 'dev.npy')
+    test_embeds = np.load(PATH_TO_SENTENCE_EMBEDDINGS_DIR / model_name / args.alternation/ 'test.npy')
+
+    train_labels = train['label']
+    dev_labels = dev['label']
+    test_labels = test['label']
 
     for layer in range(12):
         X, y = train_embeds[layer], train_labels 
-        X_dev, y_dev = val_embeds[layer], val_labels
+        X_dev, y_dev = dev_embeds[layer], dev_labels
         X_test, y_test = test_embeds[layer], test_labels
 
         # add a new column to store the predicted values
@@ -69,15 +81,17 @@ def run_experiment_for_an_alternation(
 
         # save readable results(alternation, label, sentence, pred_label) to
         # ../../results/linear-probe-for-sentence-embeddings/dative/12.tsv
-        file_dir = output_dir / model_name / alternation_category.parts[-1]
-        file_dir.mkdir(parents=True, exist_ok=True)
+        train_dir = output_dir / model_name / alternation_category.parts[-1] / 'train'
+        dev_dir = output_dir / model_name / alternation_category.parts[-1] / 'dev'
+        test_dir = output_dir / model_name / alternation_category.parts[-1] / 'test'
 
-        train.to_csv(output_dir / alternation_category.parts[-1] / 'train' / str(layer+1), sep='\t', index=False,
-                        header=True)
-        dev.to_csv(output_dir / alternation_category.parts[-1] / 'dev' / str(layer+1), sep='\t', index=False,
-                    header=True)
-        test.to_csv(output_dir / alternation_category.parts[-1] / 'test' / str(layer+1), sep='\t', index=False,
-                        header=True)
+        train_dir.mkdir(parents=True, exist_ok=True)
+        dev_dir.mkdir(parents=True, exist_ok=True)
+        test_dir.mkdir(parents=True, exist_ok=True)
+
+        train.to_csv(train_dir / str(layer+1), sep='\t', index=False, header=True)
+        dev.to_csv(dev_dir /  str(layer+1), sep='\t', index=False, header=True)
+        test.to_csv(test_dir / str(layer+1), sep='\t', index=False, header=True)
 
         mcc_train = matthews_corrcoef(y, y_pred)
         mcc_dev = matthews_corrcoef(y_dev, y_dev_pred)
@@ -87,6 +101,7 @@ def run_experiment_for_an_alternation(
         acc_dev = accuracy_score(y_dev, y_dev_pred)
         acc_test = accuracy_score(y_test, y_test_pred)
 
+        print(f'Results for {model_name}, {args.alternation} layer: {layer}')
         print(
             f"""
             {alternation_category.parts[-1]}: 
@@ -96,26 +111,25 @@ def run_experiment_for_an_alternation(
             """)
         print(
             f"""
-            {alternation_category.parts[-1]}:
             acc of training dataset: {acc_train}, 
             acc of dev dataset : {acc_dev}, 
             acc of testing dataset: {acc_test}
             """)
 
-        # to get a direct sense of confusion matrix
-        mtrain = pd.DataFrame(confusion_matrix(y, y_pred, labels=[1, 0]),
-                            index=['true:0', 'true:1'],
-                            columns=['pred:0', 'pred:1'])
-        mdev = pd.DataFrame(confusion_matrix(y_dev, y_dev_pred, labels=[1, 0]),
-                            index=['true:0', 'true:1'],
-                            columns=['pred:0', 'pred:1'])
-        mtest = pd.DataFrame(confusion_matrix(y_test, y_test_pred, labels=[1, 0]),
-                            index=['true:0', 'true:1'],
-                            columns=['pred:0', 'pred:1'])
+        # # to get a direct sense of confusion matrix
+        # mtrain = pd.DataFrame(confusion_matrix(y, y_pred, labels=[1, 0]),
+        #                     index=['true:0', 'true:1'],
+        #                     columns=['pred:0', 'pred:1'])
+        # mdev = pd.DataFrame(confusion_matrix(y_dev, y_dev_pred, labels=[1, 0]),
+        #                     index=['true:0', 'true:1'],
+        #                     columns=['pred:0', 'pred:1'])
+        # mtest = pd.DataFrame(confusion_matrix(y_test, y_test_pred, labels=[1, 0]),
+        #                     index=['true:0', 'true:1'],
+        #                     columns=['pred:0', 'pred:1'])
 
-        print(f'train: confusion matrix for {alternation_category}\n', mtrain)
-        print(f'dev: confusion matrix for {alternation_category}\n', mdev)
-        print(f'test: confusion matrix for {alternation_category}\n', mtest)
+        # print(f'train: confusion matrix for {alternation_category}\n', mtrain)
+        # print(f'dev: confusion matrix for {alternation_category}\n', mdev)
+        # print(f'test: confusion matrix for {alternation_category}\n', mtest)
 
         #save mcc and acc for logistic regression
         result = {
@@ -179,10 +193,14 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    if '/' in args.model_name:
+        model_name = args.model_name.split('/')[1]
+    else:
+        model_name = args.model_name
+
     for alternation in ['combined', 'dative', 'inchoative', 'spray_load', 'there', 'understood']:
         args.alternation = alternation
         result = main(args)
-        with open(args.output_directory/"all_results.json", 'a') as outfile:
+        with open(args.output_directory/ model_name / "all_results.json", 'a') as outfile:
             json.dump(result, outfile)
             outfile.write('\n')
-            outfile.close()

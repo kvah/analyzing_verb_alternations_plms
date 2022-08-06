@@ -77,36 +77,43 @@ def get_model_embeddings(sents:List[str], model:AutoModel, tokenizer:AutoTokeniz
         #secondly, according to the designated layers, select these embeddings for these layers [3 * 8 * 768]
         return torch.stack(full_embeddings)
 
-def get_sent_embeddings(path, model_name):
+def get_sent_embeddings(path, model, tokenizer):
     fava_df = pd.read_csv(path, sep='\t+', names=['alternation', 'labels', 'sentence'])
     # load all sentences
     sentences = fava_df['sentence'].to_list()
-    model = AutoModel.from_pretrained(model_name, output_hidden_states=True)
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
     sents_embeddings = get_model_embeddings(sentences, model, tokenizer)
     # return numpy for future classification
     return sents_embeddings.detach().numpy()
 
 def main():
+    if '/' in args.model_name:
+        model_name = args.model_name.split('/')[1]
+    else:
+        model_name = args.model_name
+    model = AutoModel.from_pretrained(model_name, output_hidden_states=True)
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+
     for alternation in alternations:
-        train_embeddings = get_sent_embeddings(PATH_TO_FAVA_DIR / alternation / 'train.tsv', args.model_name)
-        val_embeddings = get_sent_embeddings(PATH_TO_FAVA_DIR / alternation / 'val.tsv', args.model_name)
-        test_embeddings = get_sent_embeddings(PATH_TO_FAVA_DIR / alternation / 'test.tsv', args.model_name)
+        train_embeddings = get_sent_embeddings(PATH_TO_FAVA_DIR / alternation / 'train.tsv', model, tokenizer)
+        dev_embeddings = get_sent_embeddings(PATH_TO_FAVA_DIR / alternation / 'dev.tsv', model, tokenizer)
+        test_embeddings = get_sent_embeddings(PATH_TO_FAVA_DIR / alternation / 'test.tsv', model, tokenizer)
 
-        if '/' in model_name:
-            model_name = model_name.split('/')[1]
 
-        train_path = PATH_TO_SENTENCE_EMBEDDINGS_DIR / "train" / f'{model_name}.npy'
+        
+        model_embed_path = PATH_TO_SENTENCE_EMBEDDINGS_DIR / model_name / alternation
+        model_embed_path.mkdir(parents=True, exist_ok=True)
+
+        train_path = model_embed_path / 'train.npy' 
         np.save(train_path, train_embeddings)
-        print(f'Sentence (train) embeddings saved to: {train_path} for {model_name}')
+        print(f'Sentence (train) embeddings saved to: {train_path} for {model_name} for {alternation}')
 
-        val_path = PATH_TO_SENTENCE_EMBEDDINGS_DIR / "val" / f'{model_name}.npy'
-        np.save(val_path, val_embeddings)
-        print(f'Sentence (val) embeddings saved to: {val_path} for {model_name}')
+        dev_path = model_embed_path / 'dev.npy'
+        np.save(dev_path, dev_embeddings)
+        print(f'Sentence (dev) embeddings saved to: {dev_path} for {model_name} for {alternation}')
 
-        test_path = PATH_TO_SENTENCE_EMBEDDINGS_DIR / "test" / f'{model_name}.npy'
+        test_path = model_embed_path / 'test.npy'
         np.save(test_path, test_embeddings)
-        print(f'Sentence (test) embeddings saved to: {test_path} for {model_name}')
+        print(f'Sentence (test) embeddings saved to: {test_path} for {model_name} for {alternation}')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Extract embeddings from specified pretrained language model")
