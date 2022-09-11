@@ -1,16 +1,4 @@
-# ling-575-analyzing-nn-group
-
-Collaborators: David Yi, Jiayu Han, Jimmy Bruno, Peter Zukerman
-
-This Repository contains the `alternation_prober` package and related resources.
-`alternation_prober` is used in our experiments for Ling 575 [Analyzing Neural Language Models](https://www.shane.st/teaching/575/spr22/index.html)
-in Spring of 2022.
-
-## Description
-
-[Probing for Understanding of English Verb Classes and Alternations in Large Language Models](https://github.com/kvah/ling-575-analyzing-nn-group/blob/main/bert_verb_alternations.pdf)
-
-Abstract: We investigate the extent to which verb "alternation classes", as described by Levin (1993), are encoded in BERT embeddings using selectively constructed diagnostic classifiers for word and sentence-level prediction tasks. We follow and expand upon the experiments of Kann et al. (2019), which similarly probes whether global embeddings encode frame-selectional properties of verbs. At both the word and sentence level, we find that contextual embeddings produced by BERT not only outperform non-contextual embeddings, but achieve astonishingly high accuracies across various alternation classes. Additionally, we find evidence that different BERT embedding layers achieve varying performance on the task, with the middle and upper layers of BERT performing best overall. Finally, we offer an expanded alternation-class dataset, which augments the original data of Kann et al. (2019) with additional sentence examples.
+# analyzing_verb_alternation_plms
 
 ## Installation
 
